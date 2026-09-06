@@ -35,13 +35,11 @@ python watch.py --seed      # 把当前内容标记为已见（换源后用，�
   2. 关注「智谱AI」「ZCode」微信公众号，官方活动图文第一落点；想让它进 RSS 管道可自部署 [wewe-rss](https://github.com/cooderl/wewe-rss)（Docker，微信读书接口转 RSS）。
 - **定时调度**（双轨）：
   - **本机**：ZCode 自动化「每15分钟AI福利雷达（8点-23点45）」——电脑开着时生效。
-  - **云端（推荐，电脑关机也推送）**：GitHub Actions 每 30 分钟跑一次（北京时间 8:00–23:30），ntfy 直接推手机，state.json 自动回写仓库保证不重不漏。仓库含 `.github/workflows/welfare-radar.yml`，需要 `NTFY_TOPIC` secret（`gh secret set NTFY_TOPIC`）。
-    ```bash
-    gh repo create ai-welfare-station --private --source=. --push   # 已执行
-    gh secret set NTFY_TOPIC    # 值：aiwelfare-k7f2m9x4tq
-    gh workflow run welfare-radar.yml && gh run watch   # 手动触发验证
-    ```
-    注意：GitHub 定时任务有 0~15 分钟调度抖动；私有仓库每月免费额度 2000 分钟，本工作流约 1000 分钟/月，够用。想手机装 PWA + 在线看雷达播报，把仓库设为 Public 并开启 GitHub Pages 即可（数据全是公开活动链接，ntfy 主题在 secret 里不会泄露）。
+  - **云端（主力，电脑关机也推送）**：GitHub Actions 每 30 分钟（北京时间 8:00–23:30）跑 `welfare-radar.yml`，ntfy 直推手机。已验证跑通。细节：
+    - `NTFY_TOPIC` 存在仓库 secret 里；state.json 随运行回写仓库做去重持久化，**只在真有新条目时才产生提交**（易变时间戳已移出 state.json）。
+    - TG 源配了双地址自动切换：云端（美国机房）走 t.me 直连，本机（国内）被墙自动切 rssforever 镜像。
+    - linux.do 的 Cloudflare 对云机房 IP 可能返回空内容（本机访问正常）——ZCode 活动在云端由智谱官方活动页兜底，本机由 linux.do 首发。
+    - 本地改代码后推送前先 `git pull --rebase`，极少数撞上云端新条目提交时，`git checkout --theirs watcher/state.json feed.json` 再 continue 即可。
 
 ## 更新榜单数据（只需改一个文件）
 
