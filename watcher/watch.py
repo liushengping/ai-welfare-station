@@ -295,7 +295,7 @@ def main():
             log(f"[错误] {name}: {type(e).__name__} {str(e)[:150]}")
             continue
         ever_ok = sources_ok.get(name)
-        sources_ok[name] = time.strftime("%F %T")
+        sources_ok[name] = "1"   # 只存布尔语义（避免时间戳导致每轮 git diff 必变）
 
         mode = src.get("filter", "keywords")
         hits = []
@@ -320,9 +320,10 @@ def main():
 
     now = time.strftime("%F %T")
     feed = ([{"t": now, "title": it["title"], "link": it["link"]} for it in matched] + feed)[:60]
+    # last_run 等易变时间戳只进 feed.json，不进 state.json（state 进 git，避免每轮提交竞速）
     STATE_FILE.write_text(json.dumps(
         {"seen": dict(list(seen.items())[-5000:]), "sources_ok": sources_ok,
-         "feed": feed, "last_run": now}, ensure_ascii=False, indent=1),
+         "feed": feed}, ensure_ascii=False, indent=1),
         encoding="utf-8")
     try:
         FEED_FILE.write_text(json.dumps({"updated": now, "items": feed},
