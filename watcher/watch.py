@@ -214,8 +214,15 @@ def push_bark(cfg, title, body):
 
 
 def push_serverchan(cfg, title, body):
-    http_post_form(f"https://sctapi.ftqq.com/{cfg['key']}.send",
+    key = os.environ.get("SERVERCHAN_KEY") or cfg["key"]
+    http_post_form(f"https://sctapi.ftqq.com/{key}.send",
                    {"title": title, "desp": body})
+
+
+def push_pushplus(cfg, title, body):
+    token = os.environ.get("PUSHPLUS_TOKEN") or cfg["token"]
+    http_post_json("https://www.pushplus.plus/send",
+                   {"token": token, "title": title, "content": body, "template": "txt"})
 
 
 def push_wecom(cfg, title, body):
@@ -230,6 +237,15 @@ def push_dingtalk(cfg, title, body):
 
 def deliver_all(title, body):
     channels = load_json(CONFIG_FILE, {}).get("channels", {})
+    # 各通道就绪条件：本地 config 或环境变量（CI 用 secret 注入）任一有值即可
+    ready = {
+        "ntfy": bool(os.environ.get("NTFY_TOPIC") or channels.get("ntfy", {}).get("topic")),
+        "bark": bool(channels.get("bark", {}).get("key")),
+        "serverchan": bool(os.environ.get("SERVERCHAN_KEY") or channels.get("serverchan", {}).get("key")),
+        "pushplus": bool(os.environ.get("PUSHPLUS_TOKEN") or channels.get("pushplus", {}).get("token")),
+        "wecom_bot": bool(channels.get("wecom_bot", {}).get("url")),
+        "dingtalk_bot": bool(channels.get("dingtalk_bot", {}).get("url")),
+    }
     results = []
     if channels.get("toast", {}).get("enabled"):
         try:
@@ -238,11 +254,11 @@ def deliver_all(title, body):
         except Exception as e:
             results.append(f"toast=FAIL({type(e).__name__})")
     for ch, fn in (("ntfy", push_ntfy), ("bark", push_bark), ("serverchan", push_serverchan),
-                   ("wecom_bot", push_wecom), ("dingtalk_bot", push_dingtalk)):
-        cfg = channels.get(ch, {})
-        if cfg.get("enabled") and (cfg.get("key") or cfg.get("url") or cfg.get("topic")):
+                   ("pushplus", push_pushplus), ("wecom_bot", push_wecom),
+                   ("dingtalk_bot", push_dingtalk)):
+        if channels.get(ch, {}).get("enabled") and ready.get(ch):
             try:
-                fn(cfg, title, body)
+                fn(channels.get(ch, {}), title, body)
                 results.append(f"{ch}=ok")
             except Exception as e:
                 results.append(f"{ch}=FAIL({type(e).__name__})")
