@@ -327,7 +327,8 @@ def main():
          "feed": feed}, ensure_ascii=False, indent=1, sort_keys=True),
         encoding="utf-8")
     try:
-        FEED_FILE.write_text(json.dumps({"updated": now, "items": feed},
+        # 不带时间戳字段：feed.json 只有在条目变化时才会产生 git diff
+        FEED_FILE.write_text(json.dumps({"items": feed},
                                         ensure_ascii=False, indent=1), encoding="utf-8")
     except OSError:
         pass
