@@ -173,6 +173,13 @@ def parse_html(text):
     return items
 
 
+def norm_link(u):
+    """链接规范化：去 fragment、去尾斜杠，用于全局跨源去重。"""
+    if not u:
+        return ""
+    return u.split("#")[0].rstrip("/")
+
+
 def match_keywords(title, keywords, excludes):
     low = title.lower()
     if any(x.lower() in low for x in excludes):
@@ -282,7 +289,19 @@ def main():
     first_run = state is None
     seen = dict(state["seen"]) if state else {}
     sources_ok = dict(state.get("sources_ok", {}))
+    links_seen = dict(state.get("links", {}))   # 全局链接级去重（跨源）
     feed = list(state.get("feed", []))
+    # 历史 feed 去重（修复存量重复，保留最新一条）
+    _seen_links = set()
+    _clean = []
+    for it in feed:
+        nl = norm_link(it.get("link", ""))
+        if nl and nl in _seen_links:
+            continue
+        if nl:
+            _seen_links.add(nl)
+        _clean.append(it)
+    feed = _clean
 
     matched, seeded_quiet = [], []
     for src in sources:
@@ -325,22 +344,33 @@ def main():
             # 首次接入/断线恢复：只播种不推送，防通知轰炸
             for it in hits:
                 seen[it["id"]] = it["title"]
+                nl = norm_link(it.get("link", ""))
+                if nl:
+                    links_seen[nl] = "1"
             if hits and not first_run:
                 seeded_quiet.append(f"{name}({len(hits)})")
         else:
             for it in hits:
+                nl = norm_link(it.get("link", ""))
+                if nl and nl in links_seen:
+                    continue    # 其它源已收录同一链接，跳过（跨源去重）
                 if it["id"] not in seen:
                     seen[it["id"]] = it["title"]
+                    if nl:
+                        links_seen[nl] = "1"
                     matched.append(it)
+                elif nl:
+                    links_seen[nl] = "1"
         log(f"[源] {name}: 抓到 {len(items)} 条, 命中 {len(hits)} 条 ({time.time()-t0:.1f}s)")
 
     now = time.strftime("%F %T")
     feed = ([{"t": now, "title": it["title"], "link": it["link"]} for it in matched] + feed)[:60]
     # last_run 等易变时间戳只进 feed.json，不进 state.json（state 进 git，避免每轮提交竞速）
     # sort_keys：内容只取决于数据集合本身，云端/本地产出字节级一致，才能避免无谓 diff
+    links_seen = dict(list(links_seen.items())[-5000:])
     STATE_FILE.write_text(json.dumps(
         {"seen": dict(list(seen.items())[-5000:]), "sources_ok": sources_ok,
-         "feed": feed}, ensure_ascii=False, indent=1, sort_keys=True),
+         "links": links_seen, "feed": feed}, ensure_ascii=False, indent=1, sort_keys=True),
         encoding="utf-8")
     try:
         # 不带时间戳字段：feed.json 只有在条目变化时才会产生 git diff
