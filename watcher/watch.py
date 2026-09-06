@@ -321,9 +321,10 @@ def main():
     now = time.strftime("%F %T")
     feed = ([{"t": now, "title": it["title"], "link": it["link"]} for it in matched] + feed)[:60]
     # last_run 等易变时间戳只进 feed.json，不进 state.json（state 进 git，避免每轮提交竞速）
+    # sort_keys：内容只取决于数据集合本身，云端/本地产出字节级一致，才能避免无谓 diff
     STATE_FILE.write_text(json.dumps(
         {"seen": dict(list(seen.items())[-5000:]), "sources_ok": sources_ok,
-         "feed": feed}, ensure_ascii=False, indent=1),
+         "feed": feed}, ensure_ascii=False, indent=1, sort_keys=True),
         encoding="utf-8")
     try:
         FEED_FILE.write_text(json.dumps({"updated": now, "items": feed},
