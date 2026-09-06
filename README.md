@@ -33,11 +33,15 @@ python watch.py --seed      # 把当前内容标记为已见（换源后用，�
 - **想要分钟级（真·实时）的做法**：轮询最快也就十几分钟一档，真正秒级靠这两招——
   1. 手机直接加入 TG 频道 [@pgkj666](https://t.me/pgkj666)（白嫖分享社）和 [@XianBaoTai](https://t.me/XianBaoTai)（线报台），活动线报是秒级推的，人肉把关速度最快；
   2. 关注「智谱AI」「ZCode」微信公众号，官方活动图文第一落点；想让它进 RSS 管道可自部署 [wewe-rss](https://github.com/cooderl/wewe-rss)（Docker，微信读书接口转 RSS）。
-- **定时调度**：已创建 ZCode 自动化「每15分钟AI福利雷达（8点-23点45）」。要在 ZCode 关闭时也运行，注册 Windows 计划任务：
-  ```
-  schtasks /Create /TN "AI福利雷达" /TR "E:\AI\tools\ai-welfare-station\watcher\run_check.bat" /SC MINUTE /MO 15 /ST 08:00 /ET 23:59
-  schtasks /Create /TN "AI福利站-网页服务" /TR "python -m http.server 8765 --directory E:\AI\tools\ai-welfare-station" /SC ONSTART
-  ```
+- **定时调度**（双轨）：
+  - **本机**：ZCode 自动化「每15分钟AI福利雷达（8点-23点45）」——电脑开着时生效。
+  - **云端（推荐，电脑关机也推送）**：GitHub Actions 每 30 分钟跑一次（北京时间 8:00–23:30），ntfy 直接推手机，state.json 自动回写仓库保证不重不漏。仓库含 `.github/workflows/welfare-radar.yml`，需要 `NTFY_TOPIC` secret（`gh secret set NTFY_TOPIC`）。
+    ```bash
+    gh repo create ai-welfare-station --private --source=. --push   # 已执行
+    gh secret set NTFY_TOPIC    # 值：aiwelfare-k7f2m9x4tq
+    gh workflow run welfare-radar.yml && gh run watch   # 手动触发验证
+    ```
+    注意：GitHub 定时任务有 0~15 分钟调度抖动；私有仓库每月免费额度 2000 分钟，本工作流约 1000 分钟/月，够用。想手机装 PWA + 在线看雷达播报，把仓库设为 Public 并开启 GitHub Pages 即可（数据全是公开活动链接，ntfy 主题在 secret 里不会泄露）。
 
 ## 更新榜单数据（只需改一个文件）
 

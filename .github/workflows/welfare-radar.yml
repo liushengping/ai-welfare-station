@@ -1,0 +1,37 @@
+name: welfare-radar
+
+# 每半小时抓一轮（UTC 0:00-15:30 = 北京时间 8:00-23:30），电脑关机也照常推送
+# 注意：GitHub 定时任务有 0~15 分钟的调度抖动，属正常现象
+on:
+  schedule:
+    - cron: "*/30 0-15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 运行福利雷达
+        working-directory: watcher
+        run: python -u watch.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      # state.json 提交回去，保证去重基线跨运行持久（不会重复推送旧条目）
+      - name: 回写状态
+        run: |
+          git config user.name "welfare-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "radar: update state [skip ci]"
+          git push
