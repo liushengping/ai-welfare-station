@@ -180,6 +180,16 @@ def match_keywords(title, keywords, excludes):
     return any(k.lower() in low for k in keywords)
 
 
+def parse_any(text):
+    """按内容自动选择解析器（t.me 是 HTML，RSSHub 镜像是 XML）。"""
+    head = text[:600].lstrip().lower()
+    if head.startswith("<?xml") or "<feed" in head or "<rss" in head:
+        items = parse_rss(text)
+        if items:
+            return items
+    return parse_html(text)
+
+
 # ---------------- 推送层 ----------------
 def push_toast(title, body):
     ps1 = BASE / "notify.ps1"
@@ -260,22 +270,26 @@ def main():
 
     matched, seeded_quiet = [], []
     for src in sources:
-        name, url = src["name"], src["url"]
+        name = src["name"]
         t0 = time.time()
         items = []
+        urls = src.get("urls") or [src["url"]]   # 多地址自动切换（如 t.me 直连/镜像）
         try:
             last_err = None
             for attempt in (1, 2):          # 间歇性网络抖动重试一次
-                try:
-                    text = http_get(url, timeout=25)
-                    items = parse_rss(text) if src["type"] == "rss" else parse_html(text)
-                    last_err = None
+                for u in urls:
+                    try:
+                        text = http_get(u, timeout=25)
+                        items = parse_any(text)
+                        last_err = None
+                        break
+                    except Exception as e:
+                        last_err = e
+                if last_err is None:
                     break
-                except Exception as e:
-                    last_err = e
-                    if attempt == 1:
-                        time.sleep(3)
-            if last_err is not None:
+                if attempt == 1:
+                    time.sleep(3)
+            if last_err is not None and not items:
                 raise last_err
         except Exception as e:
             log(f"[错误] {name}: {type(e).__name__} {str(e)[:150]}")

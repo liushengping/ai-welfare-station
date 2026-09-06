@@ -22,17 +22,19 @@
   },
   {
     "name": "TG-白嫖分享社",
-    "type": "rss",
+    "type": "html",
     "url": "https://rsshub.rssforever.com/telegram/channel/pgkj666",
+    "urls": ["https://t.me/s/pgkj666", "https://rsshub.rssforever.com/telegram/channel/pgkj666"],
     "filter": "keywords",
-    "note": "TG白嫖频道（AI工具/额度向），经rssforever镜像中转，绕开t.me直连封锁"
+    "note": "TG白嫖频道（AI工具/额度向）：云端走 t.me 直连，本机被墙自动切 rssforever 镜像"
   },
   {
     "name": "TG-线报台",
-    "type": "rss",
+    "type": "html",
     "url": "https://rsshub.rssforever.com/telegram/channel/XianBaoTai",
+    "urls": ["https://t.me/s/XianBaoTai", "https://rsshub.rssforever.com/telegram/channel/XianBaoTai"],
     "filter": "keywords",
-    "note": "全网羊毛线报秒级推送的TG频道（电商为主，AI活动也会发），靠关键词过滤出AI相关"
+    "note": "全网羊毛线报秒级推送的TG频道：云端走 t.me 直连，本机自动切镜像；靠关键词过滤出AI相关"
   },
   {
     "name": "小众软件论坛",
