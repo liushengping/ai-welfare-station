@@ -1,0 +1,12 @@
+{
+  "name": "AI 厂商福利情报站",
+  "short_name": "AI福利站",
+  "description": "各家 AI 厂商送 token / 送积分活动聚合：鸡蛋榜、套餐榜、模型榜 + 雷达实时播报",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "智谱BigModel-活动文档",
+    "type": "html",
+    "url": "https://docs.bigmodel.cn/cn/update/promotion",
+    "filter": "all",
+    "note": "智谱官方活动页，任何新增条目都提醒（filter=all 不做关键词过滤）。ZCode送token类活动的官方源头"
+  },
+  {
+    "name": "linux.do-福利羊毛板块",
+    "type": "rss",
+    "url": "https://linux.do/c/welfare.rss",
+    "filter": "keywords",
+    "note": "L站福利羊毛板块专属RSS，ZCode送token、各厂羊毛的第一首发地；Cloudflare间歇性拦截，失败自动重试"
+  },
+  {
+    "name": "linux.do-最新",
+    "type": "rss",
+    "url": "https://linux.do/latest.rss",
+    "filter": "keywords",
+    "note": "L站全站最新帖兜底，与福利板块同域名，一个通另一个大概率也通"
+  },
+  {
+    "name": "TG-白嫖分享社",
+    "type": "rss",
+    "url": "https://rsshub.rssforever.com/telegram/channel/pgkj666",
+    "filter": "keywords",
+    "note": "TG白嫖频道（AI工具/额度向），经rssforever镜像中转，绕开t.me直连封锁"
+  },
+  {
+    "name": "TG-线报台",
+    "type": "rss",
+    "url": "https://rsshub.rssforever.com/telegram/channel/XianBaoTai",
+    "filter": "keywords",
+    "note": "全网羊毛线报秒级推送的TG频道（电商为主，AI活动也会发），靠关键词过滤出AI相关"
+  },
+  {
+    "name": "小众软件论坛",
+    "type": "rss",
+    "url": "https://meta.appinn.net/latest.rss",
+    "filter": "keywords",
+    "note": "国内可达、质量高，ZCode 3亿token攻略曾在此首发"
+  },
+  {
+    "name": "ZCode官网",
+    "type": "html",
+    "url": "https://zcode.z.ai/cn",
+    "filter": "keywords"
+  },
+  {
+    "name": "硅基流动-更新公告",
+    "type": "html",
+    "url": "https://docs.siliconflow.cn/cn/release-notes/overview",
+    "filter": "all"
+  },
+  {
+    "name": "阿里百炼-免费额度文档",
+    "type": "html",
+    "url": "https://help.aliyun.com/zh/model-studio/new-free-quota",
+    "filter": "all"
+  },
+  {
+    "name": "百度千帆-免费额度文档",
+    "type": "html",
+    "url": "https://cloud.baidu.com/doc/qianfan/s/Imi2rpirg",
+    "filter": "keywords"
+  },
+  {
+    "name": "腾讯TokenHub-产品页",
+    "type": "html",
+    "url": "https://cloud.tencent.com/document/product/1823",
+    "filter": "keywords",
+    "note": "新人免费体验包等公告在产品页锚点中出现"
+  },
+  {
+    "name": "OpenAI-news",
+    "type": "rss",
+    "url": "https://openai.com/news/rss.xml",
+    "filter": "keywords"
+  },
+  {
+    "name": "GitHub-Changelog",
+    "type": "rss",
+    "url": "https://github.blog/changelog/feed/",
+    "filter": "keywords"
+  },
+  {
+    "name": "Google-AI-博客",
+    "type": "rss",
+    "url": "https://blog.google/technology/ai/rss/",
+    "filter": "keywords"
+  },
+  {
+    "name": "火山方舟-文章列表",
+    "type": "html",
+    "url": "https://www.volcengine.com/article",
+    "filter": "keywords",
+    "note": "火山页面对爬虫可能只返回壳，失败会被跳过不影响其它源"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "keywords_any": [
+    "免费", "赠送", "领取", "白嫖", "福利", "羊毛", "体验金", "额度",
+    "送", "活动", "限时", "token", "tokens", "credit", "credits", "free", "promo"
+  ],
+  "exclude_any": ["招聘", "广告", "租房", "二手", "相亲", "木马", "病毒"],
+  "channels": {
+    "toast": { "enabled": true },
+    "ntfy": { "enabled": true, "server": "https://ntfy.sh", "topic": "aiwelfare-k7f2m9x4tq" },
+    "bark": { "enabled": false, "server": "https://api.day.app", "key": "" },
+    "serverchan": { "enabled": false, "key": "" },
+    "wecom_bot": { "enabled": false, "url": "" },
+    "dingtalk_bot": { "enabled": false, "url": "" }
+  }
+}

@@ -1,0 +1,4 @@
+watcher.log
+watcher/probe.tmp
+__pycache__/
+*.pyc
