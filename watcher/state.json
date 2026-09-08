@@ -1,6 +1,11 @@
 {
  "feed": [
   {
+   "link": "https://meta.appinn.net/t/topic/91454",
+   "t": "2026-09-08 12:31:47",
+   "title": "阅影：让 Claude Code 这类 AI 编程助手「看」视频，本地离线，开源免费"
+  },
+  {
    "link": "https://developer.amd.com.cn/radeon/tokenfactory",
    "t": "2026-09-07 13:37:32",
    "title": "https://developer.amd.com.cn/radeon/tokenfactory"
@@ -53,6 +58,7 @@
   "https://meta.appinn.net/t/topic/91304": "1",
   "https://meta.appinn.net/t/topic/91305": "1",
   "https://meta.appinn.net/t/topic/91320": "1",
+  "https://meta.appinn.net/t/topic/91454": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -129,6 +135,7 @@
   "小众软件论坛:2b3fa9e45286": "Abiurl.me 短网址与 UTM 生成器免费开发使用！",
   "小众软件论坛:50a494642c9c": "Epic 免费游戏 2026-9-4",
   "小众软件论坛:5e5e7be2589b": "Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源",
+  "小众软件论坛:7441e3368d29": "阅影：让 Claude Code 这类 AI 编程助手「看」视频，本地离线，开源免费",
   "小众软件论坛:c3a40f2ae724": "Radicle - 免费去中心化代码托管，GitHub、GitLab 的替代品",
   "小众软件论坛:dcecfce768b7": "声迹 LocalScribe：免费的 Mac 本地音视频转文字与字幕工具",
   "小众软件论坛:e7624122914e": "能超越macOS原生dock的一款效率软件（内测免费）",
