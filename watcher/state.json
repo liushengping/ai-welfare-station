@@ -1,6 +1,11 @@
 {
  "feed": [
   {
+   "link": "https://meta.appinn.net/t/topic/91523",
+   "t": "2026-09-09 16:58:19",
+   "title": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件"
+  },
+  {
    "link": "https://meta.appinn.net/t/topic/91513",
    "t": "2026-09-09 12:38:27",
    "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折"
@@ -89,6 +94,7 @@
   "https://meta.appinn.net/t/topic/91483": "1",
   "https://meta.appinn.net/t/topic/91494": "1",
   "https://meta.appinn.net/t/topic/91513": "1",
+  "https://meta.appinn.net/t/topic/91523": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -166,6 +172,7 @@
   "小众软件论坛:50a494642c9c": "Epic 免费游戏 2026-9-4",
   "小众软件论坛:5ad7fb9c44e0": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
   "小众软件论坛:5e5e7be2589b": "Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源",
+  "小众软件论坛:66a82247d594": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件",
   "小众软件论坛:6fab5cfd8ffb": "【开发者自荐】报价生成器：免费在线报价单工具，3分钟出PDF",
   "小众软件论坛:7441e3368d29": "阅影：让 Claude Code 这类 AI 编程助手「看」视频，本地离线，开源免费",
   "小众软件论坛:7972209cdbd0": "【开发者自荐】一款免费的A股策略交易回测软件，无需编写代码，自定义可视化构建策略",
