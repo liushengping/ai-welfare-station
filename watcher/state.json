@@ -1,6 +1,21 @@
 {
  "feed": [
   {
+   "link": "https://meta.appinn.net/t/topic/91494",
+   "t": "2026-09-09 07:46:04",
+   "title": "汉字吧www.hanzi8.com：一个集10万+汉字字典、词典、笔顺、古诗文库于一体的综合性免费汉语学习平台"
+  },
+  {
+   "link": "https://meta.appinn.net/t/topic/91483",
+   "t": "2026-09-09 07:46:04",
+   "title": "【开发者自荐】一款免费的A股策略交易回测软件，无需编写代码，自定义可视化构建策略"
+  },
+  {
+   "link": "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota",
+   "t": "2026-09-09 07:46:04",
+   "title": "免费额度用完即停"
+  },
+  {
    "link": "https://meta.appinn.net/t/topic/91476",
    "t": "2026-09-09 02:37:45",
    "title": "【开发者自荐】报价生成器：免费在线报价单工具，3分钟出PDF"
@@ -39,6 +54,7 @@
   "https://bailian.console.aliyun.com": "1",
   "https://bailian.console.aliyun.com/?apiKey=1&amp;tab=globalset": "1",
   "https://bailian.console.aliyun.com/?tab=costing-balance": "1",
+  "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota": "1",
   "https://bailian.console.aliyun.com/cn-beijing?tab=model": "1",
   "https://beian.miit.gov.cn": "1",
   "https://bigmodel.cn": "1",
@@ -65,6 +81,8 @@
   "https://meta.appinn.net/t/topic/91320": "1",
   "https://meta.appinn.net/t/topic/91454": "1",
   "https://meta.appinn.net/t/topic/91476": "1",
+  "https://meta.appinn.net/t/topic/91483": "1",
+  "https://meta.appinn.net/t/topic/91494": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -143,9 +161,11 @@
   "小众软件论坛:5e5e7be2589b": "Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源",
   "小众软件论坛:6fab5cfd8ffb": "【开发者自荐】报价生成器：免费在线报价单工具，3分钟出PDF",
   "小众软件论坛:7441e3368d29": "阅影：让 Claude Code 这类 AI 编程助手「看」视频，本地离线，开源免费",
+  "小众软件论坛:7972209cdbd0": "【开发者自荐】一款免费的A股策略交易回测软件，无需编写代码，自定义可视化构建策略",
   "小众软件论坛:c3a40f2ae724": "Radicle - 免费去中心化代码托管，GitHub、GitLab 的替代品",
   "小众软件论坛:dcecfce768b7": "声迹 LocalScribe：免费的 Mac 本地音视频转文字与字幕工具",
   "小众软件论坛:e7624122914e": "能超越macOS原生dock的一款效率软件（内测免费）",
+  "小众软件论坛:fb85de956ce5": "汉字吧www.hanzi8.com：一个集10万+汉字字典、词典、笔顺、古诗文库于一体的综合性免费汉语学习平台",
   "智谱BigModel-活动文档:0316c040575a": "智谱AI开放文档 home page",
   "智谱BigModel-活动文档:0bb44598a7e4": "API Key",
   "智谱BigModel-活动文档:57ae01972077": "「拼好模」活动",
@@ -188,7 +208,8 @@
   "阿里百炼-免费额度文档:c7cadd943f00": "qwen3.8-max 模型详情页",
   "阿里百炼-免费额度文档:d1abbfd70d6d": "API-Key（北京）",
   "阿里百炼-免费额度文档:d5f48b409450": "Cookies 政策",
-  "阿里百炼-免费额度文档:d6181444e837": "全球基础设施"
+  "阿里百炼-免费额度文档:d6181444e837": "全球基础设施",
+  "阿里百炼-免费额度文档:f82b960a3db7": "免费额度用完即停"
  },
  "sources_ok": {
   "GitHub-Changelog": "1",
