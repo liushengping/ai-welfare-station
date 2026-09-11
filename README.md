@@ -33,6 +33,11 @@ python watch.py --seed      # 把当前内容标记为已见（换源后用，�
   - `pushplus`（**微信推送·PushPlus**）✅ 已启用：到 [pushplus.plus](https://www.pushplus.plus) 微信登录 → 复制 **token** → 关注其公众号。免费约 200 条/天。
   - 微信密钥配置方式：`setx SERVERCHAN_KEY "SCTxxx"`（本机）+ `gh secret set SERVERCHAN_KEY`（云端）；PushPlus 同理用 `PUSHPLUS_TOKEN`。
   - `bark`（iOS）/ `wecom_bot`（企业微信群机器人）/ `dingtalk_bot`（钉钉机器人）：填 config 并把 `enabled` 改为 `true`。
+- **🤖 AI 过滤 + 分级推送**（2026-09 新增）：
+  - 命中关键词的条目先经 **GLM-4.7-Flash**（智谱免费模型）逐条判定：是否 AI 厂商福利、厂商、额度、截止日、价值分、是否紧急（限量/临期）。非福利噪音被静默拦截，不再推送。
+  - **紧急**（限量/先到先得/7天内截止）→ 立即推送（ntfy 点通知直达领取页）；**常规** → 进日报池，每天北京时间 9 点那轮合并成一条日报。
+  - 密钥：`setx ZHIPU_API_KEY "你的key"`（本机）+ `gh secret set ZHIPU_API_KEY -R liushengping/ai-welfare-station`（云端）。**未配置时自动跳过 AI**（fail-open），行为退回纯关键词模式，不会漏报只会多报。
+  - 雷达抽取的截止日自动进入在线版「⏳ 时间线」视图，与鸡蛋榜人工核查的截止日合并排序。
 - **防轰炸**：某源断线恢复后的积压条目只静默入库不推送；新接入的源同样先播种。
 - **想要分钟级（真·实时）的做法**：轮询最快也就十几分钟一档，真正秒级靠这两招——
   1. 手机直接加入 TG 频道 [@pgkj666](https://t.me/pgkj666)（白嫖分享社）和 [@XianBaoTai](https://t.me/XianBaoTai)（线报台），活动线报是秒级推的，人肉把关速度最快；
