@@ -1,19 +1,24 @@
 name: welfare-radar
 
-# 每半小时抓一轮（UTC 0:00-15:30 = 北京时间 8:00-23:30），电脑关机也照常推送
-# 注意：GitHub 定时任务有 0~15 分钟的调度抖动，属正常现象
+# GitHub 会把高频 cron 降频到 ~4次/天，因此采用"循环驻留"模式：
+# 每次被调度后，在 Runner 内部每 15 分钟抓一轮、连续驻留约 5.9 小时（job 上限 6h）。
+# 4 次/天 × ~23 轮 ≈ 90+ 次检查/天 ≈ 真·15分钟节奏。公共仓库 Actions 免费不计费。
 on:
   schedule:
-    - cron: "*/30 0-15 * * *"
+    - cron: "*/30 0-15 * * *"   # 实际触发会被 GitHub 降频，由驻留循环补齐
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
+concurrency:
+  group: welfare-radar
+  cancel-in-progress: false
+
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -21,20 +26,24 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 运行福利雷达
+      - name: 驻留轮询（每15分钟一轮 × 23轮）
         working-directory: watcher
-        run: python -u watch.py
+        timeout-minutes: 350
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-
-      # state.json 提交回去，保证去重基线跨运行持久（不会重复推送旧条目）
-      - name: 回写状态
         run: |
           git config user.name "welfare-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "radar: update state [skip ci]"
-          git push
+          for i in $(seq 1 23); do
+            echo "===== 第 $i/23 轮 $(date -u +%FT%TZ) ====="
+            python -u watch.py || true
+            # 每轮回写 state/feed（去重基线跨轮持久；冲突时以远端为准放弃本地，最坏损失一轮去重）
+            git add -A || true
+            git diff --cached --quiet || git commit -m "radar: update state [skip ci]" || true
+            git pull --rebase -q origin main || { git rebase --abort 2>/dev/null || true; git fetch origin && git reset --hard origin/main; }
+            git push -q origin main || echo "[warn] push failed, will retry next round"
+            [ "$i" -lt 23 ] && sleep 840
+          done
