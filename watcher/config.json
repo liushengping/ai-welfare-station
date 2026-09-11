@@ -12,5 +12,18 @@
     "pushplus": { "enabled": true, "token": "" },
     "wecom_bot": { "enabled": false, "url": "" },
     "dingtalk_bot": { "enabled": false, "url": "" }
+  },
+  "ai": {
+    "enabled": true,
+    "model": "glm-4.7-flash",
+    "api": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+    "max_items": 15,
+    "timeout": 40,
+    "note": "密钥走环境变量 ZHIPU_API_KEY（本机 setx / GitHub secret）。未配置时自动跳过 AI，行为同纯关键词模式"
+  },
+  "digest": {
+    "enabled": true,
+    "beijing_hour": 9,
+    "note": "常规（非限量/临期）活动进日报池，每天北京时间 9 点运行的轮次合并成一条日报推送"
   }
 }

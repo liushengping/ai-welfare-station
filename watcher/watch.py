@@ -79,18 +79,21 @@ def http_get(url, timeout=25):
         return _decode(resp.read())
 
 
-def http_post_json(url, payload, timeout=25):
+def http_post_json(url, payload, timeout=25, headers=None):
     data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    hdrs = {"Content-Type": "application/json"}
+    if headers:
+        hdrs.update(headers)
     if HAS_CURL:
-        p = subprocess.run(
-            ["curl", "-sSL", "--max-time", str(timeout), "-H",
-             "Content-Type: application/json", "-d", "@-", url],
-            input=data, capture_output=True, timeout=timeout + 10)
+        cmd = ["curl", "-sSL", "--max-time", str(timeout)]
+        for k, v in hdrs.items():
+            cmd += ["-H", f"{k}: {v}"]
+        cmd += ["-d", "@-", url]
+        p = subprocess.run(cmd, input=data, capture_output=True, timeout=timeout + 10)
         if p.returncode == 0:
             return p.stdout.decode(errors="replace")
         raise RuntimeError(f"curl rc={p.returncode}: {p.stderr.decode(errors='replace')[:200]}")
-    req = urllib.request.Request(url, data=data,
-                                 headers={"Content-Type": "application/json"})
+    req = urllib.request.Request(url, data=data, headers=hdrs)
     return urllib.request.urlopen(req, timeout=timeout).read().decode(errors="replace")
 
 
@@ -206,12 +209,14 @@ def push_toast(title, body):
         timeout=40, capture_output=True)
 
 
-def push_ntfy(cfg, title, body):
+def push_ntfy(cfg, title, body, click=None, priority="high"):
     # 主题优先取环境变量（GitHub Actions 用 secret 注入，避免写进仓库）
     topic = os.environ.get("NTFY_TOPIC") or cfg["topic"]
-    http_post_json(cfg.get("server", "https://ntfy.sh").rstrip("/") + "/",
-                   {"topic": topic, "title": title, "message": body,
-                    "priority": "high", "tags": ["egg"]})
+    payload = {"topic": topic, "title": title, "message": body,
+               "priority": priority, "tags": ["egg"]}
+    if click:
+        payload["click"] = click   # 点通知直达领取页
+    http_post_json(cfg.get("server", "https://ntfy.sh").rstrip("/") + "/", payload)
 
 
 def push_bark(cfg, title, body):
@@ -242,7 +247,7 @@ def push_dingtalk(cfg, title, body):
                                 "markdown": {"title": title, "text": f"### {title}\n\n{body}"}})
 
 
-def deliver_all(title, body):
+def deliver_all(title, body, click=None, priority="high"):
     channels = load_json(CONFIG_FILE, {}).get("channels", {})
     # 各通道就绪条件：本地 config 或环境变量（CI 用 secret 注入）任一有值即可
     ready = {
@@ -254,7 +259,7 @@ def deliver_all(title, body):
         "dingtalk_bot": bool(channels.get("dingtalk_bot", {}).get("url")),
     }
     results = []
-    if channels.get("toast", {}).get("enabled"):
+    if channels.get("toast", {}).get("enabled") and priority == "high":
         try:
             push_toast(title, body[:220])
             results.append("toast=ok")
@@ -265,11 +270,59 @@ def deliver_all(title, body):
                    ("dingtalk_bot", push_dingtalk)):
         if channels.get(ch, {}).get("enabled") and ready.get(ch):
             try:
-                fn(channels.get(ch, {}), title, body)
+                if ch == "ntfy":
+                    fn(channels.get(ch, {}), title, body, click=click, priority=priority)
+                else:
+                    fn(channels.get(ch, {}), title, body)
                 results.append(f"{ch}=ok")
             except Exception as e:
                 results.append(f"{ch}=FAIL({type(e).__name__})")
     return results
+
+
+# ---------------- AI 结构化过滤（GLM 免费模型，未配置 key 时自动跳过） ----------------
+def ai_filter(items, config):
+    """返回 {index: judgment}；不可用/失败返回 None（fail-open：全部按紧急处理）。"""
+    ai = config.get("ai", {})
+    if not ai.get("enabled") or not items:
+        return None
+    key = os.environ.get("ZHIPU_API_KEY")
+    if not key:
+        return None
+    model = ai.get("model", "glm-4.7-flash")
+    api = ai.get("api", "https://open.bigmodel.cn/api/paas/v4/chat/completions")
+    chunk_size = ai.get("max_items", 15)
+    out = {}
+    chunks = [items[i:i + chunk_size] for i in range(0, len(items), chunk_size)]
+    sys_prompt = (
+        "你是AI福利情报审核员。逐条判断下列条目是否为「AI厂商/大模型的免费福利活动」"
+        "（送token/额度/积分/会员/免费API/免费模型/限时折扣等）。"
+        "忽略：电商优惠券、非AI产品、招聘、纯新闻评论、赌博博彩。"
+        '严格只输出JSON数组，不要其它文字：'
+        '[{"i":条目序号,"rel":true或false,"vendor":"厂商名","amount":"额度简述(20字内)",'
+        '"deadline":"YYYY-MM-DD或null","value":1到100价值分,"urgent":限量/先到先得/7天内截止则为true否则false}]'
+    )
+    for chunk in chunks:
+        listing = "\n".join(f'{it["i"]}. {it["title"]} | {it["link"][:80]}' for it in chunk)
+        try:
+            resp = http_post_json(api, {
+                "model": model, "temperature": 0.1,
+                "messages": [{"role": "system", "content": sys_prompt},
+                             {"role": "user", "content": listing}],
+            }, timeout=ai.get("timeout", 40),
+                headers={"Authorization": f"Bearer {key}"})
+            txt = resp.strip()
+            if txt.startswith("```"):
+                txt = txt.strip("`").lstrip("json").strip()
+            lo, hi = txt.find("["), txt.rfind("]")
+            arr = json.loads(txt[lo:hi + 1])
+            for j in arr:
+                if isinstance(j, dict) and "i" in j:
+                    out[j["i"]] = j
+        except Exception as e:
+            log(f"[AI] 判定失败（fail-open 保留全部）: {type(e).__name__} {str(e)[:120]}")
+            return None
+    return out
 
 
 # ---------------- 主流程 ----------------
@@ -290,6 +343,7 @@ def main():
     seen = dict(state["seen"]) if state else {}
     sources_ok = dict(state.get("sources_ok", {}))
     links_seen = dict(state.get("links", {}))   # 全局链接级去重（跨源）
+    pending_digest = list(state.get("digest", [])) if state else []   # 日报池
     feed = list(state.get("feed", []))
     # 历史 feed 去重（修复存量重复，保留最新一条）
     _seen_links = set()
@@ -363,14 +417,60 @@ def main():
                     links_seen[nl] = "1"
         log(f"[源] {name}: 抓到 {len(items)} 条, 命中 {len(hits)} 条 ({time.time()-t0:.1f}s)")
 
+    # ---- AI 结构化过滤（无 key / 失败时 fail-open：全部按紧急放行，等同旧行为） ----
+    judgments = None
+    if matched:
+        judgments = ai_filter([{"i": i, "title": it["title"], "link": it["link"]}
+                               for i, it in enumerate(matched)], config)
+    relevant, urgent, normal = [], [], []
+    rejected = 0
+    for i, it in enumerate(matched):
+        j = judgments.get(i) if isinstance(judgments, dict) else {"rel": True, "urgent": True}
+        if not j.get("rel", True):
+            rejected += 1
+            continue          # 已入 seen，静默丢弃，不再打扰
+        it["ai"] = {k: j.get(k) for k in ("vendor", "amount", "deadline", "value", "urgent")}
+        relevant.append(it)
+        (urgent if j.get("urgent") is True else normal).append(it)
+
+    # ---- 分级推送：紧急（限量/临期）直推；常规进日报池，北京时间日报点合并推送 ----
+    cfg_digest = config.get("digest", {})
+    site_url = "https://liushengping.github.io/ai-welfare-station/"
+    if urgent:
+        t = f"🔥 AI福利急报：{len(urgent)} 条（限量/临期）"
+        b = "\n\n".join(f"{it['title']}\n{it['link']}" for it in urgent[:8])
+        if len(urgent) > 8:
+            b += f"\n\n…共 {len(urgent)} 条"
+        log("[推送] " + " ".join(deliver_all(
+            t, b, click=urgent[0]["link"] if len(urgent) == 1 else site_url)))
+
+    bj_hour = int((time.time() + 8 * 3600) // 3600 % 24)
+    pool = pending_digest + normal
+    if cfg_digest.get("enabled", True) and pool and bj_hour == cfg_digest.get("beijing_hour", 9):
+        t = f"📋 AI福利日报：{len(pool)} 条常规活动"
+        b = "\n\n".join(f"{it['title']}\n{it['link']}" for it in pool[:10])
+        if len(pool) > 10:
+            b += f"\n\n…共 {len(pool)} 条"
+        log("[日报] " + " ".join(deliver_all(t, b, click=site_url, priority="default")))
+        pool = []
+    else:
+        pool = pool[-50:]     # 防膨胀
+        if normal:
+            log(f"[入报] {len(normal)} 条常规进入日报池（当前池 {len(pool)} 条）")
+    if rejected:
+        log(f"[AI] 拦截 {rejected} 条非AI福利噪音")
+
+    # ---- 持久化（feed 只收相关条目；digest 池随 state 进 git 实现云端持久） ----
     now = time.strftime("%F %T")
-    feed = ([{"t": now, "title": it["title"], "link": it["link"]} for it in matched] + feed)[:60]
-    # last_run 等易变时间戳只进 feed.json，不进 state.json（state 进 git，避免每轮提交竞速）
+    feed = ([{"t": now, "title": it["title"], "link": it["link"], "ai": it.get("ai", {})}
+             for it in relevant] + feed)[:60]
+    # last_run 等易变时间戳不进 state.json（state 进 git，避免每轮提交竞速）
     # sort_keys：内容只取决于数据集合本身，云端/本地产出字节级一致，才能避免无谓 diff
     links_seen = dict(list(links_seen.items())[-5000:])
     STATE_FILE.write_text(json.dumps(
         {"seen": dict(list(seen.items())[-5000:]), "sources_ok": sources_ok,
-         "links": links_seen, "feed": feed}, ensure_ascii=False, indent=1, sort_keys=True),
+         "links": links_seen, "feed": feed, "digest": pool},
+        ensure_ascii=False, indent=1, sort_keys=True),
         encoding="utf-8")
     try:
         # 不带时间戳字段：feed.json 只有在条目变化时才会产生 git diff
@@ -382,19 +482,12 @@ def main():
 
     if seeded_quiet:
         log(f"[播种] 断线恢复静默吸收：{', '.join(seeded_quiet)}")
-    if not matched:
-        log("[结果] 0 new")
-        return
-
-    for it in matched:
+    for it in relevant:
         log(f"[NEW] {it['title']}\n[NEW] -> {it['link']}")
-
-    title = f"🥚 AI福利雷达：{len(matched)} 条新活动"
-    body = "\n\n".join(f"{it['title']}\n{it['link']}" for it in matched[:8])
-    if len(matched) > 8:
-        body += f"\n\n…共 {len(matched)} 条"
-    log("[推送] " + " ".join(deliver_all(title, body)))
-    log(f"[结果] new={len(matched)}")
+    if relevant:
+        log(f"[结果] new={len(relevant)} 急报={len(urgent)} 常规={len(normal)}")
+    else:
+        log(f"[结果] 0 new（AI拦截 {rejected}）")
 
 
 if __name__ == "__main__":

@@ -1,49 +1,121 @@
 {
  "items": [
   {
+   "ai": {
+    "amount": null,
+    "deadline": null,
+    "urgent": true,
+    "value": null,
+    "vendor": null
+   },
+   "link": "https://linux.do/t/topic/2888059",
+   "t": "2026-09-11 10:27:34",
+   "title": "【10:30 抢】继续送 gpt-astra"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887980",
+   "t": "2026-09-11 10:21:06",
+   "title": "华住会金卡2张送，再送两张，四张已无了"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887893",
+   "t": "2026-09-11 10:21:06",
+   "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887644",
+   "t": "2026-09-11 10:21:06",
+   "title": "腾子的另一个版本workbuddy，模型全部免费还有k3"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887140",
+   "t": "2026-09-11 10:21:06",
+   "title": "免费的glm-5.3"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887105",
+   "t": "2026-09-11 10:21:06",
+   "title": "深夜福利，发100个额度盲盒"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887066",
+   "t": "2026-09-11 10:21:06",
+   "title": "deekseepv4fas 等模型免费蹬"
+  },
+  {
+   "link": "https://linux.do/t/topic/2885413",
+   "t": "2026-09-11 10:21:06",
+   "title": "【富可敌国】CUN.AI L站账号注册的登录每天领 $0.50，会员并发升级，首充再送 50%，首充 $66 拿下 GPT，Claude 套餐，累计 $200 额度 | 低至3.3折！内附300张兑换码！"
+  },
+  {
+   "link": "https://linux.do/t/topic/2885271",
+   "t": "2026-09-11 10:21:06",
+   "title": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。"
+  },
+  {
+   "link": "https://linux.do/t/topic/2885037",
+   "t": "2026-09-11 10:21:06",
+   "title": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token"
+  },
+  {
+   "link": "https://linux.do/t/topic/2885035",
+   "t": "2026-09-11 10:21:06",
+   "title": "免费麦当劳琵琶腿"
+  },
+  {
+   "link": "https://linux.do/t/topic/2884868",
+   "t": "2026-09-11 10:21:06",
+   "title": "cursor又送羊毛了？"
+  },
+  {
+   "link": "https://linux.do/t/topic/2884828",
+   "t": "2026-09-11 10:21:06",
+   "title": "白嫖cursor搞定！上图！用的被佬友唾弃的edu"
+  },
+  {
+   "link": "https://linux.do/t/topic/2884724",
+   "t": "2026-09-11 10:21:06",
+   "title": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20"
+  },
+  {
+   "link": "https://linux.do/t/topic/2888028",
+   "t": "2026-09-11 10:21:06",
+   "title": "chatgpt的额度怎么兑换到codex的池子中"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887991",
+   "t": "2026-09-11 10:21:06",
+   "title": "WorkBuddy 美团优惠券是不是额度变低了"
+  },
+  {
+   "link": "https://linux.do/t/topic/2887970",
+   "t": "2026-09-11 10:21:06",
+   "title": "claude网页端灰度了全新的额度界面"
+  },
+  {
+   "link": "https://developer.amd.com.cn/radeon/tokenfactory",
+   "t": "2026-09-11 10:21:06",
+   "title": "https://developer.amd.com.cn/radeon/tokenfactory"
+  },
+  {
    "link": "https://meta.appinn.net/t/topic/91551",
-   "t": "2026-09-10 07:47:00",
+   "t": "2026-09-11 10:21:06",
    "title": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了"
   },
   {
    "link": "https://meta.appinn.net/t/topic/91523",
-   "t": "2026-09-09 16:58:19",
+   "t": "2026-09-11 10:21:06",
    "title": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件"
   },
   {
    "link": "https://meta.appinn.net/t/topic/91513",
-   "t": "2026-09-09 12:38:27",
+   "t": "2026-09-11 10:21:06",
    "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折"
   },
   {
-   "link": "https://meta.appinn.net/t/topic/91494",
-   "t": "2026-09-09 07:46:04",
-   "title": "汉字吧www.hanzi8.com：一个集10万+汉字字典、词典、笔顺、古诗文库于一体的综合性免费汉语学习平台"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91483",
-   "t": "2026-09-09 07:46:04",
-   "title": "【开发者自荐】一款免费的A股策略交易回测软件，无需编写代码，自定义可视化构建策略"
-  },
-  {
    "link": "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota",
-   "t": "2026-09-09 07:46:04",
+   "t": "2026-09-11 10:21:06",
    "title": "免费额度用完即停"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91476",
-   "t": "2026-09-09 02:37:45",
-   "title": "【开发者自荐】报价生成器：免费在线报价单工具，3分钟出PDF"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91454",
-   "t": "2026-09-08 12:31:47",
-   "title": "阅影：让 Claude Code 这类 AI 编程助手「看」视频，本地离线，开源免费"
-  },
-  {
-   "link": "https://developer.amd.com.cn/radeon/tokenfactory",
-   "t": "2026-09-07 13:37:32",
-   "title": "https://developer.amd.com.cn/radeon/tokenfactory"
   },
   {
    "link": "https://linux.do/t/topic/2863478",

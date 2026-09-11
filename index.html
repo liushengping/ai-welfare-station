@@ -129,6 +129,7 @@
   <nav id="tabs">
     <button class="tab on" data-tab="egg">🥚 鸡蛋榜<span class="n" id="n-egg"></span></button>
     <button class="tab" data-tab="radar">🔴 雷达播报<span class="n" id="n-radar"></span></button>
+    <button class="tab" data-tab="timeline">⏳ 时间线</button>
     <button class="tab" data-tab="plans">📦 套餐榜<span class="n" id="n-plans"></span></button>
     <button class="tab" data-tab="models">🧠 模型榜<span class="n" id="n-models"></span></button>
     <button class="tab" data-tab="grave">⚰️ 已失效<span class="n" id="n-grave"></span></button>
@@ -289,6 +290,37 @@
     return box;
   }
 
+  /* ---------- 截止日时间线 ---------- */
+  function renderTimeline() {
+    setTimeout(async () => {
+      const box = document.getElementById("timelineBox");
+      if (!box) return;
+      const items = [];
+      (typeof FREEBIES !== "undefined") && FREEBIES.forEach(f => {
+        if (f.deadline) items.push({ name: f.vendor + " · " + f.title, dl: f.deadline,
+          url: (f.srcs && f.srcs[0] || {}).url || "", tag: "list" });
+      });
+      try {
+        const data = await (await fetch("feed.json", { cache: "no-store" })).json();
+        (data.items || []).forEach(it => {
+          const d = it.ai && it.ai.deadline;
+          if (d && d !== "null") items.push({ name: it.title, dl: d, url: it.link, tag: "radar" });
+        });
+      } catch (e) { /* file:// 直开时 fetch 受限，仍显示榜单部分 */ }
+      items.sort((a, b) => a.dl.localeCompare(b.dl));
+      if (!items.length) { box.className = "empty"; box.textContent = "暂无带截止日的活动"; return; }
+      box.className = "";
+      box.innerHTML = `<div class="sum-tag" style="margin-bottom:12px">按截止日升序：「⏰ 仅剩 X 天」优先处理。来源：🥚 榜单人工核查 + 🔴 雷达 AI 抽取。</div>` +
+        items.map(it => `
+          <div class="card" style="margin-bottom:10px">
+            <div class="chips">${deadlineChip(it.dl)}<span class="chip v">${it.tag === "radar" ? "🔴 雷达" : "🥚 榜单"}</span></div>
+            <div class="title" style="margin-top:6px">${esc(it.name)}</div>
+            ${it.url ? `<div class="foot"><a class="btn" href="${esc(it.url)}" target="_blank" rel="noopener">🔗 前往</a></div>` : ""}
+          </div>`).join("");
+    }, 30);
+    return `<div id="timelineBox" class="empty">加载中…</div>`;
+  }
+
   /* ---------- 墓场 ---------- */
   function renderGrave() {
     const list = GRAVEYARD.filter(g => match(g, [g.vendor, g.title, g.was, g.note]));
@@ -309,6 +341,7 @@
   function render() {
     const v = document.getElementById("view");
     v.innerHTML = curTab === "egg" ? renderEgg() : curTab === "radar" ? renderRadar()
+      : curTab === "timeline" ? renderTimeline()
       : curTab === "plans" ? renderPlans() : curTab === "models" ? renderModels() : renderGrave();
   }
 

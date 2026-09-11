@@ -26,6 +26,9 @@ jobs:
         run: python -u watch.py
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
 
       # state.json 提交回去，保证去重基线跨运行持久（不会重复推送旧条目）
       - name: 回写状态
