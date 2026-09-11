@@ -2,6 +2,18 @@
  "items": [
   {
    "ai": {
+    "amount": "注册送token",
+    "deadline": null,
+    "urgent": true,
+    "value": 20,
+    "vendor": "seed4.me"
+   },
+   "link": "https://seed4.me/users/register?promo=GIVE2026",
+   "t": "2026-09-11 07:43:01",
+   "title": "https://seed4.me/users/register?promo=GIVE2026"
+  },
+  {
+   "ai": {
     "amount": null,
     "deadline": null,
     "urgent": true,
