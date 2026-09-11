@@ -251,7 +251,7 @@ def push_dingtalk(cfg, title, body):
                                 "markdown": {"title": title, "text": f"### {title}\n\n{body}"}})
 
 
-def deliver_all(title, body, click=None, priority="high"):
+def deliver_all(title, body, click=None, priority="high", skip_ntfy=False):
     channels = load_json(CONFIG_FILE, {}).get("channels", {})
     # 各通道就绪条件：本地 config 或环境变量（CI 用 secret 注入）任一有值即可
     ready = {
@@ -272,6 +272,8 @@ def deliver_all(title, body, click=None, priority="high"):
     for ch, fn in (("ntfy", push_ntfy), ("bark", push_bark), ("serverchan", push_serverchan),
                    ("pushplus", push_pushplus), ("wecom_bot", push_wecom),
                    ("dingtalk_bot", push_dingtalk)):
+        if ch == "ntfy" and skip_ntfy:
+            continue    # 调用方已逐条单独推过 ntfy
         if channels.get(ch, {}).get("enabled") and ready.get(ch):
             try:
                 if ch == "ntfy":
@@ -473,20 +475,29 @@ def main():
     cfg_digest = config.get("digest", {})
     site_url = "https://liushengping.github.io/ai-welfare-station/"
     if urgent:
+        # 高价值置顶；ntfy 逐条直达（点通知=领领取页），微信等合并但列全全部标题（不截断防漏报）
+        urgent.sort(key=lambda it: (it["ai"].get("value") or 0), reverse=True)
+        ch_cfg = config.get("channels", {}).get("ntfy", {})
+        if env_key("NTFY_TOPIC") or ch_cfg.get("topic"):
+            for it in urgent[:6]:
+                try:
+                    push_ntfy(ch_cfg, f"🔥 {it['title'][:80]}",
+                              (it["ai"].get("amount") or "限量/临期福利")[:100] + "\n" + it["link"],
+                              click=it["link"])
+                except Exception as e:
+                    log(f"[错误] ntfy 单条推送失败: {type(e).__name__} {str(e)[:80]}")
         t = f"🔥 AI福利急报：{len(urgent)} 条（限量/临期）"
-        b = "\n\n".join(f"{it['title']}\n{it['link']}" for it in urgent[:8])
-        if len(urgent) > 8:
-            b += f"\n\n…共 {len(urgent)} 条"
+        b = "\n\n".join(
+            f"{'⭐' if (it['ai'].get('value') or 0) >= 80 else '•'} {it['title']}\n{it['link']}"
+            for it in urgent)
         log("[推送] " + " ".join(deliver_all(
-            t, b, click=urgent[0]["link"] if len(urgent) == 1 else site_url)))
+            t, b, click=urgent[0]["link"] if len(urgent) == 1 else site_url, skip_ntfy=True)))
 
     bj_hour = int((time.time() + 8 * 3600) // 3600 % 24)
     pool = pending_digest + normal
     if cfg_digest.get("enabled", True) and pool and bj_hour == cfg_digest.get("beijing_hour", 9):
         t = f"📋 AI福利日报：{len(pool)} 条常规活动"
-        b = "\n\n".join(f"{it['title']}\n{it['link']}" for it in pool[:10])
-        if len(pool) > 10:
-            b += f"\n\n…共 {len(pool)} 条"
+        b = "\n".join(f"- {it['title']} {it['link']}" for it in pool) + f"\n\n在线榜：{site_url}"
         log("[日报] " + " ".join(deliver_all(t, b, click=site_url, priority="default")))
         pool = []
     else:
