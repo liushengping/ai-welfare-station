@@ -2,15 +2,207 @@
  "items": [
   {
    "ai": {
-    "amount": "注册送token",
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "ZCodex"
+   },
+   "link": "https://linux.do/t/topic/2891323",
+   "t": "2026-09-11 23:17:47",
+   "title": "ZCodex 3亿token 23：00后可用"
+  },
+  {
+   "ai": {
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "GLM"
+   },
+   "link": "https://linux.do/t/topic/2891275",
+   "t": "2026-09-11 23:17:47",
+   "title": "GLM3亿token周末福利抓紧领啊"
+  },
+  {
+   "ai": {
+    "amount": "周末福利",
+    "deadline": "null",
+    "urgent": true,
+    "value": 70,
+    "vendor": "zcode"
+   },
+   "link": "https://linux.do/t/topic/2891157",
+   "t": "2026-09-11 23:17:47",
+   "title": "zcode周末福利来了"
+  },
+  {
+   "ai": {
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "智谱"
+   },
+   "link": "https://linux.do/t/topic/2891155",
+   "t": "2026-09-11 23:17:47",
+   "title": "快讯，智谱又发3亿token"
+  },
+  {
+   "ai": {
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "ZCode"
+   },
+   "link": "https://linux.do/t/topic/2891154",
+   "t": "2026-09-11 23:17:47",
+   "title": "ZCode 又送3亿token了"
+  },
+  {
+   "ai": {
+    "amount": "免费",
+    "deadline": "null",
+    "urgent": false,
+    "value": 60,
+    "vendor": "RelayFor"
+   },
+   "link": "https://linux.do/t/topic/2890962",
+   "t": "2026-09-11 23:17:47",
+   "title": "【RelayFor】我免费辣"
+  },
+  {
+   "ai": {
+    "amount": "$18补贴",
+    "deadline": "null",
+    "urgent": true,
+    "value": 90,
+    "vendor": "CUN.AI"
+   },
+   "link": "https://linux.do/t/topic/2890648",
+   "t": "2026-09-11 23:17:47",
+   "title": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！"
+  },
+  {
+   "ai": {
+    "amount": "DeepSeek-V4.1-Flash免费",
+    "deadline": "null",
+    "urgent": true,
+    "value": 85,
+    "vendor": "DeepSeek"
+   },
+   "link": "https://linux.do/t/topic/2890283",
+   "t": "2026-09-11 23:17:47",
+   "title": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费"
+  },
+  {
+   "ai": {
+    "amount": "国模直降",
+    "deadline": "null",
+    "urgent": true,
+    "value": 75,
+    "vendor": "ZeroCat"
+   },
+   "link": "https://linux.do/t/topic/2890266",
+   "t": "2026-09-11 23:17:47",
+   "title": "【富可敌国】GPT 承压期间的备用方案 | ZeroCat 国模限时直降 0.15x 起 | 评论国模免费用"
+  },
+  {
+   "ai": {
+    "amount": "模型体验额度",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "PQH"
+   },
+   "link": "https://linux.do/t/topic/2889567",
+   "t": "2026-09-11 23:17:47",
+   "title": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。"
+  },
+  {
+   "ai": {
+    "amount": "每月羊毛",
+    "deadline": "null",
+    "urgent": true,
+    "value": 70,
+    "vendor": "阿里云"
+   },
+   "link": "https://linux.do/t/topic/2889315",
+   "t": "2026-09-11 23:17:47",
+   "title": "阿里云每月羊毛-上新了"
+  },
+  {
+   "ai": {
+    "amount": "送额度",
+    "deadline": "null",
+    "urgent": true,
+    "value": 75,
+    "vendor": "gpt-astra"
+   },
+   "link": "https://linux.do/t/topic/2889136",
+   "t": "2026-09-11 23:17:47",
+   "title": "【14:00 抢】送 gpt-astra 额度"
+  },
+  {
+   "ai": {
+    "amount": "deepseek额度涨",
+    "deadline": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "opencode"
+   },
+   "link": "https://linux.do/t/topic/2891440",
+   "t": "2026-09-11 23:17:47",
+   "title": "666 opencode的deepseek额度涨上去了"
+  },
+  {
+   "ai": {
+    "amount": "注册送码",
     "deadline": null,
     "urgent": true,
-    "value": 20,
+    "value": 15,
     "vendor": "seed4.me"
    },
    "link": "https://seed4.me/users/register?promo=GIVE2026",
-   "t": "2026-09-11 07:43:01",
+   "t": "2026-09-11 23:17:47",
    "title": "https://seed4.me/users/register?promo=GIVE2026"
+  },
+  {
+   "ai": {
+    "amount": "百炼地域",
+    "deadline": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "阿里云"
+   },
+   "link": "https://bailian.console.aliyun.com/model/market",
+   "t": "2026-09-11 23:17:47",
+   "title": "阿里云百炼-华北2（北京）地域"
+  },
+  {
+   "ai": {
+    "amount": "qwen3.8模型",
+    "deadline": null,
+    "urgent": false,
+    "value": 15,
+    "vendor": "阿里云"
+   },
+   "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
+   "t": "2026-09-11 23:17:47",
+   "title": "qwen3.8-max 模型详情页"
+  },
+  {
+   "ai": {
+    "amount": "API-Key",
+    "deadline": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "阿里云"
+   },
+   "link": "https://bailian.console.aliyun.com/settings/api-key",
+   "t": "2026-09-11 23:17:47",
+   "title": "API-Key（北京）"
   },
   {
    "ai": {

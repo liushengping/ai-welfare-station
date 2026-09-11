@@ -7,6 +7,13 @@
     "note": "智谱官方活动页，任何新增条目都提醒（filter=all 不做关键词过滤）。ZCode送token类活动的官方源头"
   },
   {
+    "name": "IT之家",
+    "type": "rss",
+    "url": "https://www.ithome.com/rss/",
+    "filter": "keywords",
+    "note": "报道智谱/ZCode/各家福利最快的科技媒体，补 linux.do 被Cloudflare挡后的盲区（2026-09-11 夜间畅用活动漏报后新增）"
+  },
+  {
     "name": "linux.do-福利羊毛板块",
     "type": "rss",
     "url": "https://linux.do/c/welfare.rss",

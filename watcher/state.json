@@ -1,17 +1,270 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "ai": {
+    "amount": "免费",
+    "deadline": "null",
+    "urgent": false,
+    "value": 60,
+    "vendor": "RelayFor"
+   },
+   "id": "linux.do-福利羊毛板块:b02bf935dcd2",
+   "link": "https://linux.do/t/topic/2890962",
+   "title": "【RelayFor】我免费辣"
+  },
+  {
+   "ai": {
+    "amount": "deepseek额度涨",
+    "deadline": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "opencode"
+   },
+   "id": "linux.do-最新:e836ac2ab37b",
+   "link": "https://linux.do/t/topic/2891440",
+   "title": "666 opencode的deepseek额度涨上去了"
+  },
+  {
+   "ai": {
+    "amount": "百炼地域",
+    "deadline": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "阿里云"
+   },
+   "id": "阿里百炼-免费额度文档:aafe63d234e5",
+   "link": "https://bailian.console.aliyun.com/model/market",
+   "title": "阿里云百炼-华北2（北京）地域"
+  },
+  {
+   "ai": {
+    "amount": "qwen3.8模型",
+    "deadline": null,
+    "urgent": false,
+    "value": 15,
+    "vendor": "阿里云"
+   },
+   "id": "阿里百炼-免费额度文档:caa6ad477026",
+   "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
+   "title": "qwen3.8-max 模型详情页"
+  },
+  {
+   "ai": {
+    "amount": "API-Key",
+    "deadline": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "阿里云"
+   },
+   "id": "阿里百炼-免费额度文档:cda8fa93707a",
+   "link": "https://bailian.console.aliyun.com/settings/api-key",
+   "title": "API-Key（北京）"
+  }
+ ],
  "feed": [
   {
    "ai": {
-    "amount": "注册送token",
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "ZCodex"
+   },
+   "link": "https://linux.do/t/topic/2891323",
+   "t": "2026-09-11 23:17:47",
+   "title": "ZCodex 3亿token 23：00后可用"
+  },
+  {
+   "ai": {
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "GLM"
+   },
+   "link": "https://linux.do/t/topic/2891275",
+   "t": "2026-09-11 23:17:47",
+   "title": "GLM3亿token周末福利抓紧领啊"
+  },
+  {
+   "ai": {
+    "amount": "周末福利",
+    "deadline": "null",
+    "urgent": true,
+    "value": 70,
+    "vendor": "zcode"
+   },
+   "link": "https://linux.do/t/topic/2891157",
+   "t": "2026-09-11 23:17:47",
+   "title": "zcode周末福利来了"
+  },
+  {
+   "ai": {
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "智谱"
+   },
+   "link": "https://linux.do/t/topic/2891155",
+   "t": "2026-09-11 23:17:47",
+   "title": "快讯，智谱又发3亿token"
+  },
+  {
+   "ai": {
+    "amount": "3亿token",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "ZCode"
+   },
+   "link": "https://linux.do/t/topic/2891154",
+   "t": "2026-09-11 23:17:47",
+   "title": "ZCode 又送3亿token了"
+  },
+  {
+   "ai": {
+    "amount": "免费",
+    "deadline": "null",
+    "urgent": false,
+    "value": 60,
+    "vendor": "RelayFor"
+   },
+   "link": "https://linux.do/t/topic/2890962",
+   "t": "2026-09-11 23:17:47",
+   "title": "【RelayFor】我免费辣"
+  },
+  {
+   "ai": {
+    "amount": "$18补贴",
+    "deadline": "null",
+    "urgent": true,
+    "value": 90,
+    "vendor": "CUN.AI"
+   },
+   "link": "https://linux.do/t/topic/2890648",
+   "t": "2026-09-11 23:17:47",
+   "title": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！"
+  },
+  {
+   "ai": {
+    "amount": "DeepSeek-V4.1-Flash免费",
+    "deadline": "null",
+    "urgent": true,
+    "value": 85,
+    "vendor": "DeepSeek"
+   },
+   "link": "https://linux.do/t/topic/2890283",
+   "t": "2026-09-11 23:17:47",
+   "title": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费"
+  },
+  {
+   "ai": {
+    "amount": "国模直降",
+    "deadline": "null",
+    "urgent": true,
+    "value": 75,
+    "vendor": "ZeroCat"
+   },
+   "link": "https://linux.do/t/topic/2890266",
+   "t": "2026-09-11 23:17:47",
+   "title": "【富可敌国】GPT 承压期间的备用方案 | ZeroCat 国模限时直降 0.15x 起 | 评论国模免费用"
+  },
+  {
+   "ai": {
+    "amount": "模型体验额度",
+    "deadline": "null",
+    "urgent": true,
+    "value": 80,
+    "vendor": "PQH"
+   },
+   "link": "https://linux.do/t/topic/2889567",
+   "t": "2026-09-11 23:17:47",
+   "title": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。"
+  },
+  {
+   "ai": {
+    "amount": "每月羊毛",
+    "deadline": "null",
+    "urgent": true,
+    "value": 70,
+    "vendor": "阿里云"
+   },
+   "link": "https://linux.do/t/topic/2889315",
+   "t": "2026-09-11 23:17:47",
+   "title": "阿里云每月羊毛-上新了"
+  },
+  {
+   "ai": {
+    "amount": "送额度",
+    "deadline": "null",
+    "urgent": true,
+    "value": 75,
+    "vendor": "gpt-astra"
+   },
+   "link": "https://linux.do/t/topic/2889136",
+   "t": "2026-09-11 23:17:47",
+   "title": "【14:00 抢】送 gpt-astra 额度"
+  },
+  {
+   "ai": {
+    "amount": "deepseek额度涨",
+    "deadline": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "opencode"
+   },
+   "link": "https://linux.do/t/topic/2891440",
+   "t": "2026-09-11 23:17:47",
+   "title": "666 opencode的deepseek额度涨上去了"
+  },
+  {
+   "ai": {
+    "amount": "注册送码",
     "deadline": null,
     "urgent": true,
-    "value": 20,
+    "value": 15,
     "vendor": "seed4.me"
    },
    "link": "https://seed4.me/users/register?promo=GIVE2026",
-   "t": "2026-09-11 07:43:01",
+   "t": "2026-09-11 23:17:47",
    "title": "https://seed4.me/users/register?promo=GIVE2026"
+  },
+  {
+   "ai": {
+    "amount": "百炼地域",
+    "deadline": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "阿里云"
+   },
+   "link": "https://bailian.console.aliyun.com/model/market",
+   "t": "2026-09-11 23:17:47",
+   "title": "阿里云百炼-华北2（北京）地域"
+  },
+  {
+   "ai": {
+    "amount": "qwen3.8模型",
+    "deadline": null,
+    "urgent": false,
+    "value": 15,
+    "vendor": "阿里云"
+   },
+   "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
+   "t": "2026-09-11 23:17:47",
+   "title": "qwen3.8-max 模型详情页"
+  },
+  {
+   "ai": {
+    "amount": "API-Key",
+    "deadline": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "阿里云"
+   },
+   "link": "https://bailian.console.aliyun.com/settings/api-key",
+   "t": "2026-09-11 23:17:47",
+   "title": "API-Key（北京）"
   },
   {
    "ai": {
@@ -194,6 +447,23 @@
   "https://linux.do/t/topic/2887991": "1",
   "https://linux.do/t/topic/2888028": "1",
   "https://linux.do/t/topic/2888059": "1",
+  "https://linux.do/t/topic/2889136": "1",
+  "https://linux.do/t/topic/2889315": "1",
+  "https://linux.do/t/topic/2889567": "1",
+  "https://linux.do/t/topic/2890266": "1",
+  "https://linux.do/t/topic/2890283": "1",
+  "https://linux.do/t/topic/2890455": "1",
+  "https://linux.do/t/topic/2890648": "1",
+  "https://linux.do/t/topic/2890856": "1",
+  "https://linux.do/t/topic/2890962": "1",
+  "https://linux.do/t/topic/2891154": "1",
+  "https://linux.do/t/topic/2891155": "1",
+  "https://linux.do/t/topic/2891157": "1",
+  "https://linux.do/t/topic/2891275": "1",
+  "https://linux.do/t/topic/2891323": "1",
+  "https://linux.do/t/topic/2891409": "1",
+  "https://linux.do/t/topic/2891440": "1",
+  "https://linux.do/t/topic/2891510": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
   "https://meta.appinn.net/t/topic/91304": "1",
@@ -224,6 +494,8 @@
   "https://www.aliyun.com/solution/free": "1",
   "https://www.aliyun.com/solution/tech-solution": "1",
   "https://www.bigmodel.cn/console/overview?showUppop=true": "1",
+  "https://www.ithome.com/1/001/401.htm": "1",
+  "https://www.ithome.com/1/001/413.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -248,6 +520,8 @@
   "HuggingFace-博客:afa572b39099": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
   "HuggingFace-博客:d8438412db05": "Welcome Falcon Mamba: The first strong attention-free 7B model",
   "HuggingFace-博客:e55e02c2188c": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "IT之家:4bf8a4052558": "吉利银河 TT 上市 15 分钟大定突破 1 万台，限时先享价 12.99 万起",
+  "IT之家:4ea8eaaaf0c5": "工信部：车企打“口水战”、互相揭短等网络乱象得到初步治理，将引导规范新车发布和产品测评活动",
   "OpenAI-news:10c90d7cc781": "A free version of ChatGPT built for teachers",
   "OpenAI-news:20a5940b926b": "New Credit Facility Enhances Financial Flexibility",
   "OpenAI-news:48bed504eb23": "Intellectual freedom by design",
@@ -264,20 +538,26 @@
   "TG-白嫖分享社:5b819bebf58a": "https://developer.amd.com.cn/radeon/tokenfactory",
   "TG-白嫖分享社:d5b1a990147b": "🖼 🧠 100 美元即可免费访问人工智能模型的 API",
   "linux.do-最新:0191b95086c6": "Gemini3.8Flash每周7亿Token，100刀，大善人又回来了！",
+  "linux.do-最新:08f647b53ad0": "注册WhatsApp无法发送验证码了",
   "linux.do-最新:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
+  "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:f93193fc47a9": "WorkBuddy 美团优惠券是不是额度变低了",
+  "linux.do-最新:feea6761b2ba": "codex没使用额度消失？",
   "linux.do-最新:ff4b5822d6fb": "有人用过glm的重置卡吗？会推迟下次额度刷新时间吗？",
   "linux.do-福利羊毛板块:007728a2fe3c": "【福利继续0906】继续发tokens 已上架ldcstore，周日睡醒，评论区random抽几个再送额度吧",
   "linux.do-福利羊毛板块:0a41761bc04d": "#【富可敌国 | orcai中转站】 重磅回归｜CCKiro & GPT 全线 0.5 倍率｜进群即送 $7",
+  "linux.do-福利羊毛板块:0f1d8e346f68": "GLM3亿token周末福利抓紧领啊",
   "linux.do-福利羊毛板块:14b716f4d9db": "免费麦当劳琵琶腿",
   "linux.do-福利羊毛板块:1720a57d1629": "【PM公益站】抽10个10＄额度兑换码",
   "linux.do-福利羊毛板块:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",
   "linux.do-福利羊毛板块:1ca4587fd8ba": "【PM公益站】Free组上线一堆高端模型",
   "linux.do-福利羊毛板块:1db6de298d32": "分享一个可以免费进行AI 3d建模的网站",
+  "linux.do-福利羊毛板块:4025f0a8fd32": "zcode周末福利来了",
+  "linux.do-福利羊毛板块:47ddbcae4354": "【14:00 抢】送 gpt-astra 额度",
   "linux.do-福利羊毛板块:4d3831e0abb1": "免费的glm-5.3",
   "linux.do-福利羊毛板块:4f7a7662ece9": "建行速领取滴滴11.01-11卷*2，可以薅实物",
   "linux.do-福利羊毛板块:555ab84d5732": "腾子的另一个版本workbuddy，模型全部免费还有k3",
@@ -285,15 +565,26 @@
   "linux.do-福利羊毛板块:63ab5f6dc34d": "deekseepv4fas 等模型免费蹬",
   "linux.do-福利羊毛板块:7c3ea048f3b9": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
   "linux.do-福利羊毛板块:8012c5aa1860": "cursor又送羊毛了？",
+  "linux.do-福利羊毛板块:80cdd35bfb73": "快讯，智谱又发3亿token",
   "linux.do-福利羊毛板块:826bc7cba948": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token",
+  "linux.do-福利羊毛板块:99dff8b437fc": "阿里云每月羊毛-上新了",
+  "linux.do-福利羊毛板块:a21e0f132441": "（已送出）有个家宽还有10来G流量，来个佬友帮测试下问题",
+  "linux.do-福利羊毛板块:a2da9d7002f9": "ZCode 又送3亿token了",
   "linux.do-福利羊毛板块:aa6b1310a404": "zcode刚刚突然推送周末3亿token，大家收到的可以领一波",
+  "linux.do-福利羊毛板块:b02bf935dcd2": "【RelayFor】我免费辣",
   "linux.do-福利羊毛板块:b7ebe5ef9d90": "【富可敌国】CUN.AI 【限量200份｜首充低至3.55折】实充 $119 拿下 GPT‑6 / Claude Fable 5.1 的 $335 额度！新用户注册就送5.8刀！内附300张兑换码",
   "linux.do-福利羊毛板块:b86ccfe5dd8d": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。",
   "linux.do-福利羊毛板块:caaf379498d5": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20",
   "linux.do-福利羊毛板块:d21816e6de91": "【富可敌国】CUN.AI L站账号注册的登录每天领 $0.50，会员并发升级，首充再送 50%，首充 $66 拿下 GPT，Claude 套餐，累计 $200 额度 | 低至3.3折！内附300张兑换码！",
+  "linux.do-福利羊毛板块:d7dc9b11623f": "【富可敌国】GPT 承压期间的备用方案 | ZeroCat 国模限时直降 0.15x 起 | 评论国模免费用",
   "linux.do-福利羊毛板块:d915a73b3f4b": "【10:30 抢】继续送 gpt-astra",
+  "linux.do-福利羊毛板块:debd0491dfc4": "ZCodex 3亿token 23：00后可用",
+  "linux.do-福利羊毛板块:dfdca9e369df": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！",
   "linux.do-福利羊毛板块:e27d9a1066e1": "深夜福利，发100个额度盲盒",
+  "linux.do-福利羊毛板块:e76869ca0c75": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费",
   "linux.do-福利羊毛板块:ee38d0470607": "krak card英国 10英镑奖励活动最新规则 加好友互转贴",
+  "linux.do-福利羊毛板块:ef0fde005c6f": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。",
+  "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
   "小众软件论坛:2b3fa9e45286": "Abiurl.me 短网址与 UTM 生成器免费开发使用！",
   "小众软件论坛:50a494642c9c": "Epic 免费游戏 2026-9-4",
@@ -357,6 +648,7 @@
  "sources_ok": {
   "GitHub-Changelog": "1",
   "Google-AI-博客": "1",
+  "IT之家": "1",
   "OpenAI-news": "1",
   "TG-白嫖分享社": "1",
   "TG-线报台": "1",
