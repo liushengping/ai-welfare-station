@@ -226,13 +226,17 @@ def push_bark(cfg, title, body):
 
 
 def push_serverchan(cfg, title, body):
-    key = os.environ.get("SERVERCHAN_KEY") or cfg["key"]
+    key = env_key("SERVERCHAN_KEY") or cfg.get("key")
+    if not key:
+        raise RuntimeError("SERVERCHAN key missing")
     http_post_form(f"https://sctapi.ftqq.com/{key}.send",
                    {"title": title, "desp": body})
 
 
 def push_pushplus(cfg, title, body):
-    token = os.environ.get("PUSHPLUS_TOKEN") or cfg["token"]
+    token = env_key("PUSHPLUS_TOKEN") or cfg.get("token")
+    if not token:
+        raise RuntimeError("PUSHPLUS token missing")
     http_post_json("https://www.pushplus.plus/send",
                    {"token": token, "title": title, "content": body, "template": "txt"})
 
@@ -253,8 +257,8 @@ def deliver_all(title, body, click=None, priority="high"):
     ready = {
         "ntfy": bool(os.environ.get("NTFY_TOPIC") or channels.get("ntfy", {}).get("topic")),
         "bark": bool(channels.get("bark", {}).get("key")),
-        "serverchan": bool(os.environ.get("SERVERCHAN_KEY") or channels.get("serverchan", {}).get("key")),
-        "pushplus": bool(os.environ.get("PUSHPLUS_TOKEN") or channels.get("pushplus", {}).get("token")),
+        "serverchan": bool(env_key("SERVERCHAN_KEY") or channels.get("serverchan", {}).get("key")),
+        "pushplus": bool(env_key("PUSHPLUS_TOKEN") or channels.get("pushplus", {}).get("token")),
         "wecom_bot": bool(channels.get("wecom_bot", {}).get("url")),
         "dingtalk_bot": bool(channels.get("dingtalk_bot", {}).get("url")),
     }
@@ -282,13 +286,15 @@ def deliver_all(title, body, click=None, priority="high"):
 
 # ---------------- AI 结构化过滤（GLM 免费模型，未配置 key 时自动跳过） ----------------
 def env_key(name):
-    """密钥来源优先级：环境变量（云端 secret / 已刷新的本机 env）→ apikey.local（gitignore 保护的本机文件）。"""
+    """密钥来源优先级：环境变量（云端 secret / 已刷新的本机 env）→ apikey.local（gitignore 保护的本机文件，NAME=value 行格式）。"""
     v = os.environ.get(name)
     if v:
         return v.strip()
     f = BASE / "apikey.local"
-    if name == "ZHIPU_API_KEY" and f.exists():
-        return f.read_text(encoding="utf-8").strip()
+    if f.exists():
+        for line in f.read_text(encoding="utf-8").splitlines():
+            if "=" in line and line.split("=", 1)[0].strip() == name:
+                return line.split("=", 1)[1].strip()
     return None
 
 
