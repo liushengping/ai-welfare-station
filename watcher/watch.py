@@ -382,6 +382,7 @@ def main():
     sources_ok = dict(state.get("sources_ok", {}))
     links_seen = dict(state.get("links", {}))   # 全局链接级去重（跨源）
     pending_digest = list(state.get("digest", [])) if state else []   # 日报池
+    digest_date = state.get("digest_date", "") if state else ""       # 最近一次日报日期（北京时间）
     feed = list(state.get("feed", []))
     # 历史 feed 去重（修复存量重复，保留最新一条）
     _seen_links = set()
@@ -494,12 +495,16 @@ def main():
             t, b, click=urgent[0]["link"] if len(urgent) == 1 else site_url, skip_ntfy=True)))
 
     bj_hour = int((time.time() + 8 * 3600) // 3600 % 24)
+    today_bj = time.strftime("%F", time.gmtime(time.time() + 8 * 3600))
     pool = pending_digest + normal
-    if cfg_digest.get("enabled", True) and pool and bj_hour == cfg_digest.get("beijing_hour", 9):
+    # 9 点后第一轮且当天未发过 → 发日报（驻留轮询存在空窗，"恰好9点"条件会永远等不到）
+    if (cfg_digest.get("enabled", True) and pool and bj_hour >= cfg_digest.get("beijing_hour", 9)
+            and digest_date != today_bj):
         t = f"📋 AI福利日报：{len(pool)} 条常规活动"
         b = "\n".join(f"- {it['title']} {it['link']}" for it in pool) + f"\n\n在线榜：{site_url}"
         log("[日报] " + " ".join(deliver_all(t, b, click=site_url, priority="default")))
         pool = []
+        digest_date = today_bj
     else:
         pool = pool[-50:]     # 防膨胀
         if normal:
@@ -516,7 +521,7 @@ def main():
     links_seen = dict(list(links_seen.items())[-5000:])
     STATE_FILE.write_text(json.dumps(
         {"seen": dict(list(seen.items())[-5000:]), "sources_ok": sources_ok,
-         "links": links_seen, "feed": feed, "digest": pool},
+         "links": links_seen, "feed": feed, "digest": pool, "digest_date": digest_date},
         ensure_ascii=False, indent=1, sort_keys=True),
         encoding="utf-8")
     try:
