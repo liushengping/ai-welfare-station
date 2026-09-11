@@ -21,6 +21,7 @@
     "timeout": 40,
     "note": "密钥走 ZHIPU_API_KEY 环境变量（云端 secret）或 apikey.local（本机gitignore文件）。全为免费模型，依次降级"
   },
+  "max_post_age_days": 3,
   "digest": {
     "enabled": true,
     "beijing_hour": 9,

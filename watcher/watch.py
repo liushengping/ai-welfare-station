@@ -26,8 +26,12 @@ import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from html import unescape
+
+BJ_TZ = timezone(timedelta(hours=8))
 
 BASE = Path(__file__).resolve().parent
 STATE_FILE = BASE / "state.json"
@@ -137,6 +141,26 @@ def local_tags(node, name):
     return [c for c in node.iter() if c.tag.rsplit("}", 1)[-1] == name]
 
 
+def _parse_date(s):
+    """RSS 日期 → 北京时间 aware datetime；解析失败返回 None。"""
+    s = (s or "").strip()
+    if not s:
+        return None
+    dt = None
+    try:
+        dt = parsedate_to_datetime(s)           # RFC822: Wed, 11 Sep 2026 10:00:00 +0800
+    except Exception:
+        pass
+    if dt is None:
+        try:
+            dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+        except Exception:
+            return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(BJ_TZ)
+
+
 def parse_rss(text):
     items = []
     try:
@@ -144,15 +168,20 @@ def parse_rss(text):
     except ET.ParseError:
         return items
     for entry in local_tags(root, "item") + local_tags(root, "entry"):
-        title, link = "", ""
+        title, link, date = "", "", ""
         t = local_tags(entry, "title")
         if t and t[0].text:
             title = t[0].text.strip()
         l = local_tags(entry, "link")
         if l:
             link = (l[0].get("href") or (l[0].text or "")).strip()
+        for tag in ("pubDate", "published", "updated", "date"):
+            d = local_tags(entry, tag)
+            if d and (d[0].text or "").strip():
+                date = d[0].text.strip()
+                break
         if title:
-            items.append({"title": unescape(title), "link": link})
+            items.append({"title": unescape(title), "link": link, "date": date})
     return items
 
 
@@ -383,15 +412,23 @@ def ai_filter(items, config):
     chunk_size = ai.get("max_items", 15)
     out = {}
     chunks = [items[i:i + chunk_size] for i in range(0, len(items), chunk_size)]
+    today_bj = datetime.now(BJ_TZ).strftime("%Y-%m-%d %A")
+    wk = "一二三四五六日"
+    cal = "；".join(
+        (datetime.now(BJ_TZ).date() + timedelta(days=k)).strftime("%Y-%m-%d") + "周" + wk[(datetime.now(BJ_TZ).date() + timedelta(days=k)).weekday()]
+        for k in range(-2, 8))
     sys_prompt = (
         "你是AI福利情报审核员。逐条判断下列条目是否为「AI厂商/大模型的免费福利活动」"
         "（送token/额度/积分/会员/免费API/免费模型/限时折扣等）。"
         "忽略：电商优惠券、非AI产品、招聘、纯新闻评论、赌博博彩。"
+        f"今天北京时间是 {today_bj}。日期对照表：{cal}。"
+        "条目中的相对时间（今晚/明天/本周五/下周一等）必须严格按对照表换算成绝对日期时间。"
         "若多条条目属于同一活动（同厂商同赠送、仅发帖人/措辞不同），只保留信息最完整的一条 rel=true，"
         '其余设 rel=false 并加 "dup":true。'
         '严格只输出JSON数组，不要其它文字：'
-        '[{"i":条目序号,"rel":true或false,"dup":存在重复时true否则省略,"vendor":"厂商名","amount":"额度简述(20字内)",'
-        '"deadline":"YYYY-MM-DD或null","value":1到100价值分,"urgent":限量/先到先得/7天内截止则为true否则false}]'
+        '[{"i":序号,"rel":true或false,"dup":重复时true,"vendor":"厂商名","amount":"额度(20字内)",'
+        '"start":"生效开始时间 YYYY-MM-DD HH:MM，条目未提则null","deadline":"结束/到期时间 YYYY-MM-DD HH:MM，未提则null",'
+        '"value":1到100价值分,"urgent":限量/先到先得/7天内截止则为true否则false}]'
     )
     for chunk in chunks:
         listing = "\n".join(f'{it["i"]}. {it["title"]} | {it["link"][:80]}' for it in chunk)
@@ -469,6 +506,8 @@ def main():
     feed = _clean
 
     matched, seeded_quiet = [], []
+    stale = 0
+    max_age = config.get("max_post_age_days", 3)
     for src in sources:
         name = src["name"]
         t0 = time.time()
@@ -498,6 +537,10 @@ def main():
         sources_ok[name] = "1"   # 只存布尔语义（避免时间戳导致每轮 git diff 必变）
 
         mode = src.get("filter", "keywords")
+        for it in items:
+            dt = _parse_date(it.get("date", ""))
+            it["_age"] = (datetime.now(BJ_TZ) - dt).total_seconds() / 86400 if dt else None
+            it["date_str"] = dt.strftime("%m-%d %H:%M") if dt else ""
         hits = []
         for it in items:
             h = hashlib.md5((it["link"] or it["title"]).encode()).hexdigest()[:12]
@@ -523,6 +566,9 @@ def main():
                     seen[it["id"]] = it["title"]
                     if nl:
                         links_seen[nl] = "1"
+                    if it.get("_age") is not None and it["_age"] > max_age:
+                        stale += 1
+                        continue    # 旧帖（超 max_age 天）静默入库：旧活动绝不推送
                     matched.append(it)
                 elif nl:
                     links_seen[nl] = "1"
@@ -543,7 +589,7 @@ def main():
             else:
                 rejected += 1
             continue          # 已入 seen，静默丢弃，不再打扰
-        it["ai"] = {k: j.get(k) for k in ("vendor", "amount", "deadline", "value", "urgent")}
+        it["ai"] = {k: j.get(k) for k in ("vendor", "amount", "start", "deadline", "value", "urgent")}
         relevant.append(it)
 
     before = len(relevant)
@@ -558,14 +604,23 @@ def main():
     now_bj = time.strftime("%m-%d %H:%M", time.gmtime(time.time() + 8 * 3600))
 
     def fmt_item(it):
-        """结构化一行：厂商·额度·截止 + 标题 + 链接，让人不看链接也知道讲什么。"""
+        """结构化条目：厂商·额度 + 标题 + 生效/截止 + 发帖时间 + 链接，旧活动一眼可辨。"""
         ai = it.get("ai", {})
         head = "｜".join(x for x in (
             f"[{ai['vendor']}]" if ai.get("vendor") else "",
             str(ai["amount"]) if ai.get("amount") else "",
-            f"截止{ai['deadline']}" if ai.get("deadline") else "",
         ) if x)
-        return (head + " " if head else "") + it["title"] + "\n" + it["link"]
+        lines = [(head + " " if head else "") + it["title"]]
+        when = []
+        if ai.get("start"):
+            when.append("生效 " + str(ai["start"]))
+        if ai.get("deadline"):
+            when.append("截止 " + str(ai["deadline"]))
+        lines.append("⏰ " + ("，".join(when) if when else "有效期未识别，请点链接核实是否最新一期"))
+        if it.get("date_str"):
+            lines.append(f"帖发于 {it['date_str']}")
+        lines.append(it["link"])
+        return "\n".join(lines)
 
     if urgent:
         # 高价值置顶；ntfy 逐条直达（点通知=领领取页），微信等合并列全（不截断防漏报）
@@ -574,13 +629,18 @@ def main():
         if env_key("NTFY_TOPIC") or ch_cfg.get("topic"):
             for it in urgent[:6]:
                 ai = it["ai"]
+                parts = [x for x in (ai.get("vendor") or "", ai.get("amount") or "") if x]
+                if ai.get("start"):
+                    parts.append("生效" + str(ai["start"]))
+                if ai.get("deadline"):
+                    parts.append("截止" + str(ai["deadline"]))
+                if not (ai.get("start") or ai.get("deadline")):
+                    parts.append("有效期未识别")
+                if it.get("date_str"):
+                    parts.append("帖发" + it["date_str"])
                 try:
                     push_ntfy(ch_cfg, f"🔥 {it['title'][:60]}",
-                              "｜".join(x for x in (
-                                  ai.get("vendor") or "", ai.get("amount") or "",
-                                  f"截止{ai['deadline']}" if ai.get("deadline") else "",
-                                  f"价值{ai['value']}" if ai.get("value") else "",
-                              ) if x) + f"\n{it['link']}",
+                              "｜".join(parts) + f"\n{it['link']}",
                               click=it["link"])
                 except Exception as e:
                     log(f"[错误] ntfy 单条推送失败: {type(e).__name__} {str(e)[:80]}")
@@ -613,8 +673,8 @@ def main():
 
     # ---- 持久化（feed 只收相关条目；digest 池随 state 进 git 实现云端持久） ----
     now = time.strftime("%F %T")
-    feed = ([{"t": now, "title": it["title"], "link": it["link"], "ai": it.get("ai", {})}
-             for it in relevant] + feed)[:60]
+    feed = ([{"t": now, "title": it["title"], "link": it["link"], "ai": it.get("ai", {}),
+              "d": it.get("date_str", "")} for it in relevant] + feed)[:60]
     # last_run 等易变时间戳不进 state.json（state 进 git，避免每轮提交竞速）
     # sort_keys：内容只取决于数据集合本身，云端/本地产出字节级一致，才能避免无谓 diff
     links_seen = dict(list(links_seen.items())[-5000:])
@@ -631,6 +691,8 @@ def main():
     except OSError:
         pass
 
+    if stale:
+        log(f"[旧帖] {stale} 条超过 {max_age} 天的旧活动帖已静默入库（未推送）")
     if seeded_quiet:
         log(f"[播种] 断线恢复静默吸收：{', '.join(seeded_quiet)}")
     for it in relevant:
