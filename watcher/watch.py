@@ -281,15 +281,26 @@ def deliver_all(title, body, click=None, priority="high"):
 
 
 # ---------------- AI 结构化过滤（GLM 免费模型，未配置 key 时自动跳过） ----------------
+def env_key(name):
+    """密钥来源优先级：环境变量（云端 secret / 已刷新的本机 env）→ apikey.local（gitignore 保护的本机文件）。"""
+    v = os.environ.get(name)
+    if v:
+        return v.strip()
+    f = BASE / "apikey.local"
+    if name == "ZHIPU_API_KEY" and f.exists():
+        return f.read_text(encoding="utf-8").strip()
+    return None
+
+
 def ai_filter(items, config):
     """返回 {index: judgment}；不可用/失败返回 None（fail-open：全部按紧急处理）。"""
     ai = config.get("ai", {})
     if not ai.get("enabled") or not items:
         return None
-    key = os.environ.get("ZHIPU_API_KEY")
+    key = env_key("ZHIPU_API_KEY")
     if not key:
         return None
-    model = ai.get("model", "glm-4.7-flash")
+    models = ai.get("models") or [ai.get("model", "glm-4.7-flash")]
     api = ai.get("api", "https://open.bigmodel.cn/api/paas/v4/chat/completions")
     chunk_size = ai.get("max_items", 15)
     out = {}
@@ -304,24 +315,43 @@ def ai_filter(items, config):
     )
     for chunk in chunks:
         listing = "\n".join(f'{it["i"]}. {it["title"]} | {it["link"][:80]}' for it in chunk)
-        try:
-            resp = http_post_json(api, {
-                "model": model, "temperature": 0.1,
-                "messages": [{"role": "system", "content": sys_prompt},
-                             {"role": "user", "content": listing}],
-            }, timeout=ai.get("timeout", 40),
-                headers={"Authorization": f"Bearer {key}"})
-            txt = resp.strip()
+        arr = None
+        for model in models:   # 免费档降级链：前一个限流/报错时试下一个
+            try:
+                resp = http_post_json(api, {
+                    "model": model, "temperature": 0.1,
+                    "messages": [{"role": "system", "content": sys_prompt},
+                                 {"role": "user", "content": listing}],
+                }, timeout=ai.get("timeout", 40),
+                    headers={"Authorization": f"Bearer {key}"}).strip()
+            except Exception as e:
+                log(f"[AI] {model} 请求失败: {type(e).__name__} {str(e)[:100]}")
+                continue
+            try:
+                body = json.loads(resp)
+            except json.JSONDecodeError:
+                log(f"[AI] {model} 响应非JSON: {resp[:120]}")
+                continue
+            if "error" in body:
+                log(f"[AI] {model}: {body['error'].get('message', '')[:100]}")
+                continue
+            txt = body.get("choices", [{}])[0].get("message", {}).get("content", "").strip()
             if txt.startswith("```"):
                 txt = txt.strip("`").lstrip("json").strip()
             lo, hi = txt.find("["), txt.rfind("]")
-            arr = json.loads(txt[lo:hi + 1])
-            for j in arr:
-                if isinstance(j, dict) and "i" in j:
-                    out[j["i"]] = j
-        except Exception as e:
-            log(f"[AI] 判定失败（fail-open 保留全部）: {type(e).__name__} {str(e)[:120]}")
-            return None
+            if lo < 0 or hi <= lo:
+                log(f"[AI] {model} 输出无JSON数组: {txt[:120]}")
+                continue
+            try:
+                arr = json.loads(txt[lo:hi + 1])
+                break
+            except json.JSONDecodeError as e:
+                log(f"[AI] {model} 数组解析失败: {e}")
+        if arr is None:
+            return None   # 本轮判定失败，fail-open 保留全部
+        for j in arr:
+            if isinstance(j, dict) and "i" in j:
+                out[j["i"]] = j
     return out
 
 

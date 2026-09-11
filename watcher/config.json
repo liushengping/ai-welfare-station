@@ -15,11 +15,11 @@
   },
   "ai": {
     "enabled": true,
-    "model": "glm-4.7-flash",
+    "models": ["glm-4.7-flash", "glm-4.5-flash", "glm-4-flash-250414"],
     "api": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
     "max_items": 15,
     "timeout": 40,
-    "note": "密钥走环境变量 ZHIPU_API_KEY（本机 setx / GitHub secret）。未配置时自动跳过 AI，行为同纯关键词模式"
+    "note": "密钥走 ZHIPU_API_KEY 环境变量（云端 secret）或 apikey.local（本机gitignore文件）。全为免费模型，依次降级"
   },
   "digest": {
     "enabled": true,
