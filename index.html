@@ -277,12 +277,17 @@
         document.getElementById("n-radar").textContent = data.items.length;
         if (!data.items.length) { el.textContent = "暂无命中记录，雷达在盯，一有活动就会推送+上榜"; return; }
         el.className = "";
-        el.innerHTML = data.items.map(it => `
+        el.innerHTML = data.items.map(it => {
+          const ai = it.ai || {};
+          const meta = [ai.vendor, ai.amount, ai.deadline && ("截止 " + ai.deadline),
+                        ai.value && ("价值 " + ai.value)].filter(Boolean).join(" · ");
+          return `
           <div class="card" style="margin-bottom:10px">
-            <div class="chips"><span class="chip soon">🕐 ${esc(it.t || "")}</span></div>
+            <div class="chips"><span class="chip soon">🕐 ${esc(it.t || "")}</span>${ai.urgent ? '<span class="chip warn">🔥 限量/临期</span>' : ""}</div>
             <div class="title" style="margin-top:6px"><a href="${esc(it.link)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(it.title)}</a></div>
+            ${meta ? `<div class="row" style="margin-top:4px">${esc(meta)}</div>` : ""}
             <div class="foot"><a class="btn" href="${esc(it.link)}" target="_blank" rel="noopener">🔗 前往</a></div>
-          </div>`).join("");
+          </div>`;}).join("");
       } catch (e) {
         el.textContent = "读取 feed.json 失败：file:// 直开受浏览器限制，请用本地服务（python -m http.server）或部署后访问。";
       }

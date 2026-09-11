@@ -287,6 +287,76 @@ def deliver_all(title, body, click=None, priority="high", skip_ntfy=False):
 
 
 # ---------------- AI 结构化过滤（GLM 免费模型，未配置 key 时自动跳过） ----------------
+def _bigrams(s):
+    s = re.sub(r"\s+", "", s.lower())
+    return {s[i:i + 2] for i in range(len(s) - 1)} if len(s) > 1 else {s}
+
+
+VENDOR_FAMILIES = {
+    "zhipu": ("zcode", "智谱", "z.ai", "glm", "bigmodel", "chatglm"),
+    "moonshot": ("kimi", "月之暗面", "moonshot"),
+    "alibaba": ("阿里", "通义", "qwen", "百炼", "aliyun"),
+    "tencent": ("腾讯", "混元", "元宝", "hunyuan", "tokenhub"),
+    "baidu": ("百度", "文心", "千帆", "ernie"),
+    "bytedance": ("字节", "豆包", "doubao", "火山"),
+    "deepseek": ("deepseek", "深度求索"),
+    "stepfun": ("阶跃", "stepfun", "step-"),
+    "sensenova": ("商汤", "sensenova", "日日新"),
+    "minimax": ("minimax", "海螺"),
+    "xfyun": ("讯飞", "星火", "spark"),
+    "meituan": ("美团", "longcat"),
+    "openai": ("openai", "gpt", "chatgpt", "codex"),
+    "google": ("google", "gemini"),
+    "anthropic": ("anthropic", "claude"),
+    "xai": ("grok", "xai"),
+    "mistral": ("mistral",),
+    "siliconflow": ("硅基流动", "siliconflow", "siliconcloud"),
+    "cohere": ("cohere",),
+    "longcat": ("longcat",),
+}
+
+
+def _vendor_family(text):
+    t = text.lower()
+    for fam, aliases in VENDOR_FAMILIES.items():
+        if any(a in t for a in aliases):
+            return fam
+    return ""
+
+
+def _cluster_key(item):
+    """同活动聚类键：厂商家族 + 额度量级（如 zhipu+3亿）。不同措辞的同一活动会落进同键。"""
+    title = item.get("title", "")
+    fam = _vendor_family(title) or _vendor_family(item.get("ai", {}).get("vendor") or "")
+    q = re.search(r"\d+\.?\d*\s*[亿万]", title)
+    if fam and q:
+        return fam + "@" + q.group().replace(" ", "")
+    return None
+
+
+def dedup_similar(items):
+    """同一活动多帖合并（双网）：①厂商家族+额度量级聚类键 ②标题二元组 Jaccard ≥ 0.28。
+    聚类内保留价值分最高的一条，其余静默归并。"""
+    kept, keys_seen = [], []
+    for it in sorted(items, key=lambda x: (x.get("ai", {}).get("value") or 0), reverse=True):
+        key = _cluster_key(it)
+        if key and key in keys_seen:
+            continue
+        bg = _bigrams(it["title"])
+        is_dup = False
+        for k in kept:
+            kb = _bigrams(k["title"])
+            if len(bg & kb) / max(1, len(bg | kb)) >= 0.28:
+                is_dup = True
+                break
+        if is_dup:
+            continue
+        kept.append(it)
+        if key:
+            keys_seen.append(key)
+    return kept
+
+
 def env_key(name):
     """密钥来源优先级：环境变量（云端 secret / 已刷新的本机 env）→ apikey.local（gitignore 保护的本机文件，NAME=value 行格式）。"""
     v = os.environ.get(name)
@@ -317,8 +387,10 @@ def ai_filter(items, config):
         "你是AI福利情报审核员。逐条判断下列条目是否为「AI厂商/大模型的免费福利活动」"
         "（送token/额度/积分/会员/免费API/免费模型/限时折扣等）。"
         "忽略：电商优惠券、非AI产品、招聘、纯新闻评论、赌博博彩。"
+        "若多条条目属于同一活动（同厂商同赠送、仅发帖人/措辞不同），只保留信息最完整的一条 rel=true，"
+        '其余设 rel=false 并加 "dup":true。'
         '严格只输出JSON数组，不要其它文字：'
-        '[{"i":条目序号,"rel":true或false,"vendor":"厂商名","amount":"额度简述(20字内)",'
+        '[{"i":条目序号,"rel":true或false,"dup":存在重复时true否则省略,"vendor":"厂商名","amount":"额度简述(20字内)",'
         '"deadline":"YYYY-MM-DD或null","value":1到100价值分,"urgent":限量/先到先得/7天内截止则为true否则false}]'
     )
     for chunk in chunks:
@@ -462,37 +534,64 @@ def main():
         judgments = ai_filter([{"i": i, "title": it["title"], "link": it["link"]}
                                for i, it in enumerate(matched)], config)
     relevant, urgent, normal = [], [], []
-    rejected = 0
+    rejected = dups = 0
     for i, it in enumerate(matched):
         j = judgments.get(i) if isinstance(judgments, dict) else {"rel": True, "urgent": True}
         if not j.get("rel", True):
-            rejected += 1
+            if j.get("dup"):
+                dups += 1        # 同活动重复帖：与已收录条目静默合并
+            else:
+                rejected += 1
             continue          # 已入 seen，静默丢弃，不再打扰
         it["ai"] = {k: j.get(k) for k in ("vendor", "amount", "deadline", "value", "urgent")}
         relevant.append(it)
-        (urgent if j.get("urgent") is True else normal).append(it)
 
-    # ---- 分级推送：紧急（限量/临期）直推；常规进日报池，北京时间日报点合并推送 ----
+    before = len(relevant)
+    relevant = dedup_similar(relevant)
+    dups += before - len(relevant)
+    urgent = [it for it in relevant if it["ai"].get("urgent") is True]
+    normal = [it for it in relevant if it["ai"].get("urgent") is not True]
+
+    # ---- 分级推送：紧急（限量/临期）直推；常规进日报池，9点后第一轮合并推送 ----
     cfg_digest = config.get("digest", {})
     site_url = "https://liushengping.github.io/ai-welfare-station/"
+    now_bj = time.strftime("%m-%d %H:%M", time.gmtime(time.time() + 8 * 3600))
+
+    def fmt_item(it):
+        """结构化一行：厂商·额度·截止 + 标题 + 链接，让人不看链接也知道讲什么。"""
+        ai = it.get("ai", {})
+        head = "｜".join(x for x in (
+            f"[{ai['vendor']}]" if ai.get("vendor") else "",
+            str(ai["amount"]) if ai.get("amount") else "",
+            f"截止{ai['deadline']}" if ai.get("deadline") else "",
+        ) if x)
+        return (head + " " if head else "") + it["title"] + "\n" + it["link"]
+
     if urgent:
-        # 高价值置顶；ntfy 逐条直达（点通知=领领取页），微信等合并但列全全部标题（不截断防漏报）
+        # 高价值置顶；ntfy 逐条直达（点通知=领领取页），微信等合并列全（不截断防漏报）
         urgent.sort(key=lambda it: (it["ai"].get("value") or 0), reverse=True)
         ch_cfg = config.get("channels", {}).get("ntfy", {})
         if env_key("NTFY_TOPIC") or ch_cfg.get("topic"):
             for it in urgent[:6]:
+                ai = it["ai"]
                 try:
-                    push_ntfy(ch_cfg, f"🔥 {it['title'][:80]}",
-                              (it["ai"].get("amount") or "限量/临期福利")[:100] + "\n" + it["link"],
+                    push_ntfy(ch_cfg, f"🔥 {it['title'][:60]}",
+                              "｜".join(x for x in (
+                                  ai.get("vendor") or "", ai.get("amount") or "",
+                                  f"截止{ai['deadline']}" if ai.get("deadline") else "",
+                                  f"价值{ai['value']}" if ai.get("value") else "",
+                              ) if x) + f"\n{it['link']}",
                               click=it["link"])
                 except Exception as e:
                     log(f"[错误] ntfy 单条推送失败: {type(e).__name__} {str(e)[:80]}")
-        t = f"🔥 AI福利急报：{len(urgent)} 条（限量/临期）"
-        b = "\n\n".join(
-            f"{'⭐' if (it['ai'].get('value') or 0) >= 80 else '•'} {it['title']}\n{it['link']}"
+        t = f"🔥 AI福利急报 {now_bj}：{len(urgent)} 条（限量/临期）"
+        b = f"（抓取时间 {now_bj} 北京时间，先到先得类请尽快）\n\n" + "\n\n".join(
+            f"{'⭐' if (it['ai'].get('value') or 0) >= 80 else '•'} " + fmt_item(it)
             for it in urgent)
         log("[推送] " + " ".join(deliver_all(
             t, b, click=urgent[0]["link"] if len(urgent) == 1 else site_url, skip_ntfy=True)))
+    if dups:
+        log(f"[合并] {dups} 条同活动重复帖已静默归并")
 
     bj_hour = int((time.time() + 8 * 3600) // 3600 % 24)
     today_bj = time.strftime("%F", time.gmtime(time.time() + 8 * 3600))
