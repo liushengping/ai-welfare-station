@@ -1,67 +1,6 @@
 {
- "digest": [
-  {
-   "ai": {
-    "amount": "免费",
-    "deadline": "null",
-    "urgent": false,
-    "value": 60,
-    "vendor": "RelayFor"
-   },
-   "id": "linux.do-福利羊毛板块:b02bf935dcd2",
-   "link": "https://linux.do/t/topic/2890962",
-   "title": "【RelayFor】我免费辣"
-  },
-  {
-   "ai": {
-    "amount": "deepseek额度涨",
-    "deadline": null,
-    "urgent": false,
-    "value": 20,
-    "vendor": "opencode"
-   },
-   "id": "linux.do-最新:e836ac2ab37b",
-   "link": "https://linux.do/t/topic/2891440",
-   "title": "666 opencode的deepseek额度涨上去了"
-  },
-  {
-   "ai": {
-    "amount": "百炼地域",
-    "deadline": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "阿里云"
-   },
-   "id": "阿里百炼-免费额度文档:aafe63d234e5",
-   "link": "https://bailian.console.aliyun.com/model/market",
-   "title": "阿里云百炼-华北2（北京）地域"
-  },
-  {
-   "ai": {
-    "amount": "qwen3.8模型",
-    "deadline": null,
-    "urgent": false,
-    "value": 15,
-    "vendor": "阿里云"
-   },
-   "id": "阿里百炼-免费额度文档:caa6ad477026",
-   "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
-   "title": "qwen3.8-max 模型详情页"
-  },
-  {
-   "ai": {
-    "amount": "API-Key",
-    "deadline": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "阿里云"
-   },
-   "id": "阿里百炼-免费额度文档:cda8fa93707a",
-   "link": "https://bailian.console.aliyun.com/settings/api-key",
-   "title": "API-Key（北京）"
-  }
- ],
- "digest_date": "",
+ "digest": [],
+ "digest_date": "2026-09-12",
  "feed": [
   {
    "ai": {
