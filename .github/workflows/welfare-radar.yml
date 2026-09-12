@@ -37,13 +37,22 @@ jobs:
         run: |
           git config user.name "welfare-bot"
           git config user.email "actions@users.noreply.github.com"
-          for i in $(seq 1 23); do
-            echo "===== 第 $i/23 轮 $(date -u +%FT%TZ) ====="
+          END=$(( $(date -u +%s) + 21000 ))   # 驻留约 5 小时 50 分钟（job 上限 6h）
+          i=0
+          while [ $(date -u +%s) -lt $END ]; do
+            i=$((i+1))
+            echo "===== 第 $i 轮 $(TZ=Asia/Shanghai date '+%F %T') ====="
             python -u watch.py || true
             # 每轮回写 state/feed（去重基线跨轮持久；冲突时以远端为准放弃本地，最坏损失一轮去重）
             git add -A || true
             git diff --cached --quiet || git commit -m "radar: update state [skip ci]" || true
             git pull --rebase -q origin main || { git rebase --abort 2>/dev/null || true; git fetch origin && git reset --hard origin/main; }
             git push -q origin main || echo "[warn] push failed, will retry next round"
-            [ "$i" -lt 23 ] && sleep 840
+            # 周五晚（北京时间 18 点后）是智谱 Weekend Build 等活动的高发窗口，切 5 分钟一轮蹲守
+            DOW=$(TZ=Asia/Shanghai date +%u); HOUR=$(TZ=Asia/Shanghai date +%H)
+            if [ "$DOW" = "5" ] && [ "$HOUR" -ge 18 ]; then SLEEP=300; else SLEEP=840; fi
+            REMAIN=$(( END - $(date -u +%s) ))
+            [ $REMAIN -le 0 ] && break
+            [ $SLEEP -gt $REMAIN ] && SLEEP=$REMAIN
+            sleep $SLEEP
           done
