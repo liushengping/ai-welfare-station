@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "神秘模型 Union Alpha",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Cloudflare"
+   },
+   "d": "09-17 16:01",
+   "link": "https://meta.appinn.net/t/topic/91967",
+   "t": "2026-09-17 08:02:51",
+   "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha"
+  },
+  {
+   "ai": {
     "amount": "免费AI模型",
     "deadline": null,
     "start": null,
