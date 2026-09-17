@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-09-12",
+ "digest_date": "2026-09-17",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费AI模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Almeida"
+   },
+   "d": "09-17 14:49",
+   "link": "https://www.ithome.com/1/003/584.htm",
+   "t": "2026-09-17 07:04:56",
+   "title": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费"
+  },
   {
    "ai": {
     "amount": "3亿token",
@@ -491,6 +505,7 @@
   "https://www.ithome.com/1/003/405.htm": "1",
   "https://www.ithome.com/1/003/470.htm": "1",
   "https://www.ithome.com/1/003/557.htm": "1",
+  "https://www.ithome.com/1/003/584.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -562,6 +577,7 @@
   "IT之家:d4d52720f18a": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
   "IT之家:d539c7ccf31d": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
   "IT之家:ddf357018e5b": "2027 款比亚迪元 UP 飞驰版上市：501km 长续航，限时 6.98~9.98 万元",
+  "IT之家:e20961a9cf56": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费",
   "IT之家:e38358e012c0": "育碧商城喜加一：原价 148 元的《荣耀战魂》PC 版免费领",
   "IT之家:f0282966a10b": "雷神科技升级售后服务体系：笔记本、显示器、迷你主机全型号免费上门取送机，全流程可视化",
   "IT之家:f45ab041deda": "大众安徽与众 08 猎影版 SUV 上市：纯电续航超 700km，限时权益价 21.99 万元起",
