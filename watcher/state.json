@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.005121137048611111,
+   "ai": {
+    "amount": "每日100 Credits",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里千问"
+   },
+   "date": "Fri, 18 Sep 2026 03:20:09 GMT",
+   "date_str": "09-18 11:20",
+   "id": "IT之家:923a4231cd3a",
+   "link": "https://www.ithome.com/1/004/011.htm",
+   "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
+  }
+ ],
  "digest_date": "2026-09-18",
  "feed": [
+  {
+   "ai": {
+    "amount": "每日100 Credits",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里千问"
+   },
+   "d": "09-18 11:20",
+   "link": "https://www.ithome.com/1/004/011.htm",
+   "t": "2026-09-18 03:28:50",
+   "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
+  },
   {
    "ai": {
     "amount": "神秘模型 Union Alpha",
@@ -531,6 +562,7 @@
   "https://www.ithome.com/1/003/884.htm": "1",
   "https://www.ithome.com/1/003/895.htm": "1",
   "https://www.ithome.com/1/003/931.htm": "1",
+  "https://www.ithome.com/1/004/011.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -596,6 +628,7 @@
   "IT之家:8de976cb717a": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
   "IT之家:8f5244c681cd": "上汽大通 2027 款大家 9 正式上市，限时权益价 23.99 万元起",
   "IT之家:91651d64191a": "时隔近一年华为 Mate 40 系列手机再获系统更新，HarmonyOS 4.2.0.196/210 版本推送",
+  "IT之家:923a4231cd3a": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
   "IT之家:923f3000f5e6": "联发科技陈冠州：Token 经济时代来临，智能体将引爆 Token 消耗 & 市场规模",
   "IT之家:93bbc08cb503": "互传联盟推出“碰一碰互传技术标准”：荣耀、OPPO、vivo、小米联调，10 月中旬起陆续推送",
   "IT之家:95aad3a897f1": "2026 国庆中秋假期临近，10 月 1 日至 7 日七座及以下小客车出行可享高速免费通行政策",

@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "每日100 Credits",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里千问"
+   },
+   "d": "09-18 11:20",
+   "link": "https://www.ithome.com/1/004/011.htm",
+   "t": "2026-09-18 03:28:50",
+   "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
+  },
+  {
+   "ai": {
     "amount": "神秘模型 Union Alpha",
     "deadline": null,
     "start": null,
