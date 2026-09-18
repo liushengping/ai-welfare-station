@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "npm tokens",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "GitHub"
+   },
+   "d": "09-19 00:37",
+   "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+   "t": "2026-09-18 17:28:13",
+   "title": "Stage-only npm tokens for safer automation"
+  },
+  {
+   "ai": {
     "amount": "百万 Token 图文音视频输入 0.8元",
     "deadline": null,
     "start": "2026-09-18 00:00",

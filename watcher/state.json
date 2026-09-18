@@ -53,6 +53,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "npm tokens",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "GitHub"
+   },
+   "d": "09-19 00:37",
+   "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+   "t": "2026-09-18 17:28:13",
+   "title": "Stage-only npm tokens for safer automation"
+  },
+  {
+   "ai": {
     "amount": "百万 Token 图文音视频输入 0.8元",
     "deadline": null,
     "start": "2026-09-18 00:00",
@@ -486,6 +500,7 @@
   "https://dashi.aliyun.com/?ambRef=shouYeDaoHang2&amp;pageCode=yunparterIndex": "1",
   "https://developer.amd.com.cn/radeon/tokenfactory": "1",
   "https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 ": "1",
+  "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation": "1",
   "https://help.aliyun.com/zh/user-center/monitor-account-balances": "1",
   "https://help.aliyun.com/zh/user-center/use-alipay-online-banking-to-recharge-online": "1",
   "https://infrastructure.aliyun.com": "1",
@@ -637,6 +652,7 @@
   "https://www.siliconflow.cn/token-factory": "1"
  },
  "seen": {
+  "GitHub-Changelog:4d04b22fb79d": "Stage-only npm tokens for safer automation",
   "HuggingFace-博客:00d47c7482b5": "How to train a new language model from scratch using Transformers and Tokenizers",
   "HuggingFace-博客:074e0c198686": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
   "HuggingFace-博客:1d66f35fb06c": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
