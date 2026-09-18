@@ -15,10 +15,70 @@
    "id": "IT之家:923a4231cd3a",
    "link": "https://www.ithome.com/1/004/011.htm",
    "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
+  },
+  {
+   "_age": 0.00590536525462963,
+   "ai": {
+    "amount": "百万 Token 图文音视频输入 0.8元",
+    "deadline": null,
+    "start": "2026-09-18 00:00",
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里"
+   },
+   "date": "Fri, 18 Sep 2026 03:34:25 GMT",
+   "date_str": "09-18 11:34",
+   "id": "IT之家:35d4fcf8ee45",
+   "link": "https://www.ithome.com/1/004/049.htm",
+   "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元"
+  },
+  {
+   "_age": 0.004047483206018518,
+   "ai": {
+    "amount": "免费在线给软件加授权锁的工具",
+    "deadline": null,
+    "start": "2026-09-18 00:00",
+    "urgent": false,
+    "value": 50,
+    "vendor": "KeyGuard"
+   },
+   "date": "Fri, 18 Sep 2026 03:37:08 +0000",
+   "date_str": "09-18 11:37",
+   "id": "小众软件论坛:7afebfe516db",
+   "link": "https://meta.appinn.net/t/topic/92019",
+   "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
   }
  ],
  "digest_date": "2026-09-18",
  "feed": [
+  {
+   "ai": {
+    "amount": "百万 Token 图文音视频输入 0.8元",
+    "deadline": null,
+    "start": "2026-09-18 00:00",
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里"
+   },
+   "d": "09-18 11:34",
+   "link": "https://www.ithome.com/1/004/049.htm",
+   "t": "2026-09-18 03:43:51",
+   "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元"
+  },
+  {
+   "ai": {
+    "amount": "免费在线给软件加授权锁的工具",
+    "deadline": null,
+    "start": "2026-09-18 00:00",
+    "urgent": false,
+    "value": 50,
+    "vendor": "KeyGuard"
+   },
+   "d": "09-18 11:37",
+   "link": "https://meta.appinn.net/t/topic/92019",
+   "t": "2026-09-18 03:43:51",
+   "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
+  },
   {
    "ai": {
     "amount": "每日100 Credits",
@@ -480,6 +540,7 @@
   "https://meta.appinn.net/t/topic/91960": "1",
   "https://meta.appinn.net/t/topic/91967": "1",
   "https://meta.appinn.net/t/topic/92001": "1",
+  "https://meta.appinn.net/t/topic/92019": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -563,6 +624,7 @@
   "https://www.ithome.com/1/003/895.htm": "1",
   "https://www.ithome.com/1/003/931.htm": "1",
   "https://www.ithome.com/1/004/011.htm": "1",
+  "https://www.ithome.com/1/004/049.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -599,6 +661,7 @@
   "IT之家:23884d0d3683": "苹果为 AppleTV 推送 tvOS 27.0 正式版系统更新：全新播客应用、Apple Music 新增高解析度无损音频",
   "IT之家:2778071b05eb": "全新一汽红旗 H7 上市：限时 16.88 万-20.88 万元，2916.171 公里续航刷新吉尼斯纪录",
   "IT之家:2b5155938b9d": "全国日均 Token 词元调用量较两年前实现千倍级增长",
+  "IT之家:35d4fcf8ee45": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
   "IT之家:35f91f26d786": "吉利星瑞 L PLUS i-HEV 启动预售：定位宽体旗舰智混家轿，限时 11.57 万-14.57 万元",
   "IT之家:37dd03ba14da": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
   "IT之家:3b2d8c0da13a": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
@@ -720,6 +783,7 @@
   "小众软件论坛:5e5e7be2589b": "Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源",
   "小众软件论坛:66a82247d594": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件",
   "小众软件论坛:7a040502bc56": "电脑驱动更新工具 Driver Booster 13 Pro，限时 7 折特惠快入手！",
+  "小众软件论坛:7afebfe516db": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具",
   "小众软件论坛:7fdb7b4e8267": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
   "小众软件论坛:8fd7be1e0279": "【收集】你电脑里有没有一件\"每个月都要手动重复做一遍\"的操作？我挑几个场景写成免费小工具",
   "小众软件论坛:a3a509bffc99": "【收集向】免费的 token 们",

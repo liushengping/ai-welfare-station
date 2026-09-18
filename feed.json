@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "百万 Token 图文音视频输入 0.8元",
+    "deadline": null,
+    "start": "2026-09-18 00:00",
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里"
+   },
+   "d": "09-18 11:34",
+   "link": "https://www.ithome.com/1/004/049.htm",
+   "t": "2026-09-18 03:43:51",
+   "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元"
+  },
+  {
+   "ai": {
+    "amount": "免费在线给软件加授权锁的工具",
+    "deadline": null,
+    "start": "2026-09-18 00:00",
+    "urgent": false,
+    "value": 50,
+    "vendor": "KeyGuard"
+   },
+   "d": "09-18 11:37",
+   "link": "https://meta.appinn.net/t/topic/92019",
+   "t": "2026-09-18 03:43:51",
+   "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
+  },
+  {
+   "ai": {
     "amount": "每日100 Credits",
     "deadline": null,
     "start": null,
