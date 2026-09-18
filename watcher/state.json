@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.00040570168981481476,
-   "ai": {
-    "amount": "神秘模型 Union Alpha",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Cloudflare"
-   },
-   "date": "Thu, 17 Sep 2026 08:01:24 +0000",
-   "date_str": "09-17 16:01",
-   "id": "小众软件论坛:cfe5e85e3f5b",
-   "link": "https://meta.appinn.net/t/topic/91967",
-   "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha"
-  }
- ],
- "digest_date": "2026-09-17",
+ "digest": [],
+ "digest_date": "2026-09-18",
  "feed": [
   {
    "ai": {
