@@ -1,55 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.005121137048611111,
-   "ai": {
-    "amount": "每日100 Credits",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里千问"
-   },
-   "date": "Fri, 18 Sep 2026 03:20:09 GMT",
-   "date_str": "09-18 11:20",
-   "id": "IT之家:923a4231cd3a",
-   "link": "https://www.ithome.com/1/004/011.htm",
-   "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
-  },
-  {
-   "_age": 0.00590536525462963,
-   "ai": {
-    "amount": "百万 Token 图文音视频输入 0.8元",
-    "deadline": null,
-    "start": "2026-09-18 00:00",
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里"
-   },
-   "date": "Fri, 18 Sep 2026 03:34:25 GMT",
-   "date_str": "09-18 11:34",
-   "id": "IT之家:35d4fcf8ee45",
-   "link": "https://www.ithome.com/1/004/049.htm",
-   "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元"
-  },
-  {
-   "_age": 0.004047483206018518,
-   "ai": {
-    "amount": "免费在线给软件加授权锁的工具",
-    "deadline": null,
-    "start": "2026-09-18 00:00",
-    "urgent": false,
-    "value": 50,
-    "vendor": "KeyGuard"
-   },
-   "date": "Fri, 18 Sep 2026 03:37:08 +0000",
-   "date_str": "09-18 11:37",
-   "id": "小众软件论坛:7afebfe516db",
-   "link": "https://meta.appinn.net/t/topic/92019",
-   "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
-  }
- ],
- "digest_date": "2026-09-18",
+ "digest": [],
+ "digest_date": "2026-09-19",
  "feed": [
   {
    "ai": {
