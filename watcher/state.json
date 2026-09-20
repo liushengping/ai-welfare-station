@@ -1,7 +1,35 @@
 {
  "digest": [],
- "digest_date": "2026-09-19",
+ "digest_date": "2026-09-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "综合福利",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "严选君"
+   },
+   "d": "",
+   "link": "https://t.me/+zPJWfXueshljNTE1",
+   "t": "2026-09-20 04:23:11",
+   "title": "严选君综合福利社"
+  },
+  {
+   "ai": {
+    "amount": "抽奖福利",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "白嫖小仓库"
+   },
+   "d": "",
+   "link": "https://t.me/+B3cgJUBg05U3Yjc1",
+   "t": "2026-09-20 04:23:11",
+   "title": "白嫖小仓库 丨 抽奖福利之家"
+  },
   {
    "ai": {
     "amount": "npm tokens",
@@ -520,6 +548,8 @@
   "https://openai.com/index/new-credit-facility-enhances-financial-flexibility": "1",
   "https://openai.com/index/teen-safety-freedom-and-privacy": "1",
   "https://seed4.me/users/register?promo=GIVE2026": "1",
+  "https://t.me/+B3cgJUBg05U3Yjc1": "1",
+  "https://t.me/+zPJWfXueshljNTE1": "1",
   "https://terms.alicdn.com/legal-agreement/terms/platform_service/20220906101446934/20220906101446934.html": "1",
   "https://www.alibaba.com": "1",
   "https://www.alibabagroup.com/cn/global/home": "1",
@@ -718,7 +748,9 @@
   "TG-白嫖分享社:25d1e226fba5": "🖼 🎙️ Abogen — 免费开源 AI 文本转语音工具",
   "TG-白嫖分享社:2fd244b9ddd6": "https://seed4.me/users/register?promo=GIVE2026",
   "TG-白嫖分享社:5b819bebf58a": "https://developer.amd.com.cn/radeon/tokenfactory",
+  "TG-白嫖分享社:978a805f497f": "严选君综合福利社",
   "TG-白嫖分享社:d5b1a990147b": "🖼 🧠 100 美元即可免费访问人工智能模型的 API",
+  "TG-白嫖分享社:f579f817b3bc": "白嫖小仓库 丨 抽奖福利之家",
   "linux.do-最新:0191b95086c6": "Gemini3.8Flash每周7亿Token，100刀，大善人又回来了！",
   "linux.do-最新:08f647b53ad0": "注册WhatsApp无法发送验证码了",
   "linux.do-最新:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",

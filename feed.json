@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "综合福利",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "严选君"
+   },
+   "d": "",
+   "link": "https://t.me/+zPJWfXueshljNTE1",
+   "t": "2026-09-20 04:23:11",
+   "title": "严选君综合福利社"
+  },
+  {
+   "ai": {
+    "amount": "抽奖福利",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "白嫖小仓库"
+   },
+   "d": "",
+   "link": "https://t.me/+B3cgJUBg05U3Yjc1",
+   "t": "2026-09-20 04:23:11",
+   "title": "白嫖小仓库 丨 抽奖福利之家"
+  },
+  {
+   "ai": {
     "amount": "npm tokens",
     "deadline": null,
     "start": null,
