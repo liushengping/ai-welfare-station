@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-09-20",
+ "digest_date": "2026-09-21",
  "feed": [
+  {
+   "ai": {
+    "amount": "AI本地脱敏token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "tokenhush"
+   },
+   "d": "09-21 16:22",
+   "link": "https://meta.appinn.net/t/topic/92195",
+   "t": "2026-09-21 08:43:50",
+   "title": "【开源自荐】tokenhush：AI本地脱敏 - 别让vibecoding泄露密钥给你造成无法挽回的损失"
+  },
   {
    "ai": {
     "amount": "综合福利",
