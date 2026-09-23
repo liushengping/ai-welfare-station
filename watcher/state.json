@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-09-21",
+ "digest_date": "2026-09-23",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费开源",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Everything MCP"
+   },
+   "d": "09-23 10:10",
+   "link": "https://meta.appinn.net/t/topic/92280",
+   "t": "2026-09-23 02:14:09",
+   "title": "【开发自荐】Everything MCP插件:把 Everything 塞给 AI 用(Everything 1.5 插件,免费开源)"
+  },
   {
    "ai": {
     "amount": "AI本地脱敏token",
@@ -554,6 +568,7 @@
   "https://meta.appinn.net/t/topic/92092": "1",
   "https://meta.appinn.net/t/topic/92195": "1",
   "https://meta.appinn.net/t/topic/92276": "1",
+  "https://meta.appinn.net/t/topic/92280": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -672,6 +687,7 @@
   "https://www.ithome.com/1/006/027.htm": "1",
   "https://www.ithome.com/1/006/028.htm": "1",
   "https://www.ithome.com/1/006/068.htm": "1",
+  "https://www.ithome.com/1/006/082.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -697,6 +713,7 @@
   "HuggingFace-博客:afa572b39099": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
   "HuggingFace-博客:d8438412db05": "Welcome Falcon Mamba: The first strong attention-free 7B model",
   "HuggingFace-博客:e55e02c2188c": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "IT之家:065d2d8920bc": "蔚来乐道 L90“星瀚金辉设计套装”发售，限时惊喜价 6000 元",
   "IT之家:06f0bb67ef8c": "微信打击传销、诈骗等违法活动组织者及推广者，违规将处以封群、封号等",
   "IT之家:0baa93a98a45": "Stellantis 发布 BOW 纯电自动驾驶配送概念车：无驾驶室、无具体参数",
   "IT之家:0c8c54adeb7e": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动",
@@ -867,6 +884,7 @@
   "小众软件论坛:5ad7fb9c44e0": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
   "小众软件论坛:5e5e7be2589b": "Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源",
   "小众软件论坛:66a82247d594": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件",
+  "小众软件论坛:71c5f03f0fb0": "【开发自荐】Everything MCP插件:把 Everything 塞给 AI 用(Everything 1.5 插件,免费开源)",
   "小众软件论坛:7a040502bc56": "电脑驱动更新工具 Driver Booster 13 Pro，限时 7 折特惠快入手！",
   "小众软件论坛:7afebfe516db": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具",
   "小众软件论坛:7fdb7b4e8267": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",

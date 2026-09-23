@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费开源",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Everything MCP"
+   },
+   "d": "09-23 10:10",
+   "link": "https://meta.appinn.net/t/topic/92280",
+   "t": "2026-09-23 02:14:09",
+   "title": "【开发自荐】Everything MCP插件:把 Everything 塞给 AI 用(Everything 1.5 插件,免费开源)"
+  },
+  {
+   "ai": {
     "amount": "AI本地脱敏token",
     "deadline": null,
     "start": null,
