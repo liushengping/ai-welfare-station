@@ -15,10 +15,40 @@
    "id": "IT之家:105060d5495f",
    "link": "https://www.ithome.com/1/006/704.htm",
    "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度"
+  },
+  {
+   "_age": 0.0023603981828703704,
+   "ai": {
+    "amount": "游戏免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Epic"
+   },
+   "date": "Thu, 24 Sep 2026 15:05:22 GMT",
+   "date_str": "09-24 23:05",
+   "id": "IT之家:29566b91cda6",
+   "link": "https://www.ithome.com/1/007/036.htm",
+   "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领"
   }
  ],
  "digest_date": "2026-09-24",
  "feed": [
+  {
+   "ai": {
+    "amount": "游戏免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Epic"
+   },
+   "d": "09-24 23:05",
+   "link": "https://www.ithome.com/1/007/036.htm",
+   "t": "2026-09-24 15:10:23",
+   "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领"
+  },
   {
    "ai": {
     "amount": "100~250美元额度",
@@ -760,6 +790,7 @@
   "https://www.ithome.com/1/007/012.htm": "1",
   "https://www.ithome.com/1/007/029.htm": "1",
   "https://www.ithome.com/1/007/033.htm": "1",
+  "https://www.ithome.com/1/007/036.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -808,6 +839,7 @@
   "IT之家:230c335b5861": "卡普空《识质存在》游戏免费 DLC 上线，新增《洛克人》联动内容",
   "IT之家:23884d0d3683": "苹果为 AppleTV 推送 tvOS 27.0 正式版系统更新：全新播客应用、Apple Music 新增高解析度无损音频",
   "IT之家:2778071b05eb": "全新一汽红旗 H7 上市：限时 16.88 万-20.88 万元，2916.171 公里续航刷新吉尼斯纪录",
+  "IT之家:29566b91cda6": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
   "IT之家:2b5155938b9d": "全国日均 Token 词元调用量较两年前实现千倍级增长",
   "IT之家:2b61a81d253a": "国铁 12306：今年 1 至 8 月全国铁路发送旅客 33.2 亿人次同比增长 3.9%，创历史同期新高",
   "IT之家:2cc41b889be0": "启境 GX7 上市 18 小时大定 15,318 台：广汽携手华为乾崑打造，限时权益价 22.99 万起",

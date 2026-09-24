@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "游戏免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Epic"
+   },
+   "d": "09-24 23:05",
+   "link": "https://www.ithome.com/1/007/036.htm",
+   "t": "2026-09-24 15:10:23",
+   "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领"
+  },
+  {
+   "ai": {
     "amount": "100~250美元额度",
     "deadline": null,
     "start": null,
