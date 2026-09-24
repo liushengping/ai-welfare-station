@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "1000 AI点",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "华为"
+   },
+   "d": "09-24 11:45",
+   "link": "https://www.ithome.com/1/006/695.htm",
+   "t": "2026-09-24 03:57:14",
+   "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点"
+  },
+  {
+   "ai": {
     "amount": "免费开源",
     "deadline": null,
     "start": null,

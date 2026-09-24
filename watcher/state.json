@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-09-23",
+ "digest_date": "2026-09-24",
  "feed": [
+  {
+   "ai": {
+    "amount": "1000 AI点",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "华为"
+   },
+   "d": "09-24 11:45",
+   "link": "https://www.ithome.com/1/006/695.htm",
+   "t": "2026-09-24 03:57:14",
+   "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点"
+  },
   {
    "ai": {
     "amount": "免费开源",
@@ -701,6 +715,7 @@
   "https://www.ithome.com/1/006/540.htm": "1",
   "https://www.ithome.com/1/006/551.htm": "1",
   "https://www.ithome.com/1/006/633.htm": "1",
+  "https://www.ithome.com/1/006/695.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -757,6 +772,7 @@
   "IT之家:4234a4eaa5dc": "三星 One UI 9 正式版推送：Galaxy S26 系列首批升级，Z Fold8 已预装",
   "IT之家:43000f67681e": "小米手表 5 推送 OS 3.0.196.0 固件更新，优化微信消息接收",
   "IT之家:434b313d10ac": "小米米家石墨烯暖风机 C 开售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
+  "IT之家:43cc58c33bf7": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点",
   "IT之家:4407bde7898b": "中国嫦娥六号月背月壤样品赠送联合国，将在维也纳永久展出",
   "IT之家:46ddd7734a04": "一汽丰田 RAV4 荣放探野版上市，限时权益价 14.40 万元",
   "IT之家:490769011860": "苹果推送 macOS 27.2 首个公测版：新增 16 段条形音量 / 亮度滑块",
