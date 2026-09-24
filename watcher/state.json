@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.007038015590277778,
+   "ai": {
+    "amount": "100~250美元额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "Anthropic Claude Code"
+   },
+   "date": "Thu, 24 Sep 2026 04:01:11 GMT",
+   "date_str": "09-24 12:01",
+   "id": "IT之家:105060d5495f",
+   "link": "https://www.ithome.com/1/006/704.htm",
+   "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度"
+  }
+ ],
  "digest_date": "2026-09-24",
  "feed": [
+  {
+   "ai": {
+    "amount": "100~250美元额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "Anthropic Claude Code"
+   },
+   "d": "09-24 12:01",
+   "link": "https://www.ithome.com/1/006/704.htm",
+   "t": "2026-09-24 04:12:16",
+   "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度"
+  },
   {
    "ai": {
     "amount": "1000 AI点",
@@ -716,6 +747,7 @@
   "https://www.ithome.com/1/006/551.htm": "1",
   "https://www.ithome.com/1/006/633.htm": "1",
   "https://www.ithome.com/1/006/695.htm": "1",
+  "https://www.ithome.com/1/006/704.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -748,6 +780,7 @@
   "IT之家:0c8c54adeb7e": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动",
   "IT之家:0c8c680d3846": "微软推送 9 月 Win10/Win11 紧急更新，修复远程桌面问题",
   "IT之家:0f8f49b68637": "高德地图上线“张雪安全骑行语音包”：摩托车导航大升级，免费送 820RR 冠军 3D 车标",
+  "IT之家:105060d5495f": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度",
   "IT之家:11d59edd3168": "小米公布澎湃 OS 4 正式版推送计划：10 月 15 日开启首批存量机型推送",
   "IT之家:12efb9b5d4e8": "小牛 NX 风速 Pro 电摩上市：极速突破 100km/h，限时一口价 7399 元",
   "IT之家:13dba46d3da8": "苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新",

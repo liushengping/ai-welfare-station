@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "100~250美元额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "Anthropic Claude Code"
+   },
+   "d": "09-24 12:01",
+   "link": "https://www.ithome.com/1/006/704.htm",
+   "t": "2026-09-24 04:12:16",
+   "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度"
+  },
+  {
+   "ai": {
     "amount": "1000 AI点",
     "deadline": null,
     "start": null,
