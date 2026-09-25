@@ -1,39 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.007038015590277778,
-   "ai": {
-    "amount": "100~250美元额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "Anthropic Claude Code"
-   },
-   "date": "Thu, 24 Sep 2026 04:01:11 GMT",
-   "date_str": "09-24 12:01",
-   "id": "IT之家:105060d5495f",
-   "link": "https://www.ithome.com/1/006/704.htm",
-   "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度"
-  },
-  {
-   "_age": 0.0023603981828703704,
-   "ai": {
-    "amount": "游戏免费",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Epic"
-   },
-   "date": "Thu, 24 Sep 2026 15:05:22 GMT",
-   "date_str": "09-24 23:05",
-   "id": "IT之家:29566b91cda6",
-   "link": "https://www.ithome.com/1/007/036.htm",
-   "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领"
-  }
- ],
- "digest_date": "2026-09-24",
+ "digest": [],
+ "digest_date": "2026-09-25",
  "feed": [
   {
    "ai": {
@@ -647,6 +614,8 @@
   "https://meta.appinn.net/t/topic/92339": "1",
   "https://meta.appinn.net/t/topic/92362": "1",
   "https://meta.appinn.net/t/topic/92368": "1",
+  "https://meta.appinn.net/t/topic/92403": "1",
+  "https://meta.appinn.net/t/topic/92410": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -794,6 +763,7 @@
   "https://www.ithome.com/1/007/049.htm": "1",
   "https://www.ithome.com/1/007/052.htm": "1",
   "https://www.ithome.com/1/007/055.htm": "1",
+  "https://www.ithome.com/1/007/087.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -858,6 +828,7 @@
   "IT之家:434b313d10ac": "小米米家石墨烯暖风机 C 开售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
   "IT之家:43cc58c33bf7": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点",
   "IT之家:4407bde7898b": "中国嫦娥六号月背月壤样品赠送联合国，将在维也纳永久展出",
+  "IT之家:46d13b089afd": "央视披露非正规火车票抢票工具四大套路：“极速加速”不提速、“余票监控”不靠谱、“免费候补”收费卖",
   "IT之家:46ddd7734a04": "一汽丰田 RAV4 荣放探野版上市，限时权益价 14.40 万元",
   "IT之家:490769011860": "苹果推送 macOS 27.2 首个公测版：新增 16 段条形音量 / 亮度滑块",
   "IT之家:4a09d574fb97": "苹果确认下周推送 iOS 27 更新，修复 iPhone18 Pro / Max 自动重启问题",
@@ -1024,11 +995,13 @@
   "小众软件论坛:7afebfe516db": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具",
   "小众软件论坛:7fdb7b4e8267": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
   "小众软件论坛:8fd7be1e0279": "【收集】你电脑里有没有一件\"每个月都要手动重复做一遍\"的操作？我挑几个场景写成免费小工具",
+  "小众软件论坛:a124c5d4405c": "cmdgif：用 npx 把短命令录成 GIF（免费开源，早期测试）",
   "小众软件论坛:a3a509bffc99": "【收集向】免费的 token 们",
   "小众软件论坛:a60f89275382": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了",
   "小众软件论坛:a838465674e9": "QuotaBar：在 Mac 菜单栏和刘海上看 Claude Code / Codex / Cursor 的额度还剩多少",
   "小众软件论坛:a9b5e9f54d6d": "Epic 免费游戏 2026-9-18",
   "小众软件论坛:b29a23f9eef2": "【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、Thread 阅读与内容处理等 40+ 个实用工具",
+  "小众软件论坛:b363f80f337e": "Epic 免费游戏 2026-9-25",
   "小众软件论坛:b55d21a49705": "扫描全能王、夸克扫描王的免费平替：文拍扫描打印",
   "小众软件论坛:c3a40f2ae724": "Radicle - 免费去中心化代码托管，GitHub、GitLab 的替代品",
   "小众软件论坛:cfe5e85e3f5b": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
