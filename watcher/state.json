@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0014940820601851853,
+   "ai": {
+    "amount": "额度重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "Anthropic"
+   },
+   "date": "Fri, 25 Sep 2026 22:37:01 GMT",
+   "date_str": "09-26 06:37",
+   "id": "IT之家:f5116141fe1b",
+   "link": "https://www.ithome.com/1/007/256.htm",
+   "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
+  }
+ ],
  "digest_date": "2026-09-25",
  "feed": [
+  {
+   "ai": {
+    "amount": "额度重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "Anthropic"
+   },
+   "d": "09-26 06:37",
+   "link": "https://www.ithome.com/1/007/256.htm",
+   "t": "2026-09-25 22:40:13",
+   "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
+  },
   {
    "ai": {
     "amount": "游戏免费",
@@ -769,6 +800,7 @@
   "https://www.ithome.com/1/007/133.htm": "1",
   "https://www.ithome.com/1/007/159.htm": "1",
   "https://www.ithome.com/1/007/243.htm": "1",
+  "https://www.ithome.com/1/007/256.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -922,6 +954,7 @@
   "IT之家:efd55c8067db": "小鹏汽车第二代 VLA 全新版本 XOS 6.3.0 开启推送，号称从 3D 空间识别跃迁至 4D 时空理解",
   "IT之家:f0282966a10b": "雷神科技升级售后服务体系：笔记本、显示器、迷你主机全型号免费上门取送机，全流程可视化",
   "IT之家:f45ab041deda": "大众安徽与众 08 猎影版 SUV 上市：纯电续航超 700km，限时权益价 21.99 万元起",
+  "IT之家:f5116141fe1b": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
   "IT之家:f7d813220dd3": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
   "IT之家:f8134c610058": "EA《双人成行》10 月 15 日登陆任天堂 Switch 2：新增好友通行证跨平台功能，部分地区老玩家可免费升级",
   "IT之家:fbd227efd7a0": "华为发布《智能世界 2035》最新报告，预测到 2035 年全球年度 Token 消耗量将增长 10 万倍",

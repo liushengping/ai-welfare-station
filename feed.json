@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "额度重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "Anthropic"
+   },
+   "d": "09-26 06:37",
+   "link": "https://www.ithome.com/1/007/256.htm",
+   "t": "2026-09-25 22:40:13",
+   "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
+  },
+  {
+   "ai": {
     "amount": "游戏免费",
     "deadline": null,
     "start": null,
