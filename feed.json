@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "60美元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "d": "09-26 19:07",
+   "link": "https://www.ithome.com/1/007/421.htm",
+   "t": "2026-09-26 11:33:13",
+   "title": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度"
+  },
+  {
+   "ai": {
     "amount": "7款免费模型",
     "deadline": null,
     "start": null,
