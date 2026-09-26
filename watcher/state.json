@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.0014940820601851853,
-   "ai": {
-    "amount": "额度重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 75,
-    "vendor": "Anthropic"
-   },
-   "date": "Fri, 25 Sep 2026 22:37:01 GMT",
-   "date_str": "09-26 06:37",
-   "id": "IT之家:f5116141fe1b",
-   "link": "https://www.ithome.com/1/007/256.htm",
-   "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
-  }
- ],
- "digest_date": "2026-09-25",
+ "digest": [],
+ "digest_date": "2026-09-26",
  "feed": [
   {
    "ai": {
