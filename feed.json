@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "7款免费模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Hermes"
+   },
+   "d": "09-26 10:30",
+   "link": "https://meta.appinn.net/t/topic/92444",
+   "t": "2026-09-26 03:04:30",
+   "title": "Hermes 提供 7 款免费模型，从安装到选择模型"
+  },
+  {
+   "ai": {
     "amount": "额度重置",
     "deadline": null,
     "start": null,
