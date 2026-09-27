@@ -1,39 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.023646762384259258,
-   "ai": {
-    "amount": "7款免费模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Hermes"
-   },
-   "date": "Sat, 26 Sep 2026 02:30:08 +0000",
-   "date_str": "09-26 10:30",
-   "id": "小众软件论坛:c092e13a9c71",
-   "link": "https://meta.appinn.net/t/topic/92444",
-   "title": "Hermes 提供 7 款免费模型，从安装到选择模型"
-  },
-  {
-   "_age": 0.0174407591087963,
-   "ai": {
-    "amount": "60美元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "date": "Sat, 26 Sep 2026 11:07:36 GMT",
-   "date_str": "09-26 19:07",
-   "id": "IT之家:a34497e4f9e6",
-   "link": "https://www.ithome.com/1/007/421.htm",
-   "title": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度"
-  }
- ],
- "digest_date": "2026-09-26",
+ "digest": [],
+ "digest_date": "2026-09-27",
  "feed": [
   {
    "ai": {
