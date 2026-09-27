@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.006599965046296297,
+   "ai": {
+    "amount": "额度重置卡",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "MiniMax"
+   },
+   "date": "Sun, 27 Sep 2026 07:32:14 GMT",
+   "date_str": "09-27 15:32",
+   "id": "IT之家:4b0341f6ded4",
+   "link": "https://www.ithome.com/1/007/530.htm",
+   "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出"
+  }
+ ],
  "digest_date": "2026-09-27",
  "feed": [
+  {
+   "ai": {
+    "amount": "额度重置卡",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "MiniMax"
+   },
+   "d": "09-27 15:32",
+   "link": "https://www.ithome.com/1/007/530.htm",
+   "t": "2026-09-27 07:42:09",
+   "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出"
+  },
   {
    "ai": {
     "amount": "60美元",
@@ -824,6 +855,7 @@
   "https://www.ithome.com/1/007/422.htm": "1",
   "https://www.ithome.com/1/007/431.htm": "1",
   "https://www.ithome.com/1/007/495.htm": "1",
+  "https://www.ithome.com/1/007/530.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -897,6 +929,7 @@
   "IT之家:46ddd7734a04": "一汽丰田 RAV4 荣放探野版上市，限时权益价 14.40 万元",
   "IT之家:490769011860": "苹果推送 macOS 27.2 首个公测版：新增 16 段条形音量 / 亮度滑块",
   "IT之家:4a09d574fb97": "苹果确认下周推送 iOS 27 更新，修复 iPhone18 Pro / Max 自动重启问题",
+  "IT之家:4b0341f6ded4": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出",
   "IT之家:4b749e21be2c": "索尼向 PS5 玩家发送公开调查问卷，玩家借机吐槽官方停止生产实体光盘计划",
   "IT之家:4bf8a4052558": "吉利银河 TT 上市 15 分钟大定突破 1 万台，限时先享价 12.99 万起",
   "IT之家:4ea8eaaaf0c5": "工信部：车企打“口水战”、互相揭短等网络乱象得到初步治理，将引导规范新车发布和产品测评活动",
