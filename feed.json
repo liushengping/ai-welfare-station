@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "1亿Token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "智谱"
+   },
+   "d": "09-28 11:26",
+   "link": "https://www.ithome.com/1/007/727.htm",
+   "t": "2026-09-28 03:35:42",
+   "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
+  },
+  {
+   "ai": {
     "amount": "额度重置卡",
     "deadline": null,
     "start": null,

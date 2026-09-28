@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.006287117129629629,
+   "ai": {
+    "amount": "1亿Token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "智谱"
+   },
+   "date": "Mon, 28 Sep 2026 03:26:12 GMT",
+   "date_str": "09-28 11:26",
+   "id": "IT之家:dcb9cd2defc0",
+   "link": "https://www.ithome.com/1/007/727.htm",
+   "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
+  }
+ ],
  "digest_date": "2026-09-28",
  "feed": [
+  {
+   "ai": {
+    "amount": "1亿Token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "智谱"
+   },
+   "d": "09-28 11:26",
+   "link": "https://www.ithome.com/1/007/727.htm",
+   "t": "2026-09-28 03:35:42",
+   "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
+  },
   {
    "ai": {
     "amount": "额度重置卡",
@@ -842,6 +873,7 @@
   "https://www.ithome.com/1/007/546.htm": "1",
   "https://www.ithome.com/1/007/562.htm": "1",
   "https://www.ithome.com/1/007/673.htm": "1",
+  "https://www.ithome.com/1/007/727.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -997,6 +1029,7 @@
   "IT之家:d539c7ccf31d": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
   "IT之家:d7fefcf0e030": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
   "IT之家:daadc3aa1ff4": "1999 元飞牛首款 Arm 整机 EVO 4 瑞芯微 RK3588 芯片版上市：支持杜比逐帧色彩调教，赠送 5 年专属高速流量",
+  "IT之家:dcb9cd2defc0": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token",
   "IT之家:ddf357018e5b": "2027 款比亚迪元 UP 飞驰版上市：501km 长续航，限时 6.98~9.98 万元",
   "IT之家:e165c308d9c4": "华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能",
   "IT之家:e20961a9cf56": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费",
