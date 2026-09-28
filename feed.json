@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "单项目激励最高百万",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "字节火山引擎"
+   },
+   "d": "09-28 16:16",
+   "link": "https://www.ithome.com/1/007/867.htm",
+   "t": "2026-09-28 08:23:11",
+   "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
+  },
+  {
+   "ai": {
+    "amount": "$10套餐送6倍DeepSeek额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "OpenCode/Command Code"
+   },
+   "d": "09-28 16:18",
+   "link": "https://meta.appinn.net/t/topic/92564",
+   "t": "2026-09-28 08:23:11",
+   "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
+  },
+  {
+   "ai": {
     "amount": "1亿Token",
     "deadline": null,
     "start": null,
@@ -577,16 +605,6 @@
    "link": "https://linux.do/t/topic/2863478",
    "t": "2026-09-06 17:52:39",
    "title": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$"
-  },
-  {
-   "link": "https://linux.do/t/topic/2863315",
-   "t": "2026-09-06 17:38:23",
-   "title": "刚配置了两个账号到cpa,还没开始用，额度就没了。"
-  },
-  {
-   "link": "https://t.me/+yfJaE4qT7fs5YTk1",
-   "t": "2026-09-06 17:38:23",
-   "title": "SCP || 每日免费节点"
   }
  ]
 }

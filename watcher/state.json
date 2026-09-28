@@ -15,10 +15,70 @@
    "id": "IT之家:dcb9cd2defc0",
    "link": "https://www.ithome.com/1/007/727.htm",
    "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
+  },
+  {
+   "_age": 0.0036091144560185186,
+   "ai": {
+    "amount": "单项目激励最高百万",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "字节火山引擎"
+   },
+   "date": "Mon, 28 Sep 2026 08:16:34 GMT",
+   "date_str": "09-28 16:16",
+   "id": "IT之家:3915470bebab",
+   "link": "https://www.ithome.com/1/007/867.htm",
+   "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
+  },
+  {
+   "_age": 0.0026406863888888887,
+   "ai": {
+    "amount": "$10套餐送6倍DeepSeek额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "OpenCode/Command Code"
+   },
+   "date": "Mon, 28 Sep 2026 08:18:01 +0000",
+   "date_str": "09-28 16:18",
+   "id": "小众软件论坛:a815b6ef47f9",
+   "link": "https://meta.appinn.net/t/topic/92564",
+   "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
   }
  ],
  "digest_date": "2026-09-28",
  "feed": [
+  {
+   "ai": {
+    "amount": "单项目激励最高百万",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "字节火山引擎"
+   },
+   "d": "09-28 16:16",
+   "link": "https://www.ithome.com/1/007/867.htm",
+   "t": "2026-09-28 08:23:11",
+   "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
+  },
+  {
+   "ai": {
+    "amount": "$10套餐送6倍DeepSeek额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "OpenCode/Command Code"
+   },
+   "d": "09-28 16:18",
+   "link": "https://meta.appinn.net/t/topic/92564",
+   "t": "2026-09-28 08:23:11",
+   "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
+  },
   {
    "ai": {
     "amount": "1亿Token",
@@ -596,16 +656,6 @@
    "link": "https://linux.do/t/topic/2863478",
    "t": "2026-09-06 17:52:39",
    "title": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$"
-  },
-  {
-   "link": "https://linux.do/t/topic/2863315",
-   "t": "2026-09-06 17:38:23",
-   "title": "刚配置了两个账号到cpa,还没开始用，额度就没了。"
-  },
-  {
-   "link": "https://t.me/+yfJaE4qT7fs5YTk1",
-   "t": "2026-09-06 17:38:23",
-   "title": "SCP || 每日免费节点"
   }
  ],
  "links": {
@@ -629,6 +679,7 @@
   "https://billing-cost.console.aliyun.com/home/alarm-threshold": "1",
   "https://cloud.siliconflow.cn": "1",
   "https://cloud.siliconflow.cn/me/models": "1",
+  "https://cloud.siliconflow.cn/models": "1",
   "https://cloud.tencent.com/developer/article/1610407": "1",
   "https://cloud.tencent.com/document/product/1823/130053": "1",
   "https://cloud.tencent.com/document/product/1823/130060": "1",
@@ -704,6 +755,7 @@
   "https://meta.appinn.net/t/topic/92403": "1",
   "https://meta.appinn.net/t/topic/92410": "1",
   "https://meta.appinn.net/t/topic/92444": "1",
+  "https://meta.appinn.net/t/topic/92564": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -876,6 +928,7 @@
   "https://www.ithome.com/1/007/727.htm": "1",
   "https://www.ithome.com/1/007/776.htm": "1",
   "https://www.ithome.com/1/007/821.htm": "1",
+  "https://www.ithome.com/1/007/867.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -938,6 +991,7 @@
   "IT之家:35d4fcf8ee45": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
   "IT之家:35f91f26d786": "吉利星瑞 L PLUS i-HEV 启动预售：定位宽体旗舰智混家轿，限时 11.57 万-14.57 万元",
   "IT之家:37dd03ba14da": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
+  "IT之家:3915470bebab": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万",
   "IT之家:3b2d8c0da13a": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
   "IT之家:3be96295fd6c": "尴尬，保时捷向车主发送零跑汽车调查问卷",
   "IT之家:3efaeefd61d9": "《真・三国无双 2 with 猛将传 Remastered》体验版上架 Steam：免费试玩",
@@ -1134,6 +1188,7 @@
   "小众软件论坛:a124c5d4405c": "cmdgif：用 npx 把短命令录成 GIF（免费开源，早期测试）",
   "小众软件论坛:a3a509bffc99": "【收集向】免费的 token 们",
   "小众软件论坛:a60f89275382": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了",
+  "小众软件论坛:a815b6ef47f9": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
   "小众软件论坛:a838465674e9": "QuotaBar：在 Mac 菜单栏和刘海上看 Claude Code / Codex / Cursor 的额度还剩多少",
   "小众软件论坛:a9b5e9f54d6d": "Epic 免费游戏 2026-9-18",
   "小众软件论坛:b29a23f9eef2": "【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、Thread 阅读与内容处理等 40+ 个实用工具",
@@ -1161,6 +1216,7 @@
   "硅基流动-更新公告:86c3a387377a": "\"Model Square\"",
   "硅基流动-更新公告:a40d9161cfdb": "Private LLM Service Gateway",
   "硅基流动-更新公告:b5b37a7a86d5": "https://api-st.siliconflow.cn",
+  "硅基流动-更新公告:c17c376b2f7f": "Models",
   "硅基流动-更新公告:c557582b79bc": "SiliconFlow Official Website",
   "腾讯TokenHub-产品页:837214a8b574": "文档“捉虫”活动检视指定产品文档，发现和反馈有效问题，奖！",
   "腾讯TokenHub-产品页:83c38aa035e1": "新人免费体验包",
