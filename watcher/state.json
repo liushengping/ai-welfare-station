@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.006599965046296297,
-   "ai": {
-    "amount": "额度重置卡",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "MiniMax"
-   },
-   "date": "Sun, 27 Sep 2026 07:32:14 GMT",
-   "date_str": "09-27 15:32",
-   "id": "IT之家:4b0341f6ded4",
-   "link": "https://www.ithome.com/1/007/530.htm",
-   "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出"
-  }
- ],
- "digest_date": "2026-09-27",
+ "digest": [],
+ "digest_date": "2026-09-28",
  "feed": [
   {
    "ai": {
