@@ -1,55 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.006287117129629629,
-   "ai": {
-    "amount": "1亿Token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "智谱"
-   },
-   "date": "Mon, 28 Sep 2026 03:26:12 GMT",
-   "date_str": "09-28 11:26",
-   "id": "IT之家:dcb9cd2defc0",
-   "link": "https://www.ithome.com/1/007/727.htm",
-   "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
-  },
-  {
-   "_age": 0.0036091144560185186,
-   "ai": {
-    "amount": "单项目激励最高百万",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "字节火山引擎"
-   },
-   "date": "Mon, 28 Sep 2026 08:16:34 GMT",
-   "date_str": "09-28 16:16",
-   "id": "IT之家:3915470bebab",
-   "link": "https://www.ithome.com/1/007/867.htm",
-   "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
-  },
-  {
-   "_age": 0.0026406863888888887,
-   "ai": {
-    "amount": "$10套餐送6倍DeepSeek额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "OpenCode/Command Code"
-   },
-   "date": "Mon, 28 Sep 2026 08:18:01 +0000",
-   "date_str": "09-28 16:18",
-   "id": "小众软件论坛:a815b6ef47f9",
-   "link": "https://meta.appinn.net/t/topic/92564",
-   "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
-  }
- ],
- "digest_date": "2026-09-28",
+ "digest": [],
+ "digest_date": "2026-09-29",
  "feed": [
   {
    "ai": {
@@ -756,6 +707,7 @@
   "https://meta.appinn.net/t/topic/92410": "1",
   "https://meta.appinn.net/t/topic/92444": "1",
   "https://meta.appinn.net/t/topic/92564": "1",
+  "https://meta.appinn.net/t/topic/92599": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -939,6 +891,8 @@
   "https://www.ithome.com/1/008/063.htm": "1",
   "https://www.ithome.com/1/008/070.htm": "1",
   "https://www.ithome.com/1/008/081.htm": "1",
+  "https://www.ithome.com/1/008/128.htm": "1",
+  "https://www.ithome.com/1/008/143.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1105,6 +1059,7 @@
   "IT之家:d539c7ccf31d": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
   "IT之家:d7fefcf0e030": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
   "IT之家:daadc3aa1ff4": "1999 元飞牛首款 Arm 整机 EVO 4 瑞芯微 RK3588 芯片版上市：支持杜比逐帧色彩调教，赠送 5 年专属高速流量",
+  "IT之家:dc4aeb7d33e5": "全新华为 FreeBuds Neo 无线耳机开售：智感降噪 + 星闪音频、HarmonyOS 7，首发 669 元",
   "IT之家:dcb9cd2defc0": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token",
   "IT之家:ddf357018e5b": "2027 款比亚迪元 UP 飞驰版上市：501km 长续航，限时 6.98~9.98 万元",
   "IT之家:e0afaab17401": "全新深蓝 S07 AI 激光版上市，限时权益价 14.99 万元起",
@@ -1120,6 +1075,7 @@
   "IT之家:f0282966a10b": "雷神科技升级售后服务体系：笔记本、显示器、迷你主机全型号免费上门取送机，全流程可视化",
   "IT之家:f2ee000144b7": "上汽 MG 07 旅行车谍照曝光，现款限时补贴价 10.59 万元起",
   "IT之家:f45ab041deda": "大众安徽与众 08 猎影版 SUV 上市：纯电续航超 700km，限时权益价 21.99 万元起",
+  "IT之家:f46402a5454f": "限时权益价 11.78 万元，广汽丰田铂智 3X 星云限量版车型上市",
   "IT之家:f5116141fe1b": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
   "IT之家:f7d813220dd3": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
   "IT之家:f8134c610058": "EA《双人成行》10 月 15 日登陆任天堂 Switch 2：新增好友通行证跨平台功能，部分地区老玩家可免费升级",
@@ -1221,6 +1177,7 @@
   "小众软件论坛:e2ff16aad4ee": "Epic 免费游戏 2026-9-11",
   "小众软件论坛:e7624122914e": "能超越macOS原生dock的一款效率软件（内测免费）",
   "小众软件论坛:eb22e355854f": "《你的城来》（Your City Coming）：每天随机收集全世界的城市的免费 Steam 游戏",
+  "小众软件论坛:ef185c68b100": "IResume-一款美观免费的简历制作工具",
   "小众软件论坛:fdec5022efd8": "【软件自荐】MyShell：Mac 上免费的终端和 SSH 客户端，支持 JumpServer 堡垒机，AI 助手可复用已登录的连接",
   "智谱BigModel-活动文档:0316c040575a": "智谱AI开放文档 home page",
   "智谱BigModel-活动文档:0bb44598a7e4": "API Key",
