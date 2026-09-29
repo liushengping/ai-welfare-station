@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0008460360069444445,
+   "ai": {
+    "amount": "Qwen3.8-Flash免费",
+    "deadline": null,
+    "start": "2026-10-01 00:00",
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里"
+   },
+   "date": "Tue, 29 Sep 2026 14:51:10 GMT",
+   "date_str": "09-29 22:51",
+   "id": "IT之家:036d5b3b9e38",
+   "link": "https://www.ithome.com/1/008/506.htm",
+   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
+  }
+ ],
  "digest_date": "2026-09-29",
  "feed": [
+  {
+   "ai": {
+    "amount": "Qwen3.8-Flash免费",
+    "deadline": null,
+    "start": "2026-10-01 00:00",
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里"
+   },
+   "d": "09-29 22:51",
+   "link": "https://www.ithome.com/1/008/506.htm",
+   "t": "2026-09-29 14:52:49",
+   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
+  },
   {
    "ai": {
     "amount": "单项目激励最高百万",
@@ -602,11 +633,6 @@
    "link": "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota",
    "t": "2026-09-11 10:21:06",
    "title": "免费额度用完即停"
-  },
-  {
-   "link": "https://linux.do/t/topic/2863478",
-   "t": "2026-09-06 17:52:39",
-   "title": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$"
   }
  ],
  "links": {
@@ -898,6 +924,7 @@
   "https://www.ithome.com/1/008/427.htm": "1",
   "https://www.ithome.com/1/008/477.htm": "1",
   "https://www.ithome.com/1/008/487.htm": "1",
+  "https://www.ithome.com/1/008/506.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -925,6 +952,7 @@
   "HuggingFace-博客:e55e02c2188c": "Thinking of ACE? We Can Do It with Fewer Tokens",
   "IT之家:021043be6fde": "新款马自达 EZ-60 激光版上市，限时价 11.39 万元起",
   "IT之家:02c3c0344281": "中秋假期最后一天，全国铁路预计发送旅客 1686 万人次",
+  "IT之家:036d5b3b9e38": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
   "IT之家:065d2d8920bc": "蔚来乐道 L90“星瀚金辉设计套装”发售，限时惊喜价 6000 元",
   "IT之家:06f0bb67ef8c": "微信打击传销、诈骗等违法活动组织者及推广者，违规将处以封群、封号等",
   "IT之家:07c7205db14c": "2026 年度 Steam 秋季特卖计划活动将于 10 月 2 日开启，预计持续一周至 10 月 9 日结束",

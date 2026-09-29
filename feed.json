@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Qwen3.8-Flash免费",
+    "deadline": null,
+    "start": "2026-10-01 00:00",
+    "urgent": false,
+    "value": 80,
+    "vendor": "阿里"
+   },
+   "d": "09-29 22:51",
+   "link": "https://www.ithome.com/1/008/506.htm",
+   "t": "2026-09-29 14:52:49",
+   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
+  },
+  {
+   "ai": {
     "amount": "单项目激励最高百万",
     "deadline": null,
     "start": null,
@@ -600,11 +614,6 @@
    "link": "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota",
    "t": "2026-09-11 10:21:06",
    "title": "免费额度用完即停"
-  },
-  {
-   "link": "https://linux.do/t/topic/2863478",
-   "t": "2026-09-06 17:52:39",
-   "title": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$"
   }
  ]
 }
