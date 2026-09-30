@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.0008460360069444445,
-   "ai": {
-    "amount": "Qwen3.8-Flash免费",
-    "deadline": null,
-    "start": "2026-10-01 00:00",
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里"
-   },
-   "date": "Tue, 29 Sep 2026 14:51:10 GMT",
-   "date_str": "09-29 22:51",
-   "id": "IT之家:036d5b3b9e38",
-   "link": "https://www.ithome.com/1/008/506.htm",
-   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
-  }
- ],
- "digest_date": "2026-09-29",
+ "digest": [],
+ "digest_date": "2026-09-30",
  "feed": [
   {
    "ai": {
@@ -927,6 +910,8 @@
   "https://www.ithome.com/1/008/506.htm": "1",
   "https://www.ithome.com/1/008/539.htm": "1",
   "https://www.ithome.com/1/008/541.htm": "1",
+  "https://www.ithome.com/1/008/587.htm": "1",
+  "https://www.ithome.com/1/008/615.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1011,6 +996,7 @@
   "IT之家:4ea8eaaaf0c5": "工信部：车企打“口水战”、互相揭短等网络乱象得到初步治理，将引导规范新车发布和产品测评活动",
   "IT之家:4eefe95656c4": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
   "IT之家:54266506e13e": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
+  "IT之家:54c97a8db418": "全国铁路今天预计发送旅客 1976 万人次、加开列车 2053 列",
   "IT之家:57766dc8e910": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
   "IT之家:59d92257327d": "长安启源 Q06 车型上市：首搭天枢领航高阶智能驾驶辅助，限时权益价 13.59 万元起",
   "IT之家:5a739b237163": "Steam 喜加一：原价 29 元太空即时战略游戏《Space Menace》免费领",
@@ -1045,6 +1031,7 @@
   "IT之家:7e6325663b12": "谷歌推送安卓 17 QPR2 Beta 6 更新：重点修复 Pixel 9 Pro Fold 手机异常重启问题",
   "IT之家:81f40030a665": "苹果向 AirPods 5 等耳机推送 Beta 固件 9B5042a",
   "IT之家:846189d8672f": "123 云盘新增专业空间：原空间更名为标准空间，老用户免费配额为 50GB + 2TB",
+  "IT之家:85855301b61e": "《007 初露锋芒》官宣免费 DLC 明日上线",
   "IT之家:858ee673e8dd": "俄罗斯“进步 MS-35”货运飞船与国际空间站对接，将送去超 2.4 吨货物",
   "IT之家:87bc3ff96845": "索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元",
   "IT之家:8a718d9fb732": "Steam 喜加一：休闲合成类游戏《Sputnika Game》转付费前免费领",
