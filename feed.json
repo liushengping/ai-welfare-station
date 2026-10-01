@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "三款免费游戏",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "索尼"
+   },
+   "d": "10-01 14:47",
+   "link": "https://www.ithome.com/1/009/066.htm",
+   "t": "2026-10-01 06:59:42",
+   "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏"
+  },
+  {
+   "ai": {
+    "amount": "毛绒玩具与贴纸",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 10,
+    "vendor": "Anthropic"
+   },
+   "d": "10-01 14:56",
+   "link": "https://www.ithome.com/1/009/069.htm",
+   "t": "2026-10-01 06:59:42",
+   "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份"
+  },
+  {
+   "ai": {
     "amount": "Qwen3.8-Flash免费",
     "deadline": null,
     "start": "2026-10-01 00:00",
@@ -604,16 +632,6 @@
    "link": "https://meta.appinn.net/t/topic/91523",
    "t": "2026-09-11 10:21:06",
    "title": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91513",
-   "t": "2026-09-11 10:21:06",
-   "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折"
-  },
-  {
-   "link": "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota",
-   "t": "2026-09-11 10:21:06",
-   "title": "免费额度用完即停"
   }
  ]
 }

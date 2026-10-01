@@ -1,7 +1,35 @@
 {
  "digest": [],
- "digest_date": "2026-09-30",
+ "digest_date": "2026-10-01",
  "feed": [
+  {
+   "ai": {
+    "amount": "三款免费游戏",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "索尼"
+   },
+   "d": "10-01 14:47",
+   "link": "https://www.ithome.com/1/009/066.htm",
+   "t": "2026-10-01 06:59:42",
+   "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏"
+  },
+  {
+   "ai": {
+    "amount": "毛绒玩具与贴纸",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 10,
+    "vendor": "Anthropic"
+   },
+   "d": "10-01 14:56",
+   "link": "https://www.ithome.com/1/009/069.htm",
+   "t": "2026-10-01 06:59:42",
+   "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份"
+  },
   {
    "ai": {
     "amount": "Qwen3.8-Flash免费",
@@ -606,16 +634,6 @@
    "link": "https://meta.appinn.net/t/topic/91523",
    "t": "2026-09-11 10:21:06",
    "title": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91513",
-   "t": "2026-09-11 10:21:06",
-   "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折"
-  },
-  {
-   "link": "https://bailian.console.aliyun.com/cn-beijing/costing-balance/free-quota",
-   "t": "2026-09-11 10:21:06",
-   "title": "免费额度用完即停"
   }
  ],
  "links": {
@@ -918,6 +936,9 @@
   "https://www.ithome.com/1/008/879.htm": "1",
   "https://www.ithome.com/1/008/892.htm": "1",
   "https://www.ithome.com/1/008/942.htm": "1",
+  "https://www.ithome.com/1/009/066.htm": "1",
+  "https://www.ithome.com/1/009/068.htm": "1",
+  "https://www.ithome.com/1/009/069.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1014,6 +1035,7 @@
   "IT之家:5eda91d18977": "微软推送 Win11 26H1 九月可选更新：任务栏可四边贴靠 / 开始菜单支持“小”尺寸",
   "IT之家:6026ef9b1af5": "微软推送更新修复 Excel 2016 复制 / 粘贴功能失效问题",
   "IT之家:60811d45ffbf": "特斯拉向北美 HW3 版 Model S/X 推送 FSD v14.2 Lite",
+  "IT之家:639ebb9eec1c": "把键盘做成传送带，谷歌 Gboard 日本团队一年一度的整活来了",
   "IT之家:6511faebb268": "送别“济公”！表演艺术家游本昌今晨去世，享年 93 岁",
   "IT之家:65e45fdb22f2": "“问界大饭店”回归，推出免费错峰洗车 / 加玻璃水、餐饮等服务",
   "IT之家:66de9b85e8b1": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
@@ -1039,6 +1061,7 @@
   "IT之家:7d6fa45993ae": "苹果 watchOS 27.0.1 发布：向 Apple Watch Series 9 及后续表款推送",
   "IT之家:7dbaa3b5acc8": "京东方：玻璃基封装载板试验线全线拉通，24 层产品已送客户验证",
   "IT之家:7e6325663b12": "谷歌推送安卓 17 QPR2 Beta 6 更新：重点修复 Pixel 9 Pro Fold 手机异常重启问题",
+  "IT之家:7edaeb8a119e": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份",
   "IT之家:81f40030a665": "苹果向 AirPods 5 等耳机推送 Beta 固件 9B5042a",
   "IT之家:846189d8672f": "123 云盘新增专业空间：原空间更名为标准空间，老用户免费配额为 50GB + 2TB",
   "IT之家:85855301b61e": "《007 初露锋芒》官宣免费 DLC 明日上线",
@@ -1109,6 +1132,7 @@
   "IT之家:e4626caeb4c8": "别克至境 E7 焕新版上市：插混纯电续航 235km，限时置换价 14.79 万起",
   "IT之家:e7a448277f95": "亚马逊今年将为配送小哥部署 5000 台智能眼镜：不用手机就能看导航和送货指引",
   "IT之家:eaec041611ad": "中秋假期首日，全国铁路预计发送旅客 2234 万人次",
+  "IT之家:eb941a1af41f": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏",
   "IT之家:ef64ef1b0779": "曼联联名微软 Surface Laptop 亮相：搭载高通骁龙 X2 Elite，仅限抽签赠送",
   "IT之家:efd55c8067db": "小鹏汽车第二代 VLA 全新版本 XOS 6.3.0 开启推送，号称从 3D 空间识别跃迁至 4D 时空理解",
   "IT之家:f0282966a10b": "雷神科技升级售后服务体系：笔记本、显示器、迷你主机全型号免费上门取送机，全流程可视化",
