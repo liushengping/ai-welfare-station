@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Colab 订阅 (A100 GPU)",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google Gemini"
+   },
+   "d": "10-06 21:18",
+   "link": "https://meta.appinn.net/t/topic/92983",
+   "t": "2026-10-06 13:20:04",
+   "title": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU"
+  },
+  {
+   "ai": {
     "amount": "三款免费游戏",
     "deadline": null,
     "start": null,
@@ -627,11 +641,6 @@
    "link": "https://meta.appinn.net/t/topic/91551",
    "t": "2026-09-11 10:21:06",
    "title": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91523",
-   "t": "2026-09-11 10:21:06",
-   "title": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-01",
+ "digest_date": "2026-10-06",
  "feed": [
+  {
+   "ai": {
+    "amount": "Colab 订阅 (A100 GPU)",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google Gemini"
+   },
+   "d": "10-06 21:18",
+   "link": "https://meta.appinn.net/t/topic/92983",
+   "t": "2026-10-06 13:20:04",
+   "title": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU"
+  },
   {
    "ai": {
     "amount": "三款免费游戏",
@@ -629,11 +643,6 @@
    "link": "https://meta.appinn.net/t/topic/91551",
    "t": "2026-09-11 10:21:06",
    "title": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91523",
-   "t": "2026-09-11 10:21:06",
-   "title": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件"
   }
  ],
  "links": {
@@ -746,6 +755,7 @@
   "https://meta.appinn.net/t/topic/92899": "1",
   "https://meta.appinn.net/t/topic/92951": "1",
   "https://meta.appinn.net/t/topic/92953": "1",
+  "https://meta.appinn.net/t/topic/92983": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1311,6 +1321,7 @@
   "小众软件论坛:a815b6ef47f9": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
   "小众软件论坛:a838465674e9": "QuotaBar：在 Mac 菜单栏和刘海上看 Claude Code / Codex / Cursor 的额度还剩多少",
   "小众软件论坛:a9b5e9f54d6d": "Epic 免费游戏 2026-9-18",
+  "小众软件论坛:b1e327c8ea74": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU",
   "小众软件论坛:b29a23f9eef2": "【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、Thread 阅读与内容处理等 40+ 个实用工具",
   "小众软件论坛:b363f80f337e": "Epic 免费游戏 2026-9-25",
   "小众软件论坛:b55d21a49705": "扫描全能王、夸克扫描王的免费平替：文拍扫描打印",
