@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费漏洞扫描服务",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Anthropic"
+   },
+   "d": "10-09 14:08",
+   "link": "https://www.ithome.com/1/010/922.htm",
+   "t": "2026-10-09 06:18:59",
+   "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
+  },
+  {
+   "ai": {
     "amount": "Colab 订阅 (A100 GPU)",
     "deadline": null,
     "start": null,
@@ -636,11 +650,6 @@
    "link": "https://developer.amd.com.cn/radeon/tokenfactory",
    "t": "2026-09-11 10:21:06",
    "title": "https://developer.amd.com.cn/radeon/tokenfactory"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91551",
-   "t": "2026-09-11 10:21:06",
-   "title": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了"
   }
  ]
 }

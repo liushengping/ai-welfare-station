@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-06",
+ "digest_date": "2026-10-09",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费漏洞扫描服务",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Anthropic"
+   },
+   "d": "10-09 14:08",
+   "link": "https://www.ithome.com/1/010/922.htm",
+   "t": "2026-10-09 06:18:59",
+   "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
+  },
   {
    "ai": {
     "amount": "Colab 订阅 (A100 GPU)",
@@ -638,11 +652,6 @@
    "link": "https://developer.amd.com.cn/radeon/tokenfactory",
    "t": "2026-09-11 10:21:06",
    "title": "https://developer.amd.com.cn/radeon/tokenfactory"
-  },
-  {
-   "link": "https://meta.appinn.net/t/topic/91551",
-   "t": "2026-09-11 10:21:06",
-   "title": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了"
   }
  ],
  "links": {
@@ -1011,6 +1020,7 @@
   "https://www.ithome.com/1/010/819.htm": "1",
   "https://www.ithome.com/1/010/856.htm": "1",
   "https://www.ithome.com/1/010/857.htm": "1",
+  "https://www.ithome.com/1/010/922.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1159,6 +1169,7 @@
   "IT之家:85855301b61e": "《007 初露锋芒》官宣免费 DLC 明日上线",
   "IT之家:858ee673e8dd": "俄罗斯“进步 MS-35”货运飞船与国际空间站对接，将送去超 2.4 吨货物",
   "IT之家:87bc3ff96845": "索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元",
+  "IT之家:895167636a8b": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞",
   "IT之家:8a718d9fb732": "Steam 喜加一：休闲合成类游戏《Sputnika Game》转付费前免费领",
   "IT之家:8ae0f21725e5": "华为推送鸿蒙 HarmonyOS 7.0.0.109 新补丁包，实装多设备互助通信共享功能",
   "IT之家:8b0477e18c6d": "iPhone 18 Pro / Max 全球发售，特努斯出席苹果第五大道店首发活动",
