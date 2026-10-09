@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费标签批量打印工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "新途福"
+   },
+   "d": "10-09 20:30",
+   "link": "https://meta.appinn.net/t/topic/93193",
+   "t": "2026-10-09 12:36:14",
+   "title": "新途福标签打印软件 - 免费标签批量打印工具"
+  },
+  {
+   "ai": {
     "amount": "免费漏洞扫描服务",
     "deadline": null,
     "start": null,
@@ -645,11 +659,6 @@
    "link": "https://linux.do/t/topic/2887970",
    "t": "2026-09-11 10:21:06",
    "title": "claude网页端灰度了全新的额度界面"
-  },
-  {
-   "link": "https://developer.amd.com.cn/radeon/tokenfactory",
-   "t": "2026-09-11 10:21:06",
-   "title": "https://developer.amd.com.cn/radeon/tokenfactory"
   }
  ]
 }

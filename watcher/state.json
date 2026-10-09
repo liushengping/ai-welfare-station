@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.003539496261574074,
+   "ai": {
+    "amount": "免费标签批量打印工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "新途福"
+   },
+   "date": "Fri, 09 Oct 2026 12:30:16 +0000",
+   "date_str": "10-09 20:30",
+   "id": "小众软件论坛:e5db38ea8bec",
+   "link": "https://meta.appinn.net/t/topic/93193",
+   "title": "新途福标签打印软件 - 免费标签批量打印工具"
+  }
+ ],
  "digest_date": "2026-10-09",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费标签批量打印工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "新途福"
+   },
+   "d": "10-09 20:30",
+   "link": "https://meta.appinn.net/t/topic/93193",
+   "t": "2026-10-09 12:36:14",
+   "title": "新途福标签打印软件 - 免费标签批量打印工具"
+  },
   {
    "ai": {
     "amount": "免费漏洞扫描服务",
@@ -647,11 +678,6 @@
    "link": "https://linux.do/t/topic/2887970",
    "t": "2026-09-11 10:21:06",
    "title": "claude网页端灰度了全新的额度界面"
-  },
-  {
-   "link": "https://developer.amd.com.cn/radeon/tokenfactory",
-   "t": "2026-09-11 10:21:06",
-   "title": "https://developer.amd.com.cn/radeon/tokenfactory"
   }
  ],
  "links": {
@@ -770,6 +796,7 @@
   "https://meta.appinn.net/t/topic/93099": "1",
   "https://meta.appinn.net/t/topic/93142": "1",
   "https://meta.appinn.net/t/topic/93153": "1",
+  "https://meta.appinn.net/t/topic/93193": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1403,6 +1430,7 @@
   "小众软件论坛:db40ff6e2abc": "【开发者自荐】Kontur：免费开源的项目看板，方便人与 AI 代理接续工作",
   "小众软件论坛:dcecfce768b7": "声迹 LocalScribe：免费的 Mac 本地音视频转文字与字幕工具",
   "小众软件论坛:e2ff16aad4ee": "Epic 免费游戏 2026-9-11",
+  "小众软件论坛:e5db38ea8bec": "新途福标签打印软件 - 免费标签批量打印工具",
   "小众软件论坛:e63761560006": "2026年10月9日起，Gemini网页版和App免费用户只能使用Flash-Lite，Plus会员只能使用Flash-Lite和Flash",
   "小众软件论坛:e7624122914e": "能超越macOS原生dock的一款效率软件（内测免费）",
   "小众软件论坛:eb22e355854f": "《你的城来》（Your City Coming）：每天随机收集全世界的城市的免费 Steam 游戏",
