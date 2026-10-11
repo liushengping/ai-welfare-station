@@ -1,7 +1,7 @@
 name: welfare-radar
 
 # GitHub 会把高频 cron 降频到 ~4次/天，因此采用"循环驻留"模式：
-# 每次被调度后，在 Runner 内部每 15 分钟抓一轮、连续驻留约 5.9 小时（job 上限 6h）。
+# 每次被调度后，在 Runner 内部每 15 分钟抓一轮、连续驻留约 5.5 小时（step 上限 350 分钟，留余量防收尾超时）。
 # 4 次/天 × ~23 轮 ≈ 90+ 次检查/天 ≈ 真·15分钟节奏。公共仓库 Actions 免费不计费。
 on:
   schedule:
@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "welfare-bot"
           git config user.email "actions@users.noreply.github.com"
-          END=$(( $(date -u +%s) + 21000 ))   # 驻留约 5 小时 50 分钟（job 上限 6h）
+          END=$(( $(date -u +%s) + 19800 ))   # 驻留约 5 小时 30 分钟；必须 < step 超时 350 分钟，留 20 分钟余量，否则最后一轮收尾撞线被强杀标 failure
           i=0
           while [ $(date -u +%s) -lt $END ]; do
             i=$((i+1))
