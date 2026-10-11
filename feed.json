@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "NonsPlayer"
+   },
+   "d": "10-11 22:41",
+   "link": "https://meta.appinn.net/t/topic/93341",
+   "t": "2026-10-11 15:03:04",
+   "title": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器"
+  },
+  {
+   "ai": {
     "amount": "免费标签批量打印工具",
     "deadline": null,
     "start": null,
@@ -654,11 +668,6 @@
    "link": "https://linux.do/t/topic/2887991",
    "t": "2026-09-11 10:21:06",
    "title": "WorkBuddy 美团优惠券是不是额度变低了"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887970",
-   "t": "2026-09-11 10:21:06",
-   "title": "claude网页端灰度了全新的额度界面"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-10",
+ "digest_date": "2026-10-11",
  "feed": [
+  {
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "NonsPlayer"
+   },
+   "d": "10-11 22:41",
+   "link": "https://meta.appinn.net/t/topic/93341",
+   "t": "2026-10-11 15:03:04",
+   "title": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器"
+  },
   {
    "ai": {
     "amount": "免费标签批量打印工具",
@@ -656,11 +670,6 @@
    "link": "https://linux.do/t/topic/2887991",
    "t": "2026-09-11 10:21:06",
    "title": "WorkBuddy 美团优惠券是不是额度变低了"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887970",
-   "t": "2026-09-11 10:21:06",
-   "title": "claude网页端灰度了全新的额度界面"
   }
  ],
  "links": {
@@ -785,6 +794,7 @@
   "https://meta.appinn.net/t/topic/93296": "1",
   "https://meta.appinn.net/t/topic/93314": "1",
   "https://meta.appinn.net/t/topic/93323": "1",
+  "https://meta.appinn.net/t/topic/93341": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1063,6 +1073,7 @@
   "https://www.ithome.com/1/011/649.htm": "1",
   "https://www.ithome.com/1/011/690.htm": "1",
   "https://www.ithome.com/1/011/705.htm": "1",
+  "https://www.ithome.com/1/011/712.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1191,6 +1202,7 @@
   "IT之家:66b234f6d60e": "Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能",
   "IT之家:66de9b85e8b1": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
   "IT之家:68dbe8676cbd": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
+  "IT之家:696b43e910c0": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
   "IT之家:6d26142758be": "长安启源 Q06 上市 24 小时累计订单突破 3.5 万台，限时权益价 13.59 万元起",
   "IT之家:6eac672a478a": "创企 TakeMe2Space 将用 SpaceX 火箭送星上天，号称印度首颗轨道计算卫星",
   "IT之家:6fce914498b9": "启境 GX7 上市：华为七大汽车智能化解决方案加持，限时权益价 22.99 万-29.19 万元",
@@ -1443,6 +1455,7 @@
   "小众软件论坛:a815b6ef47f9": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
   "小众软件论坛:a838465674e9": "QuotaBar：在 Mac 菜单栏和刘海上看 Claude Code / Codex / Cursor 的额度还剩多少",
   "小众软件论坛:a9b5e9f54d6d": "Epic 免费游戏 2026-9-18",
+  "小众软件论坛:aca31b97ac5b": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器",
   "小众软件论坛:b1e327c8ea74": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU",
   "小众软件论坛:b29a23f9eef2": "【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、Thread 阅读与内容处理等 40+ 个实用工具",
   "小众软件论坛:b363f80f337e": "Epic 免费游戏 2026-9-25",
