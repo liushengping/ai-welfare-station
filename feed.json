@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "Token套餐",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "MiniMax"
+   },
+   "d": "10-13 10:34",
+   "link": "https://www.ithome.com/1/012/198.htm",
+   "t": "2026-10-13 05:02:56",
+   "title": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐"
+  },
+  {
+   "ai": {
+    "amount": "免费更换刹车踏板",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "尊界"
+   },
+   "d": "10-13 12:00",
+   "link": "https://www.ithome.com/1/012/274.htm",
+   "t": "2026-10-13 05:02:56",
+   "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
+  },
+  {
+   "ai": {
     "amount": "null",
     "deadline": null,
     "start": null,
@@ -658,16 +686,6 @@
    "link": "https://linux.do/t/topic/2884724",
    "t": "2026-09-11 10:21:06",
    "title": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20"
-  },
-  {
-   "link": "https://linux.do/t/topic/2888028",
-   "t": "2026-09-11 10:21:06",
-   "title": "chatgpt的额度怎么兑换到codex的池子中"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887991",
-   "t": "2026-09-11 10:21:06",
-   "title": "WorkBuddy 美团优惠券是不是额度变低了"
   }
  ]
 }

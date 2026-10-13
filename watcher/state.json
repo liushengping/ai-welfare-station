@@ -1,7 +1,35 @@
 {
  "digest": [],
- "digest_date": "2026-10-11",
+ "digest_date": "2026-10-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "Token套餐",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 20,
+    "vendor": "MiniMax"
+   },
+   "d": "10-13 10:34",
+   "link": "https://www.ithome.com/1/012/198.htm",
+   "t": "2026-10-13 05:02:56",
+   "title": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐"
+  },
+  {
+   "ai": {
+    "amount": "免费更换刹车踏板",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "尊界"
+   },
+   "d": "10-13 12:00",
+   "link": "https://www.ithome.com/1/012/274.htm",
+   "t": "2026-10-13 05:02:56",
+   "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
+  },
   {
    "ai": {
     "amount": "null",
@@ -660,16 +688,6 @@
    "link": "https://linux.do/t/topic/2884724",
    "t": "2026-09-11 10:21:06",
    "title": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20"
-  },
-  {
-   "link": "https://linux.do/t/topic/2888028",
-   "t": "2026-09-11 10:21:06",
-   "title": "chatgpt的额度怎么兑换到codex的池子中"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887991",
-   "t": "2026-09-11 10:21:06",
-   "title": "WorkBuddy 美团优惠券是不是额度变低了"
   }
  ],
  "links": {
@@ -1088,6 +1106,8 @@
   "https://www.ithome.com/1/012/006.htm": "1",
   "https://www.ithome.com/1/012/105.htm": "1",
   "https://www.ithome.com/1/012/137.htm": "1",
+  "https://www.ithome.com/1/012/198.htm": "1",
+  "https://www.ithome.com/1/012/274.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1288,6 +1308,7 @@
   "IT之家:a72c00ee8a47": "大众安徽与众 08 猎影版 SUV 开启交付，限时权益价 21.99 万起",
   "IT之家:a8090fea05cc": "IT早报 1002：5999 元起华为 Mate 90 系列旗舰手机发布；2026 年 9 月车企销量交付汇总；华为与赛力斯达成新五年合作；曝苹果 HomeHub 宣传物料已送往苹果门店...",
   "IT之家:a85098e8daab": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
+  "IT之家:ac36e6ad3ab3": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板",
   "IT之家:ac5bcb88452f": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起",
   "IT之家:acc9355990be": "Steam 喜加一：策略游戏《Save the Earth》转付费前免费领",
   "IT之家:afd2d80dfbcd": "谷歌向 Pixel 11 等手机推送安卓 17 QPR3 Beta 1，修复指纹解锁死机问题",
@@ -1319,6 +1340,7 @@
   "IT之家:c619adbdbced": "Steam 喜加一：地下城 RPG《Endor Awakens：Roguelite DRPG》转付费前免费领",
   "IT之家:c6bf0ba468b7": "爱好者自制天气时钟：基于 Freenove FNK0103S 开发板、可选装人在传感器",
   "IT之家:c7a5b8417370": "V社为 SteamVR 推送界面更新，引入 Steam Deck 风格 UI",
+  "IT之家:c96d0810e223": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐",
   "IT之家:caeb62898b2b": "芝奇保修政策获用户称赞：内存价值暴涨 8 倍仍免费换新",
   "IT之家:ce025dcd2e08": "荣耀与中国移动联合首发 Token 套餐：169 元 / 月起，能用话费支付",
   "IT之家:ce2907cfcc73": "特斯拉 10 月 1 日举办全新活动，展示新一代 Roadster 超跑",
