@@ -31,10 +31,40 @@
    "id": "小众软件论坛:3f754c8b0505",
    "link": "https://meta.appinn.net/t/topic/93627",
    "title": "DeepSeek为上午的宕机，补偿了7天的token"
+  },
+  {
+   "_age": 0.006861149328703704,
+   "ai": {
+    "amount": "DeepSeek V4.1 Flash模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "date": "Thu, 15 Oct 2026 09:49:00 +0000",
+   "date_str": "10-15 17:49",
+   "id": "小众软件论坛:e780a021aed2",
+   "link": "https://meta.appinn.net/t/topic/93628",
+   "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型"
   }
  ],
  "digest_date": "2026-10-15",
  "feed": [
+  {
+   "ai": {
+    "amount": "DeepSeek V4.1 Flash模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "d": "10-15 17:49",
+   "link": "https://meta.appinn.net/t/topic/93628",
+   "t": "2026-10-15 09:59:15",
+   "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型"
+  },
   {
    "ai": {
     "amount": "7天token",
@@ -743,11 +773,6 @@
    "link": "https://linux.do/t/topic/2885037",
    "t": "2026-09-11 10:21:06",
    "title": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885035",
-   "t": "2026-09-11 10:21:06",
-   "title": "免费麦当劳琵琶腿"
   }
  ],
  "links": {
@@ -882,6 +907,7 @@
   "https://meta.appinn.net/t/topic/93521": "1",
   "https://meta.appinn.net/t/topic/93606": "1",
   "https://meta.appinn.net/t/topic/93627": "1",
+  "https://meta.appinn.net/t/topic/93628": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1650,6 +1676,7 @@
   "小众软件论坛:e5db38ea8bec": "新途福标签打印软件 - 免费标签批量打印工具",
   "小众软件论坛:e63761560006": "2026年10月9日起，Gemini网页版和App免费用户只能使用Flash-Lite，Plus会员只能使用Flash-Lite和Flash",
   "小众软件论坛:e7624122914e": "能超越macOS原生dock的一款效率软件（内测免费）",
+  "小众软件论坛:e780a021aed2": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
   "小众软件论坛:eb22e355854f": "《你的城来》（Your City Coming）：每天随机收集全世界的城市的免费 Steam 游戏",
   "小众软件论坛:eb864fc5cf0f": "【开发者自荐】nopaywall：整理免费 AI 额度、免费 API 和付费工具替代品的目录",
   "小众软件论坛:ef185c68b100": "IResume-一款美观免费的简历制作工具",

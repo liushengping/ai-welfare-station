@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "DeepSeek V4.1 Flash模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "d": "10-15 17:49",
+   "link": "https://meta.appinn.net/t/topic/93628",
+   "t": "2026-10-15 09:59:15",
+   "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型"
+  },
+  {
+   "ai": {
     "amount": "7天token",
     "deadline": null,
     "start": null,
@@ -708,11 +722,6 @@
    "link": "https://linux.do/t/topic/2885037",
    "t": "2026-09-11 10:21:06",
    "title": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885035",
-   "t": "2026-09-11 10:21:06",
-   "title": "免费麦当劳琵琶腿"
   }
  ]
 }
