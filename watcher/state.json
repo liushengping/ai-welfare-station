@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-13",
+ "digest_date": "2026-10-15",
  "feed": [
+  {
+   "ai": {
+    "amount": "100万token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "阶跃"
+   },
+   "d": "10-15 11:22",
+   "link": "https://www.ithome.com/1/013/268.htm",
+   "t": "2026-10-15 03:32:51",
+   "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口"
+  },
   {
    "ai": {
     "amount": "Token套餐",
@@ -683,11 +697,6 @@
    "link": "https://linux.do/t/topic/2884828",
    "t": "2026-09-11 10:21:06",
    "title": "白嫖cursor搞定！上图！用的被佬友唾弃的edu"
-  },
-  {
-   "link": "https://linux.do/t/topic/2884724",
-   "t": "2026-09-11 10:21:06",
-   "title": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20"
   }
  ],
  "links": {
@@ -1134,6 +1143,8 @@
   "https://www.ithome.com/1/013/098.htm": "1",
   "https://www.ithome.com/1/013/181.htm": "1",
   "https://www.ithome.com/1/013/185.htm": "1",
+  "https://www.ithome.com/1/013/261.htm": "1",
+  "https://www.ithome.com/1/013/268.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1196,6 +1207,7 @@
   "IT之家:1a6a71b1ec6c": "限时 9.29 万元起、混动燃油双动力，吉利全新第四代博越 L 上市",
   "IT之家:1b37d3770cef": "英伟达 DLSS 5 最新模型 10 月 16 日推送：性能相比 9 月翻倍，4K 显存占用降低 20%",
   "IT之家:1c42d6efabf9": "CDPR 给 XBOX 玩家送福利：《巫师 3：重制版》将加入 Play Anywhere",
+  "IT之家:1ca08deafd4d": "小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等",
   "IT之家:1eed4af14eee": "荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送",
   "IT之家:1fdb105e6d84": "英特尔为第 11~14 代酷睿处理器核显推送 7092 驱动，修复《永劫无间》问题",
   "IT之家:230c335b5861": "卡普空《识质存在》游戏免费 DLC 上线，新增《洛克人》联动内容",
@@ -1355,6 +1367,7 @@
   "IT之家:affcc8f4df73": "海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求",
   "IT之家:b054b60cbe4c": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
   "IT之家:b0a735259b7a": "鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级",
+  "IT之家:b0d41e7faab4": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口",
   "IT之家:b2871c7e520f": "奕境 X9 正式上市：满配华为乾崑全栈智能，限时优惠价 27.98 万-35.98 万元",
   "IT之家:b3b15b410ea3": "比亚迪大唐首次 OTA 开启推送：新增生态智能体服务、路面预瞄等功能",
   "IT之家:b3d51bfa08e7": "全新吉利银河 E5 上市：全域 800V+6C 峰值倍率，限时先享价 9.78 万-13.78 万元",

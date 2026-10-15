@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "100万token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "阶跃"
+   },
+   "d": "10-15 11:22",
+   "link": "https://www.ithome.com/1/013/268.htm",
+   "t": "2026-10-15 03:32:51",
+   "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口"
+  },
+  {
+   "ai": {
     "amount": "Token套餐",
     "deadline": null,
     "start": null,
@@ -681,11 +695,6 @@
    "link": "https://linux.do/t/topic/2884828",
    "t": "2026-09-11 10:21:06",
    "title": "白嫖cursor搞定！上图！用的被佬友唾弃的edu"
-  },
-  {
-   "link": "https://linux.do/t/topic/2884724",
-   "t": "2026-09-11 10:21:06",
-   "title": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20"
   }
  ]
 }
