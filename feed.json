@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "7天token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 40,
+    "vendor": "DeepSeek"
+   },
+   "d": "10-15 17:40",
+   "link": "https://meta.appinn.net/t/topic/93627",
+   "t": "2026-10-15 09:44:45",
+   "title": "DeepSeek为上午的宕机，补偿了7天的token"
+  },
+  {
+   "ai": {
     "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
     "deadline": null,
     "start": null,
@@ -699,11 +713,6 @@
    "link": "https://linux.do/t/topic/2885035",
    "t": "2026-09-11 10:21:06",
    "title": "免费麦当劳琵琶腿"
-  },
-  {
-   "link": "https://linux.do/t/topic/2884868",
-   "t": "2026-09-11 10:21:06",
-   "title": "cursor又送羊毛了？"
   }
  ]
 }

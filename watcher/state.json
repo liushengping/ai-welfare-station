@@ -15,10 +15,40 @@
    "id": "IT之家:b62f8b6e7998",
    "link": "https://www.ithome.com/1/013/475.htm",
    "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文"
+  },
+  {
+   "_age": 0.0029052797222222223,
+   "ai": {
+    "amount": "7天token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 40,
+    "vendor": "DeepSeek"
+   },
+   "date": "Thu, 15 Oct 2026 09:40:08 +0000",
+   "date_str": "10-15 17:40",
+   "id": "小众软件论坛:3f754c8b0505",
+   "link": "https://meta.appinn.net/t/topic/93627",
+   "title": "DeepSeek为上午的宕机，补偿了7天的token"
   }
  ],
  "digest_date": "2026-10-15",
  "feed": [
+  {
+   "ai": {
+    "amount": "7天token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 40,
+    "vendor": "DeepSeek"
+   },
+   "d": "10-15 17:40",
+   "link": "https://meta.appinn.net/t/topic/93627",
+   "t": "2026-10-15 09:44:45",
+   "title": "DeepSeek为上午的宕机，补偿了7天的token"
+  },
   {
    "ai": {
     "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
@@ -718,11 +748,6 @@
    "link": "https://linux.do/t/topic/2885035",
    "t": "2026-09-11 10:21:06",
    "title": "免费麦当劳琵琶腿"
-  },
-  {
-   "link": "https://linux.do/t/topic/2884868",
-   "t": "2026-09-11 10:21:06",
-   "title": "cursor又送羊毛了？"
   }
  ],
  "links": {
@@ -856,6 +881,7 @@
   "https://meta.appinn.net/t/topic/93472": "1",
   "https://meta.appinn.net/t/topic/93521": "1",
   "https://meta.appinn.net/t/topic/93606": "1",
+  "https://meta.appinn.net/t/topic/93627": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1580,6 +1606,7 @@
   "小众软件论坛:2b3fa9e45286": "Abiurl.me 短网址与 UTM 生成器免费开发使用！",
   "小众软件论坛:3534429de492": "PecoFence：免费开源的 Windows 11 桌面整理工具",
   "小众软件论坛:389a66677600": "智盾 APK 加固：代码保护、防篡改与运行防护，目前免费",
+  "小众软件论坛:3f754c8b0505": "DeepSeek为上午的宕机，补偿了7天的token",
   "小众软件论坛:50a494642c9c": "Epic 免费游戏 2026-9-4",
   "小众软件论坛:5a73ad46778b": "Cachety：在浏览器里给证件加水印，文件全程不上传（免费 · 开源）",
   "小众软件论坛:5ad7fb9c44e0": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
