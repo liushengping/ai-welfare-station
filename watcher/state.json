@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.009853786979166668,
+   "ai": {
+    "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "date": "Thu, 15 Oct 2026 08:47:02 GMT",
+   "date_str": "10-15 16:47",
+   "id": "IT之家:b62f8b6e7998",
+   "link": "https://www.ithome.com/1/013/475.htm",
+   "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文"
+  }
+ ],
  "digest_date": "2026-10-15",
  "feed": [
+  {
+   "ai": {
+    "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "d": "10-15 16:47",
+   "link": "https://www.ithome.com/1/013/475.htm",
+   "t": "2026-10-15 09:01:42",
+   "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文"
+  },
   {
    "ai": {
     "amount": "100万token",
@@ -692,11 +723,6 @@
    "link": "https://linux.do/t/topic/2884868",
    "t": "2026-09-11 10:21:06",
    "title": "cursor又送羊毛了？"
-  },
-  {
-   "link": "https://linux.do/t/topic/2884828",
-   "t": "2026-09-11 10:21:06",
-   "title": "白嫖cursor搞定！上图！用的被佬友唾弃的edu"
   }
  ],
  "links": {
@@ -1149,6 +1175,7 @@
   "https://www.ithome.com/1/013/323.htm": "1",
   "https://www.ithome.com/1/013/424.htm": "1",
   "https://www.ithome.com/1/013/437.htm": "1",
+  "https://www.ithome.com/1/013/475.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1381,6 +1408,7 @@
   "IT之家:b420ad8a54aa": "《GTA 6》带火主机需求：PS5 Pro 日本卖断货，索尼开启抽签购买活动",
   "IT之家:b5001f92f040": "开发者为 Windows Phone 带来“快速分享”功能，支持向 PC、安卓设备发送文件",
   "IT之家:b51dccbbded7": "时创意送样 QLC UFS 2.2 嵌入式闪存，容量覆盖 128GB / 256GB / 512GB",
+  "IT之家:b62f8b6e7998": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文",
   "IT之家:b9af69a29067": "长安 UNI-V 蓝鲸超擎混动上市，限时 10.99 万-11.39 万元",
   "IT之家:baa55e460327": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
   "IT之家:bb52ea3dbdb2": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",

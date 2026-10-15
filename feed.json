@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "d": "10-15 16:47",
+   "link": "https://www.ithome.com/1/013/475.htm",
+   "t": "2026-10-15 09:01:42",
+   "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文"
+  },
+  {
+   "ai": {
     "amount": "100万token",
     "deadline": null,
     "start": null,
@@ -690,11 +704,6 @@
    "link": "https://linux.do/t/topic/2884868",
    "t": "2026-09-11 10:21:06",
    "title": "cursor又送羊毛了？"
-  },
-  {
-   "link": "https://linux.do/t/topic/2884828",
-   "t": "2026-09-11 10:21:06",
-   "title": "白嫖cursor搞定！上图！用的被佬友唾弃的edu"
   }
  ]
 }
