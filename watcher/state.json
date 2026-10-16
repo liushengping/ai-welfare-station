@@ -1,55 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.009853786979166668,
-   "ai": {
-    "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "date": "Thu, 15 Oct 2026 08:47:02 GMT",
-   "date_str": "10-15 16:47",
-   "id": "IT之家:b62f8b6e7998",
-   "link": "https://www.ithome.com/1/013/475.htm",
-   "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文"
-  },
-  {
-   "_age": 0.0029052797222222223,
-   "ai": {
-    "amount": "7天token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 40,
-    "vendor": "DeepSeek"
-   },
-   "date": "Thu, 15 Oct 2026 09:40:08 +0000",
-   "date_str": "10-15 17:40",
-   "id": "小众软件论坛:3f754c8b0505",
-   "link": "https://meta.appinn.net/t/topic/93627",
-   "title": "DeepSeek为上午的宕机，补偿了7天的token"
-  },
-  {
-   "_age": 0.006861149328703704,
-   "ai": {
-    "amount": "DeepSeek V4.1 Flash模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "date": "Thu, 15 Oct 2026 09:49:00 +0000",
-   "date_str": "10-15 17:49",
-   "id": "小众软件论坛:e780a021aed2",
-   "link": "https://meta.appinn.net/t/topic/93628",
-   "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型"
-  }
- ],
- "digest_date": "2026-10-15",
+ "digest": [],
+ "digest_date": "2026-10-16",
  "feed": [
   {
    "ai": {
@@ -909,6 +860,7 @@
   "https://meta.appinn.net/t/topic/93627": "1",
   "https://meta.appinn.net/t/topic/93628": "1",
   "https://meta.appinn.net/t/topic/93647": "1",
+  "https://meta.appinn.net/t/topic/93670": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1232,6 +1184,7 @@
   "https://www.ithome.com/1/013/592.htm": "1",
   "https://www.ithome.com/1/013/675.htm": "1",
   "https://www.ithome.com/1/013/708.htm": "1",
+  "https://www.ithome.com/1/013/750.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1410,6 +1363,7 @@
   "IT之家:7e6325663b12": "谷歌推送安卓 17 QPR2 Beta 6 更新：重点修复 Pixel 9 Pro Fold 手机异常重启问题",
   "IT之家:7edaeb8a119e": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份",
   "IT之家:8032251da9a1": "小米 YU7 车型 OTA 推送 1.18.0 版本：新增安全车距提醒、超级小爱专家模式等",
+  "IT之家:80f1ed109c78": "OPPO ColorOS 十月体验升级内容公布：内容传送门新增链接卡片拖拽",
   "IT之家:81f40030a665": "苹果向 AirPods 5 等耳机推送 Beta 固件 9B5042a",
   "IT之家:8341f68fba39": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
   "IT之家:83d4e9f1d857": "10 月 5 日全国铁路预计发送旅客 2105 万人次，计划加开 1463 列",
@@ -1626,6 +1580,7 @@
   "linux.do-福利羊毛板块:ef0fde005c6f": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
+  "小众软件论坛:05db84a1f1b3": "【开发者自荐】毛剪剪·MaoCut：Mac上的免费剪辑软件，用它已经剪了40期环中国游记",
   "小众软件论坛:0d132c4c7c1b": "10 款在 GitHub 发现的免费小工具[260919]",
   "小众软件论坛:136310284535": "苹果隔空投送 AirDrop 已被逆向成功，正在被搬到普通电脑上｜omdrop-owl",
   "小众软件论坛:1ee8a478b9ea": "观辰阁：八字排盘、古籍研习网站，招募10位免费内测用户",
