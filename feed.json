@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "500积分+全额返还",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 90,
+    "vendor": "腾讯"
+   },
+   "d": "10-16 12:37",
+   "link": "https://www.ithome.com/1/013/848.htm",
+   "t": "2026-10-16 04:39:58",
+   "title": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分"
+  },
+  {
+   "ai": {
     "amount": "DeepSeek V4.1 Flash模型",
     "deadline": null,
     "start": null,
@@ -717,11 +731,6 @@
    "link": "https://linux.do/t/topic/2885271",
    "t": "2026-09-11 10:21:06",
    "title": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885037",
-   "t": "2026-09-11 10:21:06",
-   "title": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token"
   }
  ]
 }

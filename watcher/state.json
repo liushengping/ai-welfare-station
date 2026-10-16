@@ -4,6 +4,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "500积分+全额返还",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 90,
+    "vendor": "腾讯"
+   },
+   "d": "10-16 12:37",
+   "link": "https://www.ithome.com/1/013/848.htm",
+   "t": "2026-10-16 04:39:58",
+   "title": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分"
+  },
+  {
+   "ai": {
     "amount": "DeepSeek V4.1 Flash模型",
     "deadline": null,
     "start": null,
@@ -719,11 +733,6 @@
    "link": "https://linux.do/t/topic/2885271",
    "t": "2026-09-11 10:21:06",
    "title": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885037",
-   "t": "2026-09-11 10:21:06",
-   "title": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token"
   }
  ],
  "links": {
@@ -1186,6 +1195,7 @@
   "https://www.ithome.com/1/013/675.htm": "1",
   "https://www.ithome.com/1/013/708.htm": "1",
   "https://www.ithome.com/1/013/750.htm": "1",
+  "https://www.ithome.com/1/013/848.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1291,6 +1301,7 @@
   "IT之家:4407bde7898b": "中国嫦娥六号月背月壤样品赠送联合国，将在维也纳永久展出",
   "IT之家:46d13b089afd": "央视披露非正规火车票抢票工具四大套路：“极速加速”不提速、“余票监控”不靠谱、“免费候补”收费卖",
   "IT之家:46ddd7734a04": "一汽丰田 RAV4 荣放探野版上市，限时权益价 14.40 万元",
+  "IT之家:4748d188d6f6": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分",
   "IT之家:48da314e2da0": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
   "IT之家:490769011860": "苹果推送 macOS 27.2 首个公测版：新增 16 段条形音量 / 亮度滑块",
   "IT之家:4949fcea7f9d": "吉利星瑞 L PLUS 将于 10 月 17 日正式上市，限时预售价 11.57 万元起",
