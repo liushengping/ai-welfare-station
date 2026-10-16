@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "AI 视频增强、图片修复与 4K/10K 放大工具免费领",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "VideoProc Converter AI"
+   },
+   "d": "10-16 14:49",
+   "link": "https://meta.appinn.net/t/topic/93697",
+   "t": "2026-10-16 07:03:33",
+   "title": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领"
+  },
+  {
+   "ai": {
+    "amount": "Chrome / Edge 免费扩展",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "YouTube"
+   },
+   "d": "10-16 14:49",
+   "link": "https://meta.appinn.net/t/topic/93696",
+   "t": "2026-10-16 07:03:33",
+   "title": "【开发者自荐】YouTube 缩略图内持续预览 Shorts，调节音量与进度（Chrome / Edge 免费扩展）"
+  },
+  {
+   "ai": {
     "amount": "500积分+全额返还",
     "deadline": null,
     "start": null,
@@ -721,16 +749,6 @@
    "link": "https://linux.do/t/topic/2887066",
    "t": "2026-09-11 10:21:06",
    "title": "deekseepv4fas 等模型免费蹬"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885413",
-   "t": "2026-09-11 10:21:06",
-   "title": "【富可敌国】CUN.AI L站账号注册的登录每天领 $0.50，会员并发升级，首充再送 50%，首充 $66 拿下 GPT，Claude 套餐，累计 $200 额度 | 低至3.3折！内附300张兑换码！"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885271",
-   "t": "2026-09-11 10:21:06",
-   "title": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。"
   }
  ]
 }

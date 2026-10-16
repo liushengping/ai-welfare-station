@@ -1,7 +1,52 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.00928371931712963,
+   "ai": {
+    "amount": "Chrome / Edge 免费扩展",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "YouTube"
+   },
+   "date": "Fri, 16 Oct 2026 06:49:17 +0000",
+   "date_str": "10-16 14:49",
+   "id": "小众软件论坛:9ce3ac38f957",
+   "link": "https://meta.appinn.net/t/topic/93696",
+   "title": "【开发者自荐】YouTube 缩略图内持续预览 Shorts，调节音量与进度（Chrome / Edge 免费扩展）"
+  }
+ ],
  "digest_date": "2026-10-16",
  "feed": [
+  {
+   "ai": {
+    "amount": "AI 视频增强、图片修复与 4K/10K 放大工具免费领",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "VideoProc Converter AI"
+   },
+   "d": "10-16 14:49",
+   "link": "https://meta.appinn.net/t/topic/93697",
+   "t": "2026-10-16 07:03:33",
+   "title": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领"
+  },
+  {
+   "ai": {
+    "amount": "Chrome / Edge 免费扩展",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "YouTube"
+   },
+   "d": "10-16 14:49",
+   "link": "https://meta.appinn.net/t/topic/93696",
+   "t": "2026-10-16 07:03:33",
+   "title": "【开发者自荐】YouTube 缩略图内持续预览 Shorts，调节音量与进度（Chrome / Edge 免费扩展）"
+  },
   {
    "ai": {
     "amount": "500积分+全额返还",
@@ -723,16 +768,6 @@
    "link": "https://linux.do/t/topic/2887066",
    "t": "2026-09-11 10:21:06",
    "title": "deekseepv4fas 等模型免费蹬"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885413",
-   "t": "2026-09-11 10:21:06",
-   "title": "【富可敌国】CUN.AI L站账号注册的登录每天领 $0.50，会员并发升级，首充再送 50%，首充 $66 拿下 GPT，Claude 套餐，累计 $200 额度 | 低至3.3折！内附300张兑换码！"
-  },
-  {
-   "link": "https://linux.do/t/topic/2885271",
-   "t": "2026-09-11 10:21:06",
-   "title": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。"
   }
  ],
  "links": {
@@ -872,6 +907,8 @@
   "https://meta.appinn.net/t/topic/93670": "1",
   "https://meta.appinn.net/t/topic/93680": "1",
   "https://meta.appinn.net/t/topic/93686": "1",
+  "https://meta.appinn.net/t/topic/93696": "1",
+  "https://meta.appinn.net/t/topic/93697": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1607,6 +1644,7 @@
   "小众软件论坛:28af9563490f": "Focus RPG：专注越久，勇者越强的免费放置 RPG",
   "小众软件论坛:2a331000b8c3": "【开源自荐】tokenhush：AI本地脱敏 - 别让vibecoding泄露密钥给你造成无法挽回的损失",
   "小众软件论坛:2b3fa9e45286": "Abiurl.me 短网址与 UTM 生成器免费开发使用！",
+  "小众软件论坛:33d0f82457ea": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领",
   "小众软件论坛:3534429de492": "PecoFence：免费开源的 Windows 11 桌面整理工具",
   "小众软件论坛:389a66677600": "智盾 APK 加固：代码保护、防篡改与运行防护，目前免费",
   "小众软件论坛:3f754c8b0505": "DeepSeek为上午的宕机，补偿了7天的token",
@@ -1629,6 +1667,7 @@
   "小众软件论坛:997ce1a8ceee": "想问一下有没有免费的没有水印HTML半动态托管",
   "小众软件论坛:9ab17fbcd3dc": "注册域名有啥优惠活动渠道吗",
   "小众软件论坛:9b83b252a235": "开源免费UI美观单文件,支持渲染Mermaid 和 LaTex 的 MarkDown 本地阅读编辑器",
+  "小众软件论坛:9ce3ac38f957": "【开发者自荐】YouTube 缩略图内持续预览 Shorts，调节音量与进度（Chrome / Edge 免费扩展）",
   "小众软件论坛:a006e34a52fd": "MicYou for iOS - 老 iPhone 又有新用途：变成电脑麦克风，免费开源",
   "小众软件论坛:a124c5d4405c": "cmdgif：用 npx 把短命令录成 GIF（免费开源，早期测试）",
   "小众软件论坛:a3a509bffc99": "【收集向】免费的 token 们",
