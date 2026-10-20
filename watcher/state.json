@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-17",
+ "digest_date": "2026-10-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费AI录音工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "ViiTor"
+   },
+   "d": "10-20 14:19",
+   "link": "https://meta.appinn.net/t/topic/93996",
+   "t": "2026-10-20 07:07:05",
+   "title": "【开发者自荐】ViiTor Memo：免费 AI 录音与项目记忆工具，让对话成为 Personal Agent 的长期记忆"
+  },
   {
    "ai": {
     "amount": "AI 视频增强、图片修复与 4K/10K 放大工具免费领",
@@ -746,11 +760,6 @@
    "link": "https://linux.do/t/topic/2887105",
    "t": "2026-09-11 10:21:06",
    "title": "深夜福利，发100个额度盲盒"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887066",
-   "t": "2026-09-11 10:21:06",
-   "title": "deekseepv4fas 等模型免费蹬"
   }
  ],
  "links": {
@@ -903,6 +912,7 @@
   "https://meta.appinn.net/t/topic/93929": "1",
   "https://meta.appinn.net/t/topic/93951": "1",
   "https://meta.appinn.net/t/topic/93986": "1",
+  "https://meta.appinn.net/t/topic/93996": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1263,6 +1273,8 @@
   "https://www.ithome.com/1/015/091.htm": "1",
   "https://www.ithome.com/1/015/197.htm": "1",
   "https://www.ithome.com/1/015/243.htm": "1",
+  "https://www.ithome.com/1/015/296.htm": "1",
+  "https://www.ithome.com/1/015/315.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1289,6 +1301,7 @@
   "HuggingFace-博客:afa572b39099": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
   "HuggingFace-博客:d8438412db05": "Welcome Falcon Mamba: The first strong attention-free 7B model",
   "HuggingFace-博客:e55e02c2188c": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "IT之家:0048652c0e82": "荣耀 Magic6 系列手机「AI 随心握」功能推送，升级至 110 版本可体验",
   "IT之家:021043be6fde": "新款马自达 EZ-60 激光版上市，限时价 11.39 万元起",
   "IT之家:025b3d7970db": "因阻拦配送机器人，美国费城一女子被警方逮捕",
   "IT之家:02b5f7189ef1": "2026 京东双 11 活动全流程公布：数万家门店同步参与，10 月 20 日超级秒杀日",
@@ -1349,6 +1362,7 @@
   "IT之家:2b5155938b9d": "全国日均 Token 词元调用量较两年前实现千倍级增长",
   "IT之家:2b61a81d253a": "国铁 12306：今年 1 至 8 月全国铁路发送旅客 33.2 亿人次同比增长 3.9%，创历史同期新高",
   "IT之家:2c3d18f06ac6": "间谍易容推理游戏《千面人在此》10 月 14 日发售：提供免费试玩版，支持中文",
+  "IT之家:2c80777f6465": "2026 年度天猫双十一活动今晚 8 点开启：88VIP 用户可自选消费券面额、苹果 iPhone 18 Pro 系列手机参与活动",
   "IT之家:2c891aa41fb5": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器...",
   "IT之家:2cc41b889be0": "启境 GX7 上市 18 小时大定 15,318 台：广汽携手华为乾崑打造，限时权益价 22.99 万起",
   "IT之家:2f8437886a9d": "马斯克：明年向全美儿童赠送 SpaceX 股票",
@@ -1727,6 +1741,7 @@
   "小众软件论坛:63ba8e2ce91b": "Epic 免费游戏 2026-10-9",
   "小众软件论坛:66a82247d594": "求一能将正在编辑中的文件固定在一个小窗口内，能随时打开进行编辑，能拖到微信里发送的软件",
   "小众软件论坛:67f1797c43e8": "【开发者自荐】【送Pro会员】 告别 Finder 抓狂折腾：macOS 键盘流双栏文件管理器 ATBCmder",
+  "小众软件论坛:6acf798ef344": "【开发者自荐】ViiTor Memo：免费 AI 录音与项目记忆工具，让对话成为 Personal Agent 的长期记忆",
   "小众软件论坛:71c5f03f0fb0": "【开发自荐】Everything MCP插件:把 Everything 塞给 AI 用(Everything 1.5 插件,免费开源)",
   "小众软件论坛:764c5bfb73e4": "山猫商品原图排版：免费给照片加标题、卖点和价格，支持保存草稿",
   "小众软件论坛:7a040502bc56": "电脑驱动更新工具 Driver Booster 13 Pro，限时 7 折特惠快入手！",

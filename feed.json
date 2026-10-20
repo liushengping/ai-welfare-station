@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费AI录音工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "ViiTor"
+   },
+   "d": "10-20 14:19",
+   "link": "https://meta.appinn.net/t/topic/93996",
+   "t": "2026-10-20 07:07:05",
+   "title": "【开发者自荐】ViiTor Memo：免费 AI 录音与项目记忆工具，让对话成为 Personal Agent 的长期记忆"
+  },
+  {
+   "ai": {
     "amount": "AI 视频增强、图片修复与 4K/10K 放大工具免费领",
     "deadline": null,
     "start": null,
@@ -744,11 +758,6 @@
    "link": "https://linux.do/t/topic/2887105",
    "t": "2026-09-11 10:21:06",
    "title": "深夜福利，发100个额度盲盒"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887066",
-   "t": "2026-09-11 10:21:06",
-   "title": "deekseepv4fas 等模型免费蹬"
   }
  ]
 }
