@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "一年AI助手",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "腾讯"
+   },
+   "d": "10-20 22:05",
+   "link": "https://meta.appinn.net/t/topic/94055",
+   "t": "2026-10-20 14:15:50",
+   "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用"
+  },
+  {
+   "ai": {
     "amount": "免费AI录音工具",
     "deadline": null,
     "start": null,
@@ -753,11 +767,6 @@
    "link": "https://linux.do/t/topic/2887140",
    "t": "2026-09-11 10:21:06",
    "title": "免费的glm-5.3"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887105",
-   "t": "2026-09-11 10:21:06",
-   "title": "深夜福利，发100个额度盲盒"
   }
  ]
 }
