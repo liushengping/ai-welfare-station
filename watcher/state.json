@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.007197314930555556,
-   "ai": {
-    "amount": "一年AI助手",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "腾讯"
-   },
-   "date": "Tue, 20 Oct 2026 14:05:06 +0000",
-   "date_str": "10-20 22:05",
-   "id": "小众软件论坛:d414b179ead2",
-   "link": "https://meta.appinn.net/t/topic/94055",
-   "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用"
-  }
- ],
- "digest_date": "2026-10-20",
+ "digest": [],
+ "digest_date": "2026-10-21",
  "feed": [
   {
    "ai": {
