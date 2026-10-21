@@ -829,6 +829,7 @@
   "https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 ": "1",
   "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation": "1",
   "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out": "1",
+  "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens": "1",
   "https://help.aliyun.com/zh/user-center/monitor-account-balances": "1",
   "https://help.aliyun.com/zh/user-center/use-alipay-online-banking-to-recharge-online": "1",
   "https://infrastructure.aliyun.com": "1",
@@ -1331,6 +1332,7 @@
   "https://www.siliconflow.cn/token-factory": "1"
  },
  "seen": {
+  "GitHub-Changelog:0920639c75a4": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
   "GitHub-Changelog:4d04b22fb79d": "Stage-only npm tokens for safer automation",
   "GitHub-Changelog:a82262dc94a4": "Stateless GitHub App installation tokens rolled out",
   "HuggingFace-博客:00d47c7482b5": "How to train a new language model from scratch using Transformers and Tokenizers",
