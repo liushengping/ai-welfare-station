@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.006068222037037037,
+   "ai": {
+    "amount": "HarmonyOS系统公测免费使用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Xshell"
+   },
+   "date": "Wed, 21 Oct 2026 12:06:57 GMT",
+   "date_str": "10-21 20:06",
+   "id": "IT之家:82e8ebc033a9",
+   "link": "https://www.ithome.com/1/016/099.htm",
+   "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用"
+  }
+ ],
  "digest_date": "2026-10-21",
  "feed": [
+  {
+   "ai": {
+    "amount": "HarmonyOS系统公测免费使用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Xshell"
+   },
+   "d": "10-21 20:06",
+   "link": "https://www.ithome.com/1/016/099.htm",
+   "t": "2026-10-21 12:16:37",
+   "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用"
+  },
   {
    "ai": {
     "amount": "一年AI助手",
@@ -764,11 +795,6 @@
    "link": "https://linux.do/t/topic/2887644",
    "t": "2026-09-11 10:21:06",
    "title": "腾子的另一个版本workbuddy，模型全部免费还有k3"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887140",
-   "t": "2026-09-11 10:21:06",
-   "title": "免费的glm-5.3"
   }
  ],
  "links": {
@@ -1292,6 +1318,7 @@
   "https://www.ithome.com/1/015/925.htm": "1",
   "https://www.ithome.com/1/015/978.htm": "1",
   "https://www.ithome.com/1/016/081.htm": "1",
+  "https://www.ithome.com/1/016/099.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1496,6 +1523,7 @@
   "IT之家:8032251da9a1": "小米 YU7 车型 OTA 推送 1.18.0 版本：新增安全车距提醒、超级小爱专家模式等",
   "IT之家:80f1ed109c78": "OPPO ColorOS 十月体验升级内容公布：内容传送门新增链接卡片拖拽",
   "IT之家:81f40030a665": "苹果向 AirPods 5 等耳机推送 Beta 固件 9B5042a",
+  "IT之家:82e8ebc033a9": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
   "IT之家:8341f68fba39": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
   "IT之家:83d4e9f1d857": "10 月 5 日全国铁路预计发送旅客 2105 万人次，计划加开 1463 列",
   "IT之家:846189d8672f": "123 云盘新增专业空间：原空间更名为标准空间，老用户免费配额为 50GB + 2TB",
