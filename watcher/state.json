@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.005746381990740741,
+   "ai": {
+    "amount": "Token消耗降低超90%",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "蚂蚁数科"
+   },
+   "date": "Thu, 22 Oct 2026 10:12:04 GMT",
+   "date_str": "10-22 18:12",
+   "id": "IT之家:1dfed294a047",
+   "link": "https://www.ithome.com/1/016/633.htm",
+   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
+  }
+ ],
  "digest_date": "2026-10-22",
  "feed": [
+  {
+   "ai": {
+    "amount": "Token消耗降低超90%",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "蚂蚁数科"
+   },
+   "d": "10-22 18:12",
+   "link": "https://www.ithome.com/1/016/633.htm",
+   "t": "2026-10-22 10:21:59",
+   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
+  },
   {
    "ai": {
     "amount": "HarmonyOS系统公测免费使用",
@@ -773,11 +804,6 @@
    "link": "https://linux.do/t/topic/2887893",
    "t": "2026-09-11 10:21:06",
    "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887644",
-   "t": "2026-09-11 10:21:06",
-   "title": "腾子的另一个版本workbuddy，模型全部免费还有k3"
   }
  ],
  "links": {
@@ -1314,6 +1340,8 @@
   "https://www.ithome.com/1/016/363.htm": "1",
   "https://www.ithome.com/1/016/435.htm": "1",
   "https://www.ithome.com/1/016/619.htm": "1",
+  "https://www.ithome.com/1/016/633.htm": "1",
+  "https://www.ithome.com/1/016/635.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1387,6 +1415,7 @@
   "IT之家:1c5d1c9527a2": "因配送外包公司网站验证机制设置不当，韩国外卖平台 Baedal Minjok 旗下约 201 名骑手信息遭曝光",
   "IT之家:1ca08deafd4d": "小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等",
   "IT之家:1cdd32062982": "1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低",
+  "IT之家:1dfed294a047": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%",
   "IT之家:1ed36f8d4f8b": "新增多地支持国补：华为 FreeClip 2 耳夹耳机 1299 → 978 元京东探底",
   "IT之家:1eed4af14eee": "荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送",
   "IT之家:1fdb105e6d84": "英特尔为第 11~14 代酷睿处理器核显推送 7092 驱动，修复《永劫无间》问题",
@@ -1548,6 +1577,7 @@
   "IT之家:95aad3a897f1": "2026 国庆中秋假期临近，10 月 1 日至 7 日七座及以下小客车出行可享高速免费通行政策",
   "IT之家:9732cbd344ae": "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录视频、仅推送文本提醒",
   "IT之家:9747ae547a07": "京东汽车与张雪机车达成战略合作：在京东下单送装一体，带一公升汽油上门",
+  "IT之家:974dc73af640": "荣耀 MagicOS 11 第三批内测 log 版本今晚推送，覆盖 Robot Phone、Magic5 系列等 28 款机型",
   "IT之家:981216bf443f": "苹果“欢迎回家”新品发布会前夕，各大博主来到纽约参加体验活动",
   "IT之家:9a0dc4eb7c92": "华为 FreeClip 2 耳夹耳机全新潮玩拼色版预售，1299 元",
   "IT之家:9a3cac3e34f9": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",

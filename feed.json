@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Token消耗降低超90%",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "蚂蚁数科"
+   },
+   "d": "10-22 18:12",
+   "link": "https://www.ithome.com/1/016/633.htm",
+   "t": "2026-10-22 10:21:59",
+   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
+  },
+  {
+   "ai": {
     "amount": "HarmonyOS系统公测免费使用",
     "deadline": null,
     "start": null,
@@ -771,11 +785,6 @@
    "link": "https://linux.do/t/topic/2887893",
    "t": "2026-09-11 10:21:06",
    "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887644",
-   "t": "2026-09-11 10:21:06",
-   "title": "腾子的另一个版本workbuddy，模型全部免费还有k3"
   }
  ]
 }
