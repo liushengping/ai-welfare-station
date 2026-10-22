@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.006068222037037037,
-   "ai": {
-    "amount": "HarmonyOS系统公测免费使用",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Xshell"
-   },
-   "date": "Wed, 21 Oct 2026 12:06:57 GMT",
-   "date_str": "10-21 20:06",
-   "id": "IT之家:82e8ebc033a9",
-   "link": "https://www.ithome.com/1/016/099.htm",
-   "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用"
-  }
- ],
- "digest_date": "2026-10-21",
+ "digest": [],
+ "digest_date": "2026-10-22",
  "feed": [
   {
    "ai": {
@@ -1326,6 +1309,7 @@
   "https://www.ithome.com/1/016/099.htm": "1",
   "https://www.ithome.com/1/016/106.htm": "1",
   "https://www.ithome.com/1/016/144.htm": "1",
+  "https://www.ithome.com/1/016/217.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1559,6 +1543,7 @@
   "IT之家:9732cbd344ae": "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录视频、仅推送文本提醒",
   "IT之家:9747ae547a07": "京东汽车与张雪机车达成战略合作：在京东下单送装一体，带一公升汽油上门",
   "IT之家:981216bf443f": "苹果“欢迎回家”新品发布会前夕，各大博主来到纽约参加体验活动",
+  "IT之家:9a0dc4eb7c92": "华为 FreeClip 2 耳夹耳机全新潮玩拼色版预售，1299 元",
   "IT之家:9a3cac3e34f9": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
   "IT之家:9b71bf25dcc9": "创历史同期新高：今年前三季度全国铁路发送旅客 37.1 亿人次，同比增长 4.8%",
   "IT之家:9c7f2022ff05": "国产 AI 历史模拟新游《崇祯模拟器 Demo》上架 Steam，免费试玩",
