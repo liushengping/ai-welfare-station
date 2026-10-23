@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "5亿Tokens",
+    "deadline": "2026-10-25 23:59",
+    "start": "2026-10-23 00:00",
+    "urgent": true,
+    "value": 90,
+    "vendor": "智谱"
+   },
+   "d": "10-23 23:17",
+   "link": "https://meta.appinn.net/t/topic/94327",
+   "t": "2026-10-23 15:19:22",
+   "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。"
+  },
+  {
+   "ai": {
     "amount": "一周额度",
     "deadline": null,
     "start": null,
@@ -789,11 +803,6 @@
    "link": "https://linux.do/t/topic/2888059",
    "t": "2026-09-11 10:27:34",
    "title": "【10:30 抢】继续送 gpt-astra"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887980",
-   "t": "2026-09-11 10:21:06",
-   "title": "华住会金卡2张送，再送两张，四张已无了"
   }
  ]
 }
