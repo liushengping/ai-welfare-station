@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.005746381990740741,
-   "ai": {
-    "amount": "Token消耗降低超90%",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "蚂蚁数科"
-   },
-   "date": "Thu, 22 Oct 2026 10:12:04 GMT",
-   "date_str": "10-22 18:12",
-   "id": "IT之家:1dfed294a047",
-   "link": "https://www.ithome.com/1/016/633.htm",
-   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
-  }
- ],
- "digest_date": "2026-10-22",
+ "digest": [],
+ "digest_date": "2026-10-23",
  "feed": [
   {
    "ai": {
@@ -967,6 +950,7 @@
   "https://meta.appinn.net/t/topic/94155": "1",
   "https://meta.appinn.net/t/topic/94210": "1",
   "https://meta.appinn.net/t/topic/94231": "1",
+  "https://meta.appinn.net/t/topic/94250": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1860,6 +1844,7 @@
   "小众软件论坛:a815b6ef47f9": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
   "小众软件论坛:a838465674e9": "QuotaBar：在 Mac 菜单栏和刘海上看 Claude Code / Codex / Cursor 的额度还剩多少",
   "小众软件论坛:a9b5e9f54d6d": "Epic 免费游戏 2026-9-18",
+  "小众软件论坛:aaa00ac905b8": "〖开发者自荐〗JetAtlas：免费公务机对比、航线估算与 3D 航空体验",
   "小众软件论坛:ac95e9a7f90e": "有人测过WorkBuddy积分加折扣使用DeepSeek与DeepSeek自己API的token费率吗？",
   "小众软件论坛:aca31b97ac5b": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器",
   "小众软件论坛:b1e327c8ea74": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU",
