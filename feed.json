@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "一周额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Argon"
+   },
+   "d": "10-23 17:46",
+   "link": "https://meta.appinn.net/t/topic/94303",
+   "t": "2026-10-23 09:55:19",
+   "title": "用一周的Argon额度更新了我的小工具"
+  },
+  {
+   "ai": {
     "amount": "Token消耗降低超90%",
     "deadline": null,
     "start": null,
@@ -780,11 +794,6 @@
    "link": "https://linux.do/t/topic/2887980",
    "t": "2026-09-11 10:21:06",
    "title": "华住会金卡2张送，再送两张，四张已无了"
-  },
-  {
-   "link": "https://linux.do/t/topic/2887893",
-   "t": "2026-09-11 10:21:06",
-   "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取"
   }
  ]
 }
