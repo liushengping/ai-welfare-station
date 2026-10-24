@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.00568269525462963,
-   "ai": {
-    "amount": "一周额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Argon"
-   },
-   "date": "Fri, 23 Oct 2026 09:46:36 +0000",
-   "date_str": "10-23 17:46",
-   "id": "小众软件论坛:09ce36307dd9",
-   "link": "https://meta.appinn.net/t/topic/94303",
-   "title": "用一周的Argon额度更新了我的小工具"
-  }
- ],
- "digest_date": "2026-10-23",
+ "digest": [],
+ "digest_date": "2026-10-24",
  "feed": [
   {
    "ai": {
@@ -1384,6 +1367,7 @@
   "https://www.ithome.com/1/017/254.htm": "1",
   "https://www.ithome.com/1/017/292.htm": "1",
   "https://www.ithome.com/1/017/303.htm": "1",
+  "https://www.ithome.com/1/017/305.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1545,6 +1529,7 @@
   "IT之家:5a739b237163": "Steam 喜加一：原价 29 元太空即时战略游戏《Space Menace》免费领",
   "IT之家:5b87f0be3189": "长城大狗 HEV 混动版车型上市，限时换新价 10.59 万元起",
   "IT之家:5e11d575c488": "支付宝服务升级：失效银行卡可一键换绑或解绑，内测亲情卡额度提现功能",
+  "IT之家:5e366cf669f5": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
   "IT之家:5ec4e8bbf0f8": "Linux 7.4 将默认启用 HDMI 2.1 FRL，支持 AMD FreeSync、VRR 与 ALLM",
   "IT之家:5eda91d18977": "微软推送 Win11 26H1 九月可选更新：任务栏可四边贴靠 / 开始菜单支持“小”尺寸",
   "IT之家:5fdb1516ad77": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
