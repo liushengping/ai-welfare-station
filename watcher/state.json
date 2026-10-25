@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-24",
+ "digest_date": "2026-10-25",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费浏览器本地AI法线贴图与PBR材质生成器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "NormalMapAI"
+   },
+   "d": "10-25 10:32",
+   "link": "https://meta.appinn.net/t/topic/94410",
+   "t": "2026-10-25 02:49:26",
+   "title": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)"
+  },
   {
    "ai": {
     "amount": "5亿Tokens",
@@ -793,18 +807,6 @@
    "link": "https://bailian.console.aliyun.com/settings/api-key",
    "t": "2026-09-11 23:17:47",
    "title": "API-Key（北京）"
-  },
-  {
-   "ai": {
-    "amount": null,
-    "deadline": null,
-    "urgent": true,
-    "value": null,
-    "vendor": null
-   },
-   "link": "https://linux.do/t/topic/2888059",
-   "t": "2026-09-11 10:27:34",
-   "title": "【10:30 抢】继续送 gpt-astra"
   }
  ],
  "links": {
@@ -976,6 +978,8 @@
   "https://meta.appinn.net/t/topic/94313": "1",
   "https://meta.appinn.net/t/topic/94327": "1",
   "https://meta.appinn.net/t/topic/94334": "1",
+  "https://meta.appinn.net/t/topic/94406": "1",
+  "https://meta.appinn.net/t/topic/94410": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1854,6 +1858,7 @@
   "小众软件论坛:09ce36307dd9": "用一周的Argon额度更新了我的小工具",
   "小众软件论坛:0d132c4c7c1b": "10 款在 GitHub 发现的免费小工具[260919]",
   "小众软件论坛:0d28c019f711": "CloudCone 再次开启50%赠送：充值 5.1 美元，送 2.55 美元",
+  "小众软件论坛:12fe8920628c": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)",
   "小众软件论坛:136310284535": "苹果隔空投送 AirDrop 已被逆向成功，正在被搬到普通电脑上｜omdrop-owl",
   "小众软件论坛:1b0bca860871": "【开发者自荐】Codex Reset Watch：Codex 额度重置的北京时间倒计时和网页提醒",
   "小众软件论坛:1b0f8ecdeae7": "【开发者自荐】致富模拟器：免费的A股K线训练工具，支持离线回放与模拟交易",
@@ -1901,6 +1906,7 @@
   "小众软件论坛:8c30e88f5703": "烧窑前必备：免费在线陶艺计算工具 Ceramics Practice Alliance",
   "小众软件论坛:8f5e9c6da8b9": "轻档PDF：免费的在线 PDF 工具，支持页面替换、合并和中文 OCR",
   "小众软件论坛:8fd7be1e0279": "【收集】你电脑里有没有一件\"每个月都要手动重复做一遍\"的操作？我挑几个场景写成免费小工具",
+  "小众软件论坛:914d5908b230": "【经验分享】别当冤大头！我的每月 20 美元 AI 订阅搭配：一个主力打底，剩下 90% 任务全白嫖！",
   "小众软件论坛:957d8594c62c": "【开发者自荐】Passcord：基于iOS位置推送服务，立志成为第二省电的行程记录 App",
   "小众软件论坛:997ce1a8ceee": "想问一下有没有免费的没有水印HTML半动态托管",
   "小众软件论坛:9ab17fbcd3dc": "注册域名有啥优惠活动渠道吗",

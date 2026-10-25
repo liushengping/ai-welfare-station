@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费浏览器本地AI法线贴图与PBR材质生成器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "NormalMapAI"
+   },
+   "d": "10-25 10:32",
+   "link": "https://meta.appinn.net/t/topic/94410",
+   "t": "2026-10-25 02:49:26",
+   "title": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)"
+  },
+  {
+   "ai": {
     "amount": "5亿Tokens",
     "deadline": "2026-10-25 23:59",
     "start": "2026-10-23 00:00",
@@ -791,18 +805,6 @@
    "link": "https://bailian.console.aliyun.com/settings/api-key",
    "t": "2026-09-11 23:17:47",
    "title": "API-Key（北京）"
-  },
-  {
-   "ai": {
-    "amount": null,
-    "deadline": null,
-    "urgent": true,
-    "value": null,
-    "vendor": null
-   },
-   "link": "https://linux.do/t/topic/2888059",
-   "t": "2026-09-11 10:27:34",
-   "title": "【10:30 抢】继续送 gpt-astra"
   }
  ]
 }
