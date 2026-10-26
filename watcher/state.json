@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-25",
+ "digest_date": "2026-10-26",
  "feed": [
+  {
+   "ai": {
+    "amount": "4G内存，30G硬盘",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "AgentScope"
+   },
+   "d": "10-26 20:42",
+   "link": "https://meta.appinn.net/t/topic/94540",
+   "t": "2026-10-26 12:55:55",
+   "title": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘"
+  },
   {
    "ai": {
     "amount": "免费浏览器本地AI法线贴图与PBR材质生成器",
@@ -795,18 +809,6 @@
    "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
    "t": "2026-09-11 23:17:47",
    "title": "qwen3.8-max 模型详情页"
-  },
-  {
-   "ai": {
-    "amount": "API-Key",
-    "deadline": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "阿里云"
-   },
-   "link": "https://bailian.console.aliyun.com/settings/api-key",
-   "t": "2026-09-11 23:17:47",
-   "title": "API-Key（北京）"
   }
  ],
  "links": {
@@ -985,6 +987,7 @@
   "https://meta.appinn.net/t/topic/94464": "1",
   "https://meta.appinn.net/t/topic/94468": "1",
   "https://meta.appinn.net/t/topic/94522": "1",
+  "https://meta.appinn.net/t/topic/94540": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1966,6 +1969,7 @@
   "小众软件论坛:cfe5e85e3f5b": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
   "小众软件论坛:d12beca6f671": "[Windows] 挖兔硬盘精灵 v1.1.2 —— 免费开源的硬盘健康检测工具（六档颜色预警）",
   "小众软件论坛:d414b179ead2": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用",
+  "小众软件论坛:d672db9105b1": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘",
   "小众软件论坛:d7687cd1fb7a": "Filee：按住按键拖动文件，丢到环形菜单上即可转换 180 种格式（Windows，开源免费）",
   "小众软件论坛:d924ee50bba7": "【开源自荐】芯语伴 SprechMate，和 AI 练口语纠音，可自部署，填 API 接近免费用",
   "小众软件论坛:d991a533e377": "【开发者自荐】My Desktop Dwarf：你打字，任务栏上的矮人打铁，Steam 免费体验版",
