@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "AI功能和创意工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "苹果 Apple"
+   },
+   "d": "10-27 21:19",
+   "link": "https://www.ithome.com/1/018/666.htm",
+   "t": "2026-10-27 14:16:45",
+   "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线"
+  },
+  {
+   "ai": {
     "amount": "4G内存，30G硬盘",
     "deadline": null,
     "start": null,
@@ -795,18 +809,6 @@
    "link": "https://bailian.console.aliyun.com/model/market",
    "t": "2026-09-11 23:17:47",
    "title": "阿里云百炼-华北2（北京）地域"
-  },
-  {
-   "ai": {
-    "amount": "qwen3.8模型",
-    "deadline": null,
-    "urgent": false,
-    "value": 15,
-    "vendor": "阿里云"
-   },
-   "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
-   "t": "2026-09-11 23:17:47",
-   "title": "qwen3.8-max 模型详情页"
   }
  ]
 }

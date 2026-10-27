@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-26",
+ "digest_date": "2026-10-27",
  "feed": [
+  {
+   "ai": {
+    "amount": "AI功能和创意工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "苹果 Apple"
+   },
+   "d": "10-27 21:19",
+   "link": "https://www.ithome.com/1/018/666.htm",
+   "t": "2026-10-27 14:16:45",
+   "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线"
+  },
   {
    "ai": {
     "amount": "4G内存，30G硬盘",
@@ -797,18 +811,6 @@
    "link": "https://bailian.console.aliyun.com/model/market",
    "t": "2026-09-11 23:17:47",
    "title": "阿里云百炼-华北2（北京）地域"
-  },
-  {
-   "ai": {
-    "amount": "qwen3.8模型",
-    "deadline": null,
-    "urgent": false,
-    "value": 15,
-    "vendor": "阿里云"
-   },
-   "link": "https://bailian.console.aliyun.com/cn-beijing/model/market/detail/qwen3.8-max?serviceSite=asia-pacific-china&amp;ref=suggest",
-   "t": "2026-09-11 23:17:47",
-   "title": "qwen3.8-max 模型详情页"
   }
  ],
  "links": {
@@ -1409,6 +1411,7 @@
   "https://www.ithome.com/1/018/551.htm": "1",
   "https://www.ithome.com/1/018/635.htm": "1",
   "https://www.ithome.com/1/018/637.htm": "1",
+  "https://www.ithome.com/1/018/666.htm": "1",
   "https://www.ithome.com/1/018/674.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
@@ -1473,6 +1476,7 @@
   "IT之家:12efb9b5d4e8": "小牛 NX 风速 Pro 电摩上市：极速突破 100km/h，限时一口价 7399 元",
   "IT之家:12f2f4425aa6": "NASA 毅力号新发现：火星岩石曾经历至少三个阶段水活动",
   "IT之家:13dba46d3da8": "苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新",
+  "IT之家:143acaa831e7": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线",
   "IT之家:147deb2147eb": "2027 款广汽埃安 i60 上市 3 小时订单超 5000 台，限时焕新价 10.68 万元起",
   "IT之家:14958561ea02": "上汽 MG4 530 周年限量版上市，限时补贴价 8.48 万元",
   "IT之家:150c8879824b": "一箭九星：引力一号遥三火箭发射成功，将 8 颗千帆星座组网卫星与 1 颗超高速无线通信技术试验卫星送入太空",
