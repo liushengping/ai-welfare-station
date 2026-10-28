@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.010636385219907408,
+   "ai": {
+    "amount": "免费开源工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "小绿豆"
+   },
+   "date": "Wed, 28 Oct 2026 16:44:21 +0000",
+   "date_str": "10-29 00:44",
+   "id": "小众软件论坛:0098bf0b84d6",
+   "link": "https://meta.appinn.net/t/topic/94728",
+   "title": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器"
+  }
+ ],
  "digest_date": "2026-10-28",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费开源工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "小绿豆"
+   },
+   "d": "10-29 00:44",
+   "link": "https://meta.appinn.net/t/topic/94728",
+   "t": "2026-10-28 17:00:49",
+   "title": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器"
+  },
   {
    "ai": {
     "amount": "免费",
@@ -801,18 +832,6 @@
    "link": "https://linux.do/t/topic/2891440",
    "t": "2026-09-11 23:17:47",
    "title": "666 opencode的deepseek额度涨上去了"
-  },
-  {
-   "ai": {
-    "amount": "注册送码",
-    "deadline": null,
-    "urgent": true,
-    "value": 15,
-    "vendor": "seed4.me"
-   },
-   "link": "https://seed4.me/users/register?promo=GIVE2026",
-   "t": "2026-09-11 23:17:47",
-   "title": "https://seed4.me/users/register?promo=GIVE2026"
   }
  ],
  "links": {
@@ -997,6 +1016,7 @@
   "https://meta.appinn.net/t/topic/94632": "1",
   "https://meta.appinn.net/t/topic/94661": "1",
   "https://meta.appinn.net/t/topic/94697": "1",
+  "https://meta.appinn.net/t/topic/94728": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1427,6 +1447,7 @@
   "https://www.ithome.com/1/019/168.htm": "1",
   "https://www.ithome.com/1/019/172.htm": "1",
   "https://www.ithome.com/1/019/194.htm": "1",
+  "https://www.ithome.com/1/019/227.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1480,6 +1501,7 @@
   "IT之家:0cb3d0ea9494": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
   "IT之家:0cd79ad9e8ea": "吉利全新帝豪向上系列车型上市：FlymeAuto2，限时感恩价 5.99 万元起",
   "IT之家:0d22bec7a9b5": "微软为新版 Outlook 新增发送前自动拼写检查功能，经典版添加更多 Copilot 功能",
+  "IT之家:0d7bedc509b1": "V社详解 Steam 新品节游戏推荐机制：活动刚开始时随机展示，算法会在两天后启用",
   "IT之家:0d7eb3fa2a1d": "vivo OriginOS 7 近期升级计划公布：悬浮控件、相机界面，本月起分批推送",
   "IT之家:0e09866c57fb": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
   "IT之家:0f8f49b68637": "高德地图上线“张雪安全骑行语音包”：摩托车导航大升级，免费送 820RR 冠军 3D 车标",
@@ -1930,6 +1952,7 @@
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
   "小众软件论坛:0080ca9844b6": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
+  "小众软件论坛:0098bf0b84d6": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器",
   "小众软件论坛:05db84a1f1b3": "【开发者自荐】毛剪剪·MaoCut：Mac上的免费剪辑软件，用它已经剪了40期环中国游记",
   "小众软件论坛:078560f55552": "云帆工具：80+ 款免费在线工具，文件全在浏览器本地处理，不上传服务器",
   "小众软件论坛:09ce36307dd9": "用一周的Argon额度更新了我的小工具",

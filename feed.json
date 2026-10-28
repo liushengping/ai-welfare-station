@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费开源工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "小绿豆"
+   },
+   "d": "10-29 00:44",
+   "link": "https://meta.appinn.net/t/topic/94728",
+   "t": "2026-10-28 17:00:49",
+   "title": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器"
+  },
+  {
+   "ai": {
     "amount": "免费",
     "deadline": null,
     "start": null,
@@ -799,18 +813,6 @@
    "link": "https://linux.do/t/topic/2891440",
    "t": "2026-09-11 23:17:47",
    "title": "666 opencode的deepseek额度涨上去了"
-  },
-  {
-   "ai": {
-    "amount": "注册送码",
-    "deadline": null,
-    "urgent": true,
-    "value": 15,
-    "vendor": "seed4.me"
-   },
-   "link": "https://seed4.me/users/register?promo=GIVE2026",
-   "t": "2026-09-11 23:17:47",
-   "title": "https://seed4.me/users/register?promo=GIVE2026"
   }
  ]
 }
