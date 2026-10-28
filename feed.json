@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "Echo"
+   },
+   "d": "10-28 10:16",
+   "link": "https://meta.appinn.net/t/topic/94632",
+   "t": "2026-10-28 03:36:51",
+   "title": "【开发者自荐】Echo：Mac 智能剪贴板，丝滑，免费，开源，智能"
+  },
+  {
+   "ai": {
     "amount": "AI功能和创意工具",
     "deadline": null,
     "start": null,
@@ -797,18 +811,6 @@
    "link": "https://seed4.me/users/register?promo=GIVE2026",
    "t": "2026-09-11 23:17:47",
    "title": "https://seed4.me/users/register?promo=GIVE2026"
-  },
-  {
-   "ai": {
-    "amount": "百炼地域",
-    "deadline": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "阿里云"
-   },
-   "link": "https://bailian.console.aliyun.com/model/market",
-   "t": "2026-09-11 23:17:47",
-   "title": "阿里云百炼-华北2（北京）地域"
   }
  ]
 }

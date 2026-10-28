@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-10-27",
+ "digest_date": "2026-10-28",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "Echo"
+   },
+   "d": "10-28 10:16",
+   "link": "https://meta.appinn.net/t/topic/94632",
+   "t": "2026-10-28 03:36:51",
+   "title": "【开发者自荐】Echo：Mac 智能剪贴板，丝滑，免费，开源，智能"
+  },
   {
    "ai": {
     "amount": "AI功能和创意工具",
@@ -799,18 +813,6 @@
    "link": "https://seed4.me/users/register?promo=GIVE2026",
    "t": "2026-09-11 23:17:47",
    "title": "https://seed4.me/users/register?promo=GIVE2026"
-  },
-  {
-   "ai": {
-    "amount": "百炼地域",
-    "deadline": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "阿里云"
-   },
-   "link": "https://bailian.console.aliyun.com/model/market",
-   "t": "2026-09-11 23:17:47",
-   "title": "阿里云百炼-华北2（北京）地域"
   }
  ],
  "links": {
@@ -992,6 +994,7 @@
   "https://meta.appinn.net/t/topic/94540": "1",
   "https://meta.appinn.net/t/topic/94614": "1",
   "https://meta.appinn.net/t/topic/94626": "1",
+  "https://meta.appinn.net/t/topic/94632": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1414,6 +1417,7 @@
   "https://www.ithome.com/1/018/637.htm": "1",
   "https://www.ithome.com/1/018/666.htm": "1",
   "https://www.ithome.com/1/018/674.htm": "1",
+  "https://www.ithome.com/1/018/739.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1790,6 +1794,7 @@
   "IT之家:e6794c6ac2d6": "小米米家石墨烯暖风机 Pro 开售：2 米送暖半径、80° 广角摆风，399 元",
   "IT之家:e7a448277f95": "亚马逊今年将为配送小哥部署 5000 台智能眼镜：不用手机就能看导航和送货指引",
   "IT之家:e8713fb3ebc4": "小鹏 P7+ 黑武士套装上市：全新极夜黑车漆，限时优惠价 6000 元",
+  "IT之家:e8bfe700ed62": "华为 FreeClip 2 耳夹耳机潮玩拼色版开售，1299 元",
   "IT之家:e956a01adf6a": "Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领",
   "IT之家:ea2509c340a1": "吉利银河 TT 轿车上市 30 天交付超过 1 万台，限时先享价 12.99 万元起",
   "IT之家:ea5035951863": "特斯拉中国推出汽车家充桩延保服务限时优惠，明年 1 月 20 日前购买延保服务最低 199 元",
@@ -1989,6 +1994,7 @@
   "小众软件论坛:b29a23f9eef2": "【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、Thread 阅读与内容处理等 40+ 个实用工具",
   "小众软件论坛:b363f80f337e": "Epic 免费游戏 2026-9-25",
   "小众软件论坛:b55d21a49705": "扫描全能王、夸克扫描王的免费平替：文拍扫描打印",
+  "小众软件论坛:bb032e75cecc": "【开发者自荐】Echo：Mac 智能剪贴板，丝滑，免费，开源，智能",
   "小众软件论坛:bf028520e780": "Epic 免费游戏 2026-10-23",
   "小众软件论坛:c000705a7ed3": "【开发者自荐】Spare Mac：说一句话生成 Mac 插件，GPT-5.6 免费用",
   "小众软件论坛:c092e13a9c71": "Hermes 提供 7 款免费模型，从安装到选择模型",
