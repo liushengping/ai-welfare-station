@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.006128561875,
+   "ai": {
+    "amount": "额度加量",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "小米"
+   },
+   "date": "Thu, 29 Oct 2026 06:41:31 GMT",
+   "date_str": "10-29 14:41",
+   "id": "IT之家:6e1d890478e0",
+   "link": "https://www.ithome.com/1/019/502.htm",
+   "title": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型"
+  }
+ ],
  "digest_date": "2026-10-29",
  "feed": [
+  {
+   "ai": {
+    "amount": "额度加量",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "小米"
+   },
+   "d": "10-29 14:41",
+   "link": "https://www.ithome.com/1/019/502.htm",
+   "t": "2026-10-29 06:50:59",
+   "title": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型"
+  },
   {
    "ai": {
     "amount": "免费开源工具",
@@ -803,18 +834,6 @@
    "link": "https://linux.do/t/topic/2889136",
    "t": "2026-09-11 23:17:47",
    "title": "【14:00 抢】送 gpt-astra 额度"
-  },
-  {
-   "ai": {
-    "amount": "deepseek额度涨",
-    "deadline": null,
-    "urgent": false,
-    "value": 20,
-    "vendor": "opencode"
-   },
-   "link": "https://linux.do/t/topic/2891440",
-   "t": "2026-09-11 23:17:47",
-   "title": "666 opencode的deepseek额度涨上去了"
   }
  ],
  "links": {
@@ -1001,6 +1020,7 @@
   "https://meta.appinn.net/t/topic/94661": "1",
   "https://meta.appinn.net/t/topic/94697": "1",
   "https://meta.appinn.net/t/topic/94728": "1",
+  "https://meta.appinn.net/t/topic/94759": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1439,6 +1459,7 @@
   "https://www.ithome.com/1/019/401.htm": "1",
   "https://www.ithome.com/1/019/413.htm": "1",
   "https://www.ithome.com/1/019/437.htm": "1",
+  "https://www.ithome.com/1/019/502.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1640,6 +1661,7 @@
   "IT之家:696b43e910c0": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
   "IT之家:6d26142758be": "长安启源 Q06 上市 24 小时累计订单突破 3.5 万台，限时权益价 13.59 万元起",
   "IT之家:6ddafce0612f": "少量账号发送疑似色情引流信息，企业微信安全团队公告确认为某第三方外挂软件服务被攻破所致",
+  "IT之家:6e1d890478e0": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型",
   "IT之家:6eac672a478a": "创企 TakeMe2Space 将用 SpaceX 火箭送星上天，号称印度首颗轨道计算卫星",
   "IT之家:6f98ba628510": "上汽大众 ID.ERA 8X 增程 SUV 上市，限时权益价 20.68 万元起",
   "IT之家:6fce914498b9": "启境 GX7 上市：华为七大汽车智能化解决方案加持，限时权益价 22.99 万-29.19 万元",
@@ -1990,6 +2012,7 @@
   "小众软件论坛:3f9ac1480f84": "【开发者自荐】FloatNote+：悬浮在任意窗口上方的 Windows 便签，完全免费",
   "小众软件论坛:4b0fe3131faf": "【开发者自荐】一款网易云&QQ音乐会员领取网站来啦！",
   "小众软件论坛:4e5d76faa6b6": "【开发者自荐】账差清单：离线核对 Excel 订单与回款，免费内测求反馈",
+  "小众软件论坛:4e921a4e94b8": "【开发者自荐】BOKI - 开源免费的离线记账软件，数据全在本机一个文件",
   "小众软件论坛:4f12bc557230": "[开发者自荐] 4 款纯前端图文免费工具（PDF合并/PDF 提取/一键壁纸裁剪/长微博图片生成）",
   "小众软件论坛:4f187515c471": "【开发者自荐】Open Resume：可自部署的开源简历工具，156 款模板和导出免费",
   "小众软件论坛:50a494642c9c": "Epic 免费游戏 2026-9-4",
