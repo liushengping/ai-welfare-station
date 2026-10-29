@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.010636385219907408,
-   "ai": {
-    "amount": "免费开源工具",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "小绿豆"
-   },
-   "date": "Wed, 28 Oct 2026 16:44:21 +0000",
-   "date_str": "10-29 00:44",
-   "id": "小众软件论坛:0098bf0b84d6",
-   "link": "https://meta.appinn.net/t/topic/94728",
-   "title": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器"
-  }
- ],
- "digest_date": "2026-10-28",
+ "digest": [],
+ "digest_date": "2026-10-29",
  "feed": [
   {
    "ai": {
@@ -854,6 +837,7 @@
   "https://bigmodel.cn/special_area": "1",
   "https://bigmodel.cn/usercenter/proj-mgmt/apikeys": "1",
   "https://billing-cost.console.aliyun.com/home/alarm-threshold": "1",
+  "https://botkeep.cloud/app/affiliation?invite=C566780F828ECB33": "1",
   "https://cloud.siliconflow.cn": "1",
   "https://cloud.siliconflow.cn/me/models": "1",
   "https://cloud.siliconflow.cn/models": "1",
@@ -1449,6 +1433,10 @@
   "https://www.ithome.com/1/019/194.htm": "1",
   "https://www.ithome.com/1/019/227.htm": "1",
   "https://www.ithome.com/1/019/245.htm": "1",
+  "https://www.ithome.com/1/019/311.htm": "1",
+  "https://www.ithome.com/1/019/320.htm": "1",
+  "https://www.ithome.com/1/019/326.htm": "1",
+  "https://www.ithome.com/1/019/401.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1520,6 +1508,7 @@
   "IT之家:150c8879824b": "一箭九星：引力一号遥三火箭发射成功，将 8 颗千帆星座组网卫星与 1 颗超高速无线通信技术试验卫星送入太空",
   "IT之家:153e16f64af7": "全新华为 FreeBuds Neo 开启预售，售价 699 元",
   "IT之家:15c3b89964b1": "警方打掉一网暴团伙：人肉开盒、短信轰炸、污言刷屏、冥物寄送，98 人落网",
+  "IT之家:163282d164b2": "一汽红旗全新一代天工 08 新增 620 四驱 Ultra 版本，限时权益价 21.99 万元",
   "IT之家:184edc5d009c": "中老铁路累计发送旅客突破 8000 万人次，服务 120 余个国家和地区跨境旅客 95 万人次",
   "IT之家:1995c6884e58": "解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案",
   "IT之家:19a52233a9f6": "相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难",
@@ -1547,6 +1536,7 @@
   "IT之家:2778071b05eb": "全新一汽红旗 H7 上市：限时 16.88 万-20.88 万元，2916.171 公里续航刷新吉尼斯纪录",
   "IT之家:278cfcf173e3": "广汽丰田铂智 3X 第 15 万台暨星云限量版交付，限时权益价 11.78 万元起",
   "IT之家:27e25871987c": "2026 国庆假期第三天，全国铁路预计发送旅客 1890 万人次、加开列车 910 列",
+  "IT之家:28fb20a7a671": "“太空观测大礼包”风云三号 H 星、四号 C 星数据产品发布，普通公众也能领取",
   "IT之家:29566b91cda6": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
   "IT之家:2a9437f2d51f": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
   "IT之家:2b5155938b9d": "全国日均 Token 词元调用量较两年前实现千倍级增长",
@@ -1565,6 +1555,7 @@
   "IT之家:35d4fcf8ee45": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
   "IT之家:35f91f26d786": "吉利星瑞 L PLUS i-HEV 启动预售：定位宽体旗舰智混家轿，限时 11.57 万-14.57 万元",
   "IT之家:361c9d44ba66": "三部门组织开展 2026 年“孝老爱老购物季”活动，引导电商平台搭建线上适老产品虚拟展厅、加快智能护理机器人迭代升级",
+  "IT之家:363bf139ed2a": "努比亚星云 AIOS 3.0 版本升级计划公布，12 月推送 Z80 Ultra 手机",
   "IT之家:37dd03ba14da": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
   "IT之家:3915470bebab": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万",
   "IT之家:3a5d3839f2aa": "Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领",
@@ -1653,6 +1644,7 @@
   "IT之家:70348396de07": "Epic 喜加二：《斯盖尔仪式》《归家》游戏免费领",
   "IT之家:712d7f9f3261": "特斯拉推送 2026.26.200.11 软件更新：为更多车型上线豆包大模型语音助手",
   "IT之家:7174da0299db": "2027 款广汽埃安 i60 上市首月订单突破 20181 台，限时焕新价 10.68 万元起",
+  "IT之家:720b43caa99b": "《无人深空》登陆苹果 iOS 平台售 19.99 美元，游戏全平台同步推送“遗落”万圣节更新",
   "IT之家:720b4fc2e644": "师姐联动贝姐：《剑星》与《猎天使魔女》游戏免费联动更新预告，11 月 5 日推出",
   "IT之家:727cdfa43671": "小米 Civi 4 Pro、REDMI K70 手机新增电池升级服务，限时 8 折 151.2 元",
   "IT之家:72f73e30a1bb": "被禁四年多后《Free Fire》印度本地化版本回归上线，加入游戏时长限制与消费上限",
@@ -1898,6 +1890,7 @@
   "TG-白嫖分享社:2fd244b9ddd6": "https://seed4.me/users/register?promo=GIVE2026",
   "TG-白嫖分享社:514b7555ed3c": "SCP || 每日免费节点",
   "TG-白嫖分享社:5b819bebf58a": "https://developer.amd.com.cn/radeon/tokenfactory",
+  "TG-白嫖分享社:74ea5a0d0597": "请通过 Botkeep 官方网站查看活动详情及领取入口。",
   "TG-白嫖分享社:978a805f497f": "严选君综合福利社",
   "TG-白嫖分享社:a96032a6a4bb": "山茶花の机场频道｜免费机场推荐",
   "TG-白嫖分享社:d5b1a990147b": "🖼 🧠 100 美元即可免费访问人工智能模型的 API",
