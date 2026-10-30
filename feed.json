@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "开放Large 4模型权重",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Mistral AI"
+   },
+   "d": "10-30 09:09",
+   "link": "https://www.ithome.com/1/019/865.htm",
+   "t": "2026-10-30 03:59:21",
+   "title": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token"
+  },
+  {
+   "ai": {
     "amount": "额度加量",
     "deadline": null,
     "start": null,
@@ -803,18 +817,6 @@
    "link": "https://linux.do/t/topic/2889315",
    "t": "2026-09-11 23:17:47",
    "title": "阿里云每月羊毛-上新了"
-  },
-  {
-   "ai": {
-    "amount": "送额度",
-    "deadline": "null",
-    "urgent": true,
-    "value": 75,
-    "vendor": "gpt-astra"
-   },
-   "link": "https://linux.do/t/topic/2889136",
-   "t": "2026-09-11 23:17:47",
-   "title": "【14:00 抢】送 gpt-astra 额度"
   }
  ]
 }

@@ -1,24 +1,21 @@
 {
- "digest": [
+ "digest": [],
+ "digest_date": "2026-10-30",
+ "feed": [
   {
-   "_age": 0.006128561875,
    "ai": {
-    "amount": "额度加量",
+    "amount": "开放Large 4模型权重",
     "deadline": null,
     "start": null,
     "urgent": false,
-    "value": 90,
-    "vendor": "小米"
+    "value": 80,
+    "vendor": "Mistral AI"
    },
-   "date": "Thu, 29 Oct 2026 06:41:31 GMT",
-   "date_str": "10-29 14:41",
-   "id": "IT之家:6e1d890478e0",
-   "link": "https://www.ithome.com/1/019/502.htm",
-   "title": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型"
-  }
- ],
- "digest_date": "2026-10-29",
- "feed": [
+   "d": "10-30 09:09",
+   "link": "https://www.ithome.com/1/019/865.htm",
+   "t": "2026-10-30 03:59:21",
+   "title": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token"
+  },
   {
    "ai": {
     "amount": "额度加量",
@@ -822,18 +819,6 @@
    "link": "https://linux.do/t/topic/2889315",
    "t": "2026-09-11 23:17:47",
    "title": "阿里云每月羊毛-上新了"
-  },
-  {
-   "ai": {
-    "amount": "送额度",
-    "deadline": "null",
-    "urgent": true,
-    "value": 75,
-    "vendor": "gpt-astra"
-   },
-   "link": "https://linux.do/t/topic/2889136",
-   "t": "2026-09-11 23:17:47",
-   "title": "【14:00 抢】送 gpt-astra 额度"
   }
  ],
  "links": {
@@ -1462,6 +1447,9 @@
   "https://www.ithome.com/1/019/502.htm": "1",
   "https://www.ithome.com/1/019/716.htm": "1",
   "https://www.ithome.com/1/019/789.htm": "1",
+  "https://www.ithome.com/1/019/865.htm": "1",
+  "https://www.ithome.com/1/019/868.htm": "1",
+  "https://www.ithome.com/1/019/891.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1587,6 +1575,7 @@
   "IT之家:3a5d3839f2aa": "Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领",
   "IT之家:3b2d8c0da13a": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
   "IT之家:3be96295fd6c": "尴尬，保时捷向车主发送零跑汽车调查问卷",
+  "IT之家:3beea0fc9527": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
   "IT之家:3c2fb1770c74": "阿里 Qoder 上线 Fast 模式：首次响应只要 3 秒，更省 Credits",
   "IT之家:3c4314ed77b1": "华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机开售，优惠价 749 元",
   "IT之家:3cea4cd138d3": "Steam 喜加一：第一人称生存恐怖射击游戏《Radiant Exodus》免费领",
@@ -1787,6 +1776,7 @@
   "IT之家:b5001f92f040": "开发者为 Windows Phone 带来“快速分享”功能，支持向 PC、安卓设备发送文件",
   "IT之家:b51dccbbded7": "时创意送样 QLC UFS 2.2 嵌入式闪存，容量覆盖 128GB / 256GB / 512GB",
   "IT之家:b62f8b6e7998": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文",
+  "IT之家:b824fc814ea7": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型",
   "IT之家:b8a59c4fda92": "华为 MatePad Pro 等平板推送 HarmonyOS 7 花粉 Beta 升级：直升 111 版本，新增远程分享等功能",
   "IT之家:b942dc70fa5f": "Epic 喜加一：狼人杀推理游戏《MAFIA HOTEL》免费领",
   "IT之家:b9af69a29067": "长安 UNI-V 蓝鲸超擎混动上市，限时 10.99 万-11.39 万元",
@@ -1858,6 +1848,7 @@
   "IT之家:e8bfe700ed62": "华为 FreeClip 2 耳夹耳机潮玩拼色版开售，1299 元",
   "IT之家:e8c841c4e704": "三星：新版睡眠呼吸暂停检测算法下月率先向韩版 Galaxy Watch 9/Ultra2 手表及 Galaxy Ring 智能戒指推送",
   "IT之家:e956a01adf6a": "Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领",
+  "IT之家:e9adb11f2e35": "10:00~10:15 速抢限时不限量红包：京东红包今日全员加码",
   "IT之家:ea2509c340a1": "吉利银河 TT 轿车上市 30 天交付超过 1 万台，限时先享价 12.99 万元起",
   "IT之家:ea5035951863": "特斯拉中国推出汽车家充桩延保服务限时优惠，明年 1 月 20 日前购买延保服务最低 199 元",
   "IT之家:eaec041611ad": "中秋假期首日，全国铁路预计发送旅客 2234 万人次",
