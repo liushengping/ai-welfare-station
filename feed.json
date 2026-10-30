@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "8800额度+1个月订阅",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "豆包"
+   },
+   "d": "10-30 17:14",
+   "link": "https://www.ithome.com/1/020/224.htm",
+   "t": "2026-10-30 09:17:01",
+   "title": "豆包再次面向用户推出免费额度活动：累计签到 30 天可得 8800 额度、新用户免费领一个月订阅"
+  },
+  {
+   "ai": {
     "amount": "开放Large 4模型权重",
     "deadline": null,
     "start": null,
@@ -805,18 +819,6 @@
    "link": "https://linux.do/t/topic/2889567",
    "t": "2026-09-11 23:17:47",
    "title": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。"
-  },
-  {
-   "ai": {
-    "amount": "每月羊毛",
-    "deadline": "null",
-    "urgent": true,
-    "value": 70,
-    "vendor": "阿里云"
-   },
-   "link": "https://linux.do/t/topic/2889315",
-   "t": "2026-09-11 23:17:47",
-   "title": "阿里云每月羊毛-上新了"
   }
  ]
 }
