@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费插件",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "旁白/Aside"
+   },
+   "d": "10-31 14:56",
+   "link": "https://meta.appinn.net/t/topic/94890",
+   "t": "2026-10-31 07:06:21",
+   "title": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问"
+  },
+  {
+   "ai": {
     "amount": "100美元DeepSeek V4.1 Flash额度",
     "deadline": null,
     "start": null,
@@ -813,18 +827,6 @@
    "link": "https://linux.do/t/topic/2890962",
    "t": "2026-09-11 23:17:47",
    "title": "【RelayFor】我免费辣"
-  },
-  {
-   "ai": {
-    "amount": "$18补贴",
-    "deadline": "null",
-    "urgent": true,
-    "value": 90,
-    "vendor": "CUN.AI"
-   },
-   "link": "https://linux.do/t/topic/2890648",
-   "t": "2026-09-11 23:17:47",
-   "title": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！"
   }
  ]
 }

@@ -15,10 +15,40 @@
    "id": "IT之家:900a3bc43a60",
    "link": "https://www.ithome.com/1/020/474.htm",
    "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度"
+  },
+  {
+   "_age": 0.006120491111111111,
+   "ai": {
+    "amount": "免费插件",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "旁白/Aside"
+   },
+   "date": "Sat, 31 Oct 2026 06:56:40 +0000",
+   "date_str": "10-31 14:56",
+   "id": "小众软件论坛:863e7d02a651",
+   "link": "https://meta.appinn.net/t/topic/94890",
+   "title": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问"
   }
  ],
  "digest_date": "2026-10-31",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费插件",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "旁白/Aside"
+   },
+   "d": "10-31 14:56",
+   "link": "https://meta.appinn.net/t/topic/94890",
+   "t": "2026-10-31 07:06:21",
+   "title": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问"
+  },
   {
    "ai": {
     "amount": "100美元DeepSeek V4.1 Flash额度",
@@ -832,18 +862,6 @@
    "link": "https://linux.do/t/topic/2890962",
    "t": "2026-09-11 23:17:47",
    "title": "【RelayFor】我免费辣"
-  },
-  {
-   "ai": {
-    "amount": "$18补贴",
-    "deadline": "null",
-    "urgent": true,
-    "value": 90,
-    "vendor": "CUN.AI"
-   },
-   "link": "https://linux.do/t/topic/2890648",
-   "t": "2026-09-11 23:17:47",
-   "title": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！"
   }
  ],
  "links": {
@@ -1033,6 +1051,7 @@
   "https://meta.appinn.net/t/topic/94759": "1",
   "https://meta.appinn.net/t/topic/94825": "1",
   "https://meta.appinn.net/t/topic/94871": "1",
+  "https://meta.appinn.net/t/topic/94890": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1493,6 +1512,8 @@
   "https://www.ithome.com/1/020/436.htm": "1",
   "https://www.ithome.com/1/020/453.htm": "1",
   "https://www.ithome.com/1/020/474.htm": "1",
+  "https://www.ithome.com/1/020/479.htm": "1",
+  "https://www.ithome.com/1/020/482.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1586,6 +1607,7 @@
   "IT之家:1fdb105e6d84": "英特尔为第 11~14 代酷睿处理器核显推送 7092 驱动，修复《永劫无间》问题",
   "IT之家:205178b1040a": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
   "IT之家:21084d36a9b1": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
+  "IT之家:2214e7f46192": "小米 120W 快充：酷态科 10 号超级电能棒 Plus 京东 149 元限时国补",
   "IT之家:230c335b5861": "卡普空《识质存在》游戏免费 DLC 上线，新增《洛克人》联动内容",
   "IT之家:23173fef83eb": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
   "IT之家:231ece10a618": "10:00~10:15 速抢限时不限量红包：京东红包今日全员再加码",
@@ -1924,6 +1946,7 @@
   "IT之家:f1209a4ff878": "玩家为破解后的索尼 PS5 游戏机开发自制应用商店，可免费下载各大作品",
   "IT之家:f176b479feb4": "时隔 3 年多，苹果向 2 米 MagSafe 3 连接线推送 3.2.0 新固件",
   "IT之家:f1dea8c180f4": "原生 3DoF 防抖不易晕：雷鸟 AR 眼镜 GT 京东 1391 元新低，配镜后也支持 7 天免费试用",
+  "IT之家:f27261fcba6c": "别克至境三车推送 OS2.1 版本：原生支持苹果 CarPlay、华为 HiCar 等",
   "IT之家:f294cb497b33": "美团：将提高超重、体积大、步行上下楼等较难配送订单计费权重",
   "IT之家:f2b9a2d5b63b": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
   "IT之家:f2ee000144b7": "上汽 MG 07 旅行车谍照曝光，现款限时补贴价 10.59 万元起",
@@ -2087,6 +2110,7 @@
   "小众软件论坛:7afebfe516db": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具",
   "小众软件论坛:7b196932fe9d": "Reloadwright：Edge 自动刷新插件，刷新免费不限量，网页一变能提醒到手机",
   "小众软件论坛:7fdb7b4e8267": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
+  "小众软件论坛:863e7d02a651": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问",
   "小众软件论坛:8c30e88f5703": "烧窑前必备：免费在线陶艺计算工具 Ceramics Practice Alliance",
   "小众软件论坛:8f5e9c6da8b9": "轻档PDF：免费的在线 PDF 工具，支持页面替换、合并和中文 OCR",
   "小众软件论坛:8fd7be1e0279": "【收集】你电脑里有没有一件\"每个月都要手动重复做一遍\"的操作？我挑几个场景写成免费小工具",
