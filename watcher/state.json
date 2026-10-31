@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.006996809780092593,
+   "ai": {
+    "amount": "100美元DeepSeek V4.1 Flash额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "date": "Sat, 31 Oct 2026 06:40:47 GMT",
+   "date_str": "10-31 14:40",
+   "id": "IT之家:900a3bc43a60",
+   "link": "https://www.ithome.com/1/020/474.htm",
+   "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度"
+  }
+ ],
  "digest_date": "2026-10-31",
  "feed": [
+  {
+   "ai": {
+    "amount": "100美元DeepSeek V4.1 Flash额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenCode"
+   },
+   "d": "10-31 14:40",
+   "link": "https://www.ithome.com/1/020/474.htm",
+   "t": "2026-10-31 06:51:22",
+   "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度"
+  },
   {
    "ai": {
     "amount": "免费生成粤语歌",
@@ -813,18 +844,6 @@
    "link": "https://linux.do/t/topic/2890648",
    "t": "2026-09-11 23:17:47",
    "title": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！"
-  },
-  {
-   "ai": {
-    "amount": "DeepSeek-V4.1-Flash免费",
-    "deadline": "null",
-    "urgent": true,
-    "value": 85,
-    "vendor": "DeepSeek"
-   },
-   "link": "https://linux.do/t/topic/2890283",
-   "t": "2026-09-11 23:17:47",
-   "title": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费"
   }
  ],
  "links": {
@@ -1473,6 +1492,7 @@
   "https://www.ithome.com/1/020/424.htm": "1",
   "https://www.ithome.com/1/020/436.htm": "1",
   "https://www.ithome.com/1/020/453.htm": "1",
+  "https://www.ithome.com/1/020/474.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1750,6 +1770,7 @@
   "IT之家:8de976cb717a": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
   "IT之家:8f5244c681cd": "上汽大通 2027 款大家 9 正式上市，限时权益价 23.99 万元起",
   "IT之家:8fe92c42ed23": "苹果推送 watchOS 27.0.1 更新：修复 Apple Watch Series 12/Ultra 4 随机重启故障",
+  "IT之家:900a3bc43a60": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度",
   "IT之家:91651d64191a": "时隔近一年华为 Mate 40 系列手机再获系统更新，HarmonyOS 4.2.0.196/210 版本推送",
   "IT之家:91b1b60428ca": "阿维塔 07L Max 纯电版上市：搭载华为乾崑 ADS 5，限时权益价 21.59 万元起",
   "IT之家:91d9b795c3ff": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修",
