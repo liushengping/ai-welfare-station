@@ -1,24 +1,35 @@
 {
- "digest": [
+ "digest": [],
+ "digest_date": "2026-10-31",
+ "feed": [
   {
-   "_age": 0.0010216063078703705,
    "ai": {
-    "amount": "8800额度+1个月订阅",
+    "amount": "免费生成粤语歌",
     "deadline": null,
     "start": null,
     "urgent": false,
-    "value": 75,
-    "vendor": "豆包"
+    "value": 50,
+    "vendor": "港话通"
    },
-   "date": "Fri, 30 Oct 2026 09:14:29 GMT",
-   "date_str": "10-30 17:14",
-   "id": "IT之家:741f18fb03a6",
-   "link": "https://www.ithome.com/1/020/224.htm",
-   "title": "豆包再次面向用户推出免费额度活动：累计签到 30 天可得 8800 额度、新用户免费领一个月订阅"
-  }
- ],
- "digest_date": "2026-10-30",
- "feed": [
+   "d": "10-31 07:20",
+   "link": "https://www.ithome.com/1/020/396.htm",
+   "t": "2026-10-31 03:58:43",
+   "title": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能"
+  },
+  {
+   "ai": {
+    "amount": "免费库存管理软件",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "meta.appinn.net"
+   },
+   "d": "10-31 11:36",
+   "link": "https://meta.appinn.net/t/topic/94871",
+   "t": "2026-10-31 03:58:43",
+   "title": "用AI写的库存管理软件免费的"
+  },
   {
    "ai": {
     "amount": "8800额度+1个月订阅",
@@ -814,30 +825,6 @@
    "link": "https://linux.do/t/topic/2890283",
    "t": "2026-09-11 23:17:47",
    "title": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费"
-  },
-  {
-   "ai": {
-    "amount": "国模直降",
-    "deadline": "null",
-    "urgent": true,
-    "value": 75,
-    "vendor": "ZeroCat"
-   },
-   "link": "https://linux.do/t/topic/2890266",
-   "t": "2026-09-11 23:17:47",
-   "title": "【富可敌国】GPT 承压期间的备用方案 | ZeroCat 国模限时直降 0.15x 起 | 评论国模免费用"
-  },
-  {
-   "ai": {
-    "amount": "模型体验额度",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "PQH"
-   },
-   "link": "https://linux.do/t/topic/2889567",
-   "t": "2026-09-11 23:17:47",
-   "title": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。"
   }
  ],
  "links": {
@@ -1026,6 +1013,7 @@
   "https://meta.appinn.net/t/topic/94728": "1",
   "https://meta.appinn.net/t/topic/94759": "1",
   "https://meta.appinn.net/t/topic/94825": "1",
+  "https://meta.appinn.net/t/topic/94871": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1480,6 +1468,10 @@
   "https://www.ithome.com/1/020/165.htm": "1",
   "https://www.ithome.com/1/020/224.htm": "1",
   "https://www.ithome.com/1/020/363.htm": "1",
+  "https://www.ithome.com/1/020/396.htm": "1",
+  "https://www.ithome.com/1/020/420.htm": "1",
+  "https://www.ithome.com/1/020/424.htm": "1",
+  "https://www.ithome.com/1/020/436.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1566,6 +1558,7 @@
   "IT之家:1ca08deafd4d": "小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等",
   "IT之家:1cdd32062982": "1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低",
   "IT之家:1dfed294a047": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%",
+  "IT之家:1e1eb60bf698": "定制全光谱灯珠：小米米家风扇灯 36 英寸国补后 366 元（初次免费安装）",
   "IT之家:1ed36f8d4f8b": "新增多地支持国补：华为 FreeClip 2 耳夹耳机 1299 → 978 元京东探底",
   "IT之家:1eed4af14eee": "荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送",
   "IT之家:1fccd27ae47f": "比亚迪方程豹钛 7 第六次 OTA 开启推送，新增一键无痕、智慧寻车等功能",
@@ -1574,6 +1567,7 @@
   "IT之家:21084d36a9b1": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
   "IT之家:230c335b5861": "卡普空《识质存在》游戏免费 DLC 上线，新增《洛克人》联动内容",
   "IT之家:23173fef83eb": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
+  "IT之家:231ece10a618": "10:00~10:15 速抢限时不限量红包：京东红包今日全员再加码",
   "IT之家:23884d0d3683": "苹果为 AppleTV 推送 tvOS 27.0 正式版系统更新：全新播客应用、Apple Music 新增高解析度无损音频",
   "IT之家:2423b7f8f75d": "2027 款吉利缤越超能版上市：Flyme Auto 2 智能座舱，限时先享价 5.98 万元起",
   "IT之家:267c02c2de1c": "vivo OriginOS 7 正式开启首批升级，按尝鲜申请顺序分批推送",
@@ -1678,6 +1672,7 @@
   "IT之家:653f34fd4074": "买一得二：京东 PLUS + 芒果 TV 联合会员年卡 108 元限时发车",
   "IT之家:65e45fdb22f2": "“问界大饭店”回归，推出免费错峰洗车 / 加玻璃水、餐饮等服务",
   "IT之家:65ed32643688": "华为钱包畅行无忧卡乘车信用额度由 20 元升至 50 元，通用全国 330+ 城市",
+  "IT之家:662cdf38c933": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能",
   "IT之家:66b234f6d60e": "Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能",
   "IT之家:66de9b85e8b1": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
   "IT之家:68dbe8676cbd": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
@@ -1812,6 +1807,7 @@
   "IT之家:b43f6b929bc9": "微信鸿蒙版 App 获 8.0.22.44 邀测升级：接入 A2A 能力，支持语音唤醒小艺发送消息",
   "IT之家:b5001f92f040": "开发者为 Windows Phone 带来“快速分享”功能，支持向 PC、安卓设备发送文件",
   "IT之家:b51dccbbded7": "时创意送样 QLC UFS 2.2 嵌入式闪存，容量覆盖 128GB / 256GB / 512GB",
+  "IT之家:b56971d57eec": "小米 REDMI K100 手机首销：骁龙 8 至尊版、10000mAh 电池，限时特惠价 2999 元起",
   "IT之家:b62f8b6e7998": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文",
   "IT之家:b824fc814ea7": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型",
   "IT之家:b8a59c4fda92": "华为 MatePad Pro 等平板推送 HarmonyOS 7 花粉 Beta 升级：直升 111 版本，新增远程分享等功能",
@@ -2120,6 +2116,7 @@
   "小众软件论坛:eb864fc5cf0f": "【开发者自荐】nopaywall：整理免费 AI 额度、免费 API 和付费工具替代品的目录",
   "小众软件论坛:ef185c68b100": "IResume-一款美观免费的简历制作工具",
   "小众软件论坛:f51addfbadb1": "【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好",
+  "小众软件论坛:f873ac329701": "用AI写的库存管理软件免费的",
   "小众软件论坛:f897a8214900": "【开源自荐】FreeControl2 - 新的scrcpy GUI",
   "小众软件论坛:fdec5022efd8": "【软件自荐】MyShell：Mac 上免费的终端和 SSH 客户端，支持 JumpServer 堡垒机，AI 助手可复用已登录的连接",
   "智谱BigModel-活动文档:0316c040575a": "智谱AI开放文档 home page",
