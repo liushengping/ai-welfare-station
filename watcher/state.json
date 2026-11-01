@@ -1,39 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.006996809780092593,
-   "ai": {
-    "amount": "100美元DeepSeek V4.1 Flash额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "date": "Sat, 31 Oct 2026 06:40:47 GMT",
-   "date_str": "10-31 14:40",
-   "id": "IT之家:900a3bc43a60",
-   "link": "https://www.ithome.com/1/020/474.htm",
-   "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度"
-  },
-  {
-   "_age": 0.006120491111111111,
-   "ai": {
-    "amount": "免费插件",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "旁白/Aside"
-   },
-   "date": "Sat, 31 Oct 2026 06:56:40 +0000",
-   "date_str": "10-31 14:56",
-   "id": "小众软件论坛:863e7d02a651",
-   "link": "https://meta.appinn.net/t/topic/94890",
-   "title": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问"
-  }
- ],
- "digest_date": "2026-10-31",
+ "digest": [],
+ "digest_date": "2026-11-01",
  "feed": [
   {
    "ai": {
@@ -1520,6 +1487,11 @@
   "https://www.ithome.com/1/020/541.htm": "1",
   "https://www.ithome.com/1/020/584.htm": "1",
   "https://www.ithome.com/1/020/618.htm": "1",
+  "https://www.ithome.com/1/020/640.htm": "1",
+  "https://www.ithome.com/1/020/645.htm": "1",
+  "https://www.ithome.com/1/020/649.htm": "1",
+  "https://www.ithome.com/1/020/672.htm": "1",
+  "https://www.ithome.com/1/020/679.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1685,6 +1657,7 @@
   "IT之家:4bf8a4052558": "吉利银河 TT 上市 15 分钟大定突破 1 万台，限时先享价 12.99 万起",
   "IT之家:4c235fa4fba4": "经典模拟经营 IP 新作《海岛大亨 7》试玩 Demo 免费登陆 Steam，支持简体中文",
   "IT之家:4d9b3dfd35b4": "微软 Win10 推送 10 月扩展安全更新：修复文件历史记录备份故障",
+  "IT之家:4da6fec6b6d0": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
   "IT之家:4db4dbf69c97": "尊界回应制动踏板支架底座相关问题：制动系统按高于国家 / 行业标准开发验证，提供免费升级选择",
   "IT之家:4e78e8646044": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
   "IT之家:4ea8eaaaf0c5": "工信部：车企打“口水战”、互相揭短等网络乱象得到初步治理，将引导规范新车发布和产品测评活动",
@@ -1718,6 +1691,7 @@
   "IT之家:61827c6cf6b3": "Epic 喜加一：第一人称 3D 跑酷游戏《GetHigh.EXE》免费领",
   "IT之家:639ebb9eec1c": "把键盘做成传送带，谷歌 Gboard 日本团队一年一度的整活来了",
   "IT之家:6472d87f4e1c": "《007：初露锋芒》免费 DLC“进阶行动”上线，带来更高难度模式等",
+  "IT之家:650f81178516": "小米推出限时“0 息”购车权益，SU7 / YU7 现车可享“3 年 0 息”或“5 年分期 3 年 0 息”",
   "IT之家:6511faebb268": "送别“济公”！表演艺术家游本昌今晨去世，享年 93 岁",
   "IT之家:653f34fd4074": "买一得二：京东 PLUS + 芒果 TV 联合会员年卡 108 元限时发车",
   "IT之家:65e45fdb22f2": "“问界大饭店”回归，推出免费错峰洗车 / 加玻璃水、餐饮等服务",
@@ -1854,6 +1828,7 @@
   "IT之家:b0e6f5317147": "苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型",
   "IT之家:b1baf758f2f3": "雷鸟创新发布 GT Max bilibili 限定版 AR 眼镜，同步开启“BLG 不夺冠 · 全退款”活动",
   "IT之家:b1eefc8f91ca": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
+  "IT之家:b202eb7135d5": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
   "IT之家:b2871c7e520f": "奕境 X9 正式上市：满配华为乾崑全栈智能，限时优惠价 27.98 万-35.98 万元",
   "IT之家:b3b15b410ea3": "比亚迪大唐首次 OTA 开启推送：新增生态智能体服务、路面预瞄等功能",
   "IT之家:b3d51bfa08e7": "全新吉利银河 E5 上市：全域 800V+6C 峰值倍率，限时先享价 9.78 万-13.78 万元",
@@ -1870,6 +1845,7 @@
   "IT之家:baa55e460327": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
   "IT之家:bb3abefa4642": "80 名特斯拉韩国车主因非法破解激活 FSD 而被移送检方，查扣 21 台设备",
   "IT之家:bb52ea3dbdb2": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
+  "IT之家:bb9730142425": "蔡磊团队宣布赠送 100 台眼控仪给渐冻症患者，此前已捐出 10 台呼吸机",
   "IT之家:bb9853664705": "全新领克 20 上市：全系标配激光雷达、800V 高压平台，限时专享价 11.88 万元起",
   "IT之家:bc36ed1ce508": "微软 Win11 推送蓝牙升级：与苹果 AirPods 配对时间最多缩短 15 秒",
   "IT之家:bd5f33ada622": "谷歌为 Pixel Watch 3/4/5 推送更新：引入血压趋势、睡眠呼吸检测、胰岛素抵抗趋势功能",
@@ -1895,6 +1871,7 @@
   "IT之家:c89459ce11fe": "《英雄联盟》经典模式将于 2027 年 1 月结束本轮上线，未来计划以活动模式形式回归",
   "IT之家:c96d0810e223": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐",
   "IT之家:caeb62898b2b": "芝奇保修政策获用户称赞：内存价值暴涨 8 倍仍免费换新",
+  "IT之家:cb37443b8868": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
   "IT之家:ce025dcd2e08": "荣耀与中国移动联合首发 Token 套餐：169 元 / 月起，能用话费支付",
   "IT之家:ce2907cfcc73": "特斯拉 10 月 1 日举办全新活动，展示新一代 Roadster 超跑",
   "IT之家:cf1ed17c5693": "苹果 Apple Music 宣布免费直播 Head Trip 音乐节",
