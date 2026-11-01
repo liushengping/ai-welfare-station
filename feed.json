@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Epic"
+   },
+   "d": "11-01 18:59",
+   "link": "https://www.ithome.com/1/020/810.htm",
+   "t": "2026-11-01 11:13:45",
+   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
+  },
+  {
+   "ai": {
     "amount": "免费插件",
     "deadline": null,
     "start": null,
@@ -815,18 +829,6 @@
    "link": "https://linux.do/t/topic/2891154",
    "t": "2026-09-11 23:17:47",
    "title": "ZCode 又送3亿token了"
-  },
-  {
-   "ai": {
-    "amount": "免费",
-    "deadline": "null",
-    "urgent": false,
-    "value": 60,
-    "vendor": "RelayFor"
-   },
-   "link": "https://linux.do/t/topic/2890962",
-   "t": "2026-09-11 23:17:47",
-   "title": "【RelayFor】我免费辣"
   }
  ]
 }

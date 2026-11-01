@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0094390621875,
+   "ai": {
+    "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Epic"
+   },
+   "date": "Sun, 01 Nov 2026 10:59:14 GMT",
+   "date_str": "11-01 18:59",
+   "id": "IT之家:d157c2b87440",
+   "link": "https://www.ithome.com/1/020/810.htm",
+   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
+  }
+ ],
  "digest_date": "2026-11-01",
  "feed": [
+  {
+   "ai": {
+    "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Epic"
+   },
+   "d": "11-01 18:59",
+   "link": "https://www.ithome.com/1/020/810.htm",
+   "t": "2026-11-01 11:13:45",
+   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
+  },
   {
    "ai": {
     "amount": "免费插件",
@@ -817,18 +848,6 @@
    "link": "https://linux.do/t/topic/2891154",
    "t": "2026-09-11 23:17:47",
    "title": "ZCode 又送3亿token了"
-  },
-  {
-   "ai": {
-    "amount": "免费",
-    "deadline": "null",
-    "urgent": false,
-    "value": 60,
-    "vendor": "RelayFor"
-   },
-   "link": "https://linux.do/t/topic/2890962",
-   "t": "2026-09-11 23:17:47",
-   "title": "【RelayFor】我免费辣"
   }
  ],
  "links": {
@@ -1501,6 +1520,7 @@
   "https://www.ithome.com/1/020/739.htm": "1",
   "https://www.ithome.com/1/020/769.htm": "1",
   "https://www.ithome.com/1/020/782.htm": "1",
+  "https://www.ithome.com/1/020/810.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1891,6 +1911,7 @@
   "IT之家:ce2907cfcc73": "特斯拉 10 月 1 日举办全新活动，展示新一代 Roadster 超跑",
   "IT之家:cf1ed17c5693": "苹果 Apple Music 宣布免费直播 Head Trip 音乐节",
   "IT之家:d122821c77d8": "吉利银河战舰 700 上市 12 分钟定单突破 1 万台，新车限时焕新价 16.98 万元起",
+  "IT之家:d157c2b87440": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
   "IT之家:d353e1c11c83": "浪潮信息发布元脑 SD200 Ultra 超节点：单机承载 2.8 万亿参数 Kimi K3，Token 时延首次突破 5.85 毫秒",
   "IT之家:d3fe2f14ad1d": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
   "IT之家:d4d52720f18a": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
