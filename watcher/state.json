@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.0094390621875,
-   "ai": {
-    "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "Epic"
-   },
-   "date": "Sun, 01 Nov 2026 10:59:14 GMT",
-   "date_str": "11-01 18:59",
-   "id": "IT之家:d157c2b87440",
-   "link": "https://www.ithome.com/1/020/810.htm",
-   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
-  }
- ],
- "digest_date": "2026-11-01",
+ "digest": [],
+ "digest_date": "2026-11-02",
  "feed": [
   {
    "ai": {
@@ -1039,6 +1022,7 @@
   "https://meta.appinn.net/t/topic/94825": "1",
   "https://meta.appinn.net/t/topic/94871": "1",
   "https://meta.appinn.net/t/topic/94890": "1",
+  "https://meta.appinn.net/t/topic/94990": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1522,6 +1506,7 @@
   "https://www.ithome.com/1/020/782.htm": "1",
   "https://www.ithome.com/1/020/810.htm": "1",
   "https://www.ithome.com/1/020/828.htm": "1",
+  "https://www.ithome.com/1/020/857.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1582,6 +1567,7 @@
   "IT之家:105060d5495f": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度",
   "IT之家:10949f2d918c": "微信发起公众号小说改编短剧激励活动：作者承制方各享 5% 额外收益，上不封顶",
   "IT之家:10e74920e162": "新一期 ID@XBOX 活动将于当地时间 10 月 20 日举行，涉及 18 款游戏",
+  "IT之家:1162f5441463": "思科给 1 位年轻工程师无上限 Token 预算，最终目标 2 年内利用 AI 重写 98% 的遗留代码",
   "IT之家:11d59edd3168": "小米公布澎湃 OS 4 正式版推送计划：10 月 15 日开启首批存量机型推送",
   "IT之家:11e14cbf1470": "加配不加价：首销限时 23.98 万元 2026 款理想 i6 车型正式发布，自研马赫 M100 与连山 5C 电池同时上车",
   "IT之家:12efb9b5d4e8": "小牛 NX 风速 Pro 电摩上市：极速突破 100km/h，限时一口价 7399 元",
@@ -2147,6 +2133,7 @@
   "小众软件论坛:914d5908b230": "【经验分享】别当冤大头！我的每月 20 美元 AI 订阅搭配：一个主力打底，剩下 90% 任务全白嫖！",
   "小众软件论坛:9280f5fa6088": "【开发者自荐】纸序 PDF：不用上传文件、不用登录的免费 PDF编辑器",
   "小众软件论坛:957d8594c62c": "【开发者自荐】Passcord：基于iOS位置推送服务，立志成为第二省电的行程记录 App",
+  "小众软件论坛:98d680619953": "AudioLens：在 VS Code 里听音频、看波形和频谱（免费开源）",
   "小众软件论坛:997ce1a8ceee": "想问一下有没有免费的没有水印HTML半动态托管",
   "小众软件论坛:9ab17fbcd3dc": "注册域名有啥优惠活动渠道吗",
   "小众软件论坛:9b83b252a235": "开源免费UI美观单文件,支持渲染Mermaid 和 LaTex 的 MarkDown 本地阅读编辑器",
