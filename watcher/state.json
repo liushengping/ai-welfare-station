@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-11-02",
+ "digest_date": "2026-11-03",
  "feed": [
+  {
+   "ai": {
+    "amount": "Codex/ChatGPT Work额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenAI"
+   },
+   "d": "11-03 10:15",
+   "link": "https://www.ithome.com/1/021/343.htm",
+   "t": "2026-11-03 02:26:31",
+   "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
+  },
   {
    "ai": {
     "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
@@ -819,18 +833,6 @@
    "link": "https://linux.do/t/topic/2891155",
    "t": "2026-09-11 23:17:47",
    "title": "快讯，智谱又发3亿token"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "ZCode"
-   },
-   "link": "https://linux.do/t/topic/2891154",
-   "t": "2026-09-11 23:17:47",
-   "title": "ZCode 又送3亿token了"
   }
  ],
  "links": {
@@ -1514,6 +1516,7 @@
   "https://www.ithome.com/1/021/271.htm": "1",
   "https://www.ithome.com/1/021/320.htm": "1",
   "https://www.ithome.com/1/021/342.htm": "1",
+  "https://www.ithome.com/1/021/343.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1829,6 +1832,7 @@
   "IT之家:9d6d2e979726": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
   "IT之家:9ebcbfba4109": "Steam 客户端 Preview / Beta 通道推送更新：优化大屏幕模式，新增多项输入功能",
   "IT之家:9f30527df2ec": "古尔曼称苹果 10 月 27~28 日将举办 2026 最后一场活动，推出 iPad mini 8 和 3 款 Mac",
+  "IT之家:9f9c42642b9b": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置",
   "IT之家:a14fbe2368cf": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
   "IT之家:a2834c6dfa92": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
   "IT之家:a31b66aa400a": "小米用户专属：Goodnotes 宣布可在小米平板限时领永久会员",

@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Codex/ChatGPT Work额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenAI"
+   },
+   "d": "11-03 10:15",
+   "link": "https://www.ithome.com/1/021/343.htm",
+   "t": "2026-11-03 02:26:31",
+   "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
+  },
+  {
+   "ai": {
     "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
     "deadline": null,
     "start": null,
@@ -817,18 +831,6 @@
    "link": "https://linux.do/t/topic/2891155",
    "t": "2026-09-11 23:17:47",
    "title": "快讯，智谱又发3亿token"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "ZCode"
-   },
-   "link": "https://linux.do/t/topic/2891154",
-   "t": "2026-09-11 23:17:47",
-   "title": "ZCode 又送3亿token了"
   }
  ]
 }
