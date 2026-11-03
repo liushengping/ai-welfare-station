@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "SiliconFlow"
+   },
+   "d": "",
+   "link": "https://cloud.siliconflow.cn/models?types=to-image",
+   "t": "2026-11-03 09:34:30",
+   "title": "Models"
+  },
+  {
+   "ai": {
     "amount": "Codex/ChatGPT Work额度",
     "deadline": null,
     "start": null,
@@ -819,18 +833,6 @@
    "link": "https://linux.do/t/topic/2891157",
    "t": "2026-09-11 23:17:47",
    "title": "zcode周末福利来了"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "智谱"
-   },
-   "link": "https://linux.do/t/topic/2891155",
-   "t": "2026-09-11 23:17:47",
-   "title": "快讯，智谱又发3亿token"
   }
  ]
 }

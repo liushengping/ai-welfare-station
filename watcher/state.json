@@ -1,7 +1,37 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": null,
+   "ai": {
+    "amount": "模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "SiliconFlow"
+   },
+   "date_str": "",
+   "id": "硅基流动-更新公告:8e7f2688a17b",
+   "link": "https://cloud.siliconflow.cn/models?types=to-image",
+   "title": "Models"
+  }
+ ],
  "digest_date": "2026-11-03",
  "feed": [
+  {
+   "ai": {
+    "amount": "模型",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "SiliconFlow"
+   },
+   "d": "",
+   "link": "https://cloud.siliconflow.cn/models?types=to-image",
+   "t": "2026-11-03 09:34:30",
+   "title": "Models"
+  },
   {
    "ai": {
     "amount": "Codex/ChatGPT Work额度",
@@ -821,18 +851,6 @@
    "link": "https://linux.do/t/topic/2891157",
    "t": "2026-09-11 23:17:47",
    "title": "zcode周末福利来了"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "智谱"
-   },
-   "link": "https://linux.do/t/topic/2891155",
-   "t": "2026-09-11 23:17:47",
-   "title": "快讯，智谱又发3亿token"
   }
  ],
  "links": {
@@ -860,6 +878,7 @@
   "https://cloud.siliconflow.cn": "1",
   "https://cloud.siliconflow.cn/me/models": "1",
   "https://cloud.siliconflow.cn/models": "1",
+  "https://cloud.siliconflow.cn/models?types=to-image": "1",
   "https://cloud.tencent.com/developer/article/1610407": "1",
   "https://cloud.tencent.com/document/product/1823/130053": "1",
   "https://cloud.tencent.com/document/product/1823/130060": "1",
@@ -1526,6 +1545,8 @@
   "https://www.ithome.com/1/021/510.htm": "1",
   "https://www.ithome.com/1/021/595.htm": "1",
   "https://www.ithome.com/1/021/638.htm": "1",
+  "https://www.ithome.com/1/021/654.htm": "1",
+  "https://www.ithome.com/1/021/658.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1794,6 +1815,7 @@
   "IT之家:80f1ed109c78": "OPPO ColorOS 十月体验升级内容公布：内容传送门新增链接卡片拖拽",
   "IT之家:8132967d8bf5": "一汽奔腾小马五门版正式上市，限时权益价 3.99 万元起",
   "IT之家:81f40030a665": "苹果向 AirPods 5 等耳机推送 Beta 固件 9B5042a",
+  "IT之家:82e58e53c8c6": "谷歌 Pixel Watch 手表耗电过快，官方推送修复方案",
   "IT之家:82e8ebc033a9": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
   "IT之家:8341f68fba39": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
   "IT之家:836bf44e560a": "小米智能 4G 摄像机 3 发布：500 万像素、免费流量，众筹价 199 元",
@@ -1977,6 +1999,7 @@
   "IT之家:eb040d17ecb6": "特斯拉向 HW3 英特尔芯片版老款 Model S/X 推送 FSD v14 Lite",
   "IT之家:eb3c33d4b1af": "中国联通上线“eSIM 业务首次线上办理资格抽取”限时活动，抽中用户可使用 App 办理相关业务",
   "IT之家:eb941a1af41f": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏",
+  "IT之家:ebab8356aa5a": "比亚迪仰望 U8 推送 OTA 升级：哨兵模式可预约，Apple CarPlay 正式上线",
   "IT之家:ed025ac21107": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 4 发布，同步推送第 3 个公测版",
   "IT之家:ee14cd0cdeca": "比亚迪第三代秦 PLUS DM-i 上市：综合续航 2290km，限时 7.69 万-9.79 万元",
   "IT之家:ee466b0618c2": "特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送",
@@ -2231,6 +2254,7 @@
   "硅基流动-更新公告:41a3ead56030": "AI Compute Operation Services",
   "硅基流动-更新公告:768b4f7e54db": "https://api.siliconflow.cn",
   "硅基流动-更新公告:86c3a387377a": "\"Model Square\"",
+  "硅基流动-更新公告:8e7f2688a17b": "Models",
   "硅基流动-更新公告:a40d9161cfdb": "Private LLM Service Gateway",
   "硅基流动-更新公告:b5b37a7a86d5": "https://api-st.siliconflow.cn",
   "硅基流动-更新公告:c17c376b2f7f": "Models",
