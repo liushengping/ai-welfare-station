@@ -1,22 +1,6 @@
 {
- "digest": [
-  {
-   "_age": null,
-   "ai": {
-    "amount": "模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "SiliconFlow"
-   },
-   "date_str": "",
-   "id": "硅基流动-更新公告:8e7f2688a17b",
-   "link": "https://cloud.siliconflow.cn/models?types=to-image",
-   "title": "Models"
-  }
- ],
- "digest_date": "2026-11-03",
+ "digest": [],
+ "digest_date": "2026-11-04",
  "feed": [
   {
    "ai": {
