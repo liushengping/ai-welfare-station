@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-11-04",
+ "digest_date": "2026-11-06",
  "feed": [
+  {
+   "ai": {
+    "amount": "20万+DeepSeek Tokens",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "NexusNote"
+   },
+   "d": "11-05 13:52",
+   "link": "https://meta.appinn.net/t/topic/95234",
+   "t": "2026-11-06 05:42:45",
+   "title": "【开发者自荐】NexusNote：免登录送20万+免费DeepSeek Tokens！AI驱动的轻量所见即所得全格式编辑器（兼容Typora/Obsidian）"
+  },
   {
    "ai": {
     "amount": "Ling 3.2 Flash",
@@ -825,18 +839,6 @@
    "link": "https://linux.do/t/topic/2891323",
    "t": "2026-09-11 23:17:47",
    "title": "ZCodex 3亿token 23：00后可用"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "GLM"
-   },
-   "link": "https://linux.do/t/topic/2891275",
-   "t": "2026-09-11 23:17:47",
-   "title": "GLM3亿token周末福利抓紧领啊"
   }
  ],
  "links": {
@@ -1040,6 +1042,7 @@
   "https://meta.appinn.net/t/topic/95115": "1",
   "https://meta.appinn.net/t/topic/95120": "1",
   "https://meta.appinn.net/t/topic/95143": "1",
+  "https://meta.appinn.net/t/topic/95234": "1",
   "https://meta.appinn.net/t/topic/95290": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
@@ -1574,6 +1577,7 @@
   "https://www.ithome.com/1/023/085.htm": "1",
   "https://www.ithome.com/1/023/125.htm": "1",
   "https://www.ithome.com/1/023/212.htm": "1",
+  "https://www.ithome.com/1/023/224.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2024,6 +2028,7 @@
   "IT之家:daadc3aa1ff4": "1999 元飞牛首款 Arm 整机 EVO 4 瑞芯微 RK3588 芯片版上市：支持杜比逐帧色彩调教，赠送 5 年专属高速流量",
   "IT之家:db40f85e84b3": "全国铁路连续高位运行：10 月 3 日发送旅客 1927.3 万人次，今日预计突破 2000 万",
   "IT之家:dbd08f386008": "消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？",
+  "IT之家:dbddb2c16176": "启境 GX7 车型 11 月 8 日开启集中交付，限时权益价 22.99 万元起",
   "IT之家:dbdde28203b2": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
   "IT之家:dc35485a5e98": "华为何刚：HUAWEI FreeClip 系列耳夹耳机开售至今，累计发货突破 1000 万台",
   "IT之家:dc4aeb7d33e5": "全新华为 FreeBuds Neo 无线耳机开售：智感降噪 + 星闪音频、HarmonyOS 7，首发 669 元",
@@ -2260,6 +2265,7 @@
   "小众软件论坛:9b83b252a235": "开源免费UI美观单文件,支持渲染Mermaid 和 LaTex 的 MarkDown 本地阅读编辑器",
   "小众软件论坛:9ce3ac38f957": "【开发者自荐】YouTube 缩略图内持续预览 Shorts，调节音量与进度（Chrome / Edge 免费扩展）",
   "小众软件论坛:a006e34a52fd": "MicYou for iOS - 老 iPhone 又有新用途：变成电脑麦克风，免费开源",
+  "小众软件论坛:a08f667d5162": "【开发者自荐】NexusNote：免登录送20万+免费DeepSeek Tokens！AI驱动的轻量所见即所得全格式编辑器（兼容Typora/Obsidian）",
   "小众软件论坛:a124c5d4405c": "cmdgif：用 npx 把短命令录成 GIF（免费开源，早期测试）",
   "小众软件论坛:a3a509bffc99": "【收集向】免费的 token 们",
   "小众软件论坛:a60f89275382": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了",

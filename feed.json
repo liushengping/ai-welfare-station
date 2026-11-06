@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "20万+DeepSeek Tokens",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "NexusNote"
+   },
+   "d": "11-05 13:52",
+   "link": "https://meta.appinn.net/t/topic/95234",
+   "t": "2026-11-06 05:42:45",
+   "title": "【开发者自荐】NexusNote：免登录送20万+免费DeepSeek Tokens！AI驱动的轻量所见即所得全格式编辑器（兼容Typora/Obsidian）"
+  },
+  {
+   "ai": {
     "amount": "Ling 3.2 Flash",
     "deadline": "2026-11-19 23:59",
     "start": "2026-11-06 00:00",
@@ -823,18 +837,6 @@
    "link": "https://linux.do/t/topic/2891323",
    "t": "2026-09-11 23:17:47",
    "title": "ZCodex 3亿token 23：00后可用"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "GLM"
-   },
-   "link": "https://linux.do/t/topic/2891275",
-   "t": "2026-09-11 23:17:47",
-   "title": "GLM3亿token周末福利抓紧领啊"
   }
  ]
 }
