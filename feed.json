@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Ling 3.2 Flash",
+    "deadline": "2026-11-19 23:59",
+    "start": "2026-11-06 00:00",
+    "urgent": true,
+    "value": 80,
+    "vendor": "百灵大模型"
+   },
+   "d": "11-06 08:00",
+   "link": "https://www.ithome.com/1/023/043.htm",
+   "t": "2026-11-06 00:01:13",
+   "title": "百灵大模型 Ling 3.2 Flash 发布：蚂蚁自测超越 Claude Opus 5，前两周限时免费"
+  },
+  {
+   "ai": {
     "amount": "模型",
     "deadline": null,
     "start": null,
@@ -821,18 +835,6 @@
    "link": "https://linux.do/t/topic/2891275",
    "t": "2026-09-11 23:17:47",
    "title": "GLM3亿token周末福利抓紧领啊"
-  },
-  {
-   "ai": {
-    "amount": "周末福利",
-    "deadline": "null",
-    "urgent": true,
-    "value": 70,
-    "vendor": "zcode"
-   },
-   "link": "https://linux.do/t/topic/2891157",
-   "t": "2026-09-11 23:17:47",
-   "title": "zcode周末福利来了"
   }
  ]
 }
