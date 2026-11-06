@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0031333172685185187,
+   "ai": {
+    "amount": "取消5小时限制",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "豆包"
+   },
+   "date": "Fri, 06 Nov 2026 08:57:38 GMT",
+   "date_str": "11-06 16:57",
+   "id": "IT之家:d0ab195d3ed8",
+   "link": "https://www.ithome.com/1/023/414.htm",
+   "title": "豆包工作个人版取消 5 小时额度限制"
+  }
+ ],
  "digest_date": "2026-11-06",
  "feed": [
+  {
+   "ai": {
+    "amount": "取消5小时限制",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "豆包"
+   },
+   "d": "11-06 16:57",
+   "link": "https://www.ithome.com/1/023/414.htm",
+   "t": "2026-11-06 09:02:52",
+   "title": "豆包工作个人版取消 5 小时额度限制"
+  },
   {
    "ai": {
     "amount": "20万+DeepSeek Tokens",
@@ -827,18 +858,6 @@
    "link": "https://www.ithome.com/1/003/584.htm",
    "t": "2026-09-17 07:04:56",
    "title": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费"
-  },
-  {
-   "ai": {
-    "amount": "3亿token",
-    "deadline": "null",
-    "urgent": true,
-    "value": 80,
-    "vendor": "ZCodex"
-   },
-   "link": "https://linux.do/t/topic/2891323",
-   "t": "2026-09-11 23:17:47",
-   "title": "ZCodex 3亿token 23：00后可用"
   }
  ],
  "links": {
@@ -1579,6 +1598,7 @@
   "https://www.ithome.com/1/023/212.htm": "1",
   "https://www.ithome.com/1/023/224.htm": "1",
   "https://www.ithome.com/1/023/341.htm": "1",
+  "https://www.ithome.com/1/023/414.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2010,6 +2030,7 @@
   "IT之家:ce2907cfcc73": "特斯拉 10 月 1 日举办全新活动，展示新一代 Roadster 超跑",
   "IT之家:cf1ed17c5693": "苹果 Apple Music 宣布免费直播 Head Trip 音乐节",
   "IT之家:cf9e5719ab56": "Epic 喜加一：《浮游世界》游戏免费领取",
+  "IT之家:d0ab195d3ed8": "豆包工作个人版取消 5 小时额度限制",
   "IT之家:d122821c77d8": "吉利银河战舰 700 上市 12 分钟定单突破 1 万台，新车限时焕新价 16.98 万元起",
   "IT之家:d152e5e70de4": "酷态科 10 号 / 15 号电能基站第三轮 OTA 陆续推送，新增功率界面主题切换、识别 iPhone 18/Duo 等",
   "IT之家:d157c2b87440": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
