@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.0031333172685185187,
-   "ai": {
-    "amount": "取消5小时限制",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "豆包"
-   },
-   "date": "Fri, 06 Nov 2026 08:57:38 GMT",
-   "date_str": "11-06 16:57",
-   "id": "IT之家:d0ab195d3ed8",
-   "link": "https://www.ithome.com/1/023/414.htm",
-   "title": "豆包工作个人版取消 5 小时额度限制"
-  }
- ],
- "digest_date": "2026-11-06",
+ "digest": [],
+ "digest_date": "2026-11-07",
  "feed": [
   {
    "ai": {
