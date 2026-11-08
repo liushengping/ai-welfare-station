@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费使用Firefly等软件，最长1年",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Adobe"
+   },
+   "d": "11-08 07:02",
+   "link": "https://www.ithome.com/1/023/835.htm",
+   "t": "2026-11-08 03:55:55",
+   "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年"
+  },
+  {
+   "ai": {
     "amount": "取消5小时限制",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/91967",
    "t": "2026-09-17 08:02:51",
    "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha"
-  },
-  {
-   "ai": {
-    "amount": "免费AI模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Almeida"
-   },
-   "d": "09-17 14:49",
-   "link": "https://www.ithome.com/1/003/584.htm",
-   "t": "2026-09-17 07:04:56",
-   "title": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费"
   }
  ]
 }

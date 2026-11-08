@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-11-07",
+ "digest_date": "2026-11-08",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费使用Firefly等软件，最长1年",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Adobe"
+   },
+   "d": "11-08 07:02",
+   "link": "https://www.ithome.com/1/023/835.htm",
+   "t": "2026-11-08 03:55:55",
+   "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年"
+  },
   {
    "ai": {
     "amount": "取消5小时限制",
@@ -827,20 +841,6 @@
    "link": "https://meta.appinn.net/t/topic/91967",
    "t": "2026-09-17 08:02:51",
    "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha"
-  },
-  {
-   "ai": {
-    "amount": "免费AI模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Almeida"
-   },
-   "d": "09-17 14:49",
-   "link": "https://www.ithome.com/1/003/584.htm",
-   "t": "2026-09-17 07:04:56",
-   "title": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费"
   }
  ],
  "links": {
@@ -1591,6 +1591,9 @@
   "https://www.ithome.com/1/023/768.htm": "1",
   "https://www.ithome.com/1/023/823.htm": "1",
   "https://www.ithome.com/1/023/824.htm": "1",
+  "https://www.ithome.com/1/023/835.htm": "1",
+  "https://www.ithome.com/1/023/842.htm": "1",
+  "https://www.ithome.com/1/023/847.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1745,6 +1748,7 @@
   "IT之家:3efaeefd61d9": "《真・三国无双 2 with 猛将传 Remastered》体验版上架 Steam：免费试玩",
   "IT之家:3f401261acc4": "全新领克 20 整车下线 1.2 万台，限时专享价 11.88 万元起",
   "IT之家:3f8e27e4bded": "亚马逊公布三项员工福利：美国最低起薪提至每小时 20 美元",
+  "IT之家:3fed8467753e": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
   "IT之家:403bd02817fa": "阿维塔 06 车型焕新上市：半隐藏门把手、安全舒适配置升级，限时权益价 20.59 万起",
   "IT之家:40c60df6070a": "Linux 内核新补丁进入审核：为 T2 芯片的 Intel Mac 电脑提供隔空投送支持",
   "IT之家:41709f5292e4": "重点整治短视频摆拍带娃送外卖、冒充医生律师、包装富二代名媛等，中央网信办部署开展专项行动",
@@ -1932,6 +1936,7 @@
   "IT之家:981216bf443f": "苹果“欢迎回家”新品发布会前夕，各大博主来到纽约参加体验活动",
   "IT之家:994bd4653566": "Steam 喜加一：益智游戏《Colleccct》转付费前免费领",
   "IT之家:99ccf3a5f939": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
+  "IT之家:99e83bdc1ba9": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
   "IT之家:9a0dc4eb7c92": "华为 FreeClip 2 耳夹耳机全新潮玩拼色版预售，1299 元",
   "IT之家:9a3cac3e34f9": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
   "IT之家:9b71bf25dcc9": "创历史同期新高：今年前三季度全国铁路发送旅客 37.1 亿人次，同比增长 4.8%",
@@ -2089,6 +2094,7 @@
   "IT之家:eb3c33d4b1af": "中国联通上线“eSIM 业务首次线上办理资格抽取”限时活动，抽中用户可使用 App 办理相关业务",
   "IT之家:eb941a1af41f": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏",
   "IT之家:ebab8356aa5a": "比亚迪仰望 U8 推送 OTA 升级：哨兵模式可预约，Apple CarPlay 正式上线",
+  "IT之家:ec06a8dc8c5b": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
   "IT之家:ec97a7676b64": "微信鸿蒙电脑版 App 发布 4.1.13.4 版本邀测升级，已支持图片视频发送后可合并展示等功能",
   "IT之家:ed025ac21107": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 4 发布，同步推送第 3 个公测版",
   "IT之家:ee14cd0cdeca": "比亚迪第三代秦 PLUS DM-i 上市：综合续航 2290km，限时 7.69 万-9.79 万元",
