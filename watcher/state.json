@@ -1,7 +1,35 @@
 {
  "digest": [],
- "digest_date": "2026-11-08",
+ "digest_date": "2026-11-09",
  "feed": [
+  {
+   "ai": {
+    "amount": "K-EXAONE 2.5 模型 API",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "LG AI 研究院"
+   },
+   "d": "11-09 10:39",
+   "link": "https://www.ithome.com/1/024/069.htm",
+   "t": "2026-11-09 04:09:45",
+   "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API"
+  },
+  {
+   "ai": {
+    "amount": "免费试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "DualTransfer"
+   },
+   "d": "11-09 07:13",
+   "link": "https://meta.appinn.net/t/topic/95505",
+   "t": "2026-11-09 04:09:45",
+   "title": "开发者自荐：让 Windows 和 Mac 上的 AI 接力干活，DualTransfer 免费试用"
+  },
   {
    "ai": {
     "amount": "免费使用Firefly等软件，最长1年",
@@ -813,34 +841,6 @@
    "link": "https://meta.appinn.net/t/topic/92019",
    "t": "2026-09-18 03:43:51",
    "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
-  },
-  {
-   "ai": {
-    "amount": "每日100 Credits",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里千问"
-   },
-   "d": "09-18 11:20",
-   "link": "https://www.ithome.com/1/004/011.htm",
-   "t": "2026-09-18 03:28:50",
-   "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
-  },
-  {
-   "ai": {
-    "amount": "神秘模型 Union Alpha",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Cloudflare"
-   },
-   "d": "09-17 16:01",
-   "link": "https://meta.appinn.net/t/topic/91967",
-   "t": "2026-09-17 08:02:51",
-   "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha"
   }
  ],
  "links": {
@@ -1050,6 +1050,8 @@
   "https://meta.appinn.net/t/topic/95353": "1",
   "https://meta.appinn.net/t/topic/95470": "1",
   "https://meta.appinn.net/t/topic/95471": "1",
+  "https://meta.appinn.net/t/topic/95505": "1",
+  "https://meta.appinn.net/t/topic/95516": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1601,6 +1603,8 @@
   "https://www.ithome.com/1/023/977.htm": "1",
   "https://www.ithome.com/1/023/984.htm": "1",
   "https://www.ithome.com/1/023/990.htm": "1",
+  "https://www.ithome.com/1/024/069.htm": "1",
+  "https://www.ithome.com/1/024/070.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1651,6 +1655,7 @@
   "IT之家:0b43da268dbd": "首付 6.98 万元起，鸿蒙智行问界 M6 推出限时 3 年 0 息购车金融政策",
   "IT之家:0ba9512ef52e": "Cloudflare 宣布进军公共 CA，向用户免费提供 ACME 等自动化 TLS 证书",
   "IT之家:0baa93a98a45": "Stellantis 发布 BOW 纯电自动驾驶配送概念车：无驾驶室、无具体参数",
+  "IT之家:0c34dd8e9929": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API",
   "IT之家:0c8c54adeb7e": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动",
   "IT之家:0c8c680d3846": "微软推送 9 月 Win10/Win11 紧急更新，修复远程桌面问题",
   "IT之家:0cb3d0ea9494": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
@@ -1680,6 +1685,7 @@
   "IT之家:15c3b89964b1": "警方打掉一网暴团伙：人肉开盒、短信轰炸、污言刷屏、冥物寄送，98 人落网",
   "IT之家:163282d164b2": "一汽红旗全新一代天工 08 新增 620 四驱 Ultra 版本，限时权益价 21.99 万元",
   "IT之家:17baba5c3f58": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+  "IT之家:182cee7c8f67": "美国网络服务商 Spectrum 推出限时免费千兆网速升级，只为助力《GTA6》下载",
   "IT之家:184edc5d009c": "中老铁路累计发送旅客突破 8000 万人次，服务 120 余个国家和地区跨境旅客 95 万人次",
   "IT之家:1995c6884e58": "解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案",
   "IT之家:19a52233a9f6": "相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难",
@@ -2290,6 +2296,7 @@
   "小众软件论坛:7a040502bc56": "电脑驱动更新工具 Driver Booster 13 Pro，限时 7 折特惠快入手！",
   "小众软件论坛:7afebfe516db": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具",
   "小众软件论坛:7b196932fe9d": "Reloadwright：Edge 自动刷新插件，刷新免费不限量，网页一变能提醒到手机",
+  "小众软件论坛:7ec7984b0419": "免费征集各种损坏文件，协助诊断与修复（PDF、EPUB、Office、图片、压缩包等，其他格式也欢迎）",
   "小众软件论坛:7fdb7b4e8267": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
   "小众软件论坛:863e7d02a651": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问",
   "小众软件论坛:8c30e88f5703": "烧窑前必备：免费在线陶艺计算工具 Ceramics Practice Alliance",
@@ -2324,6 +2331,7 @@
   "小众软件论坛:b726e02150b6": "YzwPDFView大雁PDF查看小工具（小巧、简介、快速、免费）",
   "小众软件论坛:b7e0679f021d": "对号：免费编号核对工具，想请大家看看有没有前景",
   "小众软件论坛:bb032e75cecc": "【开发者自荐】Echo：Mac 智能剪贴板，丝滑，免费，开源，智能",
+  "小众软件论坛:bd2e5a4025b8": "开发者自荐：让 Windows 和 Mac 上的 AI 接力干活，DualTransfer 免费试用",
   "小众软件论坛:bf028520e780": "Epic 免费游戏 2026-10-23",
   "小众软件论坛:c000705a7ed3": "【开发者自荐】Spare Mac：说一句话生成 Mac 插件，GPT-5.6 免费用",
   "小众软件论坛:c092e13a9c71": "Hermes 提供 7 款免费模型，从安装到选择模型",

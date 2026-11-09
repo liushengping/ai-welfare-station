@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "K-EXAONE 2.5 模型 API",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "LG AI 研究院"
+   },
+   "d": "11-09 10:39",
+   "link": "https://www.ithome.com/1/024/069.htm",
+   "t": "2026-11-09 04:09:45",
+   "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API"
+  },
+  {
+   "ai": {
+    "amount": "免费试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "DualTransfer"
+   },
+   "d": "11-09 07:13",
+   "link": "https://meta.appinn.net/t/topic/95505",
+   "t": "2026-11-09 04:09:45",
+   "title": "开发者自荐：让 Windows 和 Mac 上的 AI 接力干活，DualTransfer 免费试用"
+  },
+  {
+   "ai": {
     "amount": "免费使用Firefly等软件，最长1年",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/92019",
    "t": "2026-09-18 03:43:51",
    "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
-  },
-  {
-   "ai": {
-    "amount": "每日100 Credits",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里千问"
-   },
-   "d": "09-18 11:20",
-   "link": "https://www.ithome.com/1/004/011.htm",
-   "t": "2026-09-18 03:28:50",
-   "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits"
-  },
-  {
-   "ai": {
-    "amount": "神秘模型 Union Alpha",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Cloudflare"
-   },
-   "d": "09-17 16:01",
-   "link": "https://meta.appinn.net/t/topic/91967",
-   "t": "2026-09-17 08:02:51",
-   "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha"
   }
  ]
 }
