@@ -1,7 +1,35 @@
 {
  "digest": [],
- "digest_date": "2026-11-09",
+ "digest_date": "2026-11-10",
  "feed": [
+  {
+   "ai": {
+    "amount": "现金或免费软件",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "微软"
+   },
+   "d": "11-10 14:43",
+   "link": "https://www.ithome.com/1/024/826.htm",
+   "t": "2026-11-10 06:51:15",
+   "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件"
+  },
+  {
+   "ai": {
+    "amount": "积分翻倍",
+    "deadline": "2026-11-11 23:59",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 70,
+    "vendor": "复旦"
+   },
+   "d": "11-10 14:46",
+   "link": "https://meta.appinn.net/t/topic/95604",
+   "t": "2026-11-10 06:51:15",
+   "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！"
+  },
   {
    "ai": {
     "amount": "K-EXAONE 2.5 模型 API",
@@ -813,34 +841,6 @@
    "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
    "t": "2026-09-18 17:28:13",
    "title": "Stage-only npm tokens for safer automation"
-  },
-  {
-   "ai": {
-    "amount": "百万 Token 图文音视频输入 0.8元",
-    "deadline": null,
-    "start": "2026-09-18 00:00",
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里"
-   },
-   "d": "09-18 11:34",
-   "link": "https://www.ithome.com/1/004/049.htm",
-   "t": "2026-09-18 03:43:51",
-   "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元"
-  },
-  {
-   "ai": {
-    "amount": "免费在线给软件加授权锁的工具",
-    "deadline": null,
-    "start": "2026-09-18 00:00",
-    "urgent": false,
-    "value": 50,
-    "vendor": "KeyGuard"
-   },
-   "d": "09-18 11:37",
-   "link": "https://meta.appinn.net/t/topic/92019",
-   "t": "2026-09-18 03:43:51",
-   "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
   }
  ],
  "links": {
@@ -1052,6 +1052,7 @@
   "https://meta.appinn.net/t/topic/95471": "1",
   "https://meta.appinn.net/t/topic/95505": "1",
   "https://meta.appinn.net/t/topic/95516": "1",
+  "https://meta.appinn.net/t/topic/95604": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/chatgpt-for-teachers": "1",
@@ -1618,6 +1619,7 @@
   "https://www.ithome.com/1/024/610.htm": "1",
   "https://www.ithome.com/1/024/721.htm": "1",
   "https://www.ithome.com/1/024/729.htm": "1",
+  "https://www.ithome.com/1/024/826.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1947,6 +1949,7 @@
   "IT之家:8c016923458b": "苹果 iPad mini （A20 Pro）支持 35W 或更高功率充电头，但包装盒内送的头还是 20W",
   "IT之家:8c3e32ae4f2d": "苹果 iPhone Duo 京东原价开放购买，15999 元次日送货上门",
   "IT之家:8c5a32e020ac": "iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续",
+  "IT之家:8c8f5ff5b001": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件",
   "IT之家:8d6fa76579fc": "马克 · 库班警告：人们在社交媒体反 AI，其实是给谷歌、Meta 等巨头送钱",
   "IT之家:8de976cb717a": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
   "IT之家:8f5244c681cd": "上汽大通 2027 款大家 9 正式上市，限时权益价 23.99 万元起",
@@ -2388,6 +2391,7 @@
   "小众软件论坛:eae0c39bb8df": "赛博领鸡蛋加餐：E 宝一口气送 13 款小游戏，11 月 9 日凌晨截止",
   "小众软件论坛:eb22e355854f": "《你的城来》（Your City Coming）：每天随机收集全世界的城市的免费 Steam 游戏",
   "小众软件论坛:eb864fc5cf0f": "【开发者自荐】nopaywall：整理免费 AI 额度、免费 API 和付费工具替代品的目录",
+  "小众软件论坛:eeec40dda402": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
   "小众软件论坛:ef185c68b100": "IResume-一款美观免费的简历制作工具",
   "小众软件论坛:f51addfbadb1": "【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好",
   "小众软件论坛:f873ac329701": "用AI写的库存管理软件免费的",

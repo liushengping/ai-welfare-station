@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "现金或免费软件",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "微软"
+   },
+   "d": "11-10 14:43",
+   "link": "https://www.ithome.com/1/024/826.htm",
+   "t": "2026-11-10 06:51:15",
+   "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件"
+  },
+  {
+   "ai": {
+    "amount": "积分翻倍",
+    "deadline": "2026-11-11 23:59",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 70,
+    "vendor": "复旦"
+   },
+   "d": "11-10 14:46",
+   "link": "https://meta.appinn.net/t/topic/95604",
+   "t": "2026-11-10 06:51:15",
+   "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！"
+  },
+  {
+   "ai": {
     "amount": "K-EXAONE 2.5 模型 API",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
    "t": "2026-09-18 17:28:13",
    "title": "Stage-only npm tokens for safer automation"
-  },
-  {
-   "ai": {
-    "amount": "百万 Token 图文音视频输入 0.8元",
-    "deadline": null,
-    "start": "2026-09-18 00:00",
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里"
-   },
-   "d": "09-18 11:34",
-   "link": "https://www.ithome.com/1/004/049.htm",
-   "t": "2026-09-18 03:43:51",
-   "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元"
-  },
-  {
-   "ai": {
-    "amount": "免费在线给软件加授权锁的工具",
-    "deadline": null,
-    "start": "2026-09-18 00:00",
-    "urgent": false,
-    "value": 50,
-    "vendor": "KeyGuard"
-   },
-   "d": "09-18 11:37",
-   "link": "https://meta.appinn.net/t/topic/92019",
-   "t": "2026-09-18 03:43:51",
-   "title": "【开发者自荐】KeyGuard - 免费在线给软件加授权锁的工具"
   }
  ]
 }
