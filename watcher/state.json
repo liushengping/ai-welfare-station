@@ -79,10 +79,40 @@
    "id": "linux.do-福利羊毛板块:c42de39ed72c",
    "link": "https://linux.do/t/topic/3155230",
    "title": "【福利】动态流量用不完，给大家免费送点"
+  },
+  {
+   "_age": 0.010548257118055555,
+   "ai": {
+    "amount": "0.08,10元免费额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "GPT"
+   },
+   "date": "Wed, 11 Nov 2026 07:28:56 +0000",
+   "date_str": "11-11 15:28",
+   "id": "linux.do-福利羊毛板块:89b57dd7fc94",
+   "link": "https://linux.do/t/topic/3155542",
+   "title": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！"
   }
  ],
  "digest_date": "2026-11-11",
  "feed": [
+  {
+   "ai": {
+    "amount": "0.08,10元免费额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "GPT"
+   },
+   "d": "11-11 15:28",
+   "link": "https://linux.do/t/topic/3155542",
+   "t": "2026-11-11 07:45:05",
+   "title": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！"
+  },
   {
    "ai": {
     "amount": "¥3.5",
@@ -908,20 +938,6 @@
    "link": "https://meta.appinn.net/t/topic/92983",
    "t": "2026-10-06 13:20:04",
    "title": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU"
-  },
-  {
-   "ai": {
-    "amount": "三款免费游戏",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 20,
-    "vendor": "索尼"
-   },
-   "d": "10-01 14:47",
-   "link": "https://www.ithome.com/1/009/066.htm",
-   "t": "2026-10-01 06:59:42",
-   "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏"
   }
  ],
  "links": {
@@ -1036,6 +1052,9 @@
   "https://linux.do/t/topic/3155483": "1",
   "https://linux.do/t/topic/3155514": "1",
   "https://linux.do/t/topic/3155519": "1",
+  "https://linux.do/t/topic/3155542": "1",
+  "https://linux.do/t/topic/3155611": "1",
+  "https://linux.do/t/topic/3155648": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2384,6 +2403,7 @@
   "linux.do-最新:1a6f2f9bde64": "问下各位佬gpt订阅到期了里面的credit还能用高级模型吗？",
   "linux.do-最新:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",
   "linux.do-最新:1fa600f4a8bf": "cline-pass 一个月额度蹬完，汇报一下用量给大家参考",
+  "linux.do-最新:2c5fd93fbdb6": "Claude applepay 成功续费 额度没变",
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
@@ -2437,6 +2457,8 @@
   "linux.do-福利羊毛板块:80cdd35bfb73": "快讯，智谱又发3亿token",
   "linux.do-福利羊毛板块:826bc7cba948": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token",
   "linux.do-福利羊毛板块:82cf160c7843": "联通云 免费云桌面4C8G（1个月）、ECS 2C4G 50G 3M ¥11.11 6个月",
+  "linux.do-福利羊毛板块:89b57dd7fc94": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！",
+  "linux.do-福利羊毛板块:8db36adb111d": "【富可敌国】中转站VelaMost双十一钜惠！佬友注册即送$2 评论ID再送$5 加群再送$2！充50送50，充100送100！支持对公",
   "linux.do-福利羊毛板块:99dff8b437fc": "阿里云每月羊毛-上新了",
   "linux.do-福利羊毛板块:a21e0f132441": "（已送出）有个家宽还有10来G流量，来个佬友帮测试下问题",
   "linux.do-福利羊毛板块:a2da9d7002f9": "ZCode 又送3亿token了",

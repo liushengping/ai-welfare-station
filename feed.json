@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "0.08,10元免费额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "GPT"
+   },
+   "d": "11-11 15:28",
+   "link": "https://linux.do/t/topic/3155542",
+   "t": "2026-11-11 07:45:05",
+   "title": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！"
+  },
+  {
+   "ai": {
     "amount": "¥3.5",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/92983",
    "t": "2026-10-06 13:20:04",
    "title": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU"
-  },
-  {
-   "ai": {
-    "amount": "三款免费游戏",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 20,
-    "vendor": "索尼"
-   },
-   "d": "10-01 14:47",
-   "link": "https://www.ithome.com/1/009/066.htm",
-   "t": "2026-10-01 06:59:42",
-   "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏"
   }
  ]
 }
