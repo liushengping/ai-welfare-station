@@ -2,6 +2,160 @@
  "items": [
   {
    "ai": {
+    "amount": "600 美刀额度",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 100,
+    "vendor": ""
+   },
+   "d": "11-10 22:54",
+   "link": "https://linux.do/t/topic/3152067",
+   "t": "2026-11-11 04:14:46",
+   "title": "【双十一抽奖】拿出 600 美刀额度，请 22 位佬友用模型"
+  },
+  {
+   "ai": {
+    "amount": "100刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "OpenAI"
+   },
+   "d": "11-11 11:50",
+   "link": "https://linux.do/t/topic/3154037",
+   "t": "2026-11-11 04:14:46",
+   "title": "gpt pro100x送的100刀要不要领？会不会封号"
+  },
+  {
+   "ai": {
+    "amount": "Grok Premium 免费一个月",
+    "deadline": "2026-12-11 00:00",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 90,
+    "vendor": "mlh"
+   },
+   "d": "11-11 00:00",
+   "link": "https://linux.do/t/topic/3152335",
+   "t": "2026-11-11 04:14:46",
+   "title": "mlh联合Grok Premium 免费一个月"
+  },
+  {
+   "ai": {
+    "amount": "GPT 0.06 倍率",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "FastAIToken"
+   },
+   "d": "11-11 10:13",
+   "link": "https://linux.do/t/topic/3153292",
+   "t": "2026-11-11 04:14:46",
+   "title": "【FastAIToken】双十一活动：GPT 低至 0.06 倍率 / 混元 5 折 / 充值加赠 双十一福利整理：GPT 0.06 倍率、混元 ¥0.15/M，顺便抽 10 个 ¥158 订阅 佬友们，FastAIToken 双十一活动细则都在这一帖，跑量的可以来看看"
+  },
+  {
+   "ai": {
+    "amount": "长猫2.5免费玩",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "OpenCode"
+   },
+   "d": "11-11 10:14",
+   "link": "https://linux.do/t/topic/3153303",
+   "t": "2026-11-11 04:14:46",
+   "title": "OpenCode又能免费玩长猫2.5了!"
+  },
+  {
+   "ai": {
+    "amount": "49元标准版 Plus 会员",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 60,
+    "vendor": "富可敌国"
+   },
+   "d": "11-11 10:24",
+   "link": "https://linux.do/t/topic/3153367",
+   "t": "2026-11-11 04:14:46",
+   "title": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。"
+  },
+  {
+   "ai": {
+    "amount": "Qwen Audio 系列多款音频模型 72 折",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 60,
+    "vendor": "快跑AI"
+   },
+   "d": "11-10 21:44",
+   "link": "https://linux.do/t/topic/3151806",
+   "t": "2026-11-11 04:14:46",
+   "title": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$"
+  },
+  {
+   "ai": {
+    "amount": "500M动态IP x5",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 50,
+    "vendor": "linux.do"
+   },
+   "d": "11-11 11:45",
+   "link": "https://linux.do/t/topic/3153984",
+   "t": "2026-11-11 04:14:46",
+   "title": "【福利】送五个500M动态IP测试，先到先得"
+  },
+  {
+   "ai": {
+    "amount": "Gemini 5x/20x福利",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Google"
+   },
+   "d": "11-10 17:10",
+   "link": "https://linux.do/t/topic/3150556",
+   "t": "2026-11-11 04:14:46",
+   "title": "说几个关于开通gemini 5x/20x ultra大家可能忽略的福利"
+  },
+  {
+   "ai": {
+    "amount": "充值加赠 18.2%",
+    "deadline": null,
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 40,
+    "vendor": "Moonup"
+   },
+   "d": "11-11 10:28",
+   "link": "https://linux.do/t/topic/3153394",
+   "t": "2026-11-11 04:14:46",
+   "title": "【Moonup 双11】今日充值最高加赠 18.2%｜GPT 0.06 倍率｜抽 11 位各送 $50"
+  },
+  {
+   "ai": {
+    "amount": "订阅套餐折上加折",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 30,
+    "vendor": "YesCode"
+   },
+   "d": "11-11 11:29",
+   "link": "https://linux.do/t/topic/3153853",
+   "t": "2026-11-11 04:14:46",
+   "title": "【YesCode】双11团队套餐永久降价，订阅套餐折上加折，PayGo 折扣包限时开售。"
+  },
+  {
+   "ai": {
     "amount": "额度免费重置",
     "deadline": null,
     "start": null,
@@ -685,160 +839,6 @@
    "link": "https://www.ithome.com/1/007/727.htm",
    "t": "2026-09-28 03:35:42",
    "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
-  },
-  {
-   "ai": {
-    "amount": "额度重置卡",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "MiniMax"
-   },
-   "d": "09-27 15:32",
-   "link": "https://www.ithome.com/1/007/530.htm",
-   "t": "2026-09-27 07:42:09",
-   "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出"
-  },
-  {
-   "ai": {
-    "amount": "60美元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "d": "09-26 19:07",
-   "link": "https://www.ithome.com/1/007/421.htm",
-   "t": "2026-09-26 11:33:13",
-   "title": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度"
-  },
-  {
-   "ai": {
-    "amount": "7款免费模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Hermes"
-   },
-   "d": "09-26 10:30",
-   "link": "https://meta.appinn.net/t/topic/92444",
-   "t": "2026-09-26 03:04:30",
-   "title": "Hermes 提供 7 款免费模型，从安装到选择模型"
-  },
-  {
-   "ai": {
-    "amount": "额度重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 75,
-    "vendor": "Anthropic"
-   },
-   "d": "09-26 06:37",
-   "link": "https://www.ithome.com/1/007/256.htm",
-   "t": "2026-09-25 22:40:13",
-   "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
-  },
-  {
-   "ai": {
-    "amount": "游戏免费",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Epic"
-   },
-   "d": "09-24 23:05",
-   "link": "https://www.ithome.com/1/007/036.htm",
-   "t": "2026-09-24 15:10:23",
-   "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领"
-  },
-  {
-   "ai": {
-    "amount": "100~250美元额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "Anthropic Claude Code"
-   },
-   "d": "09-24 12:01",
-   "link": "https://www.ithome.com/1/006/704.htm",
-   "t": "2026-09-24 04:12:16",
-   "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度"
-  },
-  {
-   "ai": {
-    "amount": "1000 AI点",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "华为"
-   },
-   "d": "09-24 11:45",
-   "link": "https://www.ithome.com/1/006/695.htm",
-   "t": "2026-09-24 03:57:14",
-   "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点"
-  },
-  {
-   "ai": {
-    "amount": "免费开源",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Everything MCP"
-   },
-   "d": "09-23 10:10",
-   "link": "https://meta.appinn.net/t/topic/92280",
-   "t": "2026-09-23 02:14:09",
-   "title": "【开发自荐】Everything MCP插件:把 Everything 塞给 AI 用(Everything 1.5 插件,免费开源)"
-  },
-  {
-   "ai": {
-    "amount": "AI本地脱敏token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "tokenhush"
-   },
-   "d": "09-21 16:22",
-   "link": "https://meta.appinn.net/t/topic/92195",
-   "t": "2026-09-21 08:43:50",
-   "title": "【开源自荐】tokenhush：AI本地脱敏 - 别让vibecoding泄露密钥给你造成无法挽回的损失"
-  },
-  {
-   "ai": {
-    "amount": "综合福利",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "严选君"
-   },
-   "d": "",
-   "link": "https://t.me/+zPJWfXueshljNTE1",
-   "t": "2026-09-20 04:23:11",
-   "title": "严选君综合福利社"
-  },
-  {
-   "ai": {
-    "amount": "抽奖福利",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "白嫖小仓库"
-   },
-   "d": "",
-   "link": "https://t.me/+B3cgJUBg05U3Yjc1",
-   "t": "2026-09-20 04:23:11",
-   "title": "白嫖小仓库 丨 抽奖福利之家"
   }
  ]
 }
