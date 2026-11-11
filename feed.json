@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "动态流量",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "d": "11-11 14:55",
+   "link": "https://linux.do/t/topic/3155230",
+   "t": "2026-11-11 06:59:31",
+   "title": "【福利】动态流量用不完，给大家免费送点"
+  },
+  {
+   "ai": {
     "amount": "送3刀+首冲返50%",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/009/069.htm",
    "t": "2026-10-01 06:59:42",
    "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份"
-  },
-  {
-   "ai": {
-    "amount": "Qwen3.8-Flash免费",
-    "deadline": null,
-    "start": "2026-10-01 00:00",
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里"
-   },
-   "d": "09-29 22:51",
-   "link": "https://www.ithome.com/1/008/506.htm",
-   "t": "2026-09-29 14:52:49",
-   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
   }
  ]
 }

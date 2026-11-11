@@ -63,10 +63,40 @@
    "id": "linux.do-福利羊毛板块:762928512c48",
    "link": "https://linux.do/t/topic/3154236",
    "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
+  },
+  {
+   "_age": 0.0016449395023148147,
+   "ai": {
+    "amount": "动态流量",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "date": "Wed, 11 Nov 2026 06:55:27 +0000",
+   "date_str": "11-11 14:55",
+   "id": "linux.do-福利羊毛板块:c42de39ed72c",
+   "link": "https://linux.do/t/topic/3155230",
+   "title": "【福利】动态流量用不完，给大家免费送点"
   }
  ],
  "digest_date": "2026-11-11",
  "feed": [
+  {
+   "ai": {
+    "amount": "动态流量",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "d": "11-11 14:55",
+   "link": "https://linux.do/t/topic/3155230",
+   "t": "2026-11-11 06:59:31",
+   "title": "【福利】动态流量用不完，给大家免费送点"
+  },
   {
    "ai": {
     "amount": "送3刀+首冲返50%",
@@ -892,20 +922,6 @@
    "link": "https://www.ithome.com/1/009/069.htm",
    "t": "2026-10-01 06:59:42",
    "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份"
-  },
-  {
-   "ai": {
-    "amount": "Qwen3.8-Flash免费",
-    "deadline": null,
-    "start": "2026-10-01 00:00",
-    "urgent": false,
-    "value": 80,
-    "vendor": "阿里"
-   },
-   "d": "09-29 22:51",
-   "link": "https://www.ithome.com/1/008/506.htm",
-   "t": "2026-09-29 14:52:49",
-   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
   }
  ],
  "links": {
@@ -1011,6 +1027,9 @@
   "https://linux.do/t/topic/3154815": "1",
   "https://linux.do/t/topic/3155001": "1",
   "https://linux.do/t/topic/3155038": "1",
+  "https://linux.do/t/topic/3155149": "1",
+  "https://linux.do/t/topic/3155227": "1",
+  "https://linux.do/t/topic/3155230": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2362,9 +2381,11 @@
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
   "linux.do-最新:8b995958d407": "Claude Ultra订阅跑Fable一天用完了所有额度",
+  "linux.do-最新:971d9cab0ccb": "credit登录提示服务器错误，为哈啊",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
   "linux.do-最新:c33e815b1c41": "什么意思啊，这是给降额度了？",
+  "linux.do-最新:c4945c1b40f5": "gpt pro 送100刀？",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:f5e9eb8f6a7a": "1024的活动OrcaTerm免费Pro会员到账了",
@@ -2410,6 +2431,7 @@
   "linux.do-福利羊毛板块:b02bf935dcd2": "【RelayFor】我免费辣",
   "linux.do-福利羊毛板块:b7ebe5ef9d90": "【富可敌国】CUN.AI 【限量200份｜首充低至3.55折】实充 $119 拿下 GPT‑6 / Claude Fable 5.1 的 $335 额度！新用户注册就送5.8刀！内附300张兑换码",
   "linux.do-福利羊毛板块:b86ccfe5dd8d": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。",
+  "linux.do-福利羊毛板块:c42de39ed72c": "【福利】动态流量用不完，给大家免费送点",
   "linux.do-福利羊毛板块:c5ca2bd098cb": "【FastAIToken】双十一活动：GPT 低至 0.06 倍率 / 混元 5 折 / 充值加赠 双十一福利整理：GPT 0.06 倍率、混元 ¥0.15/M，顺便抽 10 个 ¥158 订阅 佬友们，FastAIToken 双十一活动细则都在这一帖，跑量的可以来看看",
   "linux.do-福利羊毛板块:caaf379498d5": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20",
   "linux.do-福利羊毛板块:d21816e6de91": "【富可敌国】CUN.AI L站账号注册的登录每天领 $0.50，会员并发升级，首充再送 50%，首充 $66 拿下 GPT，Claude 套餐，累计 $200 额度 | 低至3.3折！内附300张兑换码！",
