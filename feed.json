@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "送3刀+首冲返50%",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 75,
+    "vendor": "NewCodex"
+   },
+   "d": "11-11 13:33",
+   "link": "https://linux.do/t/topic/3154567",
+   "t": "2026-11-11 05:43:35",
+   "title": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜"
+  },
+  {
+   "ai": {
     "amount": "2体验额度",
     "deadline": null,
     "start": "2026-11-11 00:00",
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/008/506.htm",
    "t": "2026-09-29 14:52:49",
    "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
-  },
-  {
-   "ai": {
-    "amount": "单项目激励最高百万",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "字节火山引擎"
-   },
-   "d": "09-28 16:16",
-   "link": "https://www.ithome.com/1/007/867.htm",
-   "t": "2026-09-28 08:23:11",
-   "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
   }
  ]
 }

@@ -69,6 +69,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "送3刀+首冲返50%",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 75,
+    "vendor": "NewCodex"
+   },
+   "d": "11-11 13:33",
+   "link": "https://linux.do/t/topic/3154567",
+   "t": "2026-11-11 05:43:35",
+   "title": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜"
+  },
+  {
+   "ai": {
     "amount": "2体验额度",
     "deadline": null,
     "start": "2026-11-11 00:00",
@@ -892,20 +906,6 @@
    "link": "https://www.ithome.com/1/008/506.htm",
    "t": "2026-09-29 14:52:49",
    "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用"
-  },
-  {
-   "ai": {
-    "amount": "单项目激励最高百万",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "字节火山引擎"
-   },
-   "d": "09-28 16:16",
-   "link": "https://www.ithome.com/1/007/867.htm",
-   "t": "2026-09-28 08:23:11",
-   "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
   }
  ],
  "links": {
@@ -1002,6 +1002,8 @@
   "https://linux.do/t/topic/3154236": "1",
   "https://linux.do/t/topic/3154466": "1",
   "https://linux.do/t/topic/3154480": "1",
+  "https://linux.do/t/topic/3154557": "1",
+  "https://linux.do/t/topic/3154567": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2348,6 +2350,7 @@
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
+  "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
@@ -2407,6 +2410,7 @@
   "linux.do-福利羊毛板块:ef0fde005c6f": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。",
   "linux.do-福利羊毛板块:f4274f1787ca": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
+  "linux.do-福利羊毛板块:fc18b6ec7ced": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
   "小众软件论坛:0080ca9844b6": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
   "小众软件论坛:0098bf0b84d6": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器",
