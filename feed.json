@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "$2,000 美元",
+    "deadline": "2026-11-13 23:59",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 90,
+    "vendor": "快跑 AI"
+   },
+   "d": "11-11 15:59",
+   "link": "https://linux.do/t/topic/3155759",
+   "t": "2026-11-11 08:45:04",
+   "title": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！"
+  },
+  {
+   "ai": {
+    "amount": "500 credit",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "qwen"
+   },
+   "d": "11-11 16:00",
+   "link": "https://linux.do/t/topic/3155773",
+   "t": "2026-11-11 08:45:04",
+   "title": "qwen code 1.x preview + qoder auth 可以领 500 credit"
+  },
+  {
+   "ai": {
     "amount": "0.05兑换一刀",
     "deadline": "2026-11-12 12:00",
     "start": "2026-11-11 00:00",
@@ -811,34 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/93341",
    "t": "2026-10-11 15:03:04",
    "title": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器"
-  },
-  {
-   "ai": {
-    "amount": "免费标签批量打印工具",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "新途福"
-   },
-   "d": "10-09 20:30",
-   "link": "https://meta.appinn.net/t/topic/93193",
-   "t": "2026-10-09 12:36:14",
-   "title": "新途福标签打印软件 - 免费标签批量打印工具"
-  },
-  {
-   "ai": {
-    "amount": "免费漏洞扫描服务",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Anthropic"
-   },
-   "d": "10-09 14:08",
-   "link": "https://www.ithome.com/1/010/922.htm",
-   "t": "2026-10-09 06:18:59",
-   "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
   }
  ]
 }

@@ -95,10 +95,54 @@
    "id": "linux.do-福利羊毛板块:89b57dd7fc94",
    "link": "https://linux.do/t/topic/3155542",
    "title": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！"
+  },
+  {
+   "_age": 0.03060279159722222,
+   "ai": {
+    "amount": "500 credit",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "qwen"
+   },
+   "date": "Wed, 11 Nov 2026 08:00:32 +0000",
+   "date_str": "11-11 16:00",
+   "id": "linux.do-福利羊毛板块:759aaeeb995c",
+   "link": "https://linux.do/t/topic/3155773",
+   "title": "qwen code 1.x preview + qoder auth 可以领 500 credit"
   }
  ],
  "digest_date": "2026-11-11",
  "feed": [
+  {
+   "ai": {
+    "amount": "$2,000 美元",
+    "deadline": "2026-11-13 23:59",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 90,
+    "vendor": "快跑 AI"
+   },
+   "d": "11-11 15:59",
+   "link": "https://linux.do/t/topic/3155759",
+   "t": "2026-11-11 08:45:04",
+   "title": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！"
+  },
+  {
+   "ai": {
+    "amount": "500 credit",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "qwen"
+   },
+   "d": "11-11 16:00",
+   "link": "https://linux.do/t/topic/3155773",
+   "t": "2026-11-11 08:45:04",
+   "title": "qwen code 1.x preview + qoder auth 可以领 500 credit"
+  },
   {
    "ai": {
     "amount": "0.05兑换一刀",
@@ -910,34 +954,6 @@
    "link": "https://meta.appinn.net/t/topic/93341",
    "t": "2026-10-11 15:03:04",
    "title": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器"
-  },
-  {
-   "ai": {
-    "amount": "免费标签批量打印工具",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "新途福"
-   },
-   "d": "10-09 20:30",
-   "link": "https://meta.appinn.net/t/topic/93193",
-   "t": "2026-10-09 12:36:14",
-   "title": "新途福标签打印软件 - 免费标签批量打印工具"
-  },
-  {
-   "ai": {
-    "amount": "免费漏洞扫描服务",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Anthropic"
-   },
-   "d": "10-09 14:08",
-   "link": "https://www.ithome.com/1/010/922.htm",
-   "t": "2026-10-09 06:18:59",
-   "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
   }
  ],
  "links": {
@@ -1057,6 +1073,10 @@
   "https://linux.do/t/topic/3155648": "1",
   "https://linux.do/t/topic/3155657": "1",
   "https://linux.do/t/topic/3155724": "1",
+  "https://linux.do/t/topic/3155759": "1",
+  "https://linux.do/t/topic/3155773": "1",
+  "https://linux.do/t/topic/3155937": "1",
+  "https://linux.do/t/topic/3156023": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2410,9 +2430,11 @@
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
   "linux.do-最新:5b65ae5e936c": "还有福利站可以去吗",
+  "linux.do-最新:5f90a3e97b40": "为什么我的Codex有2000多美刀的额度？",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
   "linux.do-最新:8b995958d407": "Claude Ultra订阅跑Fable一天用完了所有额度",
+  "linux.do-最新:92735762d3a7": "腾讯服务器拼团，我已开团拼团成功送3个月时长",
   "linux.do-最新:971d9cab0ccb": "credit登录提示服务器错误，为哈啊",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
@@ -2455,6 +2477,7 @@
   "linux.do-福利羊毛板块:6d9194fa10f1": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$",
   "linux.do-福利羊毛板块:73d21fb8d63c": "【已无】送个腾讯视频体验 vip",
   "linux.do-福利羊毛板块:75291aaa239f": "君の星辰 双十一特价活动，gpt特惠降至0.05兑换一刀，持续到12日中午",
+  "linux.do-福利羊毛板块:759aaeeb995c": "qwen code 1.x preview + qoder auth 可以领 500 credit",
   "linux.do-福利羊毛板块:762928512c48": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠",
   "linux.do-福利羊毛板块:7c3ea048f3b9": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
   "linux.do-福利羊毛板块:8012c5aa1860": "cursor又送羊毛了？",
@@ -2487,6 +2510,7 @@
   "linux.do-福利羊毛板块:ef0fde005c6f": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。",
   "linux.do-福利羊毛板块:f4274f1787ca": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
+  "linux.do-福利羊毛板块:fbf667ebe31a": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！",
   "linux.do-福利羊毛板块:fc18b6ec7ced": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
   "小众软件论坛:0080ca9844b6": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
