@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "额度免费重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Anthropic"
+   },
+   "d": "11-11 09:51",
+   "link": "https://www.ithome.com/1/025/292.htm",
+   "t": "2026-11-11 01:59:50",
+   "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展"
+  },
+  {
+   "ai": {
     "amount": "现金或免费软件",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://t.me/+B3cgJUBg05U3Yjc1",
    "t": "2026-09-20 04:23:11",
    "title": "白嫖小仓库 丨 抽奖福利之家"
-  },
-  {
-   "ai": {
-    "amount": "npm tokens",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 80,
-    "vendor": "GitHub"
-   },
-   "d": "09-19 00:37",
-   "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-   "t": "2026-09-18 17:28:13",
-   "title": "Stage-only npm tokens for safer automation"
   }
  ]
 }

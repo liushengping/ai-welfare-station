@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-11-10",
+ "digest_date": "2026-11-11",
  "feed": [
+  {
+   "ai": {
+    "amount": "额度免费重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "Anthropic"
+   },
+   "d": "11-11 09:51",
+   "link": "https://www.ithome.com/1/025/292.htm",
+   "t": "2026-11-11 01:59:50",
+   "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展"
+  },
   {
    "ai": {
     "amount": "现金或免费软件",
@@ -827,20 +841,6 @@
    "link": "https://t.me/+B3cgJUBg05U3Yjc1",
    "t": "2026-09-20 04:23:11",
    "title": "白嫖小仓库 丨 抽奖福利之家"
-  },
-  {
-   "ai": {
-    "amount": "npm tokens",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 80,
-    "vendor": "GitHub"
-   },
-   "d": "09-19 00:37",
-   "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-   "t": "2026-09-18 17:28:13",
-   "title": "Stage-only npm tokens for safer automation"
   }
  ],
  "links": {
@@ -1637,6 +1637,7 @@
   "https://www.ithome.com/1/025/212.htm": "1",
   "https://www.ithome.com/1/025/245.htm": "1",
   "https://www.ithome.com/1/025/259.htm": "1",
+  "https://www.ithome.com/1/025/292.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1750,6 +1751,7 @@
   "IT之家:230c335b5861": "卡普空《识质存在》游戏免费 DLC 上线，新增《洛克人》联动内容",
   "IT之家:23173fef83eb": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
   "IT之家:231ece10a618": "10:00~10:15 速抢限时不限量红包：京东红包今日全员再加码",
+  "IT之家:234f58be1d5c": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展",
   "IT之家:23884d0d3683": "苹果为 AppleTV 推送 tvOS 27.0 正式版系统更新：全新播客应用、Apple Music 新增高解析度无损音频",
   "IT之家:2423b7f8f75d": "2027 款吉利缤越超能版上市：Flyme Auto 2 智能座舱，限时先享价 5.98 万元起",
   "IT之家:267c02c2de1c": "vivo OriginOS 7 正式开启首批升级，按尝鲜申请顺序分批推送",
