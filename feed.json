@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "¥3.5",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "RelayRouter"
+   },
+   "d": "11-11 15:24",
+   "link": "https://linux.do/t/topic/3155514",
+   "t": "2026-11-11 07:30:00",
+   "title": "RelayRouter 双十一充值福利：最高省 7%，新人留 ID 领 ¥3.5 体验额度"
+  },
+  {
+   "ai": {
     "amount": "动态流量",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/009/066.htm",
    "t": "2026-10-01 06:59:42",
    "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏"
-  },
-  {
-   "ai": {
-    "amount": "毛绒玩具与贴纸",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 10,
-    "vendor": "Anthropic"
-   },
-   "d": "10-01 14:56",
-   "link": "https://www.ithome.com/1/009/069.htm",
-   "t": "2026-10-01 06:59:42",
-   "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份"
   }
  ]
 }

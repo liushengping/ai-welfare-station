@@ -85,6 +85,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "¥3.5",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "RelayRouter"
+   },
+   "d": "11-11 15:24",
+   "link": "https://linux.do/t/topic/3155514",
+   "t": "2026-11-11 07:30:00",
+   "title": "RelayRouter 双十一充值福利：最高省 7%，新人留 ID 领 ¥3.5 体验额度"
+  },
+  {
+   "ai": {
     "amount": "动态流量",
     "deadline": null,
     "start": null,
@@ -908,20 +922,6 @@
    "link": "https://www.ithome.com/1/009/066.htm",
    "t": "2026-10-01 06:59:42",
    "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏"
-  },
-  {
-   "ai": {
-    "amount": "毛绒玩具与贴纸",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 10,
-    "vendor": "Anthropic"
-   },
-   "d": "10-01 14:56",
-   "link": "https://www.ithome.com/1/009/069.htm",
-   "t": "2026-10-01 06:59:42",
-   "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份"
   }
  ],
  "links": {
@@ -1032,6 +1032,10 @@
   "https://linux.do/t/topic/3155230": "1",
   "https://linux.do/t/topic/3155263": "1",
   "https://linux.do/t/topic/3155347": "1",
+  "https://linux.do/t/topic/3155408": "1",
+  "https://linux.do/t/topic/3155483": "1",
+  "https://linux.do/t/topic/3155514": "1",
+  "https://linux.do/t/topic/3155519": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -1757,6 +1761,7 @@
   "https://www.ithome.com/1/025/308.htm": "1",
   "https://www.ithome.com/1/025/329.htm": "1",
   "https://www.ithome.com/1/025/396.htm": "1",
+  "https://www.ithome.com/1/025/502.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2011,6 +2016,7 @@
   "IT之家:685c7e8a8cd8": "拼多多送货上门新规 11 月 13 日生效：拒绝履约每单赔付 10 元",
   "IT之家:68dbe8676cbd": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
   "IT之家:696b43e910c0": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
+  "IT之家:6ab5f2e61c28": "苹果计划限制 Apple Intelligence 云端 AI 使用额度：可订阅 iCloud+ 套餐扩容，Logic Pro 已单独售卖用量包",
   "IT之家:6c896c5fdaae": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
   "IT之家:6d26142758be": "长安启源 Q06 上市 24 小时累计订单突破 3.5 万台，限时权益价 13.59 万元起",
   "IT之家:6d6d059f5a01": "鸿蒙智行官宣星夜服务升级，预约维保支持 20 公里内免费上门取送车",
@@ -2380,18 +2386,21 @@
   "linux.do-最新:1fa600f4a8bf": "cline-pass 一个月额度蹬完，汇报一下用量给大家参考",
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
+  "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
   "linux.do-最新:5b65ae5e936c": "还有福利站可以去吗",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
   "linux.do-最新:8b995958d407": "Claude Ultra订阅跑Fable一天用完了所有额度",
   "linux.do-最新:971d9cab0ccb": "credit登录提示服务器错误，为哈啊",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
+  "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
   "linux.do-最新:c33e815b1c41": "什么意思啊，这是给降额度了？",
   "linux.do-最新:c4945c1b40f5": "gpt pro 送100刀？",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:eec4010228e8": "注册了个muse 请问现在还能白嫖token吗",
+  "linux.do-最新:f3f7661d85c5": "Gemini 20x活动结束了？下个月拼车时候可以涨价吗？哈哈哈",
   "linux.do-最新:f5e9eb8f6a7a": "1024的活动OrcaTerm免费Pro会员到账了",
   "linux.do-最新:f93193fc47a9": "WorkBuddy 美团优惠券是不是额度变低了",
   "linux.do-最新:feea6761b2ba": "codex没使用额度消失？",
@@ -2445,6 +2454,7 @@
   "linux.do-福利羊毛板块:dea2fe1b042f": "【Moonup 双11】今日充值最高加赠 18.2%｜GPT 0.06 倍率｜抽 11 位各送 $50",
   "linux.do-福利羊毛板块:debd0491dfc4": "ZCodex 3亿token 23：00后可用",
   "linux.do-福利羊毛板块:dfdca9e369df": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！",
+  "linux.do-福利羊毛板块:e043bafba349": "RelayRouter 双十一充值福利：最高省 7%，新人留 ID 领 ¥3.5 体验额度",
   "linux.do-福利羊毛板块:e27d9a1066e1": "深夜福利，发100个额度盲盒",
   "linux.do-福利羊毛板块:e76869ca0c75": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费",
   "linux.do-福利羊毛板块:ee38d0470607": "krak card英国 10英镑奖励活动最新规则 加好友互转贴",
