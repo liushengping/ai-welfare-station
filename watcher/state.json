@@ -69,6 +69,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "2体验额度",
+    "deadline": null,
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 80,
+    "vendor": "NEXA"
+   },
+   "d": "11-11 13:13",
+   "link": "https://linux.do/t/topic/3154480",
+   "t": "2026-11-11 05:28:41",
+   "title": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度"
+  },
+  {
+   "ai": {
     "amount": "2G内存容器",
     "deadline": null,
     "start": null,
@@ -892,20 +906,6 @@
    "link": "https://www.ithome.com/1/007/867.htm",
    "t": "2026-09-28 08:23:11",
    "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
-  },
-  {
-   "ai": {
-    "amount": "$10套餐送6倍DeepSeek额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "OpenCode/Command Code"
-   },
-   "d": "09-28 16:18",
-   "link": "https://meta.appinn.net/t/topic/92564",
-   "t": "2026-09-28 08:23:11",
-   "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
   }
  ],
  "links": {
@@ -1001,6 +1001,7 @@
   "https://linux.do/t/topic/3154102": "1",
   "https://linux.do/t/topic/3154236": "1",
   "https://linux.do/t/topic/3154466": "1",
+  "https://linux.do/t/topic/3154480": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2404,6 +2405,7 @@
   "linux.do-福利羊毛板块:e76869ca0c75": "Workbuddy AI国际版DeepSeek-V4.1-Flash 免费",
   "linux.do-福利羊毛板块:ee38d0470607": "krak card英国 10英镑奖励活动最新规则 加好友互转贴",
   "linux.do-福利羊毛板块:ef0fde005c6f": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。",
+  "linux.do-福利羊毛板块:f4274f1787ca": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
   "小众软件论坛:0080ca9844b6": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",

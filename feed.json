@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "2体验额度",
+    "deadline": null,
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 80,
+    "vendor": "NEXA"
+   },
+   "d": "11-11 13:13",
+   "link": "https://linux.do/t/topic/3154480",
+   "t": "2026-11-11 05:28:41",
+   "title": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度"
+  },
+  {
+   "ai": {
     "amount": "2G内存容器",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/007/867.htm",
    "t": "2026-09-28 08:23:11",
    "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万"
-  },
-  {
-   "ai": {
-    "amount": "$10套餐送6倍DeepSeek额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "OpenCode/Command Code"
-   },
-   "d": "09-28 16:18",
-   "link": "https://meta.appinn.net/t/topic/92564",
-   "t": "2026-09-28 08:23:11",
-   "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
   }
  ]
 }
