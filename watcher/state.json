@@ -101,6 +101,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "0.05兑换一刀",
+    "deadline": "2026-11-12 12:00",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 80,
+    "vendor": "君の星辰"
+   },
+   "d": "11-11 15:54",
+   "link": "https://linux.do/t/topic/3155724",
+   "t": "2026-11-11 08:00:17",
+   "title": "君の星辰 双十一特价活动，gpt特惠降至0.05兑换一刀，持续到12日中午"
+  },
+  {
+   "ai": {
     "amount": "0.08,10元免费额度",
     "deadline": null,
     "start": null,
@@ -924,20 +938,6 @@
    "link": "https://www.ithome.com/1/010/922.htm",
    "t": "2026-10-09 06:18:59",
    "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
-  },
-  {
-   "ai": {
-    "amount": "Colab 订阅 (A100 GPU)",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 85,
-    "vendor": "Google Gemini"
-   },
-   "d": "10-06 21:18",
-   "link": "https://meta.appinn.net/t/topic/92983",
-   "t": "2026-10-06 13:20:04",
-   "title": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU"
   }
  ],
  "links": {
@@ -1055,6 +1055,8 @@
   "https://linux.do/t/topic/3155542": "1",
   "https://linux.do/t/topic/3155611": "1",
   "https://linux.do/t/topic/3155648": "1",
+  "https://linux.do/t/topic/3155657": "1",
+  "https://linux.do/t/topic/3155724": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2418,6 +2420,7 @@
   "linux.do-最新:c33e815b1c41": "什么意思啊，这是给降额度了？",
   "linux.do-最新:c4945c1b40f5": "gpt pro 送100刀？",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
+  "linux.do-最新:d05456da462b": "聚合查看AI供应商额度,支持 一键导入 magpie/cpa/9router/cc-switch",
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:eec4010228e8": "注册了个muse 请问现在还能白嫖token吗",
   "linux.do-最新:f3f7661d85c5": "Gemini 20x活动结束了？下个月拼车时候可以涨价吗？哈哈哈",
@@ -2451,6 +2454,7 @@
   "linux.do-福利羊毛板块:66c9535e3db2": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。",
   "linux.do-福利羊毛板块:6d9194fa10f1": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$",
   "linux.do-福利羊毛板块:73d21fb8d63c": "【已无】送个腾讯视频体验 vip",
+  "linux.do-福利羊毛板块:75291aaa239f": "君の星辰 双十一特价活动，gpt特惠降至0.05兑换一刀，持续到12日中午",
   "linux.do-福利羊毛板块:762928512c48": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠",
   "linux.do-福利羊毛板块:7c3ea048f3b9": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
   "linux.do-福利羊毛板块:8012c5aa1860": "cursor又送羊毛了？",

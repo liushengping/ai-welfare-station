@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "0.05兑换一刀",
+    "deadline": "2026-11-12 12:00",
+    "start": "2026-11-11 00:00",
+    "urgent": true,
+    "value": 80,
+    "vendor": "君の星辰"
+   },
+   "d": "11-11 15:54",
+   "link": "https://linux.do/t/topic/3155724",
+   "t": "2026-11-11 08:00:17",
+   "title": "君の星辰 双十一特价活动，gpt特惠降至0.05兑换一刀，持续到12日中午"
+  },
+  {
+   "ai": {
     "amount": "0.08,10元免费额度",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/010/922.htm",
    "t": "2026-10-09 06:18:59",
    "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
-  },
-  {
-   "ai": {
-    "amount": "Colab 订阅 (A100 GPU)",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 85,
-    "vendor": "Google Gemini"
-   },
-   "d": "10-06 21:18",
-   "link": "https://meta.appinn.net/t/topic/92983",
-   "t": "2026-10-06 13:20:04",
-   "title": "刚知道Gemini 订阅还会送colab的订阅，可以用A100 GPU"
   }
  ]
 }
