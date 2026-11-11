@@ -47,10 +47,40 @@
    "id": "linux.do-福利羊毛板块:09cb5f50a806",
    "link": "https://linux.do/t/topic/3150556",
    "title": "说几个关于开通gemini 5x/20x ultra大家可能忽略的福利"
+  },
+  {
+   "_age": 0.0026885189814814816,
+   "ai": {
+    "amount": "2G内存容器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Uppcoder"
+   },
+   "date": "Wed, 11 Nov 2026 04:24:57 +0000",
+   "date_str": "11-11 12:24",
+   "id": "linux.do-福利羊毛板块:762928512c48",
+   "link": "https://linux.do/t/topic/3154236",
+   "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
   }
  ],
  "digest_date": "2026-11-11",
  "feed": [
+  {
+   "ai": {
+    "amount": "2G内存容器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Uppcoder"
+   },
+   "d": "11-11 12:24",
+   "link": "https://linux.do/t/topic/3154236",
+   "t": "2026-11-11 04:29:46",
+   "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
+  },
   {
    "ai": {
     "amount": "600 美刀额度",
@@ -876,20 +906,6 @@
    "link": "https://meta.appinn.net/t/topic/92564",
    "t": "2026-09-28 08:23:11",
    "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
-  },
-  {
-   "ai": {
-    "amount": "1亿Token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "智谱"
-   },
-   "d": "09-28 11:26",
-   "link": "https://www.ithome.com/1/007/727.htm",
-   "t": "2026-09-28 03:35:42",
-   "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
   }
  ],
  "links": {
@@ -983,6 +999,7 @@
   "https://linux.do/t/topic/3153984": "1",
   "https://linux.do/t/topic/3154037": "1",
   "https://linux.do/t/topic/3154102": "1",
+  "https://linux.do/t/topic/3154236": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2358,6 +2375,7 @@
   "linux.do-福利羊毛板块:66c9535e3db2": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。",
   "linux.do-福利羊毛板块:6d9194fa10f1": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$",
   "linux.do-福利羊毛板块:73d21fb8d63c": "【已无】送个腾讯视频体验 vip",
+  "linux.do-福利羊毛板块:762928512c48": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠",
   "linux.do-福利羊毛板块:7c3ea048f3b9": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
   "linux.do-福利羊毛板块:8012c5aa1860": "cursor又送羊毛了？",
   "linux.do-福利羊毛板块:80cdd35bfb73": "快讯，智谱又发3亿token",

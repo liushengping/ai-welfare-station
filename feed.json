@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "2G内存容器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Uppcoder"
+   },
+   "d": "11-11 12:24",
+   "link": "https://linux.do/t/topic/3154236",
+   "t": "2026-11-11 04:29:46",
+   "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
+  },
+  {
+   "ai": {
     "amount": "600 美刀额度",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/92564",
    "t": "2026-09-28 08:23:11",
    "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度"
-  },
-  {
-   "ai": {
-    "amount": "1亿Token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "智谱"
-   },
-   "d": "09-28 11:26",
-   "link": "https://www.ithome.com/1/007/727.htm",
-   "t": "2026-09-28 03:35:42",
-   "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token"
   }
  ]
 }
