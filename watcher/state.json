@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0027560253819444444,
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Little Mungbean"
+   },
+   "date": "Thu, 12 Nov 2026 06:18:17 +0000",
+   "date_str": "11-12 14:18",
+   "id": "小众软件论坛:192d895f69dd",
+   "link": "https://meta.appinn.net/t/topic/95771",
+   "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
+  }
+ ],
  "digest_date": "2026-11-12",
  "feed": [
+  {
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Little Mungbean"
+   },
+   "d": "11-12 14:18",
+   "link": "https://meta.appinn.net/t/topic/95771",
+   "t": "2026-11-12 06:23:48",
+   "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
+  },
   {
    "ai": {
     "amount": "接入第三方模型及限时优惠",
@@ -827,20 +858,6 @@
    "link": "https://www.ithome.com/1/012/198.htm",
    "t": "2026-10-13 05:02:56",
    "title": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐"
-  },
-  {
-   "ai": {
-    "amount": "免费更换刹车踏板",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "尊界"
-   },
-   "d": "10-13 12:00",
-   "link": "https://www.ithome.com/1/012/274.htm",
-   "t": "2026-10-13 05:02:56",
-   "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
   }
  ],
  "links": {
@@ -1107,6 +1124,7 @@
   "https://meta.appinn.net/t/topic/95693": "1",
   "https://meta.appinn.net/t/topic/95731": "1",
   "https://meta.appinn.net/t/topic/95768": "1",
+  "https://meta.appinn.net/t/topic/95771": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -1703,6 +1721,7 @@
   "https://www.ithome.com/1/025/842.htm": "1",
   "https://www.ithome.com/1/025/845.htm": "1",
   "https://www.ithome.com/1/025/926.htm": "1",
+  "https://www.ithome.com/1/026/053.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -1743,6 +1762,7 @@
   "IT之家:065d2d8920bc": "蔚来乐道 L90“星瀚金辉设计套装”发售，限时惊喜价 6000 元",
   "IT之家:06f0bb67ef8c": "微信打击传销、诈骗等违法活动组织者及推广者，违规将处以封群、封号等",
   "IT之家:0713fedac787": "MINI PAUL SMITH 设计师款燃油版上市，限时礼遇价 27.78 万元起",
+  "IT之家:0744e2b09153": "已修复：微软承认 Outlook 误拦正常邮件，被拒邮件需重新发送",
   "IT之家:079062fcd811": "《糖果传奇》开发商打造的免费游戏引擎：Defold 正式支持微软 XBOX",
   "IT之家:07ba5e063fad": "理想汽车 OTA 9.2.0 开启推送：新增苹果 CarPlay、华为 HiCar、ICCOA Carlink 手车互联",
   "IT之家:07c7205db14c": "2026 年度 Steam 秋季特卖计划活动将于 10 月 2 日开启，预计持续一周至 10 月 9 日结束",
@@ -2435,6 +2455,7 @@
   "小众软件论坛:136310284535": "苹果隔空投送 AirDrop 已被逆向成功，正在被搬到普通电脑上｜omdrop-owl",
   "小众软件论坛:15f1e526eee0": "【效率工具】Kurenai：带粘贴队列的 Mac 剪贴板工具，免费开源",
   "小众软件论坛:18847ed226f1": "【效率工具】FreeKitHub：浏览器本地图片压到目标 KB、PDF 合并，文件不上传",
+  "小众软件论坛:192d895f69dd": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器",
   "小众软件论坛:1b0bca860871": "【开发者自荐】Codex Reset Watch：Codex 额度重置的北京时间倒计时和网页提醒",
   "小众软件论坛:1b0f8ecdeae7": "【开发者自荐】致富模拟器：免费的A股K线训练工具，支持离线回放与模拟交易",
   "小众软件论坛:1ee8a478b9ea": "观辰阁：八字排盘、古籍研习网站，招募10位免费内测用户",

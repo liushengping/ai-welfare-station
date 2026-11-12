@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Little Mungbean"
+   },
+   "d": "11-12 14:18",
+   "link": "https://meta.appinn.net/t/topic/95771",
+   "t": "2026-11-12 06:23:48",
+   "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
+  },
+  {
+   "ai": {
     "amount": "接入第三方模型及限时优惠",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/012/198.htm",
    "t": "2026-10-13 05:02:56",
    "title": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐"
-  },
-  {
-   "ai": {
-    "amount": "免费更换刹车踏板",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "尊界"
-   },
-   "d": "10-13 12:00",
-   "link": "https://www.ithome.com/1/012/274.htm",
-   "t": "2026-10-13 05:02:56",
-   "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
   }
  ]
 }
