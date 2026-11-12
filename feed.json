@@ -2,6 +2,118 @@
  "items": [
   {
    "ai": {
+    "amount": "1年会员",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "咪咕"
+   },
+   "d": "11-12 18:52",
+   "link": "https://linux.do/t/topic/3163279",
+   "t": "2026-11-12 21:33:44",
+   "title": "白嫖咪咕会员1年方法"
+  },
+  {
+   "ai": {
+    "amount": "1年体验会员",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "咪咕音乐"
+   },
+   "d": "11-12 12:20",
+   "link": "https://linux.do/t/topic/3159959",
+   "t": "2026-11-12 21:33:44",
+   "title": "免费领取一年咪咕音乐天籁体验会员"
+  },
+  {
+   "ai": {
+    "amount": "$5-$10",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 85,
+    "vendor": "富可敌国"
+   },
+   "d": "11-12 11:22",
+   "link": "https://linux.do/t/topic/3159606",
+   "t": "2026-11-12 21:33:44",
+   "title": "【富可敌国】VelaMost双十一活动层层加码！佬友专属评论ID送$5，注册自动到账$2，加qq群再送$2！充100送100！快来薅羊毛！"
+  },
+  {
+   "ai": {
+    "amount": "3元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "流光AI"
+   },
+   "d": "11-13 00:50",
+   "link": "https://linux.do/t/topic/3166317",
+   "t": "2026-11-12 21:33:44",
+   "title": "【富可敌国】【流光AI】11/13｜Kling V4 Flash、Gemini 4 Carbon 等上新，留 ID 送 3 元"
+  },
+  {
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "RelayRouter"
+   },
+   "d": "11-12 17:12",
+   "link": "https://linux.do/t/topic/3161908",
+   "t": "2026-11-12 21:33:44",
+   "title": "【RelayRouter】claude Opus 5.5 低至 1 折起、GPT-6 Astra 4 折｜ 旗舰模型价格表，新人留 ID 送 ¥3.5"
+  },
+  {
+   "ai": {
+    "amount": "3美元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "富可敌国"
+   },
+   "d": "11-12 15:24",
+   "link": "https://linux.do/t/topic/3160850",
+   "t": "2026-11-12 21:33:44",
+   "title": "【富可敌国】PQH｜CCMAX 0注入现签 1.75x，可蒸馏、可溯源、能给管理｜支持 Fable 5.2｜新用户留 ID 送 $3"
+  },
+  {
+   "ai": {
+    "amount": "8.8折",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "LV中转"
+   },
+   "d": "11-12 13:51",
+   "link": "https://linux.do/t/topic/3160301",
+   "t": "2026-11-12 21:33:44",
+   "title": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！"
+  },
+  {
+   "ai": {
+    "amount": "20积分",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "链趣公益站"
+   },
+   "d": "11-12 19:32",
+   "link": "https://linux.do/t/topic/3163653",
+   "t": "2026-11-12 21:33:44",
+   "title": "链趣公益站注册送20积分 每天签到10积分 L站登录方式在修复"
+  },
+  {
+   "ai": {
     "amount": "null",
     "deadline": null,
     "start": null,
@@ -727,118 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/93996",
    "t": "2026-10-20 07:07:05",
    "title": "【开发者自荐】ViiTor Memo：免费 AI 录音与项目记忆工具，让对话成为 Personal Agent 的长期记忆"
-  },
-  {
-   "ai": {
-    "amount": "AI 视频增强、图片修复与 4K/10K 放大工具免费领",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 80,
-    "vendor": "VideoProc Converter AI"
-   },
-   "d": "10-16 14:49",
-   "link": "https://meta.appinn.net/t/topic/93697",
-   "t": "2026-10-16 07:03:33",
-   "title": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领"
-  },
-  {
-   "ai": {
-    "amount": "Chrome / Edge 免费扩展",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "YouTube"
-   },
-   "d": "10-16 14:49",
-   "link": "https://meta.appinn.net/t/topic/93696",
-   "t": "2026-10-16 07:03:33",
-   "title": "【开发者自荐】YouTube 缩略图内持续预览 Shorts，调节音量与进度（Chrome / Edge 免费扩展）"
-  },
-  {
-   "ai": {
-    "amount": "500积分+全额返还",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 90,
-    "vendor": "腾讯"
-   },
-   "d": "10-16 12:37",
-   "link": "https://www.ithome.com/1/013/848.htm",
-   "t": "2026-10-16 04:39:58",
-   "title": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分"
-  },
-  {
-   "ai": {
-    "amount": "DeepSeek V4.1 Flash模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "d": "10-15 17:49",
-   "link": "https://meta.appinn.net/t/topic/93628",
-   "t": "2026-10-15 09:59:15",
-   "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型"
-  },
-  {
-   "ai": {
-    "amount": "7天token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 40,
-    "vendor": "DeepSeek"
-   },
-   "d": "10-15 17:40",
-   "link": "https://meta.appinn.net/t/topic/93627",
-   "t": "2026-10-15 09:44:45",
-   "title": "DeepSeek为上午的宕机，补偿了7天的token"
-  },
-  {
-   "ai": {
-    "amount": "DeepSeek V4.1 Flash 免费提供，200K上下文",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenCode"
-   },
-   "d": "10-15 16:47",
-   "link": "https://www.ithome.com/1/013/475.htm",
-   "t": "2026-10-15 09:01:42",
-   "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文"
-  },
-  {
-   "ai": {
-    "amount": "100万token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "阶跃"
-   },
-   "d": "10-15 11:22",
-   "link": "https://www.ithome.com/1/013/268.htm",
-   "t": "2026-10-15 03:32:51",
-   "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口"
-  },
-  {
-   "ai": {
-    "amount": "Token套餐",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 20,
-    "vendor": "MiniMax"
-   },
-   "d": "10-13 10:34",
-   "link": "https://www.ithome.com/1/012/198.htm",
-   "t": "2026-10-13 05:02:56",
-   "title": "MiniMax 入驻天猫开设其首家官方旗舰店，开卖 Token 套餐"
   }
  ]
 }
