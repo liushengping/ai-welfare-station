@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "接入第三方模型及限时优惠",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "豆包"
+   },
+   "d": "11-12 11:34",
+   "link": "https://www.ithome.com/1/025/926.htm",
+   "t": "2026-11-12 05:24:45",
+   "title": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠"
+  },
+  {
+   "ai": {
     "amount": "$2,000 美元",
     "deadline": "2026-11-13 23:59",
     "start": "2026-11-11 00:00",
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/012/274.htm",
    "t": "2026-10-13 05:02:56",
    "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
-  },
-  {
-   "ai": {
-    "amount": "null",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "NonsPlayer"
-   },
-   "d": "10-11 22:41",
-   "link": "https://meta.appinn.net/t/topic/93341",
-   "t": "2026-10-11 15:03:04",
-   "title": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器"
   }
  ]
 }

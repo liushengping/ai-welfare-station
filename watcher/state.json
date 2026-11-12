@@ -1,120 +1,21 @@
 {
- "digest": [
-  {
-   "_age": 0.015429321030092593,
-   "ai": {
-    "amount": "100刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "OpenAI"
-   },
-   "date": "Wed, 11 Nov 2026 03:50:35 +0000",
-   "date_str": "11-11 11:50",
-   "id": "linux.do-最新:68ba146ed415",
-   "link": "https://linux.do/t/topic/3154037",
-   "title": "gpt pro100x送的100刀要不要领？会不会封号"
-  },
-  {
-   "_age": 0.08206055077546297,
-   "ai": {
-    "amount": "长猫2.5免费玩",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "OpenCode"
-   },
-   "date": "Wed, 11 Nov 2026 02:14:38 +0000",
-   "date_str": "11-11 10:14",
-   "id": "linux.do-福利羊毛板块:16f641eca4ad",
-   "link": "https://linux.do/t/topic/3153303",
-   "title": "OpenCode又能免费玩长猫2.5了!"
-  },
-  {
-   "_age": 0.7934841637962963,
-   "ai": {
-    "amount": "Gemini 5x/20x福利",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Google"
-   },
-   "date": "Tue, 10 Nov 2026 09:10:11 +0000",
-   "date_str": "11-10 17:10",
-   "id": "linux.do-福利羊毛板块:09cb5f50a806",
-   "link": "https://linux.do/t/topic/3150556",
-   "title": "说几个关于开通gemini 5x/20x ultra大家可能忽略的福利"
-  },
-  {
-   "_age": 0.0026885189814814816,
-   "ai": {
-    "amount": "2G内存容器",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Uppcoder"
-   },
-   "date": "Wed, 11 Nov 2026 04:24:57 +0000",
-   "date_str": "11-11 12:24",
-   "id": "linux.do-福利羊毛板块:762928512c48",
-   "link": "https://linux.do/t/topic/3154236",
-   "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
-  },
-  {
-   "_age": 0.0016449395023148147,
-   "ai": {
-    "amount": "动态流量",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "linux.do"
-   },
-   "date": "Wed, 11 Nov 2026 06:55:27 +0000",
-   "date_str": "11-11 14:55",
-   "id": "linux.do-福利羊毛板块:c42de39ed72c",
-   "link": "https://linux.do/t/topic/3155230",
-   "title": "【福利】动态流量用不完，给大家免费送点"
-  },
-  {
-   "_age": 0.010548257118055555,
-   "ai": {
-    "amount": "0.08,10元免费额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "GPT"
-   },
-   "date": "Wed, 11 Nov 2026 07:28:56 +0000",
-   "date_str": "11-11 15:28",
-   "id": "linux.do-福利羊毛板块:89b57dd7fc94",
-   "link": "https://linux.do/t/topic/3155542",
-   "title": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！"
-  },
-  {
-   "_age": 0.03060279159722222,
-   "ai": {
-    "amount": "500 credit",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "qwen"
-   },
-   "date": "Wed, 11 Nov 2026 08:00:32 +0000",
-   "date_str": "11-11 16:00",
-   "id": "linux.do-福利羊毛板块:759aaeeb995c",
-   "link": "https://linux.do/t/topic/3155773",
-   "title": "qwen code 1.x preview + qoder auth 可以领 500 credit"
-  }
- ],
- "digest_date": "2026-11-11",
+ "digest": [],
+ "digest_date": "2026-11-12",
  "feed": [
+  {
+   "ai": {
+    "amount": "接入第三方模型及限时优惠",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "豆包"
+   },
+   "d": "11-12 11:34",
+   "link": "https://www.ithome.com/1/025/926.htm",
+   "t": "2026-11-12 05:24:45",
+   "title": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠"
+  },
   {
    "ai": {
     "amount": "$2,000 美元",
@@ -940,20 +841,6 @@
    "link": "https://www.ithome.com/1/012/274.htm",
    "t": "2026-10-13 05:02:56",
    "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
-  },
-  {
-   "ai": {
-    "amount": "null",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "NonsPlayer"
-   },
-   "d": "10-11 22:41",
-   "link": "https://meta.appinn.net/t/topic/93341",
-   "t": "2026-10-11 15:03:04",
-   "title": "【开源免费】NonsPlayer——简约，多音源，插件化的音乐播放器"
   }
  ],
  "links": {
@@ -1814,6 +1701,7 @@
   "https://www.ithome.com/1/025/795.htm": "1",
   "https://www.ithome.com/1/025/842.htm": "1",
   "https://www.ithome.com/1/025/845.htm": "1",
+  "https://www.ithome.com/1/025/926.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2304,6 +2192,7 @@
   "IT之家:d3fe2f14ad1d": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
   "IT之家:d4d52720f18a": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
   "IT之家:d539c7ccf31d": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
+  "IT之家:d5912f0c2b05": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠",
   "IT之家:d5e2ce78c7d2": "欣旺达：全固态电池已完成产品方案与工艺验证，目前正在对接客户开展送样测试",
   "IT之家:d7738394aab7": "中印尼共建雅万高铁开通运营三周年，累计发送旅客超 1800 万人次",
   "IT之家:d7fefcf0e030": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
