@@ -127,10 +127,40 @@
    "id": "linux.do-福利羊毛板块:e82cb0bdbaac",
    "link": "https://linux.do/t/topic/3163653",
    "title": "链趣公益站注册送20积分 每天签到10积分 L站登录方式在修复"
+  },
+  {
+   "_age": 0.003952817997685185,
+   "ai": {
+    "amount": "100块",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "腾讯"
+   },
+   "date": "Fri, 13 Nov 2026 00:19:28 +0000",
+   "date_str": "11-13 08:19",
+   "id": "linux.do-福利羊毛板块:d8aad624dfa1",
+   "link": "https://linux.do/t/topic/3167188",
+   "title": "腾讯突然上线智囊团，认证就送100块！"
   }
  ],
  "digest_date": "2026-11-12",
  "feed": [
+  {
+   "ai": {
+    "amount": "100块",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "腾讯"
+   },
+   "d": "11-13 08:19",
+   "link": "https://linux.do/t/topic/3167188",
+   "t": "2026-11-13 00:26:09",
+   "title": "腾讯突然上线智囊团，认证就送100块！"
+  },
   {
    "ai": {
     "amount": "1年会员",
@@ -956,20 +986,6 @@
    "link": "https://meta.appinn.net/t/topic/94055",
    "t": "2026-10-20 14:15:50",
    "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用"
-  },
-  {
-   "ai": {
-    "amount": "免费AI录音工具",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "ViiTor"
-   },
-   "d": "10-20 14:19",
-   "link": "https://meta.appinn.net/t/topic/93996",
-   "t": "2026-10-20 07:07:05",
-   "title": "【开发者自荐】ViiTor Memo：免费 AI 录音与项目记忆工具，让对话成为 Personal Agent 的长期记忆"
   }
  ],
  "links": {
@@ -1117,6 +1133,9 @@
   "https://linux.do/t/topic/3166979": "1",
   "https://linux.do/t/topic/3167024": "1",
   "https://linux.do/t/topic/3167051": "1",
+  "https://linux.do/t/topic/3167188": "1",
+  "https://linux.do/t/topic/3167189": "1",
+  "https://linux.do/t/topic/3167200": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2523,6 +2542,7 @@
   "linux.do-最新:d05456da462b": "聚合查看AI供应商额度,支持 一键导入 magpie/cpa/9router/cc-switch",
   "linux.do-最新:d48d4a1501cc": "Droid额度异常被官方解决了",
   "linux.do-最新:da43cd61d09f": "claude 额度是不是大砍了",
+  "linux.do-最新:ddd2bf705cdb": "Claude Desktop MCP占用token巨大？",
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:eec4010228e8": "注册了个muse 请问现在还能白嫖token吗",
   "linux.do-最新:f3f7661d85c5": "Gemini 20x活动结束了？下个月拼车时候可以涨价吗？哈哈哈",
@@ -2562,6 +2582,7 @@
   "linux.do-福利羊毛板块:622bb00fc654": "【富可敌国】【流光AI】11/13｜Kling V4 Flash、Gemini 4 Carbon 等上新，留 ID 送 3 元",
   "linux.do-福利羊毛板块:63ab5f6dc34d": "deekseepv4fas 等模型免费蹬",
   "linux.do-福利羊毛板块:66c9535e3db2": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。",
+  "linux.do-福利羊毛板块:6af76bf96c8d": "领今日最大份羊毛-虾蹬联合国全球至尊版 1000份",
   "linux.do-福利羊毛板块:6c4cdad60dad": "Firefox火狐浏览器内置免费VPN更新支持无限流量",
   "linux.do-福利羊毛板块:6d9194fa10f1": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$",
   "linux.do-福利羊毛板块:73d21fb8d63c": "【已无】送个腾讯视频体验 vip",
@@ -2595,6 +2616,7 @@
   "linux.do-福利羊毛板块:d567ce0d16e3": "腾讯羊毛，1小时左右100元，18号结束",
   "linux.do-福利羊毛板块:d650b73400c8": "移动APP，底部的灵犀助手，发送“羊汤好鲜美”，送0.5元话费券。",
   "linux.do-福利羊毛板块:d7dc9b11623f": "【富可敌国】GPT 承压期间的备用方案 | ZeroCat 国模限时直降 0.15x 起 | 评论国模免费用",
+  "linux.do-福利羊毛板块:d8aad624dfa1": "腾讯突然上线智囊团，认证就送100块！",
   "linux.do-福利羊毛板块:d915a73b3f4b": "【10:30 抢】继续送 gpt-astra",
   "linux.do-福利羊毛板块:dea2fe1b042f": "【Moonup 双11】今日充值最高加赠 18.2%｜GPT 0.06 倍率｜抽 11 位各送 $50",
   "linux.do-福利羊毛板块:debd0491dfc4": "ZCodex 3亿token 23：00后可用",

@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "100块",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "腾讯"
+   },
+   "d": "11-13 08:19",
+   "link": "https://linux.do/t/topic/3167188",
+   "t": "2026-11-13 00:26:09",
+   "title": "腾讯突然上线智囊团，认证就送100块！"
+  },
+  {
+   "ai": {
     "amount": "1年会员",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/94055",
    "t": "2026-10-20 14:15:50",
    "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用"
-  },
-  {
-   "ai": {
-    "amount": "免费AI录音工具",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "ViiTor"
-   },
-   "d": "10-20 14:19",
-   "link": "https://meta.appinn.net/t/topic/93996",
-   "t": "2026-10-20 07:07:05",
-   "title": "【开发者自荐】ViiTor Memo：免费 AI 录音与项目记忆工具，让对话成为 Personal Agent 的长期记忆"
   }
  ]
 }
