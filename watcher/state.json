@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0054258404629629635,
+   "ai": {
+    "amount": "SpaceXAI促销代码",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "MLH"
+   },
+   "date": "Fri, 13 Nov 2026 01:30:26 +0000",
+   "date_str": "11-13 09:30",
+   "id": "linux.do-最新:4b2c4c53b6ae",
+   "link": "https://linux.do/t/topic/3167653",
+   "title": "MLH 领取您的SpaceXAI促销代码"
+  }
+ ],
  "digest_date": "2026-11-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "SpaceXAI促销代码",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "MLH"
+   },
+   "d": "11-13 09:30",
+   "link": "https://linux.do/t/topic/3167653",
+   "t": "2026-11-13 01:39:15",
+   "title": "MLH 领取您的SpaceXAI促销代码"
+  },
   {
    "ai": {
     "amount": "免费使用Gemini 4 Hydrogen",
@@ -827,20 +858,6 @@
    "link": "https://www.ithome.com/1/016/633.htm",
    "t": "2026-10-22 10:21:59",
    "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
-  },
-  {
-   "ai": {
-    "amount": "HarmonyOS系统公测免费使用",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Xshell"
-   },
-   "d": "10-21 20:06",
-   "link": "https://www.ithome.com/1/016/099.htm",
-   "t": "2026-10-21 12:16:37",
-   "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用"
   }
  ],
  "links": {
@@ -996,6 +1013,9 @@
   "https://linux.do/t/topic/3167414": "1",
   "https://linux.do/t/topic/3167561": "1",
   "https://linux.do/t/topic/3167578": "1",
+  "https://linux.do/t/topic/3167653": "1",
+  "https://linux.do/t/topic/3167660": "1",
+  "https://linux.do/t/topic/3167682": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2386,6 +2406,7 @@
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
+  "linux.do-最新:4b2c4c53b6ae": "MLH 领取您的SpaceXAI促销代码",
   "linux.do-最新:5b65ae5e936c": "还有福利站可以去吗",
   "linux.do-最新:5f90a3e97b40": "为什么我的Codex有2000多美刀的额度？",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
@@ -2393,12 +2414,14 @@
   "linux.do-最新:78c0a879b340": "codex 旧推理 token 计算重复导致提前压缩",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
   "linux.do-最新:8b995958d407": "Claude Ultra订阅跑Fable一天用完了所有额度",
+  "linux.do-最新:8cf25233d4a6": "百度官方也弄中转站了（大模型交易平台词元所，日均调用Token超7000亿）",
   "linux.do-最新:8dc74ad9bb89": "gpt chat 和 work 合并的话 free 号额度会不会变高",
   "linux.do-最新:92735762d3a7": "腾讯服务器拼团，我已开团拼团成功送3个月时长",
   "linux.do-最新:971d9cab0ccb": "credit登录提示服务器错误，为哈啊",
   "linux.do-最新:9facdf61da7d": "gpt送的api额度你们一般用来干嘛",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
+  "linux.do-最新:b362af3f36cc": "怎么确定自己claude是否会封 一个免费的用到现在还正常 是不是冲pro就很大概率被封？（普通梯子环境）",
   "linux.do-最新:b5b29b5141b9": "现在个人用的token订阅, api管理啥的, 是不是magpie最好了",
   "linux.do-最新:bb734aaece1e": "感谢微软送来的macmini！",
   "linux.do-最新:bee74593f3c5": "关于Trial Pro目前无法使用Gemini-4-Hydrogen，反重力员工做出了后续逐步推送的承诺",
