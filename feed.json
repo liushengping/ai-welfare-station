@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "无上限",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "未知"
+   },
+   "d": "11-13 10:37",
+   "link": "https://linux.do/t/topic/3168359",
+   "t": "2026-11-13 02:39:42",
+   "title": "免费Token，无上限"
+  },
+  {
+   "ai": {
     "amount": "7天体验卡",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/94410",
    "t": "2026-10-25 02:49:26",
    "title": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)"
-  },
-  {
-   "ai": {
-    "amount": "5亿Tokens",
-    "deadline": "2026-10-25 23:59",
-    "start": "2026-10-23 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "智谱"
-   },
-   "d": "10-23 23:17",
-   "link": "https://meta.appinn.net/t/topic/94327",
-   "t": "2026-10-23 15:19:22",
-   "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。"
   }
  ]
 }

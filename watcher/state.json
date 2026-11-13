@@ -31,10 +31,40 @@
    "id": "linux.do-最新:afbee150a6d8",
    "link": "https://linux.do/t/topic/3167771",
    "title": "智谱的coding plan免费送【7天体验卡】"
+  },
+  {
+   "_age": 0.00030968961805555556,
+   "ai": {
+    "amount": "无上限",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "未知"
+   },
+   "date": "Fri, 13 Nov 2026 02:37:49 +0000",
+   "date_str": "11-13 10:37",
+   "id": "linux.do-最新:b8b285355a19",
+   "link": "https://linux.do/t/topic/3168359",
+   "title": "免费Token，无上限"
   }
  ],
  "digest_date": "2026-11-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "无上限",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "未知"
+   },
+   "d": "11-13 10:37",
+   "link": "https://linux.do/t/topic/3168359",
+   "t": "2026-11-13 02:39:42",
+   "title": "免费Token，无上限"
+  },
   {
    "ai": {
     "amount": "7天体验卡",
@@ -860,20 +890,6 @@
    "link": "https://meta.appinn.net/t/topic/94410",
    "t": "2026-10-25 02:49:26",
    "title": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)"
-  },
-  {
-   "ai": {
-    "amount": "5亿Tokens",
-    "deadline": "2026-10-25 23:59",
-    "start": "2026-10-23 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "智谱"
-   },
-   "d": "10-23 23:17",
-   "link": "https://meta.appinn.net/t/topic/94327",
-   "t": "2026-10-23 15:19:22",
-   "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。"
   }
  ],
  "links": {
@@ -1039,6 +1055,7 @@
   "https://linux.do/t/topic/3167865": "1",
   "https://linux.do/t/topic/3167954": "1",
   "https://linux.do/t/topic/3168128": "1",
+  "https://linux.do/t/topic/3168359": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2449,6 +2466,7 @@
   "linux.do-最新:afbee150a6d8": "智谱的coding plan免费送【7天体验卡】",
   "linux.do-最新:b362af3f36cc": "怎么确定自己claude是否会封 一个免费的用到现在还正常 是不是冲pro就很大概率被封？（普通梯子环境）",
   "linux.do-最新:b5b29b5141b9": "现在个人用的token订阅, api管理啥的, 是不是magpie最好了",
+  "linux.do-最新:b8b285355a19": "免费Token，无上限",
   "linux.do-最新:bb734aaece1e": "感谢微软送来的macmini！",
   "linux.do-最新:bee74593f3c5": "关于Trial Pro目前无法使用Gemini-4-Hydrogen，反重力员工做出了后续逐步推送的承诺",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
