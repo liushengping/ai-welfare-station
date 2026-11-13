@@ -15,10 +15,54 @@
    "id": "linux.do-最新:4b2c4c53b6ae",
    "link": "https://linux.do/t/topic/3167653",
    "title": "MLH 领取您的SpaceXAI促销代码"
+  },
+  {
+   "_age": 0.007641840046296297,
+   "ai": {
+    "amount": "7天体验卡",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 95,
+    "vendor": "智谱AI"
+   },
+   "date": "Fri, 13 Nov 2026 01:42:21 +0000",
+   "date_str": "11-13 09:42",
+   "id": "linux.do-最新:afbee150a6d8",
+   "link": "https://linux.do/t/topic/3167771",
+   "title": "智谱的coding plan免费送【7天体验卡】"
   }
  ],
  "digest_date": "2026-11-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "7天体验卡",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 95,
+    "vendor": "智谱AI"
+   },
+   "d": "11-13 09:42",
+   "link": "https://linux.do/t/topic/3167771",
+   "t": "2026-11-13 01:54:02",
+   "title": "智谱的coding plan免费送【7天体验卡】"
+  },
+  {
+   "ai": {
+    "amount": "Token重置",
+    "deadline": null,
+    "start": "2026-11-13 00:00",
+    "urgent": true,
+    "value": 90,
+    "vendor": "OpenAI"
+   },
+   "d": "11-13 09:48",
+   "link": "https://linux.do/t/topic/3167836",
+   "t": "2026-11-13 01:54:02",
+   "title": "11.13 Codex又送重置了?"
+  },
   {
    "ai": {
     "amount": "SpaceXAI促销代码",
@@ -830,34 +874,6 @@
    "link": "https://meta.appinn.net/t/topic/94327",
    "t": "2026-10-23 15:19:22",
    "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。"
-  },
-  {
-   "ai": {
-    "amount": "一周额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Argon"
-   },
-   "d": "10-23 17:46",
-   "link": "https://meta.appinn.net/t/topic/94303",
-   "t": "2026-10-23 09:55:19",
-   "title": "用一周的Argon额度更新了我的小工具"
-  },
-  {
-   "ai": {
-    "amount": "Token消耗降低超90%",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "蚂蚁数科"
-   },
-   "d": "10-22 18:12",
-   "link": "https://www.ithome.com/1/016/633.htm",
-   "t": "2026-10-22 10:21:59",
-   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
   }
  ],
  "links": {
@@ -1016,6 +1032,11 @@
   "https://linux.do/t/topic/3167653": "1",
   "https://linux.do/t/topic/3167660": "1",
   "https://linux.do/t/topic/3167682": "1",
+  "https://linux.do/t/topic/3167771": "1",
+  "https://linux.do/t/topic/3167776": "1",
+  "https://linux.do/t/topic/3167830": "1",
+  "https://linux.do/t/topic/3167836": "1",
+  "https://linux.do/t/topic/3167865": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2406,6 +2427,7 @@
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
+  "linux.do-最新:4267f44e8918": "Gemini 4 Carbon的消耗额度太快吧,你们的怎么样?",
   "linux.do-最新:4b2c4c53b6ae": "MLH 领取您的SpaceXAI促销代码",
   "linux.do-最新:5b65ae5e936c": "还有福利站可以去吗",
   "linux.do-最新:5f90a3e97b40": "为什么我的Codex有2000多美刀的额度？",
@@ -2421,6 +2443,7 @@
   "linux.do-最新:9facdf61da7d": "gpt送的api额度你们一般用来干嘛",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
+  "linux.do-最新:afbee150a6d8": "智谱的coding plan免费送【7天体验卡】",
   "linux.do-最新:b362af3f36cc": "怎么确定自己claude是否会封 一个免费的用到现在还正常 是不是冲pro就很大概率被封？（普通梯子环境）",
   "linux.do-最新:b5b29b5141b9": "现在个人用的token订阅, api管理啥的, 是不是magpie最好了",
   "linux.do-最新:bb734aaece1e": "感谢微软送来的macmini！",
@@ -2434,8 +2457,10 @@
   "linux.do-最新:da43cd61d09f": "claude 额度是不是大砍了",
   "linux.do-最新:ddd2bf705cdb": "Claude Desktop MCP占用token巨大？",
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
+  "linux.do-最新:e95566c41af1": "用Gemini 4 Hydrogen周额度消耗好快啊",
   "linux.do-最新:eec4010228e8": "注册了个muse 请问现在还能白嫖token吗",
   "linux.do-最新:f3f7661d85c5": "Gemini 20x活动结束了？下个月拼车时候可以涨价吗？哈哈哈",
+  "linux.do-最新:f4f9a749b59d": "11.13 Codex又送重置了?",
   "linux.do-最新:f5e9eb8f6a7a": "1024的活动OrcaTerm免费Pro会员到账了",
   "linux.do-最新:f6b0ddd3eeb9": "Google AI Ultra的额度这么多吗？",
   "linux.do-最新:f93193fc47a9": "WorkBuddy 美团优惠券是不是额度变低了",
@@ -2519,6 +2544,7 @@
   "linux.do-福利羊毛板块:ef0fde005c6f": "【富可敌国】PQH中转站｜GPT Pro 0.15x、CCMax 0.8x起，新用户可领$5体验额度｜支持Claude Code、Codex及多种模型统一接入，团队采购以及定制化服务可以进一步沟通。",
   "linux.do-福利羊毛板块:f4274f1787ca": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
+  "linux.do-福利羊毛板块:fb108f4393b0": "免费福利！每天白嫖 30GB 流量，还能用全球住宅 IP",
   "linux.do-福利羊毛板块:fbf667ebe31a": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！",
   "linux.do-福利羊毛板块:fc18b6ec7ced": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",

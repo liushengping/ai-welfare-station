@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "7天体验卡",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 95,
+    "vendor": "智谱AI"
+   },
+   "d": "11-13 09:42",
+   "link": "https://linux.do/t/topic/3167771",
+   "t": "2026-11-13 01:54:02",
+   "title": "智谱的coding plan免费送【7天体验卡】"
+  },
+  {
+   "ai": {
+    "amount": "Token重置",
+    "deadline": null,
+    "start": "2026-11-13 00:00",
+    "urgent": true,
+    "value": 90,
+    "vendor": "OpenAI"
+   },
+   "d": "11-13 09:48",
+   "link": "https://linux.do/t/topic/3167836",
+   "t": "2026-11-13 01:54:02",
+   "title": "11.13 Codex又送重置了?"
+  },
+  {
+   "ai": {
     "amount": "SpaceXAI促销代码",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/94327",
    "t": "2026-10-23 15:19:22",
    "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。"
-  },
-  {
-   "ai": {
-    "amount": "一周额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Argon"
-   },
-   "d": "10-23 17:46",
-   "link": "https://meta.appinn.net/t/topic/94303",
-   "t": "2026-10-23 09:55:19",
-   "title": "用一周的Argon额度更新了我的小工具"
-  },
-  {
-   "ai": {
-    "amount": "Token消耗降低超90%",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "蚂蚁数科"
-   },
-   "d": "10-22 18:12",
-   "link": "https://www.ithome.com/1/016/633.htm",
-   "t": "2026-10-22 10:21:59",
-   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%"
   }
  ]
 }
