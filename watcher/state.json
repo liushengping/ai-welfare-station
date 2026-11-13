@@ -47,10 +47,40 @@
    "id": "linux.do-最新:b8b285355a19",
    "link": "https://linux.do/t/topic/3168359",
    "title": "免费Token，无上限"
+  },
+  {
+   "_age": 0.003997679282407408,
+   "ai": {
+    "amount": "4核8GB云电脑",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "InstaBox"
+   },
+   "date": "Fri, 13 Nov 2026 06:42:07 +0000",
+   "date_str": "11-13 14:42",
+   "id": "小众软件论坛:069723a69676",
+   "link": "https://meta.appinn.net/t/topic/95849",
+   "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
   }
  ],
  "digest_date": "2026-11-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "4核8GB云电脑",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "InstaBox"
+   },
+   "d": "11-13 14:42",
+   "link": "https://meta.appinn.net/t/topic/95849",
+   "t": "2026-11-13 06:48:20",
+   "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
+  },
   {
    "ai": {
     "amount": "无上限",
@@ -876,20 +906,6 @@
    "link": "https://meta.appinn.net/t/topic/94540",
    "t": "2026-10-26 12:55:55",
    "title": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘"
-  },
-  {
-   "ai": {
-    "amount": "免费浏览器本地AI法线贴图与PBR材质生成器",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "NormalMapAI"
-   },
-   "d": "10-25 10:32",
-   "link": "https://meta.appinn.net/t/topic/94410",
-   "t": "2026-10-25 02:49:26",
-   "title": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)"
   }
  ],
  "links": {
@@ -1197,6 +1213,7 @@
   "https://meta.appinn.net/t/topic/95768": "1",
   "https://meta.appinn.net/t/topic/95771": "1",
   "https://meta.appinn.net/t/topic/95831": "1",
+  "https://meta.appinn.net/t/topic/95849": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -2574,6 +2591,7 @@
   "小众软件论坛:0080ca9844b6": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
   "小众软件论坛:0098bf0b84d6": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器",
   "小众软件论坛:05db84a1f1b3": "【开发者自荐】毛剪剪·MaoCut：Mac上的免费剪辑软件，用它已经剪了40期环中国游记",
+  "小众软件论坛:069723a69676": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent",
   "小众软件论坛:078560f55552": "云帆工具：80+ 款免费在线工具，文件全在浏览器本地处理，不上传服务器",
   "小众软件论坛:09ce36307dd9": "用一周的Argon额度更新了我的小工具",
   "小众软件论坛:0d132c4c7c1b": "10 款在 GitHub 发现的免费小工具[260919]",

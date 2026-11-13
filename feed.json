@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "4核8GB云电脑",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "InstaBox"
+   },
+   "d": "11-13 14:42",
+   "link": "https://meta.appinn.net/t/topic/95849",
+   "t": "2026-11-13 06:48:20",
+   "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
+  },
+  {
+   "ai": {
     "amount": "无上限",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/94540",
    "t": "2026-10-26 12:55:55",
    "title": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘"
-  },
-  {
-   "ai": {
-    "amount": "免费浏览器本地AI法线贴图与PBR材质生成器",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "NormalMapAI"
-   },
-   "d": "10-25 10:32",
-   "link": "https://meta.appinn.net/t/topic/94410",
-   "t": "2026-10-25 02:49:26",
-   "title": "NormalMapAI — 免费浏览器本地 AI 法线贴图与 PBR 材质生成器 (normalmapai.com)"
   }
  ]
 }
