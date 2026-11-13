@@ -1,152 +1,21 @@
 {
- "digest": [
-  {
-   "_age": 0.0027560253819444444,
-   "ai": {
-    "amount": "null",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "Little Mungbean"
-   },
-   "date": "Thu, 12 Nov 2026 06:18:17 +0000",
-   "date_str": "11-12 14:18",
-   "id": "小众软件论坛:192d895f69dd",
-   "link": "https://meta.appinn.net/t/topic/95771",
-   "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
-  },
-  {
-   "_age": 0.44425917650462965,
-   "ai": {
-    "amount": "1年会员",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "咪咕"
-   },
-   "date": "Thu, 12 Nov 2026 10:52:18 +0000",
-   "date_str": "11-12 18:52",
-   "id": "linux.do-福利羊毛板块:537382862c12",
-   "link": "https://linux.do/t/topic/3163279",
-   "title": "白嫖咪咕会员1年方法"
-  },
-  {
-   "_age": 0.7165624181597222,
-   "ai": {
-    "amount": "1年体验会员",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "咪咕音乐"
-   },
-   "date": "Thu, 12 Nov 2026 04:20:11 +0000",
-   "date_str": "11-12 12:20",
-   "id": "linux.do-福利羊毛板块:289d1b05610d",
-   "link": "https://linux.do/t/topic/3159959",
-   "title": "免费领取一年咪咕音乐天籁体验会员"
-  },
-  {
-   "_age": 0.19525454604166667,
-   "ai": {
-    "amount": "3元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "流光AI"
-   },
-   "date": "Thu, 12 Nov 2026 16:50:52 +0000",
-   "date_str": "11-13 00:50",
-   "id": "linux.do-福利羊毛板块:622bb00fc654",
-   "link": "https://linux.do/t/topic/3166317",
-   "title": "【富可敌国】【流光AI】11/13｜Kling V4 Flash、Gemini 4 Carbon 等上新，留 ID 送 3 元"
-  },
-  {
-   "_age": 0.5134605655092592,
-   "ai": {
-    "amount": "3.5元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "RelayRouter"
-   },
-   "date": "Thu, 12 Nov 2026 09:12:39 +0000",
-   "date_str": "11-12 17:12",
-   "id": "linux.do-福利羊毛板块:373f730ba31d",
-   "link": "https://linux.do/t/topic/3161908",
-   "title": "【RelayRouter】claude Opus 5.5 低至 1 折起、GPT-6 Astra 4 折｜ 旗舰模型价格表，新人留 ID 送 ¥3.5"
-  },
-  {
-   "_age": 0.5887962139930556,
-   "ai": {
-    "amount": "3美元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "富可敌国"
-   },
-   "date": "Thu, 12 Nov 2026 07:24:10 +0000",
-   "date_str": "11-12 15:24",
-   "id": "linux.do-福利羊毛板块:8252198ce764",
-   "link": "https://linux.do/t/topic/3160850",
-   "title": "【富可敌国】PQH｜CCMAX 0注入现签 1.75x，可蒸馏、可溯源、能给管理｜支持 Fable 5.2｜新用户留 ID 送 $3"
-  },
-  {
-   "_age": 0.6532290847106481,
-   "ai": {
-    "amount": "8.8折",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "LV中转"
-   },
-   "date": "Thu, 12 Nov 2026 05:51:23 +0000",
-   "date_str": "11-12 13:51",
-   "id": "linux.do-福利羊毛板块:a2bfff8c6f55",
-   "link": "https://linux.do/t/topic/3160301",
-   "title": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！"
-  },
-  {
-   "_age": 0.41633093564814816,
-   "ai": {
-    "amount": "20积分",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "链趣公益站"
-   },
-   "date": "Thu, 12 Nov 2026 11:32:31 +0000",
-   "date_str": "11-12 19:32",
-   "id": "linux.do-福利羊毛板块:e82cb0bdbaac",
-   "link": "https://linux.do/t/topic/3163653",
-   "title": "链趣公益站注册送20积分 每天签到10积分 L站登录方式在修复"
-  },
-  {
-   "_age": 0.003952817997685185,
-   "ai": {
-    "amount": "100块",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "腾讯"
-   },
-   "date": "Fri, 13 Nov 2026 00:19:28 +0000",
-   "date_str": "11-13 08:19",
-   "id": "linux.do-福利羊毛板块:d8aad624dfa1",
-   "link": "https://linux.do/t/topic/3167188",
-   "title": "腾讯突然上线智囊团，认证就送100块！"
-  }
- ],
- "digest_date": "2026-11-12",
+ "digest": [],
+ "digest_date": "2026-11-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费使用Gemini 4 Hydrogen",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Google"
+   },
+   "d": "11-13 09:02",
+   "link": "https://linux.do/t/topic/3167414",
+   "t": "2026-11-13 01:09:42",
+   "title": "aistudio 可以免费使用 Gemini 4 Hydrogen 了"
+  },
   {
    "ai": {
     "amount": "100块",
@@ -972,20 +841,6 @@
    "link": "https://www.ithome.com/1/016/099.htm",
    "t": "2026-10-21 12:16:37",
    "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用"
-  },
-  {
-   "ai": {
-    "amount": "一年AI助手",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "腾讯"
-   },
-   "d": "10-20 22:05",
-   "link": "https://meta.appinn.net/t/topic/94055",
-   "t": "2026-10-20 14:15:50",
-   "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用"
   }
  ],
  "links": {
@@ -1138,6 +993,7 @@
   "https://linux.do/t/topic/3167200": "1",
   "https://linux.do/t/topic/3167253": "1",
   "https://linux.do/t/topic/3167269": "1",
+  "https://linux.do/t/topic/3167414": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -1882,6 +1738,7 @@
   "https://www.ithome.com/1/026/385.htm": "1",
   "https://www.ithome.com/1/026/440.htm": "1",
   "https://www.ithome.com/1/026/446.htm": "1",
+  "https://www.ithome.com/1/026/476.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2298,6 +2155,7 @@
   "IT之家:ac36e6ad3ab3": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板",
   "IT之家:ac5bcb88452f": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起",
   "IT之家:acc9355990be": "Steam 喜加一：策略游戏《Save the Earth》转付费前免费领",
+  "IT之家:ae9963795d67": "苹果首款智能家庭中枢 HomeView 及新款 Apple TV 4K 上市，首批订单已送至澳新客户手中",
   "IT之家:afd2d80dfbcd": "谷歌向 Pixel 11 等手机推送安卓 17 QPR3 Beta 1，修复指纹解锁死机问题",
   "IT之家:affcc8f4df73": "海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求",
   "IT之家:b054b60cbe4c": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
@@ -2521,6 +2379,7 @@
   "linux.do-最新:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",
   "linux.do-最新:1fa600f4a8bf": "cline-pass 一个月额度蹬完，汇报一下用量给大家参考",
   "linux.do-最新:2c5fd93fbdb6": "Claude applepay 成功续费 额度没变",
+  "linux.do-最新:36a401da96cf": "aistudio 可以免费使用 Gemini 4 Hydrogen 了",
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
