@@ -2,6 +2,118 @@
  "items": [
   {
    "ai": {
+    "amount": "100M永久额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "哔哩公益站"
+   },
+   "d": "11-14 14:40",
+   "link": "https://linux.do/t/topic/3175540",
+   "t": "2026-11-14 17:35:12",
+   "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
+  },
+  {
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenLux"
+   },
+   "d": "11-15 00:41",
+   "link": "https://linux.do/t/topic/3177903",
+   "t": "2026-11-14 17:35:12",
+   "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
+  },
+  {
+   "ai": {
+    "amount": "ApiKey密钥",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "glm5.3"
+   },
+   "d": "11-14 23:14",
+   "link": "https://linux.do/t/topic/3177604",
+   "t": "2026-11-14 17:35:12",
+   "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
+  },
+  {
+   "ai": {
+    "amount": "token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "未知"
+   },
+   "d": "11-14 22:30",
+   "link": "https://linux.do/t/topic/3177450",
+   "t": "2026-11-14 17:35:12",
+   "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
+  },
+  {
+   "ai": {
+    "amount": "ApiKey密钥",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "deepseek-v4.1-flash"
+   },
+   "d": "11-14 21:56",
+   "link": "https://linux.do/t/topic/3177307",
+   "t": "2026-11-14 17:35:12",
+   "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
+  },
+  {
+   "ai": {
+    "amount": "Key",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "6Luna"
+   },
+   "d": "11-14 18:27",
+   "link": "https://linux.do/t/topic/3176441",
+   "t": "2026-11-14 17:35:12",
+   "title": "6Luna免费Key"
+  },
+  {
+   "ai": {
+    "amount": "不限量免费压测",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "6Luna"
+   },
+   "d": "11-14 18:12",
+   "link": "https://linux.do/t/topic/3176393",
+   "t": "2026-11-14 17:35:12",
+   "title": "【RelayFor】6Luna不限量，不降汁免费压测"
+  },
+  {
+   "ai": {
+    "amount": "多个模型免费",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 40,
+    "vendor": "numes.ai"
+   },
+   "d": "11-14 16:20",
+   "link": "https://linux.do/t/topic/3175992",
+   "t": "2026-11-14 17:35:12",
+   "title": "numes.ai多个模型限时免费（超级慢，分享给有能者用）"
+  },
+  {
+   "ai": {
     "amount": "50刀",
     "deadline": null,
     "start": null,
@@ -727,118 +839,6 @@
    "link": "https://www.ithome.com/1/024/826.htm",
    "t": "2026-11-10 06:51:15",
    "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件"
-  },
-  {
-   "ai": {
-    "amount": "积分翻倍",
-    "deadline": "2026-11-11 23:59",
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 70,
-    "vendor": "复旦"
-   },
-   "d": "11-10 14:46",
-   "link": "https://meta.appinn.net/t/topic/95604",
-   "t": "2026-11-10 06:51:15",
-   "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！"
-  },
-  {
-   "ai": {
-    "amount": "K-EXAONE 2.5 模型 API",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "LG AI 研究院"
-   },
-   "d": "11-09 10:39",
-   "link": "https://www.ithome.com/1/024/069.htm",
-   "t": "2026-11-09 04:09:45",
-   "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API"
-  },
-  {
-   "ai": {
-    "amount": "免费试用",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "DualTransfer"
-   },
-   "d": "11-09 07:13",
-   "link": "https://meta.appinn.net/t/topic/95505",
-   "t": "2026-11-09 04:09:45",
-   "title": "开发者自荐：让 Windows 和 Mac 上的 AI 接力干活，DualTransfer 免费试用"
-  },
-  {
-   "ai": {
-    "amount": "免费使用Firefly等软件，最长1年",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Adobe"
-   },
-   "d": "11-08 07:02",
-   "link": "https://www.ithome.com/1/023/835.htm",
-   "t": "2026-11-08 03:55:55",
-   "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年"
-  },
-  {
-   "ai": {
-    "amount": "取消5小时限制",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "豆包"
-   },
-   "d": "11-06 16:57",
-   "link": "https://www.ithome.com/1/023/414.htm",
-   "t": "2026-11-06 09:02:52",
-   "title": "豆包工作个人版取消 5 小时额度限制"
-  },
-  {
-   "ai": {
-    "amount": "20万+DeepSeek Tokens",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "NexusNote"
-   },
-   "d": "11-05 13:52",
-   "link": "https://meta.appinn.net/t/topic/95234",
-   "t": "2026-11-06 05:42:45",
-   "title": "【开发者自荐】NexusNote：免登录送20万+免费DeepSeek Tokens！AI驱动的轻量所见即所得全格式编辑器（兼容Typora/Obsidian）"
-  },
-  {
-   "ai": {
-    "amount": "Ling 3.2 Flash",
-    "deadline": "2026-11-19 23:59",
-    "start": "2026-11-06 00:00",
-    "urgent": true,
-    "value": 80,
-    "vendor": "百灵大模型"
-   },
-   "d": "11-06 08:00",
-   "link": "https://www.ithome.com/1/023/043.htm",
-   "t": "2026-11-06 00:01:13",
-   "title": "百灵大模型 Ling 3.2 Flash 发布：蚂蚁自测超越 Claude Opus 5，前两周限时免费"
-  },
-  {
-   "ai": {
-    "amount": "模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "SiliconFlow"
-   },
-   "d": "",
-   "link": "https://cloud.siliconflow.cn/models?types=to-image",
-   "t": "2026-11-03 09:34:30",
-   "title": "Models"
   }
  ]
 }

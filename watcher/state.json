@@ -31,10 +31,234 @@
    "id": "linux.do-福利羊毛板块:da81ef73387b",
    "link": "https://linux.do/t/topic/3174320",
    "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
+  },
+  {
+   "_age": 0.45347375690972225,
+   "ai": {
+    "amount": "100M永久额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "哔哩公益站"
+   },
+   "date": "Sat, 14 Nov 2026 06:40:44 +0000",
+   "date_str": "11-14 14:40",
+   "id": "linux.do-福利羊毛板块:a9d9406c4301",
+   "link": "https://linux.do/t/topic/3175540",
+   "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
+  },
+  {
+   "_age": 0.03645986619212963,
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenLux"
+   },
+   "date": "Sat, 14 Nov 2026 16:41:14 +0000",
+   "date_str": "11-15 00:41",
+   "id": "linux.do-福利羊毛板块:888d5ba5916a",
+   "link": "https://linux.do/t/topic/3177903",
+   "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
+  },
+  {
+   "_age": 0.09687653297453705,
+   "ai": {
+    "amount": "ApiKey密钥",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "glm5.3"
+   },
+   "date": "Sat, 14 Nov 2026 15:14:14 +0000",
+   "date_str": "11-14 23:14",
+   "id": "linux.do-福利羊毛板块:fca637387cd3",
+   "link": "https://linux.do/t/topic/3177604",
+   "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
+  },
+  {
+   "_age": 0.12717745912037037,
+   "ai": {
+    "amount": "token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "未知"
+   },
+   "date": "Sat, 14 Nov 2026 14:30:36 +0000",
+   "date_str": "11-14 22:30",
+   "id": "linux.do-福利羊毛板块:ddf14b766786",
+   "link": "https://linux.do/t/topic/3177450",
+   "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
+  },
+  {
+   "_age": 0.15113579256944443,
+   "ai": {
+    "amount": "ApiKey密钥",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "deepseek-v4.1-flash"
+   },
+   "date": "Sat, 14 Nov 2026 13:56:06 +0000",
+   "date_str": "11-14 21:56",
+   "id": "linux.do-福利羊毛板块:91f157db22ac",
+   "link": "https://linux.do/t/topic/3177307",
+   "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
+  },
+  {
+   "_age": 0.2958001447337963,
+   "ai": {
+    "amount": "Key",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "6Luna"
+   },
+   "date": "Sat, 14 Nov 2026 10:27:47 +0000",
+   "date_str": "11-14 18:27",
+   "id": "linux.do-福利羊毛板块:fe31c0bef072",
+   "link": "https://linux.do/t/topic/3176441",
+   "title": "6Luna免费Key"
+  },
+  {
+   "_age": 0.3062631078009259,
+   "ai": {
+    "amount": "不限量免费压测",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "6Luna"
+   },
+   "date": "Sat, 14 Nov 2026 10:12:43 +0000",
+   "date_str": "11-14 18:12",
+   "id": "linux.do-福利羊毛板块:af854df84f52",
+   "link": "https://linux.do/t/topic/3176393",
+   "title": "【RelayFor】6Luna不限量，不降汁免费压测"
   }
  ],
  "digest_date": "2026-11-14",
  "feed": [
+  {
+   "ai": {
+    "amount": "100M永久额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "哔哩公益站"
+   },
+   "d": "11-14 14:40",
+   "link": "https://linux.do/t/topic/3175540",
+   "t": "2026-11-14 17:35:12",
+   "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
+  },
+  {
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenLux"
+   },
+   "d": "11-15 00:41",
+   "link": "https://linux.do/t/topic/3177903",
+   "t": "2026-11-14 17:35:12",
+   "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
+  },
+  {
+   "ai": {
+    "amount": "ApiKey密钥",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "glm5.3"
+   },
+   "d": "11-14 23:14",
+   "link": "https://linux.do/t/topic/3177604",
+   "t": "2026-11-14 17:35:12",
+   "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
+  },
+  {
+   "ai": {
+    "amount": "token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "未知"
+   },
+   "d": "11-14 22:30",
+   "link": "https://linux.do/t/topic/3177450",
+   "t": "2026-11-14 17:35:12",
+   "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
+  },
+  {
+   "ai": {
+    "amount": "ApiKey密钥",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "deepseek-v4.1-flash"
+   },
+   "d": "11-14 21:56",
+   "link": "https://linux.do/t/topic/3177307",
+   "t": "2026-11-14 17:35:12",
+   "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
+  },
+  {
+   "ai": {
+    "amount": "Key",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "6Luna"
+   },
+   "d": "11-14 18:27",
+   "link": "https://linux.do/t/topic/3176441",
+   "t": "2026-11-14 17:35:12",
+   "title": "6Luna免费Key"
+  },
+  {
+   "ai": {
+    "amount": "不限量免费压测",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "6Luna"
+   },
+   "d": "11-14 18:12",
+   "link": "https://linux.do/t/topic/3176393",
+   "t": "2026-11-14 17:35:12",
+   "title": "【RelayFor】6Luna不限量，不降汁免费压测"
+  },
+  {
+   "ai": {
+    "amount": "多个模型免费",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 40,
+    "vendor": "numes.ai"
+   },
+   "d": "11-14 16:20",
+   "link": "https://linux.do/t/topic/3175992",
+   "t": "2026-11-14 17:35:12",
+   "title": "numes.ai多个模型限时免费（超级慢，分享给有能者用）"
+  },
   {
    "ai": {
     "amount": "50刀",
@@ -762,118 +986,6 @@
    "link": "https://www.ithome.com/1/024/826.htm",
    "t": "2026-11-10 06:51:15",
    "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件"
-  },
-  {
-   "ai": {
-    "amount": "积分翻倍",
-    "deadline": "2026-11-11 23:59",
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 70,
-    "vendor": "复旦"
-   },
-   "d": "11-10 14:46",
-   "link": "https://meta.appinn.net/t/topic/95604",
-   "t": "2026-11-10 06:51:15",
-   "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！"
-  },
-  {
-   "ai": {
-    "amount": "K-EXAONE 2.5 模型 API",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "LG AI 研究院"
-   },
-   "d": "11-09 10:39",
-   "link": "https://www.ithome.com/1/024/069.htm",
-   "t": "2026-11-09 04:09:45",
-   "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API"
-  },
-  {
-   "ai": {
-    "amount": "免费试用",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "DualTransfer"
-   },
-   "d": "11-09 07:13",
-   "link": "https://meta.appinn.net/t/topic/95505",
-   "t": "2026-11-09 04:09:45",
-   "title": "开发者自荐：让 Windows 和 Mac 上的 AI 接力干活，DualTransfer 免费试用"
-  },
-  {
-   "ai": {
-    "amount": "免费使用Firefly等软件，最长1年",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Adobe"
-   },
-   "d": "11-08 07:02",
-   "link": "https://www.ithome.com/1/023/835.htm",
-   "t": "2026-11-08 03:55:55",
-   "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年"
-  },
-  {
-   "ai": {
-    "amount": "取消5小时限制",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "豆包"
-   },
-   "d": "11-06 16:57",
-   "link": "https://www.ithome.com/1/023/414.htm",
-   "t": "2026-11-06 09:02:52",
-   "title": "豆包工作个人版取消 5 小时额度限制"
-  },
-  {
-   "ai": {
-    "amount": "20万+DeepSeek Tokens",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "NexusNote"
-   },
-   "d": "11-05 13:52",
-   "link": "https://meta.appinn.net/t/topic/95234",
-   "t": "2026-11-06 05:42:45",
-   "title": "【开发者自荐】NexusNote：免登录送20万+免费DeepSeek Tokens！AI驱动的轻量所见即所得全格式编辑器（兼容Typora/Obsidian）"
-  },
-  {
-   "ai": {
-    "amount": "Ling 3.2 Flash",
-    "deadline": "2026-11-19 23:59",
-    "start": "2026-11-06 00:00",
-    "urgent": true,
-    "value": 80,
-    "vendor": "百灵大模型"
-   },
-   "d": "11-06 08:00",
-   "link": "https://www.ithome.com/1/023/043.htm",
-   "t": "2026-11-06 00:01:13",
-   "title": "百灵大模型 Ling 3.2 Flash 发布：蚂蚁自测超越 Claude Opus 5，前两周限时免费"
-  },
-  {
-   "ai": {
-    "amount": "模型",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "SiliconFlow"
-   },
-   "d": "",
-   "link": "https://cloud.siliconflow.cn/models?types=to-image",
-   "t": "2026-11-03 09:34:30",
-   "title": "Models"
   }
  ],
  "links": {
@@ -1061,6 +1173,18 @@
   "https://linux.do/t/topic/3174153": "1",
   "https://linux.do/t/topic/3174154": "1",
   "https://linux.do/t/topic/3174320": "1",
+  "https://linux.do/t/topic/3175540": "1",
+  "https://linux.do/t/topic/3175893": "1",
+  "https://linux.do/t/topic/3175981": "1",
+  "https://linux.do/t/topic/3175992": "1",
+  "https://linux.do/t/topic/3176386": "1",
+  "https://linux.do/t/topic/3176393": "1",
+  "https://linux.do/t/topic/3176441": "1",
+  "https://linux.do/t/topic/3177307": "1",
+  "https://linux.do/t/topic/3177450": "1",
+  "https://linux.do/t/topic/3177529": "1",
+  "https://linux.do/t/topic/3177604": "1",
+  "https://linux.do/t/topic/3177903": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2557,6 +2681,7 @@
   "linux.do-福利羊毛板块:25331e4476ea": "AMD免费领10美元，可以完成任务获取更多的积分",
   "linux.do-福利羊毛板块:260d0f4be41d": "如果去香港开卡和券商可以薅很多羊毛",
   "linux.do-福利羊毛板块:289d1b05610d": "免费领取一年咪咕音乐天籁体验会员",
+  "linux.do-福利羊毛板块:2dd2044d4757": "天翼那个免费的云电脑有佬用过吗，好用吗",
   "linux.do-福利羊毛板块:2f66010774c9": "请问哪里有免费的千问大模型的 API 或者公益站呢？",
   "linux.do-福利羊毛板块:2f7f640d3264": "【LV中转】周五了，福利接着送：充值 8.8 折，10 元免费额度别漏领！周末快乐！",
   "linux.do-福利羊毛板块:352ca9e28b30": "deepseek api176元额度发不出来(已结束)",
@@ -2587,6 +2712,7 @@
   "linux.do-福利羊毛板块:762928512c48": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠",
   "linux.do-福利羊毛板块:78a7fec258e5": "zcode周末撒福利了",
   "linux.do-福利羊毛板块:7ba509712085": "【富可敌国】VelaMost双十一活动层层加码！佬友专属评论ID送$5，注册自动到账$2，加qq群再送$2！充100送100！快来薅羊毛！",
+  "linux.do-福利羊毛板块:7bd07492a5a8": "浙江中行手机银行小羊毛",
   "linux.do-福利羊毛板块:7c3ea048f3b9": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
   "linux.do-福利羊毛板块:8012c5aa1860": "cursor又送羊毛了？",
   "linux.do-福利羊毛板块:80cdd35bfb73": "快讯，智谱又发3亿token",
@@ -2594,16 +2720,23 @@
   "linux.do-福利羊毛板块:826bc7cba948": "佬友们平时更习惯怎么付款？支付方式征集｜Linux.do 新用户注册送 $10 Token",
   "linux.do-福利羊毛板块:82cf160c7843": "联通云 免费云桌面4C8G（1个月）、ECS 2C4G 50G 3M ¥11.11 6个月",
   "linux.do-福利羊毛板块:859131f4a9c4": "众安银行lv2拼团， anonaddy.com 域名群组认证免费领实体卡",
+  "linux.do-福利羊毛板块:86a4039773ef": "numes.ai多个模型限时免费（超级慢，分享给有能者用）",
+  "linux.do-福利羊毛板块:88471d57ed72": "numes.ai多个模型限时免费（很慢很慢经常503）",
+  "linux.do-福利羊毛板块:888d5ba5916a": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元",
   "linux.do-福利羊毛板块:89b57dd7fc94": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！",
   "linux.do-福利羊毛板块:8afa592fbe8e": "【富可敌国】【OpenLux】11/12｜Kling V4 Flash 等模型上新，留 ID 送 3.5 元",
   "linux.do-福利羊毛板块:8b369353b39c": "【富可敌国】嘀嘀嘀 AI 免费周卡可再领一次",
   "linux.do-福利羊毛板块:8db36adb111d": "【富可敌国】中转站VelaMost双十一钜惠！佬友注册即送$2 评论ID再送$5 加群再送$2！充50送50，充100送100！支持对公",
+  "linux.do-福利羊毛板块:91f157db22ac": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017",
+  "linux.do-福利羊毛板块:950d33cd6df6": "单单有edu.xx 的教育邮箱，可以薅什么羊毛？求推荐",
   "linux.do-福利羊毛板块:99dff8b437fc": "阿里云每月羊毛-上新了",
   "linux.do-福利羊毛板块:9e80572e3b86": "书生的是不是白嫖不了了，需要补充手机号才能激活每月 token",
   "linux.do-福利羊毛板块:a21e0f132441": "（已送出）有个家宽还有10来G流量，来个佬友帮测试下问题",
   "linux.do-福利羊毛板块:a2bfff8c6f55": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！",
   "linux.do-福利羊毛板块:a2da9d7002f9": "ZCode 又送3亿token了",
+  "linux.do-福利羊毛板块:a9d9406c4301": "【哔哩公益站】快来挖哔哩的矿，100M永久额度",
   "linux.do-福利羊毛板块:aa6b1310a404": "zcode刚刚突然推送周末3亿token，大家收到的可以领一波",
+  "linux.do-福利羊毛板块:af854df84f52": "【RelayFor】6Luna不限量，不降汁免费压测",
   "linux.do-福利羊毛板块:b02bf935dcd2": "【RelayFor】我免费辣",
   "linux.do-福利羊毛板块:b7ebe5ef9d90": "【富可敌国】CUN.AI 【限量200份｜首充低至3.55折】实充 $119 拿下 GPT‑6 / Claude Fable 5.1 的 $335 额度！新用户注册就送5.8刀！内附300张兑换码",
   "linux.do-福利羊毛板块:b86ccfe5dd8d": "cloudflare支持部署更大的 Worker——免费和付费方案均支持高达 64 MiB 的容量。",
@@ -2620,6 +2753,7 @@
   "linux.do-福利羊毛板块:d8aad624dfa1": "腾讯突然上线智囊团，认证就送100块！",
   "linux.do-福利羊毛板块:d915a73b3f4b": "【10:30 抢】继续送 gpt-astra",
   "linux.do-福利羊毛板块:da81ef73387b": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!",
+  "linux.do-福利羊毛板块:ddf14b766786": "第一次发福利羊毛，周六啦给佬友们准备了点token",
   "linux.do-福利羊毛板块:dea2fe1b042f": "【Moonup 双11】今日充值最高加赠 18.2%｜GPT 0.06 倍率｜抽 11 位各送 $50",
   "linux.do-福利羊毛板块:debd0491dfc4": "ZCodex 3亿token 23：00后可用",
   "linux.do-福利羊毛板块:dfdca9e369df": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！",
@@ -2637,7 +2771,9 @@
   "linux.do-福利羊毛板块:fb108f4393b0": "免费福利！每天白嫖 30GB 流量，还能用全球住宅 IP",
   "linux.do-福利羊毛板块:fbf667ebe31a": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！",
   "linux.do-福利羊毛板块:fc18b6ec7ced": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜",
+  "linux.do-福利羊毛板块:fca637387cd3": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥",
   "linux.do-福利羊毛板块:fcc8504d3f23": "华住会金卡2张送，再送两张，四张已无了",
+  "linux.do-福利羊毛板块:fe31c0bef072": "6Luna免费Key",
   "小众软件论坛:0080ca9844b6": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
   "小众软件论坛:0098bf0b84d6": "小绿豆 • Little Mungbean • 一个免费、开源、简单、轻量的 AI 网关管理器",
   "小众软件论坛:05db84a1f1b3": "【开发者自荐】毛剪剪·MaoCut：Mac上的免费剪辑软件，用它已经剪了40期环中国游记",
