@@ -207,10 +207,40 @@
    "id": "linux.do-福利羊毛板块:78a7fec258e5",
    "link": "https://linux.do/t/topic/3172568",
    "title": "zcode周末撒福利了"
+  },
+  {
+   "_age": 0.0018300605671296296,
+   "ai": {
+    "amount": "额度重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "Google"
+   },
+   "date": "Sat, 14 Nov 2026 00:02:48 +0000",
+   "date_str": "11-14 08:02",
+   "id": "linux.do-最新:c28c756d64d3",
+   "link": "https://linux.do/t/topic/3174095",
+   "title": "Antigravity 重置了Gemini的额度"
   }
  ],
  "digest_date": "2026-11-13",
  "feed": [
+  {
+   "ai": {
+    "amount": "额度重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 60,
+    "vendor": "Google"
+   },
+   "d": "11-14 08:02",
+   "link": "https://linux.do/t/topic/3174095",
+   "t": "2026-11-14 00:05:51",
+   "title": "Antigravity 重置了Gemini的额度"
+  },
   {
    "ai": {
     "amount": "1000刀",
@@ -1036,20 +1066,6 @@
    "link": "https://www.ithome.com/1/020/810.htm",
    "t": "2026-11-01 11:13:45",
    "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
-  },
-  {
-   "ai": {
-    "amount": "免费插件",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "旁白/Aside"
-   },
-   "d": "10-31 14:56",
-   "link": "https://meta.appinn.net/t/topic/94890",
-   "t": "2026-10-31 07:06:21",
-   "title": "【开源自荐】旁白/Aside：一款免费的浏览器插件，自选 AI 模型，在网页里翻译、解释和提问"
   }
  ],
  "links": {
@@ -1231,6 +1247,8 @@
   "https://linux.do/t/topic/3173964": "1",
   "https://linux.do/t/topic/3173972": "1",
   "https://linux.do/t/topic/3174005": "1",
+  "https://linux.do/t/topic/3174093": "1",
+  "https://linux.do/t/topic/3174095": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2666,9 +2684,11 @@
   "linux.do-最新:b362af3f36cc": "怎么确定自己claude是否会封 一个免费的用到现在还正常 是不是冲pro就很大概率被封？（普通梯子环境）",
   "linux.do-最新:b5b29b5141b9": "现在个人用的token订阅, api管理啥的, 是不是magpie最好了",
   "linux.do-最新:b8b285355a19": "免费Token，无上限",
+  "linux.do-最新:bb3c653a20df": "史上最幽默的重置，提前45分钟刷新额度的反重力",
   "linux.do-最新:bb734aaece1e": "感谢微软送来的macmini！",
   "linux.do-最新:bee74593f3c5": "关于Trial Pro目前无法使用Gemini-4-Hydrogen，反重力员工做出了后续逐步推送的承诺",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
+  "linux.do-最新:c28c756d64d3": "Antigravity 重置了Gemini的额度",
   "linux.do-最新:c33e815b1c41": "什么意思啊，这是给降额度了？",
   "linux.do-最新:c4945c1b40f5": "gpt pro 送100刀？",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
