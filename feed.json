@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费使用gemini 4 Hydrogen",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google"
+   },
+   "d": "11-15 04:31",
+   "link": "https://linux.do/t/topic/3178208",
+   "t": "2026-11-14 20:44:33",
+   "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
+  },
+  {
+   "ai": {
     "amount": "两次fable重置",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3153853",
    "t": "2026-11-11 04:14:46",
    "title": "【YesCode】双11团队套餐永久降价，订阅套餐折上加折，PayGo 折扣包限时开售。"
-  },
-  {
-   "ai": {
-    "amount": "额度免费重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Anthropic"
-   },
-   "d": "11-11 09:51",
-   "link": "https://www.ithome.com/1/025/292.htm",
-   "t": "2026-11-11 01:59:50",
-   "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展"
   }
  ]
 }

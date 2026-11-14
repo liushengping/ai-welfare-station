@@ -159,10 +159,40 @@
    "id": "linux.do-最新:98e1b602261d",
    "link": "https://linux.do/t/topic/3178207",
    "title": "Claude 合作超半年送两次fable重置"
+  },
+  {
+   "_age": 0.008414057847222222,
+   "ai": {
+    "amount": "免费使用gemini 4 Hydrogen",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google"
+   },
+   "date": "Sat, 14 Nov 2026 20:31:05 +0000",
+   "date_str": "11-15 04:31",
+   "id": "linux.do-福利羊毛板块:050872e74c76",
+   "link": "https://linux.do/t/topic/3178208",
+   "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
   }
  ],
  "digest_date": "2026-11-14",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费使用gemini 4 Hydrogen",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google"
+   },
+   "d": "11-15 04:31",
+   "link": "https://linux.do/t/topic/3178208",
+   "t": "2026-11-14 20:44:33",
+   "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
+  },
   {
    "ai": {
     "amount": "两次fable重置",
@@ -988,20 +1018,6 @@
    "link": "https://linux.do/t/topic/3153853",
    "t": "2026-11-11 04:14:46",
    "title": "【YesCode】双11团队套餐永久降价，订阅套餐折上加折，PayGo 折扣包限时开售。"
-  },
-  {
-   "ai": {
-    "amount": "额度免费重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "Anthropic"
-   },
-   "d": "11-11 09:51",
-   "link": "https://www.ithome.com/1/025/292.htm",
-   "t": "2026-11-11 01:59:50",
-   "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展"
   }
  ],
  "links": {
@@ -1205,6 +1221,7 @@
   "https://linux.do/t/topic/3178107": "1",
   "https://linux.do/t/topic/3178129": "1",
   "https://linux.do/t/topic/3178207": "1",
+  "https://linux.do/t/topic/3178208": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2689,6 +2706,7 @@
   "linux.do-最新:feea6761b2ba": "codex没使用额度消失？",
   "linux.do-最新:ff4b5822d6fb": "有人用过glm的重置卡吗？会推迟下次额度刷新时间吗？",
   "linux.do-福利羊毛板块:007728a2fe3c": "【福利继续0906】继续发tokens 已上架ldcstore，周日睡醒，评论区random抽几个再送额度吧",
+  "linux.do-福利羊毛板块:050872e74c76": "免费使用gemini 4 Hydrogen ，适合文本对话与分析",
   "linux.do-福利羊毛板块:07d64c5bde57": "telnyx注册送25刀 白嫖美国手机号接码 还有K3 GLM5.3",
   "linux.do-福利羊毛板块:09cb5f50a806": "说几个关于开通gemini 5x/20x ultra大家可能忽略的福利",
   "linux.do-福利羊毛板块:0a41761bc04d": "#【富可敌国 | orcai中转站】 重磅回归｜CCKiro & GPT 全线 0.5 倍率｜进群即送 $7",
