@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "两次fable重置",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Claude"
+   },
+   "d": "11-15 04:26",
+   "link": "https://linux.do/t/topic/3178207",
+   "t": "2026-11-14 20:29:06",
+   "title": "Claude 合作超半年送两次fable重置"
+  },
+  {
+   "ai": {
     "amount": "100M永久额度",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/025/292.htm",
    "t": "2026-11-11 01:59:50",
    "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展"
-  },
-  {
-   "ai": {
-    "amount": "现金或免费软件",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "微软"
-   },
-   "d": "11-10 14:43",
-   "link": "https://www.ithome.com/1/024/826.htm",
-   "t": "2026-11-10 06:51:15",
-   "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件"
   }
  ]
 }
