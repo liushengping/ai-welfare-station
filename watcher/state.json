@@ -15,10 +15,40 @@
    "id": "linux.do-福利羊毛板块:f624e680b09f",
    "link": "https://linux.do/t/topic/3174153",
    "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
+  },
+  {
+   "_age": 0.003292306608796296,
+   "ai": {
+    "amount": "50刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Arena API平台"
+   },
+   "date": "Sat, 14 Nov 2026 01:28:23 +0000",
+   "date_str": "11-14 09:28",
+   "id": "linux.do-福利羊毛板块:da81ef73387b",
+   "link": "https://linux.do/t/topic/3174320",
+   "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
   }
  ],
  "digest_date": "2026-11-14",
  "feed": [
+  {
+   "ai": {
+    "amount": "50刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Arena API平台"
+   },
+   "d": "11-14 09:28",
+   "link": "https://linux.do/t/topic/3174320",
+   "t": "2026-11-14 01:34:41",
+   "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
+  },
   {
    "ai": {
     "amount": "5美元/天",
@@ -844,20 +874,6 @@
    "link": "https://cloud.siliconflow.cn/models?types=to-image",
    "t": "2026-11-03 09:34:30",
    "title": "Models"
-  },
-  {
-   "ai": {
-    "amount": "Codex/ChatGPT Work额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenAI"
-   },
-   "d": "11-03 10:15",
-   "link": "https://www.ithome.com/1/021/343.htm",
-   "t": "2026-11-03 02:26:31",
-   "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
   }
  ],
  "links": {
@@ -1044,6 +1060,7 @@
   "https://linux.do/t/topic/3174114": "1",
   "https://linux.do/t/topic/3174153": "1",
   "https://linux.do/t/topic/3174154": "1",
+  "https://linux.do/t/topic/3174320": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -1802,6 +1819,8 @@
   "https://www.ithome.com/1/026/947.htm": "1",
   "https://www.ithome.com/1/026/955.htm": "1",
   "https://www.ithome.com/1/026/997.htm": "1",
+  "https://www.ithome.com/1/027/038.htm": "1",
+  "https://www.ithome.com/1/027/039.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2057,6 +2076,7 @@
   "IT之家:61827c6cf6b3": "Epic 喜加一：第一人称 3D 跑酷游戏《GetHigh.EXE》免费领",
   "IT之家:62586c553502": "一地叫停网约车“只送货不载人”，回应称并非一刀切禁止“四轮小件”货运",
   "IT之家:639ebb9eec1c": "把键盘做成传送带，谷歌 Gboard 日本团队一年一度的整活来了",
+  "IT之家:63cb8e9da140": "1 至 10 月全国铁路发送旅客 41.3 亿人次创历史同期新高，同比增长 4.7%",
   "IT之家:6472d87f4e1c": "《007：初露锋芒》免费 DLC“进阶行动”上线，带来更高难度模式等",
   "IT之家:650f81178516": "小米推出限时“0 息”购车权益，SU7 / YU7 现车可享“3 年 0 息”或“5 年分期 3 年 0 息”",
   "IT之家:6511faebb268": "送别“济公”！表演艺术家游本昌今晨去世，享年 93 岁",
@@ -2080,6 +2100,7 @@
   "IT之家:6eac672a478a": "创企 TakeMe2Space 将用 SpaceX 火箭送星上天，号称印度首颗轨道计算卫星",
   "IT之家:6eb9d1682c35": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
   "IT之家:6f22d3a47599": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+  "IT之家:6f7d2abdc84d": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
   "IT之家:6f98ba628510": "上汽大众 ID.ERA 8X 增程 SUV 上市，限时权益价 20.68 万元起",
   "IT之家:6fce914498b9": "启境 GX7 上市：华为七大汽车智能化解决方案加持，限时权益价 22.99 万-29.19 万元",
   "IT之家:7008a43be165": "《剑星》任天堂 Switch 2 免费试玩版已上线，正式版将加入帧生成开关",
@@ -2583,6 +2604,7 @@
   "linux.do-福利羊毛板块:d7dc9b11623f": "【富可敌国】GPT 承压期间的备用方案 | ZeroCat 国模限时直降 0.15x 起 | 评论国模免费用",
   "linux.do-福利羊毛板块:d8aad624dfa1": "腾讯突然上线智囊团，认证就送100块！",
   "linux.do-福利羊毛板块:d915a73b3f4b": "【10:30 抢】继续送 gpt-astra",
+  "linux.do-福利羊毛板块:da81ef73387b": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!",
   "linux.do-福利羊毛板块:dea2fe1b042f": "【Moonup 双11】今日充值最高加赠 18.2%｜GPT 0.06 倍率｜抽 11 位各送 $50",
   "linux.do-福利羊毛板块:debd0491dfc4": "ZCodex 3亿token 23：00后可用",
   "linux.do-福利羊毛板块:dfdca9e369df": "【富可敌国 】CUN.AI 算力补贴上线！每人每周最高 $18 补贴，让 Coding 多一份底气！L站账号注册就送3.8刀！",

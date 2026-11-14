@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "50刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Arena API平台"
+   },
+   "d": "11-14 09:28",
+   "link": "https://linux.do/t/topic/3174320",
+   "t": "2026-11-14 01:34:41",
+   "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
+  },
+  {
+   "ai": {
     "amount": "5美元/天",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://cloud.siliconflow.cn/models?types=to-image",
    "t": "2026-11-03 09:34:30",
    "title": "Models"
-  },
-  {
-   "ai": {
-    "amount": "Codex/ChatGPT Work额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenAI"
-   },
-   "d": "11-03 10:15",
-   "link": "https://www.ithome.com/1/021/343.htm",
-   "t": "2026-11-03 02:26:31",
-   "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
   }
  ]
 }
