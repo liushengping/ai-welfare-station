@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "5美元/天",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Anthropic"
+   },
+   "d": "11-14 08:25",
+   "link": "https://linux.do/t/topic/3174153",
+   "t": "2026-11-14 01:19:03",
+   "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
+  },
+  {
+   "ai": {
     "amount": "额度重置",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://www.ithome.com/1/021/343.htm",
    "t": "2026-11-03 02:26:31",
    "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
-  },
-  {
-   "ai": {
-    "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "Epic"
-   },
-   "d": "11-01 18:59",
-   "link": "https://www.ithome.com/1/020/810.htm",
-   "t": "2026-11-01 11:13:45",
-   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
   }
  ]
 }

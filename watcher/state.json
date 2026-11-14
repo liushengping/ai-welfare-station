@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.036255813321759256,
+   "ai": {
+    "amount": "5美元/天",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Anthropic"
+   },
+   "date": "Sat, 14 Nov 2026 00:25:49 +0000",
+   "date_str": "11-14 08:25",
+   "id": "linux.do-福利羊毛板块:f624e680b09f",
+   "link": "https://linux.do/t/topic/3174153",
+   "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
+  }
+ ],
  "digest_date": "2026-11-14",
  "feed": [
+  {
+   "ai": {
+    "amount": "5美元/天",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Anthropic"
+   },
+   "d": "11-14 08:25",
+   "link": "https://linux.do/t/topic/3174153",
+   "t": "2026-11-14 01:19:03",
+   "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
+  },
   {
    "ai": {
     "amount": "额度重置",
@@ -827,20 +858,6 @@
    "link": "https://www.ithome.com/1/021/343.htm",
    "t": "2026-11-03 02:26:31",
    "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
-  },
-  {
-   "ai": {
-    "amount": "益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "Epic"
-   },
-   "d": "11-01 18:59",
-   "link": "https://www.ithome.com/1/020/810.htm",
-   "t": "2026-11-01 11:13:45",
-   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领"
   }
  ],
  "links": {
@@ -1025,6 +1042,7 @@
   "https://linux.do/t/topic/3174093": "1",
   "https://linux.do/t/topic/3174095": "1",
   "https://linux.do/t/topic/3174114": "1",
+  "https://linux.do/t/topic/3174153": "1",
   "https://linux.do/t/topic/3174154": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
@@ -2578,6 +2596,7 @@
   "linux.do-福利羊毛板块:f4274f1787ca": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
   "linux.do-福利羊毛板块:f4b3d220ae6d": "muse免费白嫖资源一条龙",
+  "linux.do-福利羊毛板块:f624e680b09f": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】",
   "linux.do-福利羊毛板块:fb108f4393b0": "免费福利！每天白嫖 30GB 流量，还能用全球住宅 IP",
   "linux.do-福利羊毛板块:fbf667ebe31a": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！",
   "linux.do-福利羊毛板块:fc18b6ec7ced": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜",
