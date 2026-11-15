@@ -2,6 +2,62 @@
  "items": [
   {
    "ai": {
+    "amount": "大会员",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 10,
+    "vendor": "b站"
+   },
+   "d": "11-16 00:51",
+   "link": "https://linux.do/t/topic/3181817",
+   "t": "2026-11-15 19:02:18",
+   "title": "b站免费大会员限时领取"
+  },
+  {
+   "ai": {
+    "amount": "大会员",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 10,
+    "vendor": "b站"
+   },
+   "d": "11-15 14:05",
+   "link": "https://linux.do/t/topic/3179442",
+   "t": "2026-11-15 19:02:18",
+   "title": "BLG夺冠，B站送大会员啦"
+  },
+  {
+   "ai": {
+    "amount": "5 刀",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 5,
+    "vendor": "MoonUp API"
+   },
+   "d": "11-15 20:40",
+   "link": "https://linux.do/t/topic/3180912",
+   "t": "2026-11-15 19:02:18",
+   "title": "【MoonUp API】 AZ GPT 分组 6.2 模型已同步上线, 倍率0.8x。进群回帖送 5 刀，反馈再送 3 刀"
+  },
+  {
+   "ai": {
+    "amount": "deepseek search与fetch",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 5,
+    "vendor": "vercel"
+   },
+   "d": "11-15 13:47",
+   "link": "https://linux.do/t/topic/3179397",
+   "t": "2026-11-15 19:02:18",
+   "title": "vercel提供免费deepseek search与fetch"
+  },
+  {
+   "ai": {
     "amount": "7天大会员",
     "deadline": null,
     "start": null,
@@ -783,62 +839,6 @@
    "link": "https://linux.do/t/topic/3153303",
    "t": "2026-11-11 04:14:46",
    "title": "OpenCode又能免费玩长猫2.5了!"
-  },
-  {
-   "ai": {
-    "amount": "49元标准版 Plus 会员",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 60,
-    "vendor": "富可敌国"
-   },
-   "d": "11-11 10:24",
-   "link": "https://linux.do/t/topic/3153367",
-   "t": "2026-11-11 04:14:46",
-   "title": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。"
-  },
-  {
-   "ai": {
-    "amount": "Qwen Audio 系列多款音频模型 72 折",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 60,
-    "vendor": "快跑AI"
-   },
-   "d": "11-10 21:44",
-   "link": "https://linux.do/t/topic/3151806",
-   "t": "2026-11-11 04:14:46",
-   "title": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$"
-  },
-  {
-   "ai": {
-    "amount": "500M动态IP x5",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 50,
-    "vendor": "linux.do"
-   },
-   "d": "11-11 11:45",
-   "link": "https://linux.do/t/topic/3153984",
-   "t": "2026-11-11 04:14:46",
-   "title": "【福利】送五个500M动态IP测试，先到先得"
-  },
-  {
-   "ai": {
-    "amount": "Gemini 5x/20x福利",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Google"
-   },
-   "d": "11-10 17:10",
-   "link": "https://linux.do/t/topic/3150556",
-   "t": "2026-11-11 04:14:46",
-   "title": "说几个关于开通gemini 5x/20x ultra大家可能忽略的福利"
   }
  ]
 }
