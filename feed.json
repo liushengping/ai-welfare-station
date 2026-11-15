@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "几个账号",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Muse"
+   },
+   "d": "11-16 03:57",
+   "link": "https://linux.do/t/topic/3182017",
+   "t": "2026-11-15 20:00:09",
+   "title": "跟风送几个muse号"
+  },
+  {
+   "ai": {
     "amount": "大会员",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3153292",
    "t": "2026-11-11 04:14:46",
    "title": "【FastAIToken】双十一活动：GPT 低至 0.06 倍率 / 混元 5 折 / 充值加赠 双十一福利整理：GPT 0.06 倍率、混元 ¥0.15/M，顺便抽 10 个 ¥158 订阅 佬友们，FastAIToken 双十一活动细则都在这一帖，跑量的可以来看看"
-  },
-  {
-   "ai": {
-    "amount": "长猫2.5免费玩",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "OpenCode"
-   },
-   "d": "11-11 10:14",
-   "link": "https://linux.do/t/topic/3153303",
-   "t": "2026-11-11 04:14:46",
-   "title": "OpenCode又能免费玩长猫2.5了!"
   }
  ]
 }
