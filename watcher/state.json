@@ -1,184 +1,35 @@
 {
- "digest": [
-  {
-   "_age": 0.036255813321759256,
-   "ai": {
-    "amount": "5美元/天",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Anthropic"
-   },
-   "date": "Sat, 14 Nov 2026 00:25:49 +0000",
-   "date_str": "11-14 08:25",
-   "id": "linux.do-福利羊毛板块:f624e680b09f",
-   "link": "https://linux.do/t/topic/3174153",
-   "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
-  },
-  {
-   "_age": 0.003292306608796296,
-   "ai": {
-    "amount": "50刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Arena API平台"
-   },
-   "date": "Sat, 14 Nov 2026 01:28:23 +0000",
-   "date_str": "11-14 09:28",
-   "id": "linux.do-福利羊毛板块:da81ef73387b",
-   "link": "https://linux.do/t/topic/3174320",
-   "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
-  },
-  {
-   "_age": 0.45347375690972225,
-   "ai": {
-    "amount": "100M永久额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "哔哩公益站"
-   },
-   "date": "Sat, 14 Nov 2026 06:40:44 +0000",
-   "date_str": "11-14 14:40",
-   "id": "linux.do-福利羊毛板块:a9d9406c4301",
-   "link": "https://linux.do/t/topic/3175540",
-   "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
-  },
-  {
-   "_age": 0.03645986619212963,
-   "ai": {
-    "amount": "3.5元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenLux"
-   },
-   "date": "Sat, 14 Nov 2026 16:41:14 +0000",
-   "date_str": "11-15 00:41",
-   "id": "linux.do-福利羊毛板块:888d5ba5916a",
-   "link": "https://linux.do/t/topic/3177903",
-   "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
-  },
-  {
-   "_age": 0.09687653297453705,
-   "ai": {
-    "amount": "ApiKey密钥",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "glm5.3"
-   },
-   "date": "Sat, 14 Nov 2026 15:14:14 +0000",
-   "date_str": "11-14 23:14",
-   "id": "linux.do-福利羊毛板块:fca637387cd3",
-   "link": "https://linux.do/t/topic/3177604",
-   "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
-  },
-  {
-   "_age": 0.12717745912037037,
-   "ai": {
-    "amount": "token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "未知"
-   },
-   "date": "Sat, 14 Nov 2026 14:30:36 +0000",
-   "date_str": "11-14 22:30",
-   "id": "linux.do-福利羊毛板块:ddf14b766786",
-   "link": "https://linux.do/t/topic/3177450",
-   "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
-  },
-  {
-   "_age": 0.15113579256944443,
-   "ai": {
-    "amount": "ApiKey密钥",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "deepseek-v4.1-flash"
-   },
-   "date": "Sat, 14 Nov 2026 13:56:06 +0000",
-   "date_str": "11-14 21:56",
-   "id": "linux.do-福利羊毛板块:91f157db22ac",
-   "link": "https://linux.do/t/topic/3177307",
-   "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
-  },
-  {
-   "_age": 0.2958001447337963,
-   "ai": {
-    "amount": "Key",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "6Luna"
-   },
-   "date": "Sat, 14 Nov 2026 10:27:47 +0000",
-   "date_str": "11-14 18:27",
-   "id": "linux.do-福利羊毛板块:fe31c0bef072",
-   "link": "https://linux.do/t/topic/3176441",
-   "title": "6Luna免费Key"
-  },
-  {
-   "_age": 0.3062631078009259,
-   "ai": {
-    "amount": "不限量免费压测",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "6Luna"
-   },
-   "date": "Sat, 14 Nov 2026 10:12:43 +0000",
-   "date_str": "11-14 18:12",
-   "id": "linux.do-福利羊毛板块:af854df84f52",
-   "link": "https://linux.do/t/topic/3176393",
-   "title": "【RelayFor】6Luna不限量，不降汁免费压测"
-  },
-  {
-   "_age": 0.0011063237384259259,
-   "ai": {
-    "amount": "两次fable重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Claude"
-   },
-   "date": "Sat, 14 Nov 2026 20:26:23 +0000",
-   "date_str": "11-15 04:26",
-   "id": "linux.do-最新:98e1b602261d",
-   "link": "https://linux.do/t/topic/3178207",
-   "title": "Claude 合作超半年送两次fable重置"
-  },
-  {
-   "_age": 0.008414057847222222,
-   "ai": {
-    "amount": "免费使用gemini 4 Hydrogen",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 85,
-    "vendor": "Google"
-   },
-   "date": "Sat, 14 Nov 2026 20:31:05 +0000",
-   "date_str": "11-15 04:31",
-   "id": "linux.do-福利羊毛板块:050872e74c76",
-   "link": "https://linux.do/t/topic/3178208",
-   "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
-  }
- ],
- "digest_date": "2026-11-14",
+ "digest": [],
+ "digest_date": "2026-11-15",
  "feed": [
+  {
+   "ai": {
+    "amount": "7天大会员",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "B站"
+   },
+   "d": "11-15 11:07",
+   "link": "https://www.ithome.com/1/027/289.htm",
+   "t": "2026-11-15 04:25:18",
+   "title": "B站“BLG 夺冠时刻”赠送大会员活动细则公布：可领 7 天、每位用户限领一次"
+  },
+  {
+   "ai": {
+    "amount": "大会员",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "B站"
+   },
+   "d": "11-15 08:34",
+   "link": "https://www.ithome.com/1/027/260.htm",
+   "t": "2026-11-15 04:25:18",
+   "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠"
+  },
   {
    "ai": {
     "amount": "免费使用gemini 4 Hydrogen",
@@ -990,34 +841,6 @@
    "link": "https://linux.do/t/topic/3150556",
    "t": "2026-11-11 04:14:46",
    "title": "说几个关于开通gemini 5x/20x ultra大家可能忽略的福利"
-  },
-  {
-   "ai": {
-    "amount": "充值加赠 18.2%",
-    "deadline": null,
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 40,
-    "vendor": "Moonup"
-   },
-   "d": "11-11 10:28",
-   "link": "https://linux.do/t/topic/3153394",
-   "t": "2026-11-11 04:14:46",
-   "title": "【Moonup 双11】今日充值最高加赠 18.2%｜GPT 0.06 倍率｜抽 11 位各送 $50"
-  },
-  {
-   "ai": {
-    "amount": "订阅套餐折上加折",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 30,
-    "vendor": "YesCode"
-   },
-   "d": "11-11 11:29",
-   "link": "https://linux.do/t/topic/3153853",
-   "t": "2026-11-11 04:14:46",
-   "title": "【YesCode】双11团队套餐永久降价，订阅套餐折上加折，PayGo 折扣包限时开售。"
   }
  ],
  "links": {
@@ -1367,6 +1190,8 @@
   "https://meta.appinn.net/t/topic/95849": "1",
   "https://meta.appinn.net/t/topic/95871": "1",
   "https://meta.appinn.net/t/topic/95892": "1",
+  "https://meta.appinn.net/t/topic/95951": "1",
+  "https://meta.appinn.net/t/topic/95957": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -1384,6 +1209,7 @@
   "https://t.me/+B3cgJUBg05U3Yjc1": "1",
   "https://t.me/+PJ2kk5PsevUxMTc1": "1",
   "https://t.me/+PqtxS2kKSyRmMTc8": "1",
+  "https://t.me/+UzXXtQQdCKc0ODM9": "1",
   "https://t.me/+Yj41Jl-e1tkxZGZl": "1",
   "https://t.me/+czMN-VSki2NiMzU1": "1",
   "https://t.me/+hqfWob3W77U5OGQ0": "1",
@@ -1991,6 +1817,12 @@
   "https://www.ithome.com/1/027/179.htm": "1",
   "https://www.ithome.com/1/027/218.htm": "1",
   "https://www.ithome.com/1/027/239.htm": "1",
+  "https://www.ithome.com/1/027/256.htm": "1",
+  "https://www.ithome.com/1/027/260.htm": "1",
+  "https://www.ithome.com/1/027/262.htm": "1",
+  "https://www.ithome.com/1/027/269.htm": "1",
+  "https://www.ithome.com/1/027/289.htm": "1",
+  "https://www.ithome.com/1/027/298.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2094,6 +1926,7 @@
   "IT之家:1ca08deafd4d": "小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等",
   "IT之家:1cdd32062982": "1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低",
   "IT之家:1d70c3525088": "一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起",
+  "IT之家:1dfd615fa565": "微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗",
   "IT之家:1dfed294a047": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%",
   "IT之家:1e1eb60bf698": "定制全光谱灯珠：小米米家风扇灯 36 英寸国补后 366 元（初次免费安装）",
   "IT之家:1ed36f8d4f8b": "新增多地支持国补：华为 FreeClip 2 耳夹耳机 1299 → 978 元京东探底",
@@ -2131,6 +1964,7 @@
   "IT之家:2c891aa41fb5": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器...",
   "IT之家:2cc41b889be0": "启境 GX7 上市 18 小时大定 15,318 台：广汽携手华为乾崑打造，限时权益价 22.99 万起",
   "IT之家:2d7babe8eb9d": "利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑",
+  "IT之家:2f15bbb8147f": "日本制造商 Kyodo 推出 Myofree 护眼平板，号称能让 40cm 近距离观看等效 5m 远距离眺望",
   "IT之家:2f8437886a9d": "马斯克：明年向全美儿童赠送 SpaceX 股票",
   "IT之家:30e06f081221": "比亚迪李慧：腾势 N7 适配 DiLink 7.0 系统正在开发，预计 2027 年 Q1 季度推送",
   "IT之家:31129c5e3a27": "CDPR 兑现承诺：《巫师 3》卡带可无限次解锁任天堂 Switch 2 免费升级，借一张卡带就能领",
@@ -2331,6 +2165,7 @@
   "IT之家:836bf44e560a": "小米智能 4G 摄像机 3 发布：500 万像素、免费流量，众筹价 199 元",
   "IT之家:83850b945c07": "全球首款甲醇电混家轿吉利银河星耀 6 EF 发布：CLTC 综合续航最高 1880km，上市限时焕新价 7.68-9.68 万元",
   "IT之家:83d4e9f1d857": "10 月 5 日全国铁路预计发送旅客 2105 万人次，计划加开 1463 列",
+  "IT之家:84194b535e6a": "B站“BLG 夺冠时刻”赠送大会员活动细则公布：可领 7 天、每位用户限领一次",
   "IT之家:846189d8672f": "123 云盘新增专业空间：原空间更名为标准空间，老用户免费配额为 50GB + 2TB",
   "IT之家:85855301b61e": "《007 初露锋芒》官宣免费 DLC 明日上线",
   "IT之家:858ee673e8dd": "俄罗斯“进步 MS-35”货运飞船与国际空间站对接，将送去超 2.4 吨货物",
@@ -2400,6 +2235,7 @@
   "IT之家:a30a279076e4": "资金足够撑到明年底，美国造车新势力 Lucid 获最大股东 17.5 亿美元贷款额度",
   "IT之家:a31b66aa400a": "小米用户专属：Goodnotes 宣布可在小米平板限时领永久会员",
   "IT之家:a34497e4f9e6": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度",
+  "IT之家:a3ddec8c8ea2": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
   "IT之家:a40c0d414adc": "iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡",
   "IT之家:a554fd637bf1": "居然之家限时购：iPhone 18 Pro 天猫 9799 元 12 期免息",
   "IT之家:a5662ba89dff": "奕境 X9 在华为松山湖开启交付，限时优惠价 27.98 万元起",
@@ -2436,6 +2272,7 @@
   "IT之家:b1eefc8f91ca": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
   "IT之家:b202eb7135d5": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
   "IT之家:b2871c7e520f": "奕境 X9 正式上市：满配华为乾崑全栈智能，限时优惠价 27.98 万-35.98 万元",
+  "IT之家:b3816cfae1ec": "第 10 万辆岚图知音纯电 SUV 交付，2027 款本月上市限时权益价 19.79 万元",
   "IT之家:b3b15b410ea3": "比亚迪大唐首次 OTA 开启推送：新增生态智能体服务、路面预瞄等功能",
   "IT之家:b3d51bfa08e7": "全新吉利银河 E5 上市：全域 800V+6C 峰值倍率，限时先享价 9.78 万-13.78 万元",
   "IT之家:b420ad8a54aa": "《GTA 6》带火主机需求：PS5 Pro 日本卖断货，索尼开启抽签购买活动",
@@ -2604,6 +2441,7 @@
   "IT之家:fad9096434ee": "10 月 1 日全国铁路发送旅客 2520.4 万人次，创单日旅客发送量历史新高",
   "IT之家:faee9ce74347": "微软推送 Win11 26H1 十月累积更新 28000.3231：任务栏可四边贴靠",
   "IT之家:fafede3f222e": "烟威 1000 千伏特高压工程竣工投产，核电送往山东全省",
+  "IT之家:fb70902e8d0c": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
   "IT之家:fbd227efd7a0": "华为发布《智能世界 2035》最新报告，预测到 2035 年全球年度 Token 消耗量将增长 10 万倍",
   "IT之家:fbdc1df94342": "苏宁易购开启 2026 年度双 11 大促：提供“大家电保值换新”、“365 天只换不修”等主题活动",
   "IT之家:fc9391623ff0": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元",
@@ -2624,6 +2462,7 @@
   "OpenAI-news:db3d3bbb0683": "Work at the Frontier: AI’s effect on freelance work",
   "OpenAI-news:e1775d8d2e17": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
   "TG-白嫖分享社:0049fb63a988": "Cloudflare API Tokens",
+  "TG-白嫖分享社:029ff1e33a2b": "白嫖机场节点VPN免费分享频道",
   "TG-白嫖分享社:09d3add17eac": "SCP || 每日免费节点",
   "TG-白嫖分享社:178463c318fd": "山茶花の机场频道｜免费机场推荐",
   "TG-白嫖分享社:1d43429c9611": "🖼 🛍 想找一款高速又稳定的 VPN，趣连 VPN 会是很顺手的选择，免费体验，日常刷视频、上网、切换节点都很省心。支持多设备同时使用，连接更安全，解锁 Netf...",
@@ -2891,6 +2730,7 @@
   "小众软件论坛:8bbafa1ebbe9": "微软为 Mac 推出 Process Explorer：比活动监视器更强大的进程管理工具",
   "小众软件论坛:8c30e88f5703": "烧窑前必备：免费在线陶艺计算工具 Ceramics Practice Alliance",
   "小众软件论坛:8dbe31d2c295": "Epic 免费游戏 2026-11-13",
+  "小众软件论坛:8f510a9e50e0": "腾讯专家招募：认证送100-300元-提现秒到账",
   "小众软件论坛:8f5e9c6da8b9": "轻档PDF：免费的在线 PDF 工具，支持页面替换、合并和中文 OCR",
   "小众软件论坛:8fd7be1e0279": "【收集】你电脑里有没有一件\"每个月都要手动重复做一遍\"的操作？我挑几个场景写成免费小工具",
   "小众软件论坛:914d5908b230": "【经验分享】别当冤大头！我的每月 20 美元 AI 订阅搭配：一个主力打底，剩下 90% 任务全白嫖！",
@@ -2942,6 +2782,7 @@
   "小众软件论坛:db127155a7d1": "Mac 端安卓设备管理工具 AndroMeld 限时 8 折，仅需 28 元起！",
   "小众软件论坛:db40ff6e2abc": "【开发者自荐】Kontur：免费开源的项目看板，方便人与 AI 代理接续工作",
   "小众软件论坛:dcecfce768b7": "声迹 LocalScribe：免费的 Mac 本地音视频转文字与字幕工具",
+  "小众软件论坛:ddb1ada396ab": "TypeFree v3.5.1：懂潜台词、会端侧脱敏、自带 Rime 音形引擎的开源 Android AI 语音输入法 [GPL-3.0]",
   "小众软件论坛:dec77c57ed48": "【开发者自荐】Markiva：免费的 Windows 标签设计与条码/二维码打印工具",
   "小众软件论坛:e0428f1c0491": "Epic 免费游戏 2026-11-6",
   "小众软件论坛:e22fd408739c": "【开发者自荐】Flappy Car：点击喷气穿过星舰的免费网页小游戏",
