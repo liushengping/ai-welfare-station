@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "200积分",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "华为小艺"
+   },
+   "d": "11-16 09:53",
+   "link": "https://www.ithome.com/1/027/506.htm",
+   "t": "2026-11-16 04:38:02",
+   "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级"
+  },
+  {
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "轻舟文件"
+   },
+   "d": "11-16 08:40",
+   "link": "https://meta.appinn.net/t/topic/96016",
+   "t": "2026-11-16 04:38:02",
+   "title": "【开发者自荐】轻舟文件：免费 Mac 文件管理器，支持图片文件夹封面和双栏"
+  },
+  {
+   "ai": {
     "amount": "几个账号",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://linux.do/t/topic/3154037",
    "t": "2026-11-11 04:14:46",
    "title": "gpt pro100x送的100刀要不要领？会不会封号"
-  },
-  {
-   "ai": {
-    "amount": "Grok Premium 免费一个月",
-    "deadline": "2026-12-11 00:00",
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "mlh"
-   },
-   "d": "11-11 00:00",
-   "link": "https://linux.do/t/topic/3152335",
-   "t": "2026-11-11 04:14:46",
-   "title": "mlh联合Grok Premium 免费一个月"
-  },
-  {
-   "ai": {
-    "amount": "GPT 0.06 倍率",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 80,
-    "vendor": "FastAIToken"
-   },
-   "d": "11-11 10:13",
-   "link": "https://linux.do/t/topic/3153292",
-   "t": "2026-11-11 04:14:46",
-   "title": "【FastAIToken】双十一活动：GPT 低至 0.06 倍率 / 混元 5 折 / 充值加赠 双十一福利整理：GPT 0.06 倍率、混元 ¥0.15/M，顺便抽 10 个 ¥158 订阅 佬友们，FastAIToken 双十一活动细则都在这一帖，跑量的可以来看看"
   }
  ]
 }

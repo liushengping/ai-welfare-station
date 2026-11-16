@@ -1,40 +1,35 @@
 {
- "digest": [
+ "digest": [],
+ "digest_date": "2026-11-16",
+ "feed": [
   {
-   "_age": 0.5503523600347222,
    "ai": {
-    "amount": "deepseek search与fetch",
+    "amount": "200积分",
     "deadline": null,
     "start": null,
     "urgent": false,
-    "value": 5,
-    "vendor": "vercel"
+    "value": 80,
+    "vendor": "华为小艺"
    },
-   "date": "Sun, 15 Nov 2026 05:47:49 +0000",
-   "date_str": "11-15 13:47",
-   "id": "linux.do-福利羊毛板块:39f610c62424",
-   "link": "https://linux.do/t/topic/3179397",
-   "title": "vercel提供免费deepseek search与fetch"
+   "d": "11-16 09:53",
+   "link": "https://www.ithome.com/1/027/506.htm",
+   "t": "2026-11-16 04:38:02",
+   "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级"
   },
   {
-   "_age": 0.0012667212962962963,
    "ai": {
-    "amount": "几个账号",
+    "amount": "null",
     "deadline": null,
     "start": null,
     "urgent": false,
-    "value": 50,
-    "vendor": "Muse"
+    "value": 70,
+    "vendor": "轻舟文件"
    },
-   "date": "Sun, 15 Nov 2026 19:57:54 +0000",
-   "date_str": "11-16 03:57",
-   "id": "linux.do-福利羊毛板块:bad7a92192b3",
-   "link": "https://linux.do/t/topic/3182017",
-   "title": "跟风送几个muse号"
-  }
- ],
- "digest_date": "2026-11-15",
- "feed": [
+   "d": "11-16 08:40",
+   "link": "https://meta.appinn.net/t/topic/96016",
+   "t": "2026-11-16 04:38:02",
+   "title": "【开发者自荐】轻舟文件：免费 Mac 文件管理器，支持图片文件夹封面和双栏"
+  },
   {
    "ai": {
     "amount": "几个账号",
@@ -846,34 +841,6 @@
    "link": "https://linux.do/t/topic/3154037",
    "t": "2026-11-11 04:14:46",
    "title": "gpt pro100x送的100刀要不要领？会不会封号"
-  },
-  {
-   "ai": {
-    "amount": "Grok Premium 免费一个月",
-    "deadline": "2026-12-11 00:00",
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "mlh"
-   },
-   "d": "11-11 00:00",
-   "link": "https://linux.do/t/topic/3152335",
-   "t": "2026-11-11 04:14:46",
-   "title": "mlh联合Grok Premium 免费一个月"
-  },
-  {
-   "ai": {
-    "amount": "GPT 0.06 倍率",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 80,
-    "vendor": "FastAIToken"
-   },
-   "d": "11-11 10:13",
-   "link": "https://linux.do/t/topic/3153292",
-   "t": "2026-11-11 04:14:46",
-   "title": "【FastAIToken】双十一活动：GPT 低至 0.06 倍率 / 混元 5 折 / 充值加赠 双十一福利整理：GPT 0.06 倍率、混元 ¥0.15/M，顺便抽 10 个 ¥158 订阅 佬友们，FastAIToken 双十一活动细则都在这一帖，跑量的可以来看看"
   }
  ],
  "links": {
@@ -1245,6 +1212,7 @@
   "https://meta.appinn.net/t/topic/95957": "1",
   "https://meta.appinn.net/t/topic/95986": "1",
   "https://meta.appinn.net/t/topic/96010": "1",
+  "https://meta.appinn.net/t/topic/96016": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -1885,6 +1853,10 @@
   "https://www.ithome.com/1/027/468.htm": "1",
   "https://www.ithome.com/1/027/471.htm": "1",
   "https://www.ithome.com/1/027/474.htm": "1",
+  "https://www.ithome.com/1/027/487.htm": "1",
+  "https://www.ithome.com/1/027/506.htm": "1",
+  "https://www.ithome.com/1/027/533.htm": "1",
+  "https://www.ithome.com/1/027/597.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2119,6 +2091,7 @@
   "IT之家:523186061892": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
   "IT之家:5334c8d83774": "华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能上线时间公布，预计 10 月底分批推送",
   "IT之家:54266506e13e": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
+  "IT之家:543810006667": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
   "IT之家:54c97a8db418": "全国铁路今天预计发送旅客 1976 万人次、加开列车 2053 列",
   "IT之家:551a6708f4f9": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
   "IT之家:5580766395a6": "Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取",
@@ -2200,6 +2173,7 @@
   "IT之家:770faa576016": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
   "IT之家:77a5a615917a": "家电“免费安装”成文字游戏，消协揭露三大套路",
   "IT之家:782dcc42632e": "2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与",
+  "IT之家:789fe61b30df": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
   "IT之家:78b75ea7adc6": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
   "IT之家:7902d39f50f9": "华为 FreeClip 2 耳夹耳机潮玩拼色曝光，采用红黄蓝拼搭撞色设计",
   "IT之家:791fa03acc92": "1 至 8 月全国铁路发送旅客 33.2 亿人次：同比增长 3.9%，创历史同期新高",
@@ -2230,6 +2204,7 @@
   "IT之家:81f40030a665": "苹果向 AirPods 5 等耳机推送 Beta 固件 9B5042a",
   "IT之家:82e58e53c8c6": "谷歌 Pixel Watch 手表耗电过快，官方推送修复方案",
   "IT之家:82e8ebc033a9": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
+  "IT之家:831cdbadb723": "229 元小米智能 4G 摄像机 3 发布：中国电信联通双不限 4G 免费流量，500 万像素 3K 看护 + 双向实时语音",
   "IT之家:8341f68fba39": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
   "IT之家:836bf44e560a": "小米智能 4G 摄像机 3 发布：500 万像素、免费流量，众筹价 199 元",
   "IT之家:83850b945c07": "全球首款甲醇电混家轿吉利银河星耀 6 EF 发布：CLTC 综合续航最高 1880km，上市限时焕新价 7.68-9.68 万元",
@@ -2297,6 +2272,7 @@
   "IT之家:9f150053ad13": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
   "IT之家:9f30527df2ec": "古尔曼称苹果 10 月 27~28 日将举办 2026 最后一场活动，推出 iPad mini 8 和 3 款 Mac",
   "IT之家:9f44e60c2cef": "捷豹路虎提醒：警惕不法分子发送虚假车辆召回信息",
+  "IT之家:9f83c031171a": "算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限",
   "IT之家:9f9c42642b9b": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置",
   "IT之家:a14fbe2368cf": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
   "IT之家:a2834c6dfa92": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
@@ -2836,6 +2812,7 @@
   "小众软件论坛:a08f667d5162": "【开发者自荐】NexusNote：免登录送20万+免费DeepSeek Tokens！AI驱动的轻量所见即所得全格式编辑器（兼容Typora/Obsidian）",
   "小众软件论坛:a124c5d4405c": "cmdgif：用 npx 把短命令录成 GIF（免费开源，早期测试）",
   "小众软件论坛:a3a509bffc99": "【收集向】免费的 token 们",
+  "小众软件论坛:a4f0373c71b0": "【开发者自荐】轻舟文件：免费 Mac 文件管理器，支持图片文件夹封面和双栏",
   "小众软件论坛:a60f89275382": "【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了",
   "小众软件论坛:a815b6ef47f9": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
   "小众软件论坛:a838465674e9": "QuotaBar：在 Mac 菜单栏和刘海上看 Claude Code / Codex / Cursor 的额度还剩多少",
