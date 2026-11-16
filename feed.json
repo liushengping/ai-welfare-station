@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "5万个学术名额",
+    "deadline": null,
+    "start": "2026-11-23 00:00",
+    "urgent": true,
+    "value": 80,
+    "vendor": "OpenAI"
+   },
+   "d": "11-17 07:18",
+   "link": "https://www.ithome.com/1/028/027.htm",
+   "t": "2026-11-16 23:54:51",
+   "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，从抽签改为先到先得"
+  },
+  {
+   "ai": {
     "amount": "200积分",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3152067",
    "t": "2026-11-11 04:14:46",
    "title": "【双十一抽奖】拿出 600 美刀额度，请 22 位佬友用模型"
-  },
-  {
-   "ai": {
-    "amount": "100刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "OpenAI"
-   },
-   "d": "11-11 11:50",
-   "link": "https://linux.do/t/topic/3154037",
-   "t": "2026-11-11 04:14:46",
-   "title": "gpt pro100x送的100刀要不要领？会不会封号"
   }
  ]
 }
