@@ -2,6 +2,118 @@
  "items": [
   {
    "ai": {
+    "amount": "新人送6刀额度",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 95,
+    "vendor": "GPT/ClaudeCode/Codex"
+   },
+   "d": "11-17 11:40",
+   "link": "https://linux.do/t/topic/3189419",
+   "t": "2026-11-17 16:21:12",
+   "title": "杀疯了！满血GPT低至0.06倍率，缓存90%+，ClaudeCode / Codex稳定通道，新人送6刀额度！"
+  },
+  {
+   "ai": {
+    "amount": "6个月Antigravity Ultra",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google"
+   },
+   "d": "11-17 21:19",
+   "link": "https://linux.do/t/topic/3192752",
+   "t": "2026-11-17 16:21:12",
+   "title": "Google给Scientist送了6个月Antigravity Ultra"
+  },
+  {
+   "ai": {
+    "amount": "1亿token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "哔哩公益站"
+   },
+   "d": "11-17 19:25",
+   "link": "https://linux.do/t/topic/3192214",
+   "t": "2026-11-17 16:21:12",
+   "title": "【哔哩公益站】（试运行）快来挖哔哩的矿，总1亿token"
+  },
+  {
+   "ai": {
+    "amount": "45天",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Canva可画"
+   },
+   "d": "11-17 22:58",
+   "link": "https://linux.do/t/topic/3193276",
+   "t": "2026-11-17 16:21:12",
+   "title": "免费试用Canva可画高级版45天"
+  },
+  {
+   "ai": {
+    "amount": "免费使用权限",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "GPT"
+   },
+   "d": "11-17 09:43",
+   "link": "https://linux.do/t/topic/3188455",
+   "t": "2026-11-17 16:21:12",
+   "title": "GPT又有新羊毛？研究人员计划有免费使用权限"
+  },
+  {
+   "ai": {
+    "amount": "一级域名一年",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": ""
+   },
+   "d": "11-17 22:55",
+   "link": "https://linux.do/t/topic/3193251",
+   "t": "2026-11-17 16:21:12",
+   "title": "免费一级域名一年"
+  },
+  {
+   "ai": {
+    "amount": "3.5元额度",
+    "deadline": null,
+    "start": "2026-11-18 00:00",
+    "urgent": true,
+    "value": 65,
+    "vendor": "Vomni"
+   },
+   "d": "11-17 09:32",
+   "link": "https://linux.do/t/topic/3188376",
+   "t": "2026-11-17 16:21:12",
+   "title": "【Vomni】分享免费抠图，无水印不限次｜上新Claude Fable 5.2、Gemini 4 Carbon｜留 ID 送人民币3.5元额度"
+  },
+  {
+   "ai": {
+    "amount": "3元",
+    "deadline": null,
+    "start": "2026-11-17 00:00",
+    "urgent": true,
+    "value": 60,
+    "vendor": "流光AI"
+   },
+   "d": "11-17 22:25",
+   "link": "https://linux.do/t/topic/3193089",
+   "t": "2026-11-17 16:21:12",
+   "title": "【富可敌国】【流光AI】11/17｜混元 Hy4 Flash 上新，留 ID 送 3 元"
+  },
+  {
+   "ai": {
     "amount": "三个月小艺AI会员",
     "deadline": null,
     "start": null,
@@ -727,118 +839,6 @@
    "link": "https://linux.do/t/topic/3155759",
    "t": "2026-11-11 08:45:04",
    "title": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！"
-  },
-  {
-   "ai": {
-    "amount": "500 credit",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "qwen"
-   },
-   "d": "11-11 16:00",
-   "link": "https://linux.do/t/topic/3155773",
-   "t": "2026-11-11 08:45:04",
-   "title": "qwen code 1.x preview + qoder auth 可以领 500 credit"
-  },
-  {
-   "ai": {
-    "amount": "0.05兑换一刀",
-    "deadline": "2026-11-12 12:00",
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 80,
-    "vendor": "君の星辰"
-   },
-   "d": "11-11 15:54",
-   "link": "https://linux.do/t/topic/3155724",
-   "t": "2026-11-11 08:00:17",
-   "title": "君の星辰 双十一特价活动，gpt特惠降至0.05兑换一刀，持续到12日中午"
-  },
-  {
-   "ai": {
-    "amount": "0.08,10元免费额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "GPT"
-   },
-   "d": "11-11 15:28",
-   "link": "https://linux.do/t/topic/3155542",
-   "t": "2026-11-11 07:45:05",
-   "title": "【LV中转】双十一到了，GPT（不降智）0.08，10 元免费额度继续领！"
-  },
-  {
-   "ai": {
-    "amount": "¥3.5",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 80,
-    "vendor": "RelayRouter"
-   },
-   "d": "11-11 15:24",
-   "link": "https://linux.do/t/topic/3155514",
-   "t": "2026-11-11 07:30:00",
-   "title": "RelayRouter 双十一充值福利：最高省 7%，新人留 ID 领 ¥3.5 体验额度"
-  },
-  {
-   "ai": {
-    "amount": "动态流量",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "linux.do"
-   },
-   "d": "11-11 14:55",
-   "link": "https://linux.do/t/topic/3155230",
-   "t": "2026-11-11 06:59:31",
-   "title": "【福利】动态流量用不完，给大家免费送点"
-  },
-  {
-   "ai": {
-    "amount": "送3刀+首冲返50%",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 75,
-    "vendor": "NewCodex"
-   },
-   "d": "11-11 13:33",
-   "link": "https://linux.do/t/topic/3154567",
-   "t": "2026-11-11 05:43:35",
-   "title": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜"
-  },
-  {
-   "ai": {
-    "amount": "2体验额度",
-    "deadline": null,
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 80,
-    "vendor": "NEXA"
-   },
-   "d": "11-11 13:13",
-   "link": "https://linux.do/t/topic/3154480",
-   "t": "2026-11-11 05:28:41",
-   "title": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度"
-  },
-  {
-   "ai": {
-    "amount": "2G内存容器",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Uppcoder"
-   },
-   "d": "11-11 12:24",
-   "link": "https://linux.do/t/topic/3154236",
-   "t": "2026-11-11 04:29:46",
-   "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
   }
  ]
 }
