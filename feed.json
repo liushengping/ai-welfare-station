@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "1个月免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Google"
+   },
+   "d": "11-18 03:57",
+   "link": "https://linux.do/t/topic/3194123",
+   "t": "2026-11-17 20:12:56",
+   "title": "佬 ，白嫖 Google Ultra 1个月 需要用什么卡呢？"
+  },
+  {
+   "ai": {
     "amount": "Gemini Ultra 0元试用",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3163653",
    "t": "2026-11-12 21:33:44",
    "title": "链趣公益站注册送20积分 每天签到10积分 L站登录方式在修复"
-  },
-  {
-   "ai": {
-    "amount": "null",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "Little Mungbean"
-   },
-   "d": "11-12 14:18",
-   "link": "https://meta.appinn.net/t/topic/95771",
-   "t": "2026-11-12 06:23:48",
-   "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
   }
  ]
 }
