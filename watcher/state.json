@@ -95,10 +95,40 @@
    "id": "linux.do-最新:270bc5f51f28",
    "link": "https://linux.do/t/topic/3193716",
    "title": "gpt发放100刀的api额度"
+  },
+  {
+   "_age": 0.0007814616435185185,
+   "ai": {
+    "amount": "Gemini Ultra 0元试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Google"
+   },
+   "date": "Tue, 17 Nov 2026 17:03:26 +0000",
+   "date_str": "11-18 01:03",
+   "id": "linux.do-最新:acdab857c157",
+   "link": "https://linux.do/t/topic/3193809",
+   "title": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？"
   }
  ],
  "digest_date": "2026-11-17",
  "feed": [
+  {
+   "ai": {
+    "amount": "Gemini Ultra 0元试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Google"
+   },
+   "d": "11-18 01:03",
+   "link": "https://linux.do/t/topic/3193809",
+   "t": "2026-11-17 17:05:19",
+   "title": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？"
+  },
   {
    "ai": {
     "amount": "100刀",
@@ -924,20 +954,6 @@
    "link": "https://meta.appinn.net/t/topic/95771",
    "t": "2026-11-12 06:23:48",
    "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
-  },
-  {
-   "ai": {
-    "amount": "接入第三方模型及限时优惠",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "豆包"
-   },
-   "d": "11-12 11:34",
-   "link": "https://www.ithome.com/1/025/926.htm",
-   "t": "2026-11-12 05:24:45",
-   "title": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠"
   }
  ],
  "links": {
@@ -1178,6 +1194,7 @@
   "https://linux.do/t/topic/3193700": "1",
   "https://linux.do/t/topic/3193712": "1",
   "https://linux.do/t/topic/3193716": "1",
+  "https://linux.do/t/topic/3193809": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2723,6 +2740,7 @@
   "linux.do-最新:98e1b602261d": "Claude 合作超半年送两次fable重置",
   "linux.do-最新:9facdf61da7d": "gpt送的api额度你们一般用来干嘛",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
+  "linux.do-最新:acdab857c157": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？",
   "linux.do-最新:ad26ffdaf3e2": "现2026年11月。在还有什么可以白嫖gemini pro的方式吗？",
   "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
   "linux.do-最新:afbee150a6d8": "智谱的coding plan免费送【7天体验卡】",

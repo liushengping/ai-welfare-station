@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Gemini Ultra 0元试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Google"
+   },
+   "d": "11-18 01:03",
+   "link": "https://linux.do/t/topic/3193809",
+   "t": "2026-11-17 17:05:19",
+   "title": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？"
+  },
+  {
+   "ai": {
     "amount": "100刀",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/95771",
    "t": "2026-11-12 06:23:48",
    "title": "Little Mungbean 一个免费、开源、简单、轻量的 AI 网关管理器"
-  },
-  {
-   "ai": {
-    "amount": "接入第三方模型及限时优惠",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "豆包"
-   },
-   "d": "11-12 11:34",
-   "link": "https://www.ithome.com/1/025/926.htm",
-   "t": "2026-11-12 05:24:45",
-   "title": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠"
   }
  ]
 }
