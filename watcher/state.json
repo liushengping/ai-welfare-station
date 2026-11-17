@@ -79,10 +79,40 @@
    "id": "linux.do-福利羊毛板块:5f6cac5d99ca",
    "link": "https://linux.do/t/topic/3193251",
    "title": "免费一级域名一年"
+  },
+  {
+   "_age": 0.00973988675925926,
+   "ai": {
+    "amount": "100刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 95,
+    "vendor": "GPT"
+   },
+   "date": "Tue, 17 Nov 2026 16:36:03 +0000",
+   "date_str": "11-18 00:36",
+   "id": "linux.do-最新:270bc5f51f28",
+   "link": "https://linux.do/t/topic/3193716",
+   "title": "gpt发放100刀的api额度"
   }
  ],
  "digest_date": "2026-11-17",
  "feed": [
+  {
+   "ai": {
+    "amount": "100刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 95,
+    "vendor": "GPT"
+   },
+   "d": "11-18 00:36",
+   "link": "https://linux.do/t/topic/3193716",
+   "t": "2026-11-17 16:50:29",
+   "title": "gpt发放100刀的api额度"
+  },
   {
    "ai": {
     "amount": "新人送6刀额度",
@@ -908,20 +938,6 @@
    "link": "https://www.ithome.com/1/025/926.htm",
    "t": "2026-11-12 05:24:45",
    "title": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠"
-  },
-  {
-   "ai": {
-    "amount": "$2,000 美元",
-    "deadline": "2026-11-13 23:59",
-    "start": "2026-11-11 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "快跑 AI"
-   },
-   "d": "11-11 15:59",
-   "link": "https://linux.do/t/topic/3155759",
-   "t": "2026-11-11 08:45:04",
-   "title": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！"
   }
  ],
  "links": {
@@ -1161,6 +1177,7 @@
   "https://linux.do/t/topic/3193644": "1",
   "https://linux.do/t/topic/3193700": "1",
   "https://linux.do/t/topic/3193712": "1",
+  "https://linux.do/t/topic/3193716": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2677,6 +2694,7 @@
   "linux.do-最新:1a6f2f9bde64": "问下各位佬gpt订阅到期了里面的credit还能用高级模型吗？",
   "linux.do-最新:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",
   "linux.do-最新:1fa600f4a8bf": "cline-pass 一个月额度蹬完，汇报一下用量给大家参考",
+  "linux.do-最新:270bc5f51f28": "gpt发放100刀的api额度",
   "linux.do-最新:2a9b57ee5968": "现在还有什么白嫖token的渠道呢",
   "linux.do-最新:2bd21a58d836": "小红书 300块 包3000万token",
   "linux.do-最新:2c5fd93fbdb6": "Claude applepay 成功续费 额度没变",
