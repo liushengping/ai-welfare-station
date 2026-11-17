@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "200刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "OpenCode Go"
+   },
+   "d": "11-18 04:39",
+   "link": "https://linux.do/t/topic/3194142",
+   "t": "2026-11-17 20:41:32",
+   "title": "opencode go 10刀的GLM5.3额度提升到 200刀, 和 glm coding plan lite 哪个更香"
+  },
+  {
+   "ai": {
     "amount": "1个月免费",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3160301",
    "t": "2026-11-12 21:33:44",
    "title": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！"
-  },
-  {
-   "ai": {
-    "amount": "20积分",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "链趣公益站"
-   },
-   "d": "11-12 19:32",
-   "link": "https://linux.do/t/topic/3163653",
-   "t": "2026-11-12 21:33:44",
-   "title": "链趣公益站注册送20积分 每天签到10积分 L站登录方式在修复"
   }
  ]
 }

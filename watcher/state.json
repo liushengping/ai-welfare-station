@@ -127,10 +127,40 @@
    "id": "linux.do-最新:155870625fcc",
    "link": "https://linux.do/t/topic/3194123",
    "title": "佬 ，白嫖 Google Ultra 1个月 需要用什么卡呢？"
+  },
+  {
+   "_age": 0.0010441486574074073,
+   "ai": {
+    "amount": "200刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "OpenCode Go"
+   },
+   "date": "Tue, 17 Nov 2026 20:39:43 +0000",
+   "date_str": "11-18 04:39",
+   "id": "linux.do-最新:a84d11b88a91",
+   "link": "https://linux.do/t/topic/3194142",
+   "title": "opencode go 10刀的GLM5.3额度提升到 200刀, 和 glm coding plan lite 哪个更香"
   }
  ],
  "digest_date": "2026-11-17",
  "feed": [
+  {
+   "ai": {
+    "amount": "200刀",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "OpenCode Go"
+   },
+   "d": "11-18 04:39",
+   "link": "https://linux.do/t/topic/3194142",
+   "t": "2026-11-17 20:41:32",
+   "title": "opencode go 10刀的GLM5.3额度提升到 200刀, 和 glm coding plan lite 哪个更香"
+  },
   {
    "ai": {
     "amount": "1个月免费",
@@ -956,20 +986,6 @@
    "link": "https://linux.do/t/topic/3160301",
    "t": "2026-11-12 21:33:44",
    "title": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！"
-  },
-  {
-   "ai": {
-    "amount": "20积分",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "链趣公益站"
-   },
-   "d": "11-12 19:32",
-   "link": "https://linux.do/t/topic/3163653",
-   "t": "2026-11-12 21:33:44",
-   "title": "链趣公益站注册送20积分 每天签到10积分 L站登录方式在修复"
   }
  ],
  "links": {
@@ -1216,6 +1232,7 @@
   "https://linux.do/t/topic/3194080": "1",
   "https://linux.do/t/topic/3194111": "1",
   "https://linux.do/t/topic/3194123": "1",
+  "https://linux.do/t/topic/3194142": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2764,6 +2781,7 @@
   "linux.do-最新:98e1b602261d": "Claude 合作超半年送两次fable重置",
   "linux.do-最新:9facdf61da7d": "gpt送的api额度你们一般用来干嘛",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
+  "linux.do-最新:a84d11b88a91": "opencode go 10刀的GLM5.3额度提升到 200刀, 和 glm coding plan lite 哪个更香",
   "linux.do-最新:acdab857c157": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？",
   "linux.do-最新:ad26ffdaf3e2": "现2026年11月。在还有什么可以白嫖gemini pro的方式吗？",
   "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
