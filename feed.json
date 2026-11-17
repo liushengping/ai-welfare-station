@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "三个月小艺AI会员",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "华为"
+   },
+   "d": "11-17 14:50",
+   "link": "https://www.ithome.com/1/028/253.htm",
+   "t": "2026-11-17 07:04:50",
+   "title": "华为 MateBook 鸿蒙电脑“鸿蒙有礼”权益上新，可免费领三个月标准版小艺 AI 会员"
+  },
+  {
+   "ai": {
     "amount": "5万个学术名额",
     "deadline": null,
     "start": "2026-11-23 00:00",
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3154236",
    "t": "2026-11-11 04:29:46",
    "title": "2G 内存免费容器 Uppcoder，不绑卡，常驻不休眠"
-  },
-  {
-   "ai": {
-    "amount": "600 美刀额度",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 100,
-    "vendor": ""
-   },
-   "d": "11-10 22:54",
-   "link": "https://linux.do/t/topic/3152067",
-   "t": "2026-11-11 04:14:46",
-   "title": "【双十一抽奖】拿出 600 美刀额度，请 22 位佬友用模型"
   }
  ]
 }
