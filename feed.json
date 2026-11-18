@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "搜索/抓取免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "DeepSeek"
+   },
+   "d": "11-18 20:33",
+   "link": "https://www.ithome.com/1/029/058.htm",
+   "t": "2026-11-18 14:57:46",
+   "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费"
+  },
+  {
+   "ai": {
     "amount": "null",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3166317",
    "t": "2026-11-12 21:33:44",
    "title": "【富可敌国】【流光AI】11/13｜Kling V4 Flash、Gemini 4 Carbon 等上新，留 ID 送 3 元"
-  },
-  {
-   "ai": {
-    "amount": "3.5元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "RelayRouter"
-   },
-   "d": "11-12 17:12",
-   "link": "https://linux.do/t/topic/3161908",
-   "t": "2026-11-12 21:33:44",
-   "title": "【RelayRouter】claude Opus 5.5 低至 1 折起、GPT-6 Astra 4 折｜ 旗舰模型价格表，新人留 ID 送 ¥3.5"
   }
  ]
 }
