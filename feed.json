@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "AI 手搓动画短片"
+   },
+   "d": "11-18 11:19",
+   "link": "https://www.ithome.com/1/028/689.htm",
+   "t": "2026-11-18 05:35:14",
+   "title": "“童话大王”郑渊洁停更 2 年后发声：用 AI 手搓动画短片开放免费观看，祝贺 00 后赶上知识平权好时代"
+  },
+  {
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Bazi Diff"
+   },
+   "d": "11-18 07:27",
+   "link": "https://meta.appinn.net/t/topic/96226",
+   "t": "2026-11-18 05:35:14",
+   "title": "〖开发者自荐〗Bazi Diff 免费八字排盘，征集试用反馈"
+  },
+  {
+   "ai": {
     "amount": "200刀",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://linux.do/t/topic/3161908",
    "t": "2026-11-12 21:33:44",
    "title": "【RelayRouter】claude Opus 5.5 低至 1 折起、GPT-6 Astra 4 折｜ 旗舰模型价格表，新人留 ID 送 ¥3.5"
-  },
-  {
-   "ai": {
-    "amount": "3美元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "富可敌国"
-   },
-   "d": "11-12 15:24",
-   "link": "https://linux.do/t/topic/3160850",
-   "t": "2026-11-12 21:33:44",
-   "title": "【富可敌国】PQH｜CCMAX 0注入现签 1.75x，可蒸馏、可溯源、能给管理｜支持 Fable 5.2｜新用户留 ID 送 $3"
-  },
-  {
-   "ai": {
-    "amount": "8.8折",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "LV中转"
-   },
-   "d": "11-12 13:51",
-   "link": "https://linux.do/t/topic/3160301",
-   "t": "2026-11-12 21:33:44",
-   "title": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！"
   }
  ]
 }
