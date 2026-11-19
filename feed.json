@@ -2,6 +2,76 @@
  "items": [
   {
    "ai": {
+    "amount": "MiniMax H3 视频生成",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Envato"
+   },
+   "d": "11-19 17:24",
+   "link": "https://linux.do/t/topic/3204368",
+   "t": "2026-11-19 22:44:44",
+   "title": "Envato 官方限免活动，免费账号也可以参加，活动期间开放 MiniMax H3 视频生成，不需要购买 Envato 订阅。"
+  },
+  {
+   "ai": {
+    "amount": "1个月max会员",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 85,
+    "vendor": "Devin"
+   },
+   "d": "11-19 16:03",
+   "link": "https://linux.do/t/topic/3203672",
+   "t": "2026-11-19 22:44:44",
+   "title": "Devin max 轮椅攻略，按顺序来就可以领取到1个月max会员"
+  },
+  {
+   "ai": {
+    "amount": "2000刀key",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "d": "11-20 02:46",
+   "link": "https://linux.do/t/topic/3207004",
+   "t": "2026-11-19 22:44:44",
+   "title": "深夜福利2000刀key，可以用模型gpt"
+  },
+  {
+   "ai": {
+    "amount": "$3",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "PQH"
+   },
+   "d": "11-19 15:17",
+   "link": "https://linux.do/t/topic/3203287",
+   "t": "2026-11-19 22:44:44",
+   "title": "【富可敌国】PQH｜CCMAX 0注入现签 1.75x，可蒸馏、可溯源、能给管理｜Gemini 4 Hydrogen、Neon 上新｜新用户留 ID 送 $3"
+  },
+  {
+   "ai": {
+    "amount": "注册送2 评论id送5 进群再送2",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 70,
+    "vendor": "linux.do"
+   },
+   "d": "11-19 15:01",
+   "link": "https://linux.do/t/topic/3203119",
+   "t": "2026-11-19 22:44:44",
+   "title": "首字全绿 不要命了啊？注册送2 评论id送5 进群再送2！"
+  },
+  {
+   "ai": {
     "amount": "搜索/抓取免费",
     "deadline": null,
     "start": null,
@@ -769,76 +839,6 @@
    "link": "https://linux.do/t/topic/3167414",
    "t": "2026-11-13 01:09:42",
    "title": "aistudio 可以免费使用 Gemini 4 Hydrogen 了"
-  },
-  {
-   "ai": {
-    "amount": "100块",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 100,
-    "vendor": "腾讯"
-   },
-   "d": "11-13 08:19",
-   "link": "https://linux.do/t/topic/3167188",
-   "t": "2026-11-13 00:26:09",
-   "title": "腾讯突然上线智囊团，认证就送100块！"
-  },
-  {
-   "ai": {
-    "amount": "1年会员",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "咪咕"
-   },
-   "d": "11-12 18:52",
-   "link": "https://linux.do/t/topic/3163279",
-   "t": "2026-11-12 21:33:44",
-   "title": "白嫖咪咕会员1年方法"
-  },
-  {
-   "ai": {
-    "amount": "1年体验会员",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "咪咕音乐"
-   },
-   "d": "11-12 12:20",
-   "link": "https://linux.do/t/topic/3159959",
-   "t": "2026-11-12 21:33:44",
-   "title": "免费领取一年咪咕音乐天籁体验会员"
-  },
-  {
-   "ai": {
-    "amount": "$5-$10",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 85,
-    "vendor": "富可敌国"
-   },
-   "d": "11-12 11:22",
-   "link": "https://linux.do/t/topic/3159606",
-   "t": "2026-11-12 21:33:44",
-   "title": "【富可敌国】VelaMost双十一活动层层加码！佬友专属评论ID送$5，注册自动到账$2，加qq群再送$2！充100送100！快来薅羊毛！"
-  },
-  {
-   "ai": {
-    "amount": "3元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "流光AI"
-   },
-   "d": "11-13 00:50",
-   "link": "https://linux.do/t/topic/3166317",
-   "t": "2026-11-12 21:33:44",
-   "title": "【富可敌国】【流光AI】11/13｜Kling V4 Flash、Gemini 4 Carbon 等上新，留 ID 送 3 元"
   }
  ]
 }
