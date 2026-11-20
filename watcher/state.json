@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.0049118708449074075,
+   "ai": {
+    "amount": "3个月",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google/Gemini"
+   },
+   "date": "Fri, 20 Nov 2026 01:32:12 +0000",
+   "date_str": "11-20 09:32",
+   "id": "linux.do-福利羊毛板块:64583cfeb1a3",
+   "link": "https://linux.do/t/topic/3207526",
+   "title": "我搞到了一个免费白嫖三个月的gemini的机器人"
+  }
+ ],
  "digest_date": "2026-11-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "3个月",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google/Gemini"
+   },
+   "d": "11-20 09:32",
+   "link": "https://linux.do/t/topic/3207526",
+   "t": "2026-11-20 01:39:40",
+   "title": "我搞到了一个免费白嫖三个月的gemini的机器人"
+  },
   {
    "ai": {
     "amount": "最高6秒",
@@ -827,20 +858,6 @@
    "link": "https://meta.appinn.net/t/topic/95849",
    "t": "2026-11-13 06:48:20",
    "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
-  },
-  {
-   "ai": {
-    "amount": "无上限",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "未知"
-   },
-   "d": "11-13 10:37",
-   "link": "https://linux.do/t/topic/3168359",
-   "t": "2026-11-13 02:39:42",
-   "title": "免费Token，无上限"
   }
  ],
  "links": {
@@ -1104,6 +1121,8 @@
   "https://linux.do/t/topic/3207352": "1",
   "https://linux.do/t/topic/3207373": "1",
   "https://linux.do/t/topic/3207457": "1",
+  "https://linux.do/t/topic/3207508": "1",
+  "https://linux.do/t/topic/3207526": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2670,6 +2689,7 @@
   "linux.do-最新:41854aa7724c": "刚配置了两个账号到cpa,还没开始用，额度就没了。",
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
   "linux.do-最新:4267f44e8918": "Gemini 4 Carbon的消耗额度太快吧,你们的怎么样?",
+  "linux.do-最新:457dee01ff73": "现在Gemini 还有什么优惠或者羊毛渠道吗",
   "linux.do-最新:4b2c4c53b6ae": "MLH 领取您的SpaceXAI促销代码",
   "linux.do-最新:4e5075596b9f": "长期使用GPT，培养了及时复盘和测试的习惯，我称之为GPT降智送给我的礼物",
   "linux.do-最新:512b504c5a45": "哈基米5x，使用carbon的token用量是多少",
@@ -2788,6 +2808,7 @@
   "linux.do-福利羊毛板块:622bb00fc654": "【富可敌国】【流光AI】11/13｜Kling V4 Flash、Gemini 4 Carbon 等上新，留 ID 送 3 元",
   "linux.do-福利羊毛板块:62589afd374e": "Devin max 轮椅攻略，按顺序来就可以领取到1个月max会员",
   "linux.do-福利羊毛板块:63ab5f6dc34d": "deekseepv4fas 等模型免费蹬",
+  "linux.do-福利羊毛板块:64583cfeb1a3": "我搞到了一个免费白嫖三个月的gemini的机器人",
   "linux.do-福利羊毛板块:646f212ea708": "白嫖号池 爱优腾 bili 等等",
   "linux.do-福利羊毛板块:647cf8bf9bee": "移动app灵犀送6元话费",
   "linux.do-福利羊毛板块:66c9535e3db2": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。",

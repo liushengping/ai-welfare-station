@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "3个月",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google/Gemini"
+   },
+   "d": "11-20 09:32",
+   "link": "https://linux.do/t/topic/3207526",
+   "t": "2026-11-20 01:39:40",
+   "title": "我搞到了一个免费白嫖三个月的gemini的机器人"
+  },
+  {
+   "ai": {
     "amount": "最高6秒",
     "deadline": "2026-11-20 21:00",
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://meta.appinn.net/t/topic/95849",
    "t": "2026-11-13 06:48:20",
    "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
-  },
-  {
-   "ai": {
-    "amount": "无上限",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "未知"
-   },
-   "d": "11-13 10:37",
-   "link": "https://linux.do/t/topic/3168359",
-   "t": "2026-11-13 02:39:42",
-   "title": "免费Token，无上限"
   }
  ]
 }
