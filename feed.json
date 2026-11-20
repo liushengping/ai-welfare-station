@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "8折优惠码",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "d": "11-20 11:51",
+   "link": "https://linux.do/t/topic/3208700",
+   "t": "2026-11-20 03:54:01",
+   "title": "免费48team优惠码 8折优惠码 不限地区"
+  },
+  {
+   "ai": {
+    "amount": "Token用量与API等价成本分析仪表盘",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Codex Usage"
+   },
+   "d": "11-20 11:47",
+   "link": "https://linux.do/t/topic/3208665",
+   "t": "2026-11-20 03:54:01",
+   "title": "开源推广发帖模板-Codex Usage：纯本地、单文件的 Codex Token 用量与 API 等价成本分析仪表盘（支持 Win / Mac / Linux）"
+  },
+  {
+   "ai": {
     "amount": "6.1 sol",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://linux.do/t/topic/3172310",
    "t": "2026-11-13 22:10:05",
    "title": "muse免费白嫖资源一条龙"
-  },
-  {
-   "ai": {
-    "amount": "10元免费额度",
-    "deadline": "2026-11-17 23:59",
-    "start": "2026-11-16 00:00",
-    "urgent": true,
-    "value": 55,
-    "vendor": "LV中转"
-   },
-   "d": "11-13 15:29",
-   "link": "https://linux.do/t/topic/3170743",
-   "t": "2026-11-13 22:10:05",
-   "title": "【LV中转】周五了，福利接着送：充值 8.8 折，10 元免费额度别漏领！周末快乐！"
-  },
-  {
-   "ai": {
-    "amount": "每月 token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "书生"
-   },
-   "d": "11-14 01:37",
-   "link": "https://linux.do/t/topic/3173809",
-   "t": "2026-11-13 22:10:05",
-   "title": "书生的是不是白嫖不了了，需要补充手机号才能激活每月 token"
   }
  ]
 }

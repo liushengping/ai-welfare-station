@@ -47,10 +47,70 @@
    "id": "linux.do-福利羊毛板块:cfbe49ebd3d6",
    "link": "https://linux.do/t/topic/3208275",
    "title": "hub站免费6.1 sol"
+  },
+  {
+   "_age": 0.0012985161111111112,
+   "ai": {
+    "amount": "8折优惠码",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "date": "Fri, 20 Nov 2026 03:51:10 +0000",
+   "date_str": "11-20 11:51",
+   "id": "linux.do-福利羊毛板块:4c98ac140d1c",
+   "link": "https://linux.do/t/topic/3208700",
+   "title": "免费48team优惠码 8折优惠码 不限地区"
+  },
+  {
+   "_age": 0.004100414571759259,
+   "ai": {
+    "amount": "Token用量与API等价成本分析仪表盘",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Codex Usage"
+   },
+   "date": "Fri, 20 Nov 2026 03:47:08 +0000",
+   "date_str": "11-20 11:47",
+   "id": "linux.do-最新:95e52e14f363",
+   "link": "https://linux.do/t/topic/3208665",
+   "title": "开源推广发帖模板-Codex Usage：纯本地、单文件的 Codex Token 用量与 API 等价成本分析仪表盘（支持 Win / Mac / Linux）"
   }
  ],
  "digest_date": "2026-11-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "8折优惠码",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "linux.do"
+   },
+   "d": "11-20 11:51",
+   "link": "https://linux.do/t/topic/3208700",
+   "t": "2026-11-20 03:54:01",
+   "title": "免费48team优惠码 8折优惠码 不限地区"
+  },
+  {
+   "ai": {
+    "amount": "Token用量与API等价成本分析仪表盘",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "Codex Usage"
+   },
+   "d": "11-20 11:47",
+   "link": "https://linux.do/t/topic/3208665",
+   "t": "2026-11-20 03:54:01",
+   "title": "开源推广发帖模板-Codex Usage：纯本地、单文件的 Codex Token 用量与 API 等价成本分析仪表盘（支持 Win / Mac / Linux）"
+  },
   {
    "ai": {
     "amount": "6.1 sol",
@@ -862,34 +922,6 @@
    "link": "https://linux.do/t/topic/3172310",
    "t": "2026-11-13 22:10:05",
    "title": "muse免费白嫖资源一条龙"
-  },
-  {
-   "ai": {
-    "amount": "10元免费额度",
-    "deadline": "2026-11-17 23:59",
-    "start": "2026-11-16 00:00",
-    "urgent": true,
-    "value": 55,
-    "vendor": "LV中转"
-   },
-   "d": "11-13 15:29",
-   "link": "https://linux.do/t/topic/3170743",
-   "t": "2026-11-13 22:10:05",
-   "title": "【LV中转】周五了，福利接着送：充值 8.8 折，10 元免费额度别漏领！周末快乐！"
-  },
-  {
-   "ai": {
-    "amount": "每月 token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "书生"
-   },
-   "d": "11-14 01:37",
-   "link": "https://linux.do/t/topic/3173809",
-   "t": "2026-11-13 22:10:05",
-   "title": "书生的是不是白嫖不了了，需要补充手机号才能激活每月 token"
   }
  ],
  "links": {
@@ -1167,6 +1199,9 @@
   "https://linux.do/t/topic/3208312": "1",
   "https://linux.do/t/topic/3208313": "1",
   "https://linux.do/t/topic/3208346": "1",
+  "https://linux.do/t/topic/3208628": "1",
+  "https://linux.do/t/topic/3208665": "1",
+  "https://linux.do/t/topic/3208700": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2004,6 +2039,7 @@
   "https://www.ithome.com/1/029/772.htm": "1",
   "https://www.ithome.com/1/029/782.htm": "1",
   "https://www.ithome.com/1/029/793.htm": "1",
+  "https://www.ithome.com/1/029/836.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2658,6 +2694,7 @@
   "IT之家:f395556964e3": "谷歌首次送先进芯片上天，估算 SpaceX 星舰发射 1800 次才能让太空数据中心“飞起来”",
   "IT之家:f459a25e9610": "长安凯程 V919 荣耀版 8 方上市：限时 8.89 万元起，标配宁德时代电芯 CLTC 续航 355km",
   "IT之家:f45ab041deda": "大众安徽与众 08 猎影版 SUV 上市：纯电续航超 700km，限时权益价 21.99 万元起",
+  "IT之家:f45f182f32a6": "长安启源 Q06 增推 602 越享+ 版：升级座椅通风加热 + 50W 无线充电，限时权益价 13.59 万元",
   "IT之家:f46402a5454f": "限时权益价 11.78 万元，广汽丰田铂智 3X 星云限量版车型上市",
   "IT之家:f4b349f6e63a": "《艾希：续》制作人确认不会跳票，上市后计划推出免费 DLC",
   "IT之家:f4e99c5a0d03": "北京现代艾尼氪 V 车型上市：轿跑溜背造型，限时权益价 9.99 万元起",
@@ -2719,6 +2756,7 @@
   "linux.do-最新:0191b95086c6": "Gemini3.8Flash每周7亿Token，100刀，大善人又回来了！",
   "linux.do-最新:04a2d13a27c1": "Siri ai经常报告额度不足，原因可能是ip不干净导致风控？",
   "linux.do-最新:08f647b53ad0": "注册WhatsApp无法发送验证码了",
+  "linux.do-最新:12f66bd5fdc5": "有好感的女生过生日送什么礼物合适？",
   "linux.do-最新:1445222cb62c": "临睡觉看到佬们发 token，一下子熬到现在，洗澡睡觉",
   "linux.do-最新:14689c1f7b84": "关于gemini ultra家庭组，这个额度是谁抢到的多就用的多吗？",
   "linux.do-最新:155870625fcc": "佬 ，白嫖 Google Ultra 1个月 需要用什么卡呢？",
@@ -2760,6 +2798,7 @@
   "linux.do-最新:8cf25233d4a6": "百度官方也弄中转站了（大模型交易平台词元所，日均调用Token超7000亿）",
   "linux.do-最新:8dc74ad9bb89": "gpt chat 和 work 合并的话 free 号额度会不会变高",
   "linux.do-最新:92735762d3a7": "腾讯服务器拼团，我已开团拼团成功送3个月时长",
+  "linux.do-最新:95e52e14f363": "开源推广发帖模板-Codex Usage：纯本地、单文件的 Codex Token 用量与 API 等价成本分析仪表盘（支持 Win / Mac / Linux）",
   "linux.do-最新:971d9cab0ccb": "credit登录提示服务器错误，为哈啊",
   "linux.do-最新:98e1b602261d": "Claude 合作超半年送两次fable重置",
   "linux.do-最新:9facdf61da7d": "gpt送的api额度你们一般用来干嘛",
@@ -2850,6 +2889,7 @@
   "linux.do-福利羊毛板块:462c12af6edc": "免费发放100000张！苏州NFC交通卡可领5折叠加券",
   "linux.do-福利羊毛板块:47ddbcae4354": "【14:00 抢】送 gpt-astra 额度",
   "linux.do-福利羊毛板块:48ad8b6af9d1": "11月12日免费薅羊毛合集",
+  "linux.do-福利羊毛板块:4c98ac140d1c": "免费48team优惠码 8折优惠码 不限地区",
   "linux.do-福利羊毛板块:4d09035a8909": "BLG夺冠 bilibili赠送大会员7天",
   "linux.do-福利羊毛板块:4d3831e0abb1": "免费的glm-5.3",
   "linux.do-福利羊毛板块:4f600d40691b": "再送一个muse号，已经有的佬点麻烦让给没有的",
