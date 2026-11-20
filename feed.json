@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "3字母邮箱",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "linux.do"
+   },
+   "d": "11-20 08:07",
+   "link": "https://linux.do/t/topic/3207183",
+   "t": "2026-11-20 00:11:09",
+   "title": "muse邮箱目前三个字母的还不少，免费用户可开"
+  },
+  {
+   "ai": {
     "amount": "MiniMax H3 视频生成",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3167653",
    "t": "2026-11-13 01:39:15",
    "title": "MLH 领取您的SpaceXAI促销代码"
-  },
-  {
-   "ai": {
-    "amount": "免费使用Gemini 4 Hydrogen",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Google"
-   },
-   "d": "11-13 09:02",
-   "link": "https://linux.do/t/topic/3167414",
-   "t": "2026-11-13 01:09:42",
-   "title": "aistudio 可以免费使用 Gemini 4 Hydrogen 了"
   }
  ]
 }
