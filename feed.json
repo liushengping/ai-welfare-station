@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "最高6秒",
+    "deadline": "2026-11-20 21:00",
+    "start": null,
+    "urgent": true,
+    "value": 60,
+    "vendor": "MinxMax"
+   },
+   "d": "11-20 09:20",
+   "link": "https://linux.do/t/topic/3207457",
+   "t": "2026-11-20 01:25:13",
+   "title": "截至今天21点免费使用MinxMaxH3，最高6秒，可以玩一下"
+  },
+  {
+   "ai": {
     "amount": "免费试用",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3168359",
    "t": "2026-11-13 02:39:42",
    "title": "免费Token，无上限"
-  },
-  {
-   "ai": {
-    "amount": "7天体验卡",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 95,
-    "vendor": "智谱AI"
-   },
-   "d": "11-13 09:42",
-   "link": "https://linux.do/t/topic/3167771",
-   "t": "2026-11-13 01:54:02",
-   "title": "智谱的coding plan免费送【7天体验卡】"
   }
  ]
 }

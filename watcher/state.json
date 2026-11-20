@@ -4,6 +4,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "最高6秒",
+    "deadline": "2026-11-20 21:00",
+    "start": null,
+    "urgent": true,
+    "value": 60,
+    "vendor": "MinxMax"
+   },
+   "d": "11-20 09:20",
+   "link": "https://linux.do/t/topic/3207457",
+   "t": "2026-11-20 01:25:13",
+   "title": "截至今天21点免费使用MinxMaxH3，最高6秒，可以玩一下"
+  },
+  {
+   "ai": {
     "amount": "免费试用",
     "deadline": null,
     "start": null,
@@ -827,20 +841,6 @@
    "link": "https://linux.do/t/topic/3168359",
    "t": "2026-11-13 02:39:42",
    "title": "免费Token，无上限"
-  },
-  {
-   "ai": {
-    "amount": "7天体验卡",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 95,
-    "vendor": "智谱AI"
-   },
-   "d": "11-13 09:42",
-   "link": "https://linux.do/t/topic/3167771",
-   "t": "2026-11-13 01:54:02",
-   "title": "智谱的coding plan免费送【7天体验卡】"
   }
  ],
  "links": {
@@ -1103,6 +1103,7 @@
   "https://linux.do/t/topic/3207351": "1",
   "https://linux.do/t/topic/3207352": "1",
   "https://linux.do/t/topic/3207373": "1",
+  "https://linux.do/t/topic/3207457": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2873,6 +2874,7 @@
   "linux.do-福利羊毛板块:f4b3d220ae6d": "muse免费白嫖资源一条龙",
   "linux.do-福利羊毛板块:f624e680b09f": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】",
   "linux.do-福利羊毛板块:f6b76bea8e27": "支付宝免费领体脂称了",
+  "linux.do-福利羊毛板块:fadd1d4a874c": "截至今天21点免费使用MinxMaxH3，最高6秒，可以玩一下",
   "linux.do-福利羊毛板块:fb108f4393b0": "免费福利！每天白嫖 30GB 流量，还能用全球住宅 IP",
   "linux.do-福利羊毛板块:fbf667ebe31a": "快跑 AI｜11.11 幸运大转盘抽奖活动 每天豪送 $2,000 美元，连续狂欢 3 天！",
   "linux.do-福利羊毛板块:fc18b6ec7ced": "【NewCodex】充值 1:1｜GPT 0.06 倍率不降智 缓存80+！｜Cursor逆向 0.25倍率支持全模型｜进群送 3 刀 首冲反50%活动持续派送中~｜",
