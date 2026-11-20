@@ -21,6 +21,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "6刀",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "NewCodex"
+   },
+   "d": "11-20 10:26",
+   "link": "https://linux.do/t/topic/3207949",
+   "t": "2026-11-20 02:38:31",
+   "title": "【富可敌国】【NewCodex】又来拉新了~注册+评论回复ID赠送3刀，加群再增3刀~新增GPT-6.2系列模型，欢迎体验~~"
+  },
+  {
+   "ai": {
     "amount": "3个月",
     "deadline": null,
     "start": null,
@@ -844,20 +858,6 @@
    "link": "https://linux.do/t/topic/3172568",
    "t": "2026-11-13 22:10:05",
    "title": "zcode周末撒福利了"
-  },
-  {
-   "ai": {
-    "amount": "4核8GB云电脑",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "InstaBox"
-   },
-   "d": "11-13 14:42",
-   "link": "https://meta.appinn.net/t/topic/95849",
-   "t": "2026-11-13 06:48:20",
-   "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
   }
  ],
  "links": {
@@ -1126,6 +1126,9 @@
   "https://linux.do/t/topic/3207632": "1",
   "https://linux.do/t/topic/3207815": "1",
   "https://linux.do/t/topic/3207877": "1",
+  "https://linux.do/t/topic/3207949": "1",
+  "https://linux.do/t/topic/3207992": "1",
+  "https://linux.do/t/topic/3208029": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2763,6 +2766,7 @@
   "linux.do-最新:fb9593863353": "谷歌员工回应白嫖Gemini Ultra事件",
   "linux.do-最新:feea6761b2ba": "codex没使用额度消失？",
   "linux.do-最新:ff4b5822d6fb": "有人用过glm的重置卡吗？会推迟下次额度刷新时间吗？",
+  "linux.do-最新:ff7598ac2099": "antigravity额度问题求解",
   "linux.do-福利羊毛板块:007728a2fe3c": "【福利继续0906】继续发tokens 已上架ldcstore，周日睡醒，评论区random抽几个再送额度吧",
   "linux.do-福利羊毛板块:028b4c9fcb89": "【富可敌国】【流光AI】11/17｜混元 Hy4 Flash 上新，留 ID 送 3 元",
   "linux.do-福利羊毛板块:050872e74c76": "免费使用gemini 4 Hydrogen ，适合文本对话与分析",
@@ -2787,6 +2791,7 @@
   "linux.do-福利羊毛板块:27c352ea7d1e": "送点谷歌普通（不是pro搞错了）账号 开Ultra掉的",
   "linux.do-福利羊毛板块:289d1b05610d": "免费领取一年咪咕音乐天籁体验会员",
   "linux.do-福利羊毛板块:28c606a13dcc": "Envato 官方限免活动，免费账号也可以参加，活动期间开放 MiniMax H3 视频生成，不需要购买 Envato 订阅。",
+  "linux.do-福利羊毛板块:2b34f4af2f9f": "中国银行 2233 卡活动",
   "linux.do-福利羊毛板块:2dd2044d4757": "天翼那个免费的云电脑有佬用过吗，好用吗",
   "linux.do-福利羊毛板块:2f66010774c9": "请问哪里有免费的千问大模型的 API 或者公益站呢？",
   "linux.do-福利羊毛板块:2f7f640d3264": "【LV中转】周五了，福利接着送：充值 8.8 折，10 元免费额度别漏领！周末快乐！",
@@ -2820,6 +2825,7 @@
   "linux.do-福利羊毛板块:63ab5f6dc34d": "deekseepv4fas 等模型免费蹬",
   "linux.do-福利羊毛板块:64583cfeb1a3": "我搞到了一个免费白嫖三个月的gemini的机器人",
   "linux.do-福利羊毛板块:646f212ea708": "白嫖号池 爱优腾 bili 等等",
+  "linux.do-福利羊毛板块:6472fc70a964": "【富可敌国】【NewCodex】又来拉新了~注册+评论回复ID赠送3刀，加群再增3刀~新增GPT-6.2系列模型，欢迎体验~~",
   "linux.do-福利羊毛板块:647cf8bf9bee": "移动app灵犀送6元话费",
   "linux.do-福利羊毛板块:66c9535e3db2": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。",
   "linux.do-福利羊毛板块:69090119e66e": "BLG夺冠，B站送大会员啦",

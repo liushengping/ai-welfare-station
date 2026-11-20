@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "6刀",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 80,
+    "vendor": "NewCodex"
+   },
+   "d": "11-20 10:26",
+   "link": "https://linux.do/t/topic/3207949",
+   "t": "2026-11-20 02:38:31",
+   "title": "【富可敌国】【NewCodex】又来拉新了~注册+评论回复ID赠送3刀，加群再增3刀~新增GPT-6.2系列模型，欢迎体验~~"
+  },
+  {
+   "ai": {
     "amount": "3个月",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3172568",
    "t": "2026-11-13 22:10:05",
    "title": "zcode周末撒福利了"
-  },
-  {
-   "ai": {
-    "amount": "4核8GB云电脑",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "InstaBox"
-   },
-   "d": "11-13 14:42",
-   "link": "https://meta.appinn.net/t/topic/95849",
-   "t": "2026-11-13 06:48:20",
-   "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent"
   }
  ]
 }
