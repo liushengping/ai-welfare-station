@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "6.1 sol",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "hub站"
+   },
+   "d": "11-20 11:02",
+   "link": "https://linux.do/t/topic/3208275",
+   "t": "2026-11-20 03:09:15",
+   "title": "hub站免费6.1 sol"
+  },
+  {
+   "ai": {
     "amount": "聊天合并额度",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3173809",
    "t": "2026-11-13 22:10:05",
    "title": "书生的是不是白嫖不了了，需要补充手机号才能激活每月 token"
-  },
-  {
-   "ai": {
-    "amount": "10美元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "AMD"
-   },
-   "d": "11-13 17:07",
-   "link": "https://linux.do/t/topic/3171521",
-   "t": "2026-11-13 22:10:05",
-   "title": "AMD免费领10美元，可以完成任务获取更多的积分"
   }
  ]
 }

@@ -31,10 +31,40 @@
    "id": "linux.do-最新:6dc0f2e3208a",
    "link": "https://linux.do/t/topic/3208151",
    "title": "gpt plus好像把聊天合并额度了"
+  },
+  {
+   "_age": 0.0034355550925925923,
+   "ai": {
+    "amount": "6.1 sol",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "hub站"
+   },
+   "date": "Fri, 20 Nov 2026 03:02:37 +0000",
+   "date_str": "11-20 11:02",
+   "id": "linux.do-福利羊毛板块:cfbe49ebd3d6",
+   "link": "https://linux.do/t/topic/3208275",
+   "title": "hub站免费6.1 sol"
   }
  ],
  "digest_date": "2026-11-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "6.1 sol",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "hub站"
+   },
+   "d": "11-20 11:02",
+   "link": "https://linux.do/t/topic/3208275",
+   "t": "2026-11-20 03:09:15",
+   "title": "hub站免费6.1 sol"
+  },
   {
    "ai": {
     "amount": "聊天合并额度",
@@ -860,20 +890,6 @@
    "link": "https://linux.do/t/topic/3173809",
    "t": "2026-11-13 22:10:05",
    "title": "书生的是不是白嫖不了了，需要补充手机号才能激活每月 token"
-  },
-  {
-   "ai": {
-    "amount": "10美元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "AMD"
-   },
-   "d": "11-13 17:07",
-   "link": "https://linux.do/t/topic/3171521",
-   "t": "2026-11-13 22:10:05",
-   "title": "AMD免费领10美元，可以完成任务获取更多的积分"
   }
  ],
  "links": {
@@ -1146,6 +1162,10 @@
   "https://linux.do/t/topic/3207992": "1",
   "https://linux.do/t/topic/3208029": "1",
   "https://linux.do/t/topic/3208151": "1",
+  "https://linux.do/t/topic/3208230": "1",
+  "https://linux.do/t/topic/3208275": "1",
+  "https://linux.do/t/topic/3208312": "1",
+  "https://linux.do/t/topic/3208313": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2711,6 +2731,7 @@
   "linux.do-最新:2c5fd93fbdb6": "Claude applepay 成功续费 额度没变",
   "linux.do-最新:32ca268c4f71": "类似于今天的ultra羊毛bug，佬们这种大薅羊的处罚是什么呀",
   "linux.do-最新:34cffa805b36": "Gemini 20x 前三个月100刀的活动还在嘛？？？",
+  "linux.do-最新:359f3616b6f6": "这个额度感觉我这24X才刚好够用",
   "linux.do-最新:36a401da96cf": "aistudio 可以免费使用 Gemini 4 Hydrogen 了",
   "linux.do-最新:3e5f959a8e65": "11.11 刚入手了小米A75寸电视, 马上到货，佬们有没有推荐的应用可以免费用的，也可以帮我看下买贵了吗，带安装和挂件",
   "linux.do-最新:3f2bff9646d1": "【求助】老马送的 grok bot 网速很快，能用来给我当节点刷刷网页视频吗",
@@ -2728,6 +2749,7 @@
   "linux.do-最新:60de5b35ff5c": "悲，workbuddy的hy3&4结束免费了",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
   "linux.do-最新:6dc0f2e3208a": "gpt plus好像把聊天合并额度了",
+  "linux.do-最新:6e2fc8880b69": "codex剩余额度在没使用情况下突然从33%降到12%",
   "linux.do-最新:73f01fdf121b": "Gemini任务模式额度更多？",
   "linux.do-最新:7511842ee678": "Openai正在向部分plus和所有team用户推送Dots",
   "linux.do-最新:76ad903eb061": "6.2 Astra发布了，会重置额度吗",
@@ -2755,6 +2777,7 @@
   "linux.do-最新:b8b285355a19": "免费Token，无上限",
   "linux.do-最新:bb3c653a20df": "史上最幽默的重置，提前45分钟刷新额度的反重力",
   "linux.do-最新:bb734aaece1e": "感谢微软送来的macmini！",
+  "linux.do-最新:bc62f6aac702": "codex有bug？上午没耗一点额度？",
   "linux.do-最新:bee74593f3c5": "关于Trial Pro目前无法使用Gemini-4-Hydrogen，反重力员工做出了后续逐步推送的承诺",
   "linux.do-最新:c00961abd188": "chatgpt的额度怎么兑换到codex的池子中",
   "linux.do-最新:c28c756d64d3": "Antigravity 重置了Gemini的额度",
@@ -2900,6 +2923,7 @@
   "linux.do-福利羊毛板块:c5ca2bd098cb": "【FastAIToken】双十一活动：GPT 低至 0.06 倍率 / 混元 5 折 / 充值加赠 双十一福利整理：GPT 0.06 倍率、混元 ¥0.15/M，顺便抽 10 个 ¥158 订阅 佬友们，FastAIToken 双十一活动细则都在这一帖，跑量的可以来看看",
   "linux.do-福利羊毛板块:c960d143e0a6": "bing rewards 有抽奖活动,大家可以试一试",
   "linux.do-福利羊毛板块:caaf379498d5": "【富可敌国 | 抽奖】 Adal AI 试运营，纯血官渠，注册就送 $2，福利抽奖，1 * $200，2 * $100，3 * $20",
+  "linux.do-福利羊毛板块:cfbe49ebd3d6": "hub站免费6.1 sol",
   "linux.do-福利羊毛板块:d0404aadeeae": "移动羊毛福利",
   "linux.do-福利羊毛板块:d1f41211a1d5": "华为云白嫖5个月新加坡 VPS 能做什么？",
   "linux.do-福利羊毛板块:d2169ec42b29": "google赠送每月$10",
