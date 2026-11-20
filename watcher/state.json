@@ -15,10 +15,40 @@
    "id": "linux.do-福利羊毛板块:64583cfeb1a3",
    "link": "https://linux.do/t/topic/3207526",
    "title": "我搞到了一个免费白嫖三个月的gemini的机器人"
+  },
+  {
+   "_age": 0.003754814097222222,
+   "ai": {
+    "amount": "聊天合并额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenAI"
+   },
+   "date": "Fri, 20 Nov 2026 02:47:10 +0000",
+   "date_str": "11-20 10:47",
+   "id": "linux.do-最新:6dc0f2e3208a",
+   "link": "https://linux.do/t/topic/3208151",
+   "title": "gpt plus好像把聊天合并额度了"
   }
  ],
  "digest_date": "2026-11-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "聊天合并额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenAI"
+   },
+   "d": "11-20 10:47",
+   "link": "https://linux.do/t/topic/3208151",
+   "t": "2026-11-20 02:53:30",
+   "title": "gpt plus好像把聊天合并额度了"
+  },
   {
    "ai": {
     "amount": "6刀",
@@ -844,20 +874,6 @@
    "link": "https://linux.do/t/topic/3171521",
    "t": "2026-11-13 22:10:05",
    "title": "AMD免费领10美元，可以完成任务获取更多的积分"
-  },
-  {
-   "ai": {
-    "amount": "福利",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 40,
-    "vendor": "zcode"
-   },
-   "d": "11-13 20:30",
-   "link": "https://linux.do/t/topic/3172568",
-   "t": "2026-11-13 22:10:05",
-   "title": "zcode周末撒福利了"
   }
  ],
  "links": {
@@ -1129,6 +1145,7 @@
   "https://linux.do/t/topic/3207949": "1",
   "https://linux.do/t/topic/3207992": "1",
   "https://linux.do/t/topic/3208029": "1",
+  "https://linux.do/t/topic/3208151": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2710,6 +2727,7 @@
   "linux.do-最新:5f90a3e97b40": "为什么我的Codex有2000多美刀的额度？",
   "linux.do-最新:60de5b35ff5c": "悲，workbuddy的hy3&4结束免费了",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
+  "linux.do-最新:6dc0f2e3208a": "gpt plus好像把聊天合并额度了",
   "linux.do-最新:73f01fdf121b": "Gemini任务模式额度更多？",
   "linux.do-最新:7511842ee678": "Openai正在向部分plus和所有team用户推送Dots",
   "linux.do-最新:76ad903eb061": "6.2 Astra发布了，会重置额度吗",

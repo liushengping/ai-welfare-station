@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "聊天合并额度",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "OpenAI"
+   },
+   "d": "11-20 10:47",
+   "link": "https://linux.do/t/topic/3208151",
+   "t": "2026-11-20 02:53:30",
+   "title": "gpt plus好像把聊天合并额度了"
+  },
+  {
+   "ai": {
     "amount": "6刀",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3171521",
    "t": "2026-11-13 22:10:05",
    "title": "AMD免费领10美元，可以完成任务获取更多的积分"
-  },
-  {
-   "ai": {
-    "amount": "福利",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 40,
-    "vendor": "zcode"
-   },
-   "d": "11-13 20:30",
-   "link": "https://linux.do/t/topic/3172568",
-   "t": "2026-11-13 22:10:05",
-   "title": "zcode周末撒福利了"
   }
  ]
 }
