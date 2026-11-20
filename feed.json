@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "谷歌"
+   },
+   "d": "11-20 09:03",
+   "link": "https://linux.do/t/topic/3207373",
+   "t": "2026-11-20 01:09:50",
+   "title": "【顶级阳谋】谷歌Ultra免费试用之后留下了什么？"
+  },
+  {
+   "ai": {
     "amount": "Dots积分",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3167771",
    "t": "2026-11-13 01:54:02",
    "title": "智谱的coding plan免费送【7天体验卡】"
-  },
-  {
-   "ai": {
-    "amount": "Token重置",
-    "deadline": null,
-    "start": "2026-11-13 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "OpenAI"
-   },
-   "d": "11-13 09:48",
-   "link": "https://linux.do/t/topic/3167836",
-   "t": "2026-11-13 01:54:02",
-   "title": "11.13 Codex又送重置了?"
   }
  ]
 }

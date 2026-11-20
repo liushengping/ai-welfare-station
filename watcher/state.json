@@ -1,72 +1,21 @@
 {
- "digest": [
-  {
-   "_age": 0.5543926153472222,
-   "ai": {
-    "amount": "MiniMax H3 视频生成",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "Envato"
-   },
-   "date": "Thu, 19 Nov 2026 09:24:39 +0000",
-   "date_str": "11-19 17:24",
-   "id": "linux.do-福利羊毛板块:28c606a13dcc",
-   "link": "https://linux.do/t/topic/3204368",
-   "title": "Envato 官方限免活动，免费账号也可以参加，活动期间开放 MiniMax H3 视频生成，不需要购买 Envato 订阅。"
-  },
-  {
-   "_age": 0.6428532641782407,
-   "ai": {
-    "amount": "$3",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 75,
-    "vendor": "PQH"
-   },
-   "date": "Thu, 19 Nov 2026 07:17:16 +0000",
-   "date_str": "11-19 15:17",
-   "id": "linux.do-福利羊毛板块:75f878905a64",
-   "link": "https://linux.do/t/topic/3203287",
-   "title": "【富可敌国】PQH｜CCMAX 0注入现签 1.75x，可蒸馏、可溯源、能给管理｜Gemini 4 Hydrogen、Neon 上新｜新用户留 ID 送 $3"
-  },
-  {
-   "_age": 0.0017747773263888887,
-   "ai": {
-    "amount": "3字母邮箱",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "linux.do"
-   },
-   "date": "Fri, 20 Nov 2026 00:07:39 +0000",
-   "date_str": "11-20 08:07",
-   "id": "linux.do-最新:cc46214318b6",
-   "link": "https://linux.do/t/topic/3207183",
-   "title": "muse邮箱目前三个字母的还不少，免费用户可开"
-  },
-  {
-   "_age": 0.0072638562268518515,
-   "ai": {
-    "amount": "Dots积分",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "OpenAI"
-   },
-   "date": "Fri, 20 Nov 2026 00:43:19 +0000",
-   "date_str": "11-20 08:43",
-   "id": "linux.do-最新:7511842ee678",
-   "link": "https://linux.do/t/topic/3207260",
-   "title": "Openai正在向部分plus和所有team用户推送Dots"
-  }
- ],
- "digest_date": "2026-11-19",
+ "digest": [],
+ "digest_date": "2026-11-20",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费试用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "谷歌"
+   },
+   "d": "11-20 09:03",
+   "link": "https://linux.do/t/topic/3207373",
+   "t": "2026-11-20 01:09:50",
+   "title": "【顶级阳谋】谷歌Ultra免费试用之后留下了什么？"
+  },
   {
    "ai": {
     "amount": "Dots积分",
@@ -892,20 +841,6 @@
    "link": "https://linux.do/t/topic/3167771",
    "t": "2026-11-13 01:54:02",
    "title": "智谱的coding plan免费送【7天体验卡】"
-  },
-  {
-   "ai": {
-    "amount": "Token重置",
-    "deadline": null,
-    "start": "2026-11-13 00:00",
-    "urgent": true,
-    "value": 90,
-    "vendor": "OpenAI"
-   },
-   "d": "11-13 09:48",
-   "link": "https://linux.do/t/topic/3167836",
-   "t": "2026-11-13 01:54:02",
-   "title": "11.13 Codex又送重置了?"
   }
  ],
  "links": {
@@ -1165,6 +1100,9 @@
   "https://linux.do/t/topic/3207005": "1",
   "https://linux.do/t/topic/3207183": "1",
   "https://linux.do/t/topic/3207260": "1",
+  "https://linux.do/t/topic/3207351": "1",
+  "https://linux.do/t/topic/3207352": "1",
+  "https://linux.do/t/topic/3207373": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -1999,6 +1937,7 @@
   "https://www.ithome.com/1/029/521.htm": "1",
   "https://www.ithome.com/1/029/675.htm": "1",
   "https://www.ithome.com/1/029/710.htm": "1",
+  "https://www.ithome.com/1/029/772.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2243,6 +2182,7 @@
   "IT之家:51f2ff6275ca": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
   "IT之家:523186061892": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
   "IT之家:5334c8d83774": "华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能上线时间公布，预计 10 月底分批推送",
+  "IT之家:5375145f8478": "最高 6% 返现：苹果启动 Apple Card 拉新活动，首年最多可拿 1000 美元",
   "IT之家:54266506e13e": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
   "IT之家:543810006667": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
   "IT之家:54c97a8db418": "全国铁路今天预计发送旅客 1976 万人次、加开列车 2053 列",
@@ -2730,6 +2670,7 @@
   "linux.do-最新:41ec9dd87be2": "Claude free 也被封了",
   "linux.do-最新:4267f44e8918": "Gemini 4 Carbon的消耗额度太快吧,你们的怎么样?",
   "linux.do-最新:4b2c4c53b6ae": "MLH 领取您的SpaceXAI促销代码",
+  "linux.do-最新:4e5075596b9f": "长期使用GPT，培养了及时复盘和测试的习惯，我称之为GPT降智送给我的礼物",
   "linux.do-最新:512b504c5a45": "哈基米5x，使用carbon的token用量是多少",
   "linux.do-最新:563869e96121": "佬们觉得GPT6.2Sol/Astra哪个推理等级用起来最舒服？额度消耗快吗？",
   "linux.do-最新:5b65ae5e936c": "还有福利站可以去吗",
@@ -2749,6 +2690,7 @@
   "linux.do-最新:971d9cab0ccb": "credit登录提示服务器错误，为哈啊",
   "linux.do-最新:98e1b602261d": "Claude 合作超半年送两次fable重置",
   "linux.do-最新:9facdf61da7d": "gpt送的api额度你们一般用来干嘛",
+  "linux.do-最新:a42dcfac6be1": "O/网页版UI改了，是不是快要合并额度了",
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:a84d11b88a91": "opencode go 10刀的GLM5.3额度提升到 200刀, 和 glm coding plan lite 哪个更香",
   "linux.do-最新:acdab857c157": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？",
@@ -2782,6 +2724,7 @@
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:e95566c41af1": "用Gemini 4 Hydrogen周额度消耗好快啊",
   "linux.do-最新:eec4010228e8": "注册了个muse 请问现在还能白嫖token吗",
+  "linux.do-最新:f0990e959445": "【顶级阳谋】谷歌Ultra免费试用之后留下了什么？",
   "linux.do-最新:f3f7661d85c5": "Gemini 20x活动结束了？下个月拼车时候可以涨价吗？哈哈哈",
   "linux.do-最新:f4f9a749b59d": "11.13 Codex又送重置了?",
   "linux.do-最新:f5e9eb8f6a7a": "1024的活动OrcaTerm免费Pro会员到账了",
