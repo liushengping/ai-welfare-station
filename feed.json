@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "Dots积分",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "OpenAI"
+   },
+   "d": "11-20 08:43",
+   "link": "https://linux.do/t/topic/3207260",
+   "t": "2026-11-20 00:54:39",
+   "title": "Openai正在向部分plus和所有team用户推送Dots"
+  },
+  {
+   "ai": {
     "amount": "3字母邮箱",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3167836",
    "t": "2026-11-13 01:54:02",
    "title": "11.13 Codex又送重置了?"
-  },
-  {
-   "ai": {
-    "amount": "SpaceXAI促销代码",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "MLH"
-   },
-   "d": "11-13 09:30",
-   "link": "https://linux.do/t/topic/3167653",
-   "t": "2026-11-13 01:39:15",
-   "title": "MLH 领取您的SpaceXAI促销代码"
   }
  ]
 }

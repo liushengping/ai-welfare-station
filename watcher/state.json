@@ -47,10 +47,40 @@
    "id": "linux.do-最新:cc46214318b6",
    "link": "https://linux.do/t/topic/3207183",
    "title": "muse邮箱目前三个字母的还不少，免费用户可开"
+  },
+  {
+   "_age": 0.0072638562268518515,
+   "ai": {
+    "amount": "Dots积分",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "OpenAI"
+   },
+   "date": "Fri, 20 Nov 2026 00:43:19 +0000",
+   "date_str": "11-20 08:43",
+   "id": "linux.do-最新:7511842ee678",
+   "link": "https://linux.do/t/topic/3207260",
+   "title": "Openai正在向部分plus和所有team用户推送Dots"
   }
  ],
  "digest_date": "2026-11-19",
  "feed": [
+  {
+   "ai": {
+    "amount": "Dots积分",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "OpenAI"
+   },
+   "d": "11-20 08:43",
+   "link": "https://linux.do/t/topic/3207260",
+   "t": "2026-11-20 00:54:39",
+   "title": "Openai正在向部分plus和所有team用户推送Dots"
+  },
   {
    "ai": {
     "amount": "3字母邮箱",
@@ -876,20 +906,6 @@
    "link": "https://linux.do/t/topic/3167836",
    "t": "2026-11-13 01:54:02",
    "title": "11.13 Codex又送重置了?"
-  },
-  {
-   "ai": {
-    "amount": "SpaceXAI促销代码",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "MLH"
-   },
-   "d": "11-13 09:30",
-   "link": "https://linux.do/t/topic/3167653",
-   "t": "2026-11-13 01:39:15",
-   "title": "MLH 领取您的SpaceXAI促销代码"
   }
  ],
  "links": {
@@ -1148,6 +1164,7 @@
   "https://linux.do/t/topic/3207004": "1",
   "https://linux.do/t/topic/3207005": "1",
   "https://linux.do/t/topic/3207183": "1",
+  "https://linux.do/t/topic/3207260": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2721,6 +2738,7 @@
   "linux.do-最新:60de5b35ff5c": "悲，workbuddy的hy3&4结束免费了",
   "linux.do-最新:68ba146ed415": "gpt pro100x送的100刀要不要领？会不会封号",
   "linux.do-最新:73f01fdf121b": "Gemini任务模式额度更多？",
+  "linux.do-最新:7511842ee678": "Openai正在向部分plus和所有team用户推送Dots",
   "linux.do-最新:76ad903eb061": "6.2 Astra发布了，会重置额度吗",
   "linux.do-最新:78c0a879b340": "codex 旧推理 token 计算重复导致提前压缩",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
