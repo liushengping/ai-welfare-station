@@ -1,87 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.0049118708449074075,
-   "ai": {
-    "amount": "3个月",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "Google/Gemini"
-   },
-   "date": "Fri, 20 Nov 2026 01:32:12 +0000",
-   "date_str": "11-20 09:32",
-   "id": "linux.do-福利羊毛板块:64583cfeb1a3",
-   "link": "https://linux.do/t/topic/3207526",
-   "title": "我搞到了一个免费白嫖三个月的gemini的机器人"
-  },
-  {
-   "_age": 0.003754814097222222,
-   "ai": {
-    "amount": "聊天合并额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenAI"
-   },
-   "date": "Fri, 20 Nov 2026 02:47:10 +0000",
-   "date_str": "11-20 10:47",
-   "id": "linux.do-最新:6dc0f2e3208a",
-   "link": "https://linux.do/t/topic/3208151",
-   "title": "gpt plus好像把聊天合并额度了"
-  },
-  {
-   "_age": 0.0034355550925925923,
-   "ai": {
-    "amount": "6.1 sol",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "hub站"
-   },
-   "date": "Fri, 20 Nov 2026 03:02:37 +0000",
-   "date_str": "11-20 11:02",
-   "id": "linux.do-福利羊毛板块:cfbe49ebd3d6",
-   "link": "https://linux.do/t/topic/3208275",
-   "title": "hub站免费6.1 sol"
-  },
-  {
-   "_age": 0.0012985161111111112,
-   "ai": {
-    "amount": "8折优惠码",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "linux.do"
-   },
-   "date": "Fri, 20 Nov 2026 03:51:10 +0000",
-   "date_str": "11-20 11:51",
-   "id": "linux.do-福利羊毛板块:4c98ac140d1c",
-   "link": "https://linux.do/t/topic/3208700",
-   "title": "免费48team优惠码 8折优惠码 不限地区"
-  },
-  {
-   "_age": 0.004100414571759259,
-   "ai": {
-    "amount": "Token用量与API等价成本分析仪表盘",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Codex Usage"
-   },
-   "date": "Fri, 20 Nov 2026 03:47:08 +0000",
-   "date_str": "11-20 11:47",
-   "id": "linux.do-最新:95e52e14f363",
-   "link": "https://linux.do/t/topic/3208665",
-   "title": "开源推广发帖模板-Codex Usage：纯本地、单文件的 Codex Token 用量与 API 等价成本分析仪表盘（支持 Win / Mac / Linux）"
-  }
- ],
- "digest_date": "2026-11-20",
+ "digest": [],
+ "digest_date": "2026-11-21",
  "feed": [
   {
    "ai": {
@@ -2047,6 +1966,7 @@
   "https://www.ithome.com/1/029/927.htm": "1",
   "https://www.ithome.com/1/030/004.htm": "1",
   "https://www.ithome.com/1/030/193.htm": "1",
+  "https://www.ithome.com/1/030/307.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2200,6 +2120,7 @@
   "IT之家:2cc41b889be0": "启境 GX7 上市 18 小时大定 15,318 台：广汽携手华为乾崑打造，限时权益价 22.99 万起",
   "IT之家:2d7babe8eb9d": "利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑",
   "IT之家:2f15bbb8147f": "日本制造商 Kyodo 推出 Myofree 护眼平板，号称能让 40cm 近距离观看等效 5m 远距离眺望",
+  "IT之家:2f59d94327a3": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元",
   "IT之家:2f8437886a9d": "马斯克：明年向全美儿童赠送 SpaceX 股票",
   "IT之家:3059a1679421": "微软为 XBOX Series X|S、XBOX One 主机推送初代 XBOX / XBOX 360 开机动画",
   "IT之家:30e06f081221": "比亚迪李慧：腾势 N7 适配 DiLink 7.0 系统正在开发，预计 2027 年 Q1 季度推送",
