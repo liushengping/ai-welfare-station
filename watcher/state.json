@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.01637826796296296,
+   "ai": {
+    "amount": "三端开源免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "星图 Atlas"
+   },
+   "date": "Sat, 21 Nov 2026 13:14:04 +0000",
+   "date_str": "11-21 21:14",
+   "id": "小众软件论坛:ee747547a9d1",
+   "link": "https://meta.appinn.net/t/topic/96546",
+   "title": "【开发者自荐】账号星图 Atlas：记清每个邮箱、手机号注册和绑定了哪些 App，网页 + iOS + 安卓三端开源免费"
+  }
+ ],
  "digest_date": "2026-11-21",
  "feed": [
+  {
+   "ai": {
+    "amount": "三端开源免费",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "星图 Atlas"
+   },
+   "d": "11-21 21:14",
+   "link": "https://meta.appinn.net/t/topic/96546",
+   "t": "2026-11-21 13:38:48",
+   "title": "【开发者自荐】账号星图 Atlas：记清每个邮箱、手机号注册和绑定了哪些 App，网页 + iOS + 安卓三端开源免费"
+  },
   {
    "ai": {
     "amount": "8折优惠码",
@@ -827,20 +858,6 @@
    "link": "https://linux.do/t/topic/3173297",
    "t": "2026-11-13 22:10:05",
    "title": "【富可敌国】嘀嘀嘀 AI 免费周卡可再领一次"
-  },
-  {
-   "ai": {
-    "amount": "免费资源",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "muse"
-   },
-   "d": "11-13 19:30",
-   "link": "https://linux.do/t/topic/3172310",
-   "t": "2026-11-13 22:10:05",
-   "title": "muse免费白嫖资源一条龙"
   }
  ],
  "links": {
@@ -1275,6 +1292,7 @@
   "https://meta.appinn.net/t/topic/96343": "1",
   "https://meta.appinn.net/t/topic/96373": "1",
   "https://meta.appinn.net/t/topic/96452": "1",
+  "https://meta.appinn.net/t/topic/96546": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -3086,6 +3104,7 @@
   "小众软件论坛:eb22e355854f": "《你的城来》（Your City Coming）：每天随机收集全世界的城市的免费 Steam 游戏",
   "小众软件论坛:eb864fc5cf0f": "【开发者自荐】nopaywall：整理免费 AI 额度、免费 API 和付费工具替代品的目录",
   "小众软件论坛:ee507d32d36f": "开发者自荐｜小巧工具箱：让日常的小需求更容易处理。评论区送码欢迎下载体验！",
+  "小众软件论坛:ee747547a9d1": "【开发者自荐】账号星图 Atlas：记清每个邮箱、手机号注册和绑定了哪些 App，网页 + iOS + 安卓三端开源免费",
   "小众软件论坛:eeec40dda402": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
   "小众软件论坛:ef185c68b100": "IResume-一款美观免费的简历制作工具",
   "小众软件论坛:f51addfbadb1": "【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好",
