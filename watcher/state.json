@@ -79,10 +79,70 @@
    "id": "linux.do-福利羊毛板块:2057b25babe1",
    "link": "https://linux.do/t/topic/3219664",
    "title": "免费向量化ai搜索每月10美金"
+  },
+  {
+   "_age": 0.002794544270833333,
+   "ai": {
+    "amount": "免费模型使用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "muse"
+   },
+   "date": "Sun, 22 Nov 2026 16:04:32 +0000",
+   "date_str": "11-23 00:04",
+   "id": "linux.do-最新:d3a5f8459e85",
+   "link": "https://linux.do/t/topic/3223596",
+   "title": "muse free现在的模型基本都是muse-wonder"
+  },
+  {
+   "_age": 0.007076952372685185,
+   "ai": {
+    "amount": "免费API",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 40,
+    "vendor": null
+   },
+   "date": "Sun, 22 Nov 2026 15:58:22 +0000",
+   "date_str": "11-22 23:58",
+   "id": "linux.do-最新:ac9d8645b8c7",
+   "link": "https://linux.do/t/topic/3223572",
+   "title": "新免费api logo征集"
   }
  ],
  "digest_date": "2026-11-22",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费模型使用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "muse"
+   },
+   "d": "11-23 00:04",
+   "link": "https://linux.do/t/topic/3223596",
+   "t": "2026-11-22 16:09:25",
+   "title": "muse free现在的模型基本都是muse-wonder"
+  },
+  {
+   "ai": {
+    "amount": "免费API",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 40,
+    "vendor": null
+   },
+   "d": "11-22 23:58",
+   "link": "https://linux.do/t/topic/3223572",
+   "t": "2026-11-22 16:09:25",
+   "title": "新免费api logo征集"
+  },
   {
    "ai": {
     "amount": "1,000万Token",
@@ -894,34 +954,6 @@
    "link": "https://linux.do/t/topic/3174320",
    "t": "2026-11-14 01:34:41",
    "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
-  },
-  {
-   "ai": {
-    "amount": "5美元/天",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Anthropic"
-   },
-   "d": "11-14 08:25",
-   "link": "https://linux.do/t/topic/3174153",
-   "t": "2026-11-14 01:19:03",
-   "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
-  },
-  {
-   "ai": {
-    "amount": "额度重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "Google"
-   },
-   "d": "11-14 08:02",
-   "link": "https://linux.do/t/topic/3174095",
-   "t": "2026-11-14 00:05:51",
-   "title": "Antigravity 重置了Gemini的额度"
   }
  ],
  "links": {
@@ -1221,6 +1253,8 @@
   "https://linux.do/t/topic/3223277": "1",
   "https://linux.do/t/topic/3223317": "1",
   "https://linux.do/t/topic/3223463": "1",
+  "https://linux.do/t/topic/3223572": "1",
+  "https://linux.do/t/topic/3223596": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2861,6 +2895,7 @@
   "linux.do-最新:a755db585f1b": "Devin的fable 5.2的额度参考，中等推理强度，约4千万token",
   "linux.do-最新:a7d0e883d270": "UU 远程 Q&A：文件传输等多项功能免费版可用",
   "linux.do-最新:a84d11b88a91": "opencode go 10刀的GLM5.3额度提升到 200刀, 和 glm coding plan lite 哪个更香",
+  "linux.do-最新:ac9d8645b8c7": "新免费api logo征集",
   "linux.do-最新:acdab857c157": "Gemini Ultra 0元羊毛这波，如果放在国内互联网会如何处罚涉事部门？",
   "linux.do-最新:ad26ffdaf3e2": "现2026年11月。在还有什么可以白嫖gemini pro的方式吗？",
   "linux.do-最新:adbb1b4d4ca4": "视频模型中，除了MUSE还有什么能薅羊毛的吗？",
@@ -2884,6 +2919,7 @@
   "linux.do-最新:c7ff2e3d95c9": "今年下半年的羊毛有点多啊",
   "linux.do-最新:cc46214318b6": "muse邮箱目前三个字母的还不少，免费用户可开",
   "linux.do-最新:d05456da462b": "聚合查看AI供应商额度,支持 一键导入 magpie/cpa/9router/cc-switch",
+  "linux.do-最新:d3a5f8459e85": "muse free现在的模型基本都是muse-wonder",
   "linux.do-最新:d48d4a1501cc": "Droid额度异常被官方解决了",
   "linux.do-最新:d525040f874d": "话说有佬知道谷歌黑五当天的活动是啥么",
   "linux.do-最新:d86daeb03539": "巧了.刚蹬完俩号.谷歌突然把所有额度全重置了",

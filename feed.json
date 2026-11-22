@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "免费模型使用",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 50,
+    "vendor": "muse"
+   },
+   "d": "11-23 00:04",
+   "link": "https://linux.do/t/topic/3223596",
+   "t": "2026-11-22 16:09:25",
+   "title": "muse free现在的模型基本都是muse-wonder"
+  },
+  {
+   "ai": {
+    "amount": "免费API",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 40,
+    "vendor": null
+   },
+   "d": "11-22 23:58",
+   "link": "https://linux.do/t/topic/3223572",
+   "t": "2026-11-22 16:09:25",
+   "title": "新免费api logo征集"
+  },
+  {
+   "ai": {
     "amount": "1,000万Token",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://linux.do/t/topic/3174320",
    "t": "2026-11-14 01:34:41",
    "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
-  },
-  {
-   "ai": {
-    "amount": "5美元/天",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "Anthropic"
-   },
-   "d": "11-14 08:25",
-   "link": "https://linux.do/t/topic/3174153",
-   "t": "2026-11-14 01:19:03",
-   "title": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】"
-  },
-  {
-   "ai": {
-    "amount": "额度重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "Google"
-   },
-   "d": "11-14 08:02",
-   "link": "https://linux.do/t/topic/3174095",
-   "t": "2026-11-14 00:05:51",
-   "title": "Antigravity 重置了Gemini的额度"
   }
  ]
 }
