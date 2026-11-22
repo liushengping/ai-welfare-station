@@ -1,23 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.01637826796296296,
-   "ai": {
-    "amount": "三端开源免费",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "星图 Atlas"
-   },
-   "date": "Sat, 21 Nov 2026 13:14:04 +0000",
-   "date_str": "11-21 21:14",
-   "id": "小众软件论坛:ee747547a9d1",
-   "link": "https://meta.appinn.net/t/topic/96546",
-   "title": "【开发者自荐】账号星图 Atlas：记清每个邮箱、手机号注册和绑定了哪些 App，网页 + iOS + 安卓三端开源免费"
-  }
- ],
- "digest_date": "2026-11-21",
+ "digest": [],
+ "digest_date": "2026-11-22",
  "feed": [
   {
    "ai": {
