@@ -2,6 +2,76 @@
  "items": [
   {
    "ai": {
+    "amount": "1,000万Token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "国产大厂"
+   },
+   "d": "11-22 18:05",
+   "link": "https://linux.do/t/topic/3221885",
+   "t": "2026-11-22 13:00:45",
+   "title": "【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存"
+  },
+  {
+   "ai": {
+    "amount": "",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google AI Pro"
+   },
+   "d": "11-22 14:43",
+   "link": "https://linux.do/t/topic/3220938",
+   "t": "2026-11-22 13:00:45",
+   "title": "Google AI Pro 又有免费领取渠道了"
+  },
+  {
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "富可敌国"
+   },
+   "d": "11-22 18:43",
+   "link": "https://linux.do/t/topic/3222073",
+   "t": "2026-11-22 13:00:45",
+   "title": "【富可敌国】【OpenLux】11/22｜Qwen4-Max、Seedance 2.5 Flash等上新，留 ID 送 3.5 元"
+  },
+  {
+   "ai": {
+    "amount": "$1.5",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "spiderai Claude"
+   },
+   "d": "11-22 11:40",
+   "link": "https://linux.do/t/topic/3220140",
+   "t": "2026-11-22 13:00:45",
+   "title": "【富可敌国】白嫖 $1.5 先测！spiderai Claude 全部分组 24h 可用率 100%，首字 1.5 秒起｜Gemini新货 已上架"
+  },
+  {
+   "ai": {
+    "amount": "10美金/月",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "向量化ai搜索"
+   },
+   "d": "11-22 10:01",
+   "link": "https://linux.do/t/topic/3219664",
+   "t": "2026-11-22 13:00:45",
+   "title": "免费向量化ai搜索每月10美金"
+  },
+  {
+   "ai": {
     "amount": "三端开源免费",
     "deadline": null,
     "start": null,
@@ -769,76 +839,6 @@
    "link": "https://linux.do/t/topic/3174095",
    "t": "2026-11-14 00:05:51",
    "title": "Antigravity 重置了Gemini的额度"
-  },
-  {
-   "ai": {
-    "amount": "1000刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "星驰公益"
-   },
-   "d": "11-13 22:58",
-   "link": "https://linux.do/t/topic/3173234",
-   "t": "2026-11-13 22:10:05",
-   "title": "【富可敌国】星驰公益每天放福利啦 送1000刀 送1000刀 无任何充值"
-  },
-  {
-   "ai": {
-    "amount": "充50送50",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 85,
-    "vendor": "VelaMost"
-   },
-   "d": "11-13 16:52",
-   "link": "https://linux.do/t/topic/3171430",
-   "t": "2026-11-13 22:10:05",
-   "title": "【富可敌国】VelaMost老板不过了！充50送50 充100送100还可双档位一起领！注册$2，评论ID再送$5，进群再送$2！"
-  },
-  {
-   "ai": {
-    "amount": "25刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "telnyx"
-   },
-   "d": "11-13 23:46",
-   "link": "https://linux.do/t/topic/3173446",
-   "t": "2026-11-13 22:10:05",
-   "title": "telnyx注册送25刀 白嫖美国手机号接码 还有K3 GLM5.3"
-  },
-  {
-   "ai": {
-    "amount": "每月$10",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 75,
-    "vendor": "google"
-   },
-   "d": "11-13 16:35",
-   "link": "https://linux.do/t/topic/3171302",
-   "t": "2026-11-13 22:10:05",
-   "title": "google赠送每月$10"
-  },
-  {
-   "ai": {
-    "amount": "免费周卡",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "嘀嘀嘀 AI"
-   },
-   "d": "11-13 23:08",
-   "link": "https://linux.do/t/topic/3173297",
-   "t": "2026-11-13 22:10:05",
-   "title": "【富可敌国】嘀嘀嘀 AI 免费周卡可再领一次"
   }
  ]
 }

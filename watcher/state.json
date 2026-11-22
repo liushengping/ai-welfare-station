@@ -1,7 +1,158 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.12120962523148147,
+   "ai": {
+    "amount": "1,000万Token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "国产大厂"
+   },
+   "date": "Sun, 22 Nov 2026 10:05:05 +0000",
+   "date_str": "11-22 18:05",
+   "id": "linux.do-福利羊毛板块:70172dfd0ad8",
+   "link": "https://linux.do/t/topic/3221885",
+   "title": "【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存"
+  },
+  {
+   "_age": 0.2613600888773148,
+   "ai": {
+    "amount": "",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google AI Pro"
+   },
+   "date": "Sun, 22 Nov 2026 06:43:16 +0000",
+   "date_str": "11-22 14:43",
+   "id": "linux.do-福利羊毛板块:570b55784818",
+   "link": "https://linux.do/t/topic/3220938",
+   "title": "Google AI Pro 又有免费领取渠道了"
+  },
+  {
+   "_age": 0.09485545842592594,
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "富可敌国"
+   },
+   "date": "Sun, 22 Nov 2026 10:43:02 +0000",
+   "date_str": "11-22 18:43",
+   "id": "linux.do-福利羊毛板块:ac05c4182847",
+   "link": "https://linux.do/t/topic/3222073",
+   "title": "【富可敌国】【OpenLux】11/22｜Qwen4-Max、Seedance 2.5 Flash等上新，留 ID 送 3.5 元"
+  },
+  {
+   "_age": 0.3886054597453704,
+   "ai": {
+    "amount": "$1.5",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "spiderai Claude"
+   },
+   "date": "Sun, 22 Nov 2026 03:40:02 +0000",
+   "date_str": "11-22 11:40",
+   "id": "linux.do-福利羊毛板块:188ca2ce929f",
+   "link": "https://linux.do/t/topic/3220140",
+   "title": "【富可敌国】白嫖 $1.5 先测！spiderai Claude 全部分组 24h 可用率 100%，首字 1.5 秒起｜Gemini新货 已上架"
+  },
+  {
+   "_age": 0.4570776823842593,
+   "ai": {
+    "amount": "10美金/月",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "向量化ai搜索"
+   },
+   "date": "Sun, 22 Nov 2026 02:01:26 +0000",
+   "date_str": "11-22 10:01",
+   "id": "linux.do-福利羊毛板块:2057b25babe1",
+   "link": "https://linux.do/t/topic/3219664",
+   "title": "免费向量化ai搜索每月10美金"
+  }
+ ],
  "digest_date": "2026-11-22",
  "feed": [
+  {
+   "ai": {
+    "amount": "1,000万Token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "国产大厂"
+   },
+   "d": "11-22 18:05",
+   "link": "https://linux.do/t/topic/3221885",
+   "t": "2026-11-22 13:00:45",
+   "title": "【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存"
+  },
+  {
+   "ai": {
+    "amount": "",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "Google AI Pro"
+   },
+   "d": "11-22 14:43",
+   "link": "https://linux.do/t/topic/3220938",
+   "t": "2026-11-22 13:00:45",
+   "title": "Google AI Pro 又有免费领取渠道了"
+  },
+  {
+   "ai": {
+    "amount": "3.5元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "富可敌国"
+   },
+   "d": "11-22 18:43",
+   "link": "https://linux.do/t/topic/3222073",
+   "t": "2026-11-22 13:00:45",
+   "title": "【富可敌国】【OpenLux】11/22｜Qwen4-Max、Seedance 2.5 Flash等上新，留 ID 送 3.5 元"
+  },
+  {
+   "ai": {
+    "amount": "$1.5",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 75,
+    "vendor": "spiderai Claude"
+   },
+   "d": "11-22 11:40",
+   "link": "https://linux.do/t/topic/3220140",
+   "t": "2026-11-22 13:00:45",
+   "title": "【富可敌国】白嫖 $1.5 先测！spiderai Claude 全部分组 24h 可用率 100%，首字 1.5 秒起｜Gemini新货 已上架"
+  },
+  {
+   "ai": {
+    "amount": "10美金/月",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 70,
+    "vendor": "向量化ai搜索"
+   },
+   "d": "11-22 10:01",
+   "link": "https://linux.do/t/topic/3219664",
+   "t": "2026-11-22 13:00:45",
+   "title": "免费向量化ai搜索每月10美金"
+  },
   {
    "ai": {
     "amount": "三端开源免费",
@@ -771,76 +922,6 @@
    "link": "https://linux.do/t/topic/3174095",
    "t": "2026-11-14 00:05:51",
    "title": "Antigravity 重置了Gemini的额度"
-  },
-  {
-   "ai": {
-    "amount": "1000刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "星驰公益"
-   },
-   "d": "11-13 22:58",
-   "link": "https://linux.do/t/topic/3173234",
-   "t": "2026-11-13 22:10:05",
-   "title": "【富可敌国】星驰公益每天放福利啦 送1000刀 送1000刀 无任何充值"
-  },
-  {
-   "ai": {
-    "amount": "充50送50",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 85,
-    "vendor": "VelaMost"
-   },
-   "d": "11-13 16:52",
-   "link": "https://linux.do/t/topic/3171430",
-   "t": "2026-11-13 22:10:05",
-   "title": "【富可敌国】VelaMost老板不过了！充50送50 充100送100还可双档位一起领！注册$2，评论ID再送$5，进群再送$2！"
-  },
-  {
-   "ai": {
-    "amount": "25刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "telnyx"
-   },
-   "d": "11-13 23:46",
-   "link": "https://linux.do/t/topic/3173446",
-   "t": "2026-11-13 22:10:05",
-   "title": "telnyx注册送25刀 白嫖美国手机号接码 还有K3 GLM5.3"
-  },
-  {
-   "ai": {
-    "amount": "每月$10",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 75,
-    "vendor": "google"
-   },
-   "d": "11-13 16:35",
-   "link": "https://linux.do/t/topic/3171302",
-   "t": "2026-11-13 22:10:05",
-   "title": "google赠送每月$10"
-  },
-  {
-   "ai": {
-    "amount": "免费周卡",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "嘀嘀嘀 AI"
-   },
-   "d": "11-13 23:08",
-   "link": "https://linux.do/t/topic/3173297",
-   "t": "2026-11-13 22:10:05",
-   "title": "【富可敌国】嘀嘀嘀 AI 免费周卡可再领一次"
   }
  ],
  "links": {
@@ -1121,6 +1202,16 @@
   "https://linux.do/t/topic/3208628": "1",
   "https://linux.do/t/topic/3208665": "1",
   "https://linux.do/t/topic/3208700": "1",
+  "https://linux.do/t/topic/3219664": "1",
+  "https://linux.do/t/topic/3220005": "1",
+  "https://linux.do/t/topic/3220140": "1",
+  "https://linux.do/t/topic/3220938": "1",
+  "https://linux.do/t/topic/3221107": "1",
+  "https://linux.do/t/topic/3221516": "1",
+  "https://linux.do/t/topic/3221607": "1",
+  "https://linux.do/t/topic/3221885": "1",
+  "https://linux.do/t/topic/3222073": "1",
+  "https://linux.do/t/topic/3222644": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2727,6 +2818,7 @@
   "linux.do-最新:4e5075596b9f": "长期使用GPT，培养了及时复盘和测试的习惯，我称之为GPT降智送给我的礼物",
   "linux.do-最新:512b504c5a45": "哈基米5x，使用carbon的token用量是多少",
   "linux.do-最新:563869e96121": "佬们觉得GPT6.2Sol/Astra哪个推理等级用起来最舒服？额度消耗快吗？",
+  "linux.do-最新:5942e8d8c6ca": "谷歌5x和20x的差距好大啊 5x的额度消耗非常快 20x的用不完",
   "linux.do-最新:5b65ae5e936c": "还有福利站可以去吗",
   "linux.do-最新:5ec21ed1ede3": "微软发布的token消耗优化插件TokenEconomizer有佬体验过吗",
   "linux.do-最新:5f90a3e97b40": "为什么我的Codex有2000多美刀的额度？",
@@ -2809,10 +2901,13 @@
   "linux.do-福利羊毛板块:14b716f4d9db": "免费麦当劳琵琶腿",
   "linux.do-福利羊毛板块:16f641eca4ad": "OpenCode又能免费玩长猫2.5了!",
   "linux.do-福利羊毛板块:1720a57d1629": "【PM公益站】抽10个10＄额度兑换码",
+  "linux.do-福利羊毛板块:188ca2ce929f": "【富可敌国】白嫖 $1.5 先测！spiderai Claude 全部分组 24h 可用率 100%，首字 1.5 秒起｜Gemini新货 已上架",
   "linux.do-福利羊毛板块:18ea7ab6e34c": "GPT又有新羊毛？研究人员计划有免费使用权限",
   "linux.do-福利羊毛板块:1bc62b96147c": "[Adal AI] Adal AI Agent 试运营，自研 AI Agent，注册就送 2$",
+  "linux.do-福利羊毛板块:1c8bd344e201": "几年的free老号A\\支付即kyc",
   "linux.do-福利羊毛板块:1ca4587fd8ba": "【PM公益站】Free组上线一堆高端模型",
   "linux.do-福利羊毛板块:1db6de298d32": "分享一个可以免费进行AI 3d建模的网站",
+  "linux.do-福利羊毛板块:2057b25babe1": "免费向量化ai搜索每月10美金",
   "linux.do-福利羊毛板块:25331e4476ea": "AMD免费领10美元，可以完成任务获取更多的积分",
   "linux.do-福利羊毛板块:260d0f4be41d": "如果去香港开卡和券商可以薅很多羊毛",
   "linux.do-福利羊毛板块:27c352ea7d1e": "送点谷歌普通（不是pro搞错了）账号 开Ultra掉的",
@@ -2845,6 +2940,7 @@
   "linux.do-福利羊毛板块:537382862c12": "白嫖咪咕会员1年方法",
   "linux.do-福利羊毛板块:53e78c48f437": "阿里云的11月定制杯垫还有库存可领取",
   "linux.do-福利羊毛板块:555ab84d5732": "腾子的另一个版本workbuddy，模型全部免费还有k3",
+  "linux.do-福利羊毛板块:570b55784818": "Google AI Pro 又有免费领取渠道了",
   "linux.do-福利羊毛板块:584a6a8dcc17": "白嫖cursor搞定！上图！用的被佬友唾弃的edu",
   "linux.do-福利羊毛板块:58f742344be6": "mlh联合Grok Premium 免费一个月",
   "linux.do-福利羊毛板块:5f6cac5d99ca": "免费一级域名一年",
@@ -2856,11 +2952,14 @@
   "linux.do-福利羊毛板块:6472fc70a964": "【富可敌国】【NewCodex】又来拉新了~注册+评论回复ID赠送3刀，加群再增3刀~新增GPT-6.2系列模型，欢迎体验~~",
   "linux.do-福利羊毛板块:647cf8bf9bee": "移动app灵犀送6元话费",
   "linux.do-福利羊毛板块:66c9535e3db2": "【富可敌国】【OxWork】抽200 份 49 元标准版 Plus 会员。双十一特惠！注册送等值5元积分。限量 2000 份 99 元套餐额外赠送 500 积分， H3 低至0.03 元/秒起，DeepSeek 高速API 低至五折。",
+  "linux.do-福利羊毛板块:6702d2484500": "想问下最近有什么不封号不掉订阅的Gemini羊毛吗",
   "linux.do-福利羊毛板块:69090119e66e": "BLG夺冠，B站送大会员啦",
+  "linux.do-福利羊毛板块:698b269e79ed": "[失效]Cursor + Grok Bot 可以免费白嫖一个月",
   "linux.do-福利羊毛板块:69be62d85d9e": "b站免费大会员限时领取",
   "linux.do-福利羊毛板块:6af76bf96c8d": "领今日最大份羊毛-虾蹬联合国全球至尊版 1000份",
   "linux.do-福利羊毛板块:6c4cdad60dad": "Firefox火狐浏览器内置免费VPN更新支持无限流量",
   "linux.do-福利羊毛板块:6d9194fa10f1": "【快跑AI】 Qwen Audio 系列多款音频模型 72 折 已上线 注册送10$",
+  "linux.do-福利羊毛板块:70172dfd0ad8": "【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存",
   "linux.do-福利羊毛板块:73d21fb8d63c": "【已无】送个腾讯视频体验 vip",
   "linux.do-福利羊毛板块:74ce61143893": "支付宝羊毛18元消费红包，已亲测，已消费，需要的自行薅",
   "linux.do-福利羊毛板块:75291aaa239f": "君の星辰 双十一特价活动，gpt特惠降至0.05兑换一刀，持续到12日中午",
@@ -2894,9 +2993,11 @@
   "linux.do-福利羊毛板块:a21e0f132441": "（已送出）有个家宽还有10来G流量，来个佬友帮测试下问题",
   "linux.do-福利羊毛板块:a2bfff8c6f55": "【LV中转】双十一福利接着来：充值 8.8 折，GPT（不降智）0.08，免费额度也能领！",
   "linux.do-福利羊毛板块:a2da9d7002f9": "ZCode 又送3亿token了",
+  "linux.do-福利羊毛板块:a51ae6e39bd0": "【九幺】送100000000$，第三次诈尸",
   "linux.do-福利羊毛板块:a674d3055444": "【哔哩公益站】（试运行）快来挖哔哩的矿，总1亿token",
   "linux.do-福利羊毛板块:a9d9406c4301": "【哔哩公益站】快来挖哔哩的矿，100M永久额度",
   "linux.do-福利羊毛板块:aa6b1310a404": "zcode刚刚突然推送周末3亿token，大家收到的可以领一波",
+  "linux.do-福利羊毛板块:ac05c4182847": "【富可敌国】【OpenLux】11/22｜Qwen4-Max、Seedance 2.5 Flash等上新，留 ID 送 3.5 元",
   "linux.do-福利羊毛板块:addb658eb2a0": "gpt退款流羊毛",
   "linux.do-福利羊毛板块:af854df84f52": "【RelayFor】6Luna不限量，不降汁免费压测",
   "linux.do-福利羊毛板块:b02bf935dcd2": "【RelayFor】我免费辣",
