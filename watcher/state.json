@@ -133,6 +133,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "免费GPU和服务器",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 100,
+    "vendor": "焚决"
+   },
+   "d": "11-23 01:06",
+   "link": "https://linux.do/t/topic/3223815",
+   "t": "2026-11-22 17:08:48",
+   "title": "免费GPU和服务器焚决，提示词直接给muse即可薅"
+  },
+  {
+   "ai": {
     "amount": "10-20亿token",
     "deadline": null,
     "start": null,
@@ -956,20 +970,6 @@
    "link": "https://linux.do/t/topic/3176393",
    "t": "2026-11-14 17:35:12",
    "title": "【RelayFor】6Luna不限量，不降汁免费压测"
-  },
-  {
-   "ai": {
-    "amount": "多个模型免费",
-    "deadline": null,
-    "start": null,
-    "urgent": true,
-    "value": 40,
-    "vendor": "numes.ai"
-   },
-   "d": "11-14 16:20",
-   "link": "https://linux.do/t/topic/3175992",
-   "t": "2026-11-14 17:35:12",
-   "title": "numes.ai多个模型限时免费（超级慢，分享给有能者用）"
   }
  ],
  "links": {
@@ -1277,6 +1277,8 @@
   "https://linux.do/t/topic/3223681": "1",
   "https://linux.do/t/topic/3223715": "1",
   "https://linux.do/t/topic/3223725": "1",
+  "https://linux.do/t/topic/3223812": "1",
+  "https://linux.do/t/topic/3223815": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2897,6 +2899,7 @@
   "linux.do-最新:6dc0f2e3208a": "gpt plus好像把聊天合并额度了",
   "linux.do-最新:6e2fc8880b69": "codex剩余额度在没使用情况下突然从33%降到12%",
   "linux.do-最新:6ee59502bd7e": "请教一下，自己购买的 API 免费分享给佬友算违规推广吗？",
+  "linux.do-最新:730a24dbb84d": "免费GPU和服务器焚决，提示词直接给muse即可薅",
   "linux.do-最新:73f01fdf121b": "Gemini任务模式额度更多？",
   "linux.do-最新:7511842ee678": "Openai正在向部分plus和所有team用户推送Dots",
   "linux.do-最新:76ad903eb061": "6.2 Astra发布了，会重置额度吗",
@@ -2905,6 +2908,7 @@
   "linux.do-最新:81551543b5fe": "gemini pro（包括jio）的Neon每周有10-20亿token（实测估算）",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
   "linux.do-最新:8b995958d407": "Claude Ultra订阅跑Fable一天用完了所有额度",
+  "linux.do-最新:8bcce7118143": "阿里云企业邮箱免费版无法购买",
   "linux.do-最新:8cf25233d4a6": "百度官方也弄中转站了（大模型交易平台词元所，日均调用Token超7000亿）",
   "linux.do-最新:8dc74ad9bb89": "gpt chat 和 work 合并的话 free 号额度会不会变高",
   "linux.do-最新:92735762d3a7": "腾讯服务器拼团，我已开团拼团成功送3个月时长",
