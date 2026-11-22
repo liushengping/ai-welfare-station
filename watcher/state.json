@@ -133,6 +133,20 @@
  "feed": [
   {
    "ai": {
+    "amount": "不限额度",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 85,
+    "vendor": "DeepSeek"
+   },
+   "d": "11-23 00:38",
+   "link": "https://linux.do/t/topic/3223717",
+   "t": "2026-11-22 18:06:01",
+   "title": "不限额度deepseek v4.1 flash，已叠加破甲提示词，速蹬！"
+  },
+  {
+   "ai": {
     "amount": "免费GPU和服务器",
     "deadline": null,
     "start": null,
@@ -956,20 +970,6 @@
    "link": "https://linux.do/t/topic/3176441",
    "t": "2026-11-14 17:35:12",
    "title": "6Luna免费Key"
-  },
-  {
-   "ai": {
-    "amount": "不限量免费压测",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "6Luna"
-   },
-   "d": "11-14 18:12",
-   "link": "https://linux.do/t/topic/3176393",
-   "t": "2026-11-14 17:35:12",
-   "title": "【RelayFor】6Luna不限量，不降汁免费压测"
   }
  ],
  "links": {
@@ -1276,9 +1276,11 @@
   "https://linux.do/t/topic/3223638": "1",
   "https://linux.do/t/topic/3223681": "1",
   "https://linux.do/t/topic/3223715": "1",
+  "https://linux.do/t/topic/3223717": "1",
   "https://linux.do/t/topic/3223725": "1",
   "https://linux.do/t/topic/3223812": "1",
   "https://linux.do/t/topic/3223815": "1",
+  "https://linux.do/t/topic/3223888": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -3013,6 +3015,7 @@
   "linux.do-福利羊毛板块:39f610c62424": "vercel提供免费deepseek search与fetch",
   "linux.do-福利羊毛板块:4025f0a8fd32": "zcode周末福利来了",
   "linux.do-福利羊毛板块:42584e566dcf": "送个Gmail EDU教育邮箱短租",
+  "linux.do-福利羊毛板块:42b8d3f7a6c9": "不限额度deepseek v4.1 flash，已叠加破甲提示词，速蹬！",
   "linux.do-福利羊毛板块:462c12af6edc": "免费发放100000张！苏州NFC交通卡可领5折叠加券",
   "linux.do-福利羊毛板块:47ddbcae4354": "【14:00 抢】送 gpt-astra 额度",
   "linux.do-福利羊毛板块:48ad8b6af9d1": "11月12日免费薅羊毛合集",
@@ -3126,6 +3129,7 @@
   "linux.do-福利羊毛板块:f2304df5a617": "【富可敌国】星驰公益每天放福利啦 送1000刀 送1000刀 无任何充值",
   "linux.do-福利羊毛板块:f4274f1787ca": "【NEXA】双11特惠分组 不降脂0.11xGPT 0.6x CCMAX神秘渠道 | fable5.2上线 香蕉8分 image2.6 1分 | 1：1充值 | 高智 稳定 5分钟测智 | 谁来都送2体验额度",
   "linux.do-福利羊毛板块:f476f40b7829": "京东领取8元建行支付立减券",
+  "linux.do-福利羊毛板块:f484b6d7fe71": "不限额度deepseek v4.1 flash，切了机器，速蹬！",
   "linux.do-福利羊毛板块:f4b3d220ae6d": "muse免费白嫖资源一条龙",
   "linux.do-福利羊毛板块:f624e680b09f": "每天赠送5美元使用claude，支持fable5.2 opus5.5等【纯公益】",
   "linux.do-福利羊毛板块:f6b76bea8e27": "支付宝免费领体脂称了",

@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "不限额度",
+    "deadline": null,
+    "start": null,
+    "urgent": true,
+    "value": 85,
+    "vendor": "DeepSeek"
+   },
+   "d": "11-23 00:38",
+   "link": "https://linux.do/t/topic/3223717",
+   "t": "2026-11-22 18:06:01",
+   "title": "不限额度deepseek v4.1 flash，已叠加破甲提示词，速蹬！"
+  },
+  {
+   "ai": {
     "amount": "免费GPU和服务器",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3176441",
    "t": "2026-11-14 17:35:12",
    "title": "6Luna免费Key"
-  },
-  {
-   "ai": {
-    "amount": "不限量免费压测",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "6Luna"
-   },
-   "d": "11-14 18:12",
-   "link": "https://linux.do/t/topic/3176393",
-   "t": "2026-11-14 17:35:12",
-   "title": "【RelayFor】6Luna不限量，不降汁免费压测"
   }
  ]
 }
