@@ -111,10 +111,40 @@
    "id": "linux.do-最新:ac9d8645b8c7",
    "link": "https://linux.do/t/topic/3223572",
    "title": "新免费api logo征集"
+  },
+  {
+   "_age": 0.007339649039351852,
+   "ai": {
+    "amount": "10-20亿token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google"
+   },
+   "date": "Sun, 22 Nov 2026 16:12:55 +0000",
+   "date_str": "11-23 00:12",
+   "id": "linux.do-最新:81551543b5fe",
+   "link": "https://linux.do/t/topic/3223638",
+   "title": "gemini pro（包括jio）的Neon每周有10-20亿token（实测估算）"
   }
  ],
  "digest_date": "2026-11-22",
  "feed": [
+  {
+   "ai": {
+    "amount": "10-20亿token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google"
+   },
+   "d": "11-23 00:12",
+   "link": "https://linux.do/t/topic/3223638",
+   "t": "2026-11-22 16:23:52",
+   "title": "gemini pro（包括jio）的Neon每周有10-20亿token（实测估算）"
+  },
   {
    "ai": {
     "amount": "免费模型使用",
@@ -940,20 +970,6 @@
    "link": "https://linux.do/t/topic/3175992",
    "t": "2026-11-14 17:35:12",
    "title": "numes.ai多个模型限时免费（超级慢，分享给有能者用）"
-  },
-  {
-   "ai": {
-    "amount": "50刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Arena API平台"
-   },
-   "d": "11-14 09:28",
-   "link": "https://linux.do/t/topic/3174320",
-   "t": "2026-11-14 01:34:41",
-   "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
   }
  ],
  "links": {
@@ -1255,6 +1271,9 @@
   "https://linux.do/t/topic/3223463": "1",
   "https://linux.do/t/topic/3223572": "1",
   "https://linux.do/t/topic/3223596": "1",
+  "https://linux.do/t/topic/3223618": "1",
+  "https://linux.do/t/topic/3223626": "1",
+  "https://linux.do/t/topic/3223638": "1",
   "https://market.aliyun.com": "1",
   "https://meta.appinn.net/t/topic/91202": "1",
   "https://meta.appinn.net/t/topic/91222": "1",
@@ -2879,6 +2898,7 @@
   "linux.do-最新:76ad903eb061": "6.2 Astra发布了，会重置额度吗",
   "linux.do-最新:78c0a879b340": "codex 旧推理 token 计算重复导致提前压缩",
   "linux.do-最新:807a197a2f54": "越来越多的苏格兰年轻人申领残疾福利金",
+  "linux.do-最新:81551543b5fe": "gemini pro（包括jio）的Neon每周有10-20亿token（实测估算）",
   "linux.do-最新:89550c2cdca1": "酒馆真吃token啊，佬有什么好法可以低价搞到一些token吗",
   "linux.do-最新:8b995958d407": "Claude Ultra订阅跑Fable一天用完了所有额度",
   "linux.do-最新:8cf25233d4a6": "百度官方也弄中转站了（大模型交易平台词元所，日均调用Token超7000亿）",
@@ -2917,6 +2937,7 @@
   "linux.do-最新:c4b0a9dacf49": "随着三方工具可以使用openai订阅额度，后面替代grokbot的最好方案是？",
   "linux.do-最新:c58753840c3f": "claude网页端灰度了全新的额度界面",
   "linux.do-最新:c7ff2e3d95c9": "今年下半年的羊毛有点多啊",
+  "linux.do-最新:c9e3d129e1ca": "域名邮箱批量注册GPT Free账号会有什么风险",
   "linux.do-最新:cc46214318b6": "muse邮箱目前三个字母的还不少，免费用户可开",
   "linux.do-最新:d05456da462b": "聚合查看AI供应商额度,支持 一键导入 magpie/cpa/9router/cc-switch",
   "linux.do-最新:d3a5f8459e85": "muse free现在的模型基本都是muse-wonder",
@@ -2931,6 +2952,7 @@
   "linux.do-最新:e836ac2ab37b": "666 opencode的deepseek额度涨上去了",
   "linux.do-最新:e95566c41af1": "用Gemini 4 Hydrogen周额度消耗好快啊",
   "linux.do-最新:eec4010228e8": "注册了个muse 请问现在还能白嫖token吗",
+  "linux.do-最新:f027f204d3e5": "原来我一个月也用百亿token!",
   "linux.do-最新:f0990e959445": "【顶级阳谋】谷歌Ultra免费试用之后留下了什么？",
   "linux.do-最新:f1788d1ec90a": "这几天谷歌羊毛一个没上车成功",
   "linux.do-最新:f3f7661d85c5": "Gemini 20x活动结束了？下个月拼车时候可以涨价吗？哈哈哈",

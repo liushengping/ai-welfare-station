@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "10-20亿token",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 90,
+    "vendor": "Google"
+   },
+   "d": "11-23 00:12",
+   "link": "https://linux.do/t/topic/3223638",
+   "t": "2026-11-22 16:23:52",
+   "title": "gemini pro（包括jio）的Neon每周有10-20亿token（实测估算）"
+  },
+  {
+   "ai": {
     "amount": "免费模型使用",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3175992",
    "t": "2026-11-14 17:35:12",
    "title": "numes.ai多个模型限时免费（超级慢，分享给有能者用）"
-  },
-  {
-   "ai": {
-    "amount": "50刀",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Arena API平台"
-   },
-   "d": "11-14 09:28",
-   "link": "https://linux.do/t/topic/3174320",
-   "t": "2026-11-14 01:34:41",
-   "title": "「佬友们检查收件箱」大模型竞技场Arena API平台上线，赠送 50 刀，可用Fable 5.2/Gemini 4 Carbon/6.1 Sol!"
   }
  ]
 }
