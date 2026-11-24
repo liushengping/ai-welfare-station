@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.07872731935185186,
+   "ai": {
+    "amount": "70+ 包装工程与 3D 装柜免费计算器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "盒易包装工具箱"
+   },
+   "date": "Tue, 24 Nov 2026 17:30:12 +0000",
+   "date_str": "11-25 01:30",
+   "id": "小众软件论坛:fba3b1dc71b3",
+   "link": "https://meta.appinn.net/t/topic/96822",
+   "title": "盒易包装工具箱 [Web] - 免注册、100% 浏览器本地运算的 70+ 包装工程与 3D 装柜免费计算器"
+  }
+ ],
  "digest_date": "2026-11-24",
  "feed": [
+  {
+   "ai": {
+    "amount": "70+ 包装工程与 3D 装柜免费计算器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "盒易包装工具箱"
+   },
+   "d": "11-25 01:30",
+   "link": "https://meta.appinn.net/t/topic/96822",
+   "t": "2026-11-24 19:23:45",
+   "title": "盒易包装工具箱 [Web] - 免注册、100% 浏览器本地运算的 70+ 包装工程与 3D 装柜免费计算器"
+  },
   {
    "ai": {
     "amount": "免费开源工具",
@@ -827,20 +858,6 @@
    "link": "https://linux.do/t/topic/3177450",
    "t": "2026-11-14 17:35:12",
    "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
-  },
-  {
-   "ai": {
-    "amount": "ApiKey密钥",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "deepseek-v4.1-flash"
-   },
-   "d": "11-14 21:56",
-   "link": "https://linux.do/t/topic/3177307",
-   "t": "2026-11-14 17:35:12",
-   "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
   }
  ],
  "links": {
@@ -1313,6 +1330,7 @@
   "https://meta.appinn.net/t/topic/96673": "1",
   "https://meta.appinn.net/t/topic/96724": "1",
   "https://meta.appinn.net/t/topic/96771": "1",
+  "https://meta.appinn.net/t/topic/96822": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -3196,6 +3214,7 @@
   "小众软件论坛:f873ac329701": "用AI写的库存管理软件免费的",
   "小众软件论坛:f897a8214900": "【开源自荐】FreeControl2 - 新的scrcpy GUI",
   "小众软件论坛:f8ff860bd708": "〖开发者自荐〗Kites：支持全程本地运行的免费漫画翻译扩展",
+  "小众软件论坛:fba3b1dc71b3": "盒易包装工具箱 [Web] - 免注册、100% 浏览器本地运算的 70+ 包装工程与 3D 装柜免费计算器",
   "小众软件论坛:fdec5022efd8": "【软件自荐】MyShell：Mac 上免费的终端和 SSH 客户端，支持 JumpServer 堡垒机，AI 助手可复用已登录的连接",
   "智谱BigModel-活动文档:0316c040575a": "智谱AI开放文档 home page",
   "智谱BigModel-活动文档:0bb44598a7e4": "API Key",

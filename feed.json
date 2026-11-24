@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "70+ 包装工程与 3D 装柜免费计算器",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "盒易包装工具箱"
+   },
+   "d": "11-25 01:30",
+   "link": "https://meta.appinn.net/t/topic/96822",
+   "t": "2026-11-24 19:23:45",
+   "title": "盒易包装工具箱 [Web] - 免注册、100% 浏览器本地运算的 70+ 包装工程与 3D 装柜免费计算器"
+  },
+  {
+   "ai": {
     "amount": "免费开源工具",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3177450",
    "t": "2026-11-14 17:35:12",
    "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
-  },
-  {
-   "ai": {
-    "amount": "ApiKey密钥",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "deepseek-v4.1-flash"
-   },
-   "d": "11-14 21:56",
-   "link": "https://linux.do/t/topic/3177307",
-   "t": "2026-11-14 17:35:12",
-   "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
   }
  ]
 }
