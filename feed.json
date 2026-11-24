@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费开源工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Win顺"
+   },
+   "d": "11-24 09:35",
+   "link": "https://meta.appinn.net/t/topic/96724",
+   "t": "2026-11-24 07:58:43",
+   "title": "Win顺：免费开源的 Windows 快速搜索启动器、文本搜索、、剪贴板管理、截图等工具"
+  },
+  {
+   "ai": {
     "amount": "不限额度",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3177307",
    "t": "2026-11-14 17:35:12",
    "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
-  },
-  {
-   "ai": {
-    "amount": "Key",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "6Luna"
-   },
-   "d": "11-14 18:27",
-   "link": "https://linux.do/t/topic/3176441",
-   "t": "2026-11-14 17:35:12",
-   "title": "6Luna免费Key"
   }
  ]
 }

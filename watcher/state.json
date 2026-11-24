@@ -1,7 +1,21 @@
 {
  "digest": [],
- "digest_date": "2026-11-23",
+ "digest_date": "2026-11-24",
  "feed": [
+  {
+   "ai": {
+    "amount": "免费开源工具",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "Win顺"
+   },
+   "d": "11-24 09:35",
+   "link": "https://meta.appinn.net/t/topic/96724",
+   "t": "2026-11-24 07:58:43",
+   "title": "Win顺：免费开源的 Windows 快速搜索启动器、文本搜索、、剪贴板管理、截图等工具"
+  },
   {
    "ai": {
     "amount": "不限额度",
@@ -827,20 +841,6 @@
    "link": "https://linux.do/t/topic/3177307",
    "t": "2026-11-14 17:35:12",
    "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017"
-  },
-  {
-   "ai": {
-    "amount": "Key",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "6Luna"
-   },
-   "d": "11-14 18:27",
-   "link": "https://linux.do/t/topic/3176441",
-   "t": "2026-11-14 17:35:12",
-   "title": "6Luna免费Key"
   }
  ],
  "links": {
@@ -1311,6 +1311,7 @@
   "https://meta.appinn.net/t/topic/96591": "1",
   "https://meta.appinn.net/t/topic/96642": "1",
   "https://meta.appinn.net/t/topic/96673": "1",
+  "https://meta.appinn.net/t/topic/96724": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -3148,6 +3149,7 @@
   "小众软件论坛:c0355109e278": "UU远程开始收费：24元/月起，免费版只剩1080P 30帧",
   "小众软件论坛:c092e13a9c71": "Hermes 提供 7 款免费模型，从安装到选择模型",
   "小众软件论坛:c3a40f2ae724": "Radicle - 免费去中心化代码托管，GitHub、GitLab 的替代品",
+  "小众软件论坛:c6804e8d7a2a": "Win顺：免费开源的 Windows 快速搜索启动器、文本搜索、、剪贴板管理、截图等工具",
   "小众软件论坛:c9708e2e480d": "宝塔 Nginx 免费防火墙 8.4 存在：代码执行、凭据泄露与源码外传风险",
   "小众软件论坛:cfe5e85e3f5b": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
   "小众软件论坛:cff90bdff131": "JustWallpaper：免费的 Windows 多屏壁纸工具，支持横竖屏自动选图、各屏幕独立轮播",
