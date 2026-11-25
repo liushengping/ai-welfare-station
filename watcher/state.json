@@ -1,24 +1,21 @@
 {
- "digest": [
+ "digest": [],
+ "digest_date": "2026-11-25",
+ "feed": [
   {
-   "_age": 0.07872731935185186,
    "ai": {
-    "amount": "70+ 包装工程与 3D 装柜免费计算器",
+    "amount": "免费代打电话服务",
     "deadline": null,
     "start": null,
     "urgent": false,
-    "value": 10,
-    "vendor": "盒易包装工具箱"
+    "value": 85,
+    "vendor": "阿里千问"
    },
-   "date": "Tue, 24 Nov 2026 17:30:12 +0000",
-   "date_str": "11-25 01:30",
-   "id": "小众软件论坛:fba3b1dc71b3",
-   "link": "https://meta.appinn.net/t/topic/96822",
-   "title": "盒易包装工具箱 [Web] - 免注册、100% 浏览器本地运算的 70+ 包装工程与 3D 装柜免费计算器"
-  }
- ],
- "digest_date": "2026-11-24",
- "feed": [
+   "d": "11-25 11:12",
+   "link": "https://www.ithome.com/1/031/977.htm",
+   "t": "2026-11-25 06:35:25",
+   "title": "阿里千问 Go 全面开放免费代打电话服务，支持订餐厅、找快递、寻失物"
+  },
   {
    "ai": {
     "amount": "70+ 包装工程与 3D 装柜免费计算器",
@@ -844,20 +841,6 @@
    "link": "https://linux.do/t/topic/3177604",
    "t": "2026-11-14 17:35:12",
    "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
-  },
-  {
-   "ai": {
-    "amount": "token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "未知"
-   },
-   "d": "11-14 22:30",
-   "link": "https://linux.do/t/topic/3177450",
-   "t": "2026-11-14 17:35:12",
-   "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
   }
  ],
  "links": {
@@ -2038,6 +2021,7 @@
   "https://www.ithome.com/1/031/541.htm": "1",
   "https://www.ithome.com/1/031/586.htm": "1",
   "https://www.ithome.com/1/031/805.htm": "1",
+  "https://www.ithome.com/1/031/977.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2447,6 +2431,7 @@
   "IT之家:8bfc78b5c4fe": "苹果 iOS 27.3 扩展 Siri AI：支持繁体中文、覆盖 15 款 App 操作，能管理文件 / 定时发送信息等",
   "IT之家:8c016923458b": "苹果 iPad mini （A20 Pro）支持 35W 或更高功率充电头，但包装盒内送的头还是 20W",
   "IT之家:8c3e32ae4f2d": "苹果 iPhone Duo 京东原价开放购买，15999 元次日送货上门",
+  "IT之家:8c4ccc1109b5": "阿里千问 Go 全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
   "IT之家:8c5a32e020ac": "iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续",
   "IT之家:8c86ba68a406": "微软 Win11 推送 11 月累积更新：更新自动播放对话框、修复部分 USB 音频“代码 10”错误",
   "IT之家:8c8f5ff5b001": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件",

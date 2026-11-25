@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "免费代打电话服务",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 85,
+    "vendor": "阿里千问"
+   },
+   "d": "11-25 11:12",
+   "link": "https://www.ithome.com/1/031/977.htm",
+   "t": "2026-11-25 06:35:25",
+   "title": "阿里千问 Go 全面开放免费代打电话服务，支持订餐厅、找快递、寻失物"
+  },
+  {
+   "ai": {
     "amount": "70+ 包装工程与 3D 装柜免费计算器",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3177604",
    "t": "2026-11-14 17:35:12",
    "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
-  },
-  {
-   "ai": {
-    "amount": "token",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 60,
-    "vendor": "未知"
-   },
-   "d": "11-14 22:30",
-   "link": "https://linux.do/t/topic/3177450",
-   "t": "2026-11-14 17:35:12",
-   "title": "第一次发福利羊毛，周六啦给佬友们准备了点token"
   }
  ]
 }
