@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "本地优先原生工作台",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "FreeFolio"
+   },
+   "d": "11-25 14:42",
+   "link": "https://meta.appinn.net/t/topic/96875",
+   "t": "2026-11-25 06:49:42",
+   "title": "【开源自荐】FreeFolio 支持空间管理与单文件浏览的本地优先原生工作台"
+  },
+  {
+   "ai": {
     "amount": "免费代打电话服务",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3177903",
    "t": "2026-11-14 17:35:12",
    "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
-  },
-  {
-   "ai": {
-    "amount": "ApiKey密钥",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "glm5.3"
-   },
-   "d": "11-14 23:14",
-   "link": "https://linux.do/t/topic/3177604",
-   "t": "2026-11-14 17:35:12",
-   "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
   }
  ]
 }

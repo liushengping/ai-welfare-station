@@ -1,7 +1,38 @@
 {
- "digest": [],
+ "digest": [
+  {
+   "_age": 0.005061842048611111,
+   "ai": {
+    "amount": "本地优先原生工作台",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "FreeFolio"
+   },
+   "date": "Wed, 25 Nov 2026 06:42:12 +0000",
+   "date_str": "11-25 14:42",
+   "id": "小众软件论坛:24f25c048911",
+   "link": "https://meta.appinn.net/t/topic/96875",
+   "title": "【开源自荐】FreeFolio 支持空间管理与单文件浏览的本地优先原生工作台"
+  }
+ ],
  "digest_date": "2026-11-25",
  "feed": [
+  {
+   "ai": {
+    "amount": "本地优先原生工作台",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 80,
+    "vendor": "FreeFolio"
+   },
+   "d": "11-25 14:42",
+   "link": "https://meta.appinn.net/t/topic/96875",
+   "t": "2026-11-25 06:49:42",
+   "title": "【开源自荐】FreeFolio 支持空间管理与单文件浏览的本地优先原生工作台"
+  },
   {
    "ai": {
     "amount": "免费代打电话服务",
@@ -827,20 +858,6 @@
    "link": "https://linux.do/t/topic/3177903",
    "t": "2026-11-14 17:35:12",
    "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
-  },
-  {
-   "ai": {
-    "amount": "ApiKey密钥",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 70,
-    "vendor": "glm5.3"
-   },
-   "d": "11-14 23:14",
-   "link": "https://linux.do/t/topic/3177604",
-   "t": "2026-11-14 17:35:12",
-   "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥"
   }
  ],
  "links": {
@@ -1314,6 +1331,7 @@
   "https://meta.appinn.net/t/topic/96724": "1",
   "https://meta.appinn.net/t/topic/96771": "1",
   "https://meta.appinn.net/t/topic/96822": "1",
+  "https://meta.appinn.net/t/topic/96875": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -3063,6 +3081,7 @@
   "小众软件论坛:22e042ab4b9f": "【免费工具】SoSo 批量文件重命名 v3.0",
   "小众软件论坛:2455ddf47d8e": "Epic 免费游戏 2026-10-16",
   "小众软件论坛:246d26d5d88d": "【开发者自荐】Mac 屏幕边缘的弹出式工作台，还有桌面宠物！附免费体验码",
+  "小众软件论坛:24f25c048911": "【开源自荐】FreeFolio 支持空间管理与单文件浏览的本地优先原生工作台",
   "小众软件论坛:253f86d9617d": "书法库：14000+书法碑帖高清无码大图免费在线鉴赏平台-无需会员",
   "小众软件论坛:257b27e28132": "〖开发者自荐〗Bazi Diff 免费八字排盘，征集试用反馈",
   "小众软件论坛:25a9cc2fdce0": "【开源自荐】VibeMeeting：把会议部署在自己单位里，免费开源、可定制，浏览器直接入会",
