@@ -2,6 +2,20 @@
  "items": [
   {
    "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Gucci"
+   },
+   "d": "11-25 18:53",
+   "link": "https://www.ithome.com/1/032/457.htm",
+   "t": "2026-11-25 11:24:04",
+   "title": "Gucci 将纽约时代广场时装秀制作为空间视频，可在苹果 Vision Pro 上免费观看"
+  },
+  {
+   "ai": {
     "amount": "本地优先原生工作台",
     "deadline": null,
     "start": null,
@@ -825,20 +839,6 @@
    "link": "https://linux.do/t/topic/3175540",
    "t": "2026-11-14 17:35:12",
    "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
-  },
-  {
-   "ai": {
-    "amount": "3.5元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenLux"
-   },
-   "d": "11-15 00:41",
-   "link": "https://linux.do/t/topic/3177903",
-   "t": "2026-11-14 17:35:12",
-   "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
   }
  ]
 }

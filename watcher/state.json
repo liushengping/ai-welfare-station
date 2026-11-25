@@ -15,10 +15,40 @@
    "id": "小众软件论坛:24f25c048911",
    "link": "https://meta.appinn.net/t/topic/96875",
    "title": "【开源自荐】FreeFolio 支持空间管理与单文件浏览的本地优先原生工作台"
+  },
+  {
+   "_age": 0.020895519814814814,
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Gucci"
+   },
+   "date": "Wed, 25 Nov 2026 10:53:01 GMT",
+   "date_str": "11-25 18:53",
+   "id": "IT之家:51a7e1687c0c",
+   "link": "https://www.ithome.com/1/032/457.htm",
+   "title": "Gucci 将纽约时代广场时装秀制作为空间视频，可在苹果 Vision Pro 上免费观看"
   }
  ],
  "digest_date": "2026-11-25",
  "feed": [
+  {
+   "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "Gucci"
+   },
+   "d": "11-25 18:53",
+   "link": "https://www.ithome.com/1/032/457.htm",
+   "t": "2026-11-25 11:24:04",
+   "title": "Gucci 将纽约时代广场时装秀制作为空间视频，可在苹果 Vision Pro 上免费观看"
+  },
   {
    "ai": {
     "amount": "本地优先原生工作台",
@@ -844,20 +874,6 @@
    "link": "https://linux.do/t/topic/3175540",
    "t": "2026-11-14 17:35:12",
    "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
-  },
-  {
-   "ai": {
-    "amount": "3.5元",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "OpenLux"
-   },
-   "d": "11-15 00:41",
-   "link": "https://linux.do/t/topic/3177903",
-   "t": "2026-11-14 17:35:12",
-   "title": "【富可敌国】【OpenLux】11/15｜Gemini 4 Hydrogen 上新，留 ID 送 3.5 元"
   }
  ],
  "links": {
@@ -2044,6 +2060,9 @@
   "https://www.ithome.com/1/032/153.htm": "1",
   "https://www.ithome.com/1/032/160.htm": "1",
   "https://www.ithome.com/1/032/355.htm": "1",
+  "https://www.ithome.com/1/032/442.htm": "1",
+  "https://www.ithome.com/1/032/457.htm": "1",
+  "https://www.ithome.com/1/032/458.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2233,6 +2252,7 @@
   "IT之家:3be96295fd6c": "尴尬，保时捷向车主发送零跑汽车调查问卷",
   "IT之家:3beea0fc9527": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
   "IT之家:3bf86c6dc40b": "亚马逊反对纽约拟议的“最后一公里”配送新规：恐终结外包模式，每单最高加 5 美元",
+  "IT之家:3bfb1bd58527": "别克新 GL8 陆上公务舱先享版车型上市，限时售 22.49 万元",
   "IT之家:3c2fb1770c74": "阿里 Qoder 上线 Fast 模式：首次响应只要 3 秒，更省 Credits",
   "IT之家:3c4314ed77b1": "华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机开售，优惠价 749 元",
   "IT之家:3c7d80ae7c25": "理想汽车 OTA 8.7.0 开启推送：VLA 新增驾驶风格切换，支持眼镜指挥泊车方位控制",
@@ -2298,6 +2318,7 @@
   "IT之家:4f5eff0a722f": "雅思主办方回应：受影响考生增设两天免费专场考试，异地考生可报销交通住宿费",
   "IT之家:508990e67606": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继",
   "IT之家:5149f477c519": "OpenClaw 小龙虾之父谈 AI 智能体：上个月消耗 Token 成本约 1000 万美元",
+  "IT之家:51a7e1687c0c": "Gucci 将纽约时代广场时装秀制作为空间视频，可在苹果 Vision Pro 上免费观看",
   "IT之家:51f2ff6275ca": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
   "IT之家:523186061892": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
   "IT之家:5334c8d83774": "华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能上线时间公布，预计 10 月底分批推送",
@@ -2731,6 +2752,7 @@
   "IT之家:f57929b31095": "Steam 喜加一：策略游戏《Battle Sweeper》下架前免费领",
   "IT之家:f5f9b7b34848": "国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”增压输送二级出流试验圆满成功",
   "IT之家:f6caf06b18d9": "奇瑞风云 A9 增程版上市：标配犀牛电池、CLTC 纯电续航 230km，限时 11.69 万元起",
+  "IT之家:f6e9a4e6cb93": "阿维塔 06T Max 先锋版上市：搭载 896 线激光雷达，限时权益价 19.99 万元",
   "IT之家:f7d813220dd3": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
   "IT之家:f8134c610058": "EA《双人成行》10 月 15 日登陆任天堂 Switch 2：新增好友通行证跨平台功能，部分地区老玩家可免费升级",
   "IT之家:f8f21e41f4eb": "上汽大众 ID. ERA 9X 获推 OTA 升级，Momenta R7 世界模型正式推送",
