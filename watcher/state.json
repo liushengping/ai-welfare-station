@@ -1,39 +1,6 @@
 {
- "digest": [
-  {
-   "_age": 0.005061842048611111,
-   "ai": {
-    "amount": "本地优先原生工作台",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 80,
-    "vendor": "FreeFolio"
-   },
-   "date": "Wed, 25 Nov 2026 06:42:12 +0000",
-   "date_str": "11-25 14:42",
-   "id": "小众软件论坛:24f25c048911",
-   "link": "https://meta.appinn.net/t/topic/96875",
-   "title": "【开源自荐】FreeFolio 支持空间管理与单文件浏览的本地优先原生工作台"
-  },
-  {
-   "_age": 0.020895519814814814,
-   "ai": {
-    "amount": "null",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "Gucci"
-   },
-   "date": "Wed, 25 Nov 2026 10:53:01 GMT",
-   "date_str": "11-25 18:53",
-   "id": "IT之家:51a7e1687c0c",
-   "link": "https://www.ithome.com/1/032/457.htm",
-   "title": "Gucci 将纽约时代广场时装秀制作为空间视频，可在苹果 Vision Pro 上免费观看"
-  }
- ],
- "digest_date": "2026-11-25",
+ "digest": [],
+ "digest_date": "2026-11-26",
  "feed": [
   {
    "ai": {
@@ -2063,6 +2030,8 @@
   "https://www.ithome.com/1/032/442.htm": "1",
   "https://www.ithome.com/1/032/457.htm": "1",
   "https://www.ithome.com/1/032/458.htm": "1",
+  "https://www.ithome.com/1/032/610.htm": "1",
+  "https://www.ithome.com/1/032/737.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2386,6 +2355,7 @@
   "IT之家:6ddafce0612f": "少量账号发送疑似色情引流信息，企业微信安全团队公告确认为某第三方外挂软件服务被攻破所致",
   "IT之家:6df0a6e83f54": "Steam 喜加一：策略棋盘游戏《Last Gambit》转付费前免费领",
   "IT之家:6e1d890478e0": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型",
+  "IT之家:6e3a85467fe5": "向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户",
   "IT之家:6eac672a478a": "创企 TakeMe2Space 将用 SpaceX 火箭送星上天，号称印度首颗轨道计算卫星",
   "IT之家:6eb9d1682c35": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
   "IT之家:6f22d3a47599": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
@@ -2662,6 +2632,7 @@
   "IT之家:d7738394aab7": "中印尼共建雅万高铁开通运营三周年，累计发送旅客超 1800 万人次",
   "IT之家:d7fefcf0e030": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
   "IT之家:d81ebc772832": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起",
+  "IT之家:d8b4bfcbeeec": "网络货运、网约车、网约配送、快递 4 个行业 18 家重点平台企业完成算法协商，覆盖新就业形态劳动者逾 2500 万人",
   "IT之家:d8e662244e59": "Steam 喜加一：动作冒险游戏《The Ghost Of Solaris》转付费前免费领",
   "IT之家:d9668eeb1d38": "零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，新增城市领航辅助等",
   "IT之家:d9873bfcedcb": "小米雷军到海尔总部参观，送董事长周云杰车模",
