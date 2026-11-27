@@ -1,7 +1,35 @@
 {
  "digest": [],
- "digest_date": "2026-11-26",
+ "digest_date": "2026-11-27",
  "feed": [
+  {
+   "ai": {
+    "amount": "OTA升级",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "深蓝汽车"
+   },
+   "d": "11-27 11:39",
+   "link": "https://www.ithome.com/1/033/280.htm",
+   "t": "2026-11-27 06:32:10",
+   "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级"
+  },
+  {
+   "ai": {
+    "amount": "游戏",
+    "deadline": "2026-11-27 23:59",
+    "start": "2026-11-27 00:00",
+    "urgent": false,
+    "value": 10,
+    "vendor": "Epic"
+   },
+   "d": "11-27 12:28",
+   "link": "https://meta.appinn.net/t/topic/97040",
+   "t": "2026-11-27 06:32:10",
+   "title": "Epic 免费游戏 2026-11-27"
+  },
   {
    "ai": {
     "amount": "null",
@@ -813,34 +841,6 @@
    "link": "https://linux.do/t/topic/3178208",
    "t": "2026-11-14 20:44:33",
    "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
-  },
-  {
-   "ai": {
-    "amount": "两次fable重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Claude"
-   },
-   "d": "11-15 04:26",
-   "link": "https://linux.do/t/topic/3178207",
-   "t": "2026-11-14 20:29:06",
-   "title": "Claude 合作超半年送两次fable重置"
-  },
-  {
-   "ai": {
-    "amount": "100M永久额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "哔哩公益站"
-   },
-   "d": "11-14 14:40",
-   "link": "https://linux.do/t/topic/3175540",
-   "t": "2026-11-14 17:35:12",
-   "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
   }
  ],
  "links": {
@@ -1318,6 +1318,7 @@
   "https://meta.appinn.net/t/topic/96967": "1",
   "https://meta.appinn.net/t/topic/96981": "1",
   "https://meta.appinn.net/t/topic/96984": "1",
+  "https://meta.appinn.net/t/topic/97040": "1",
   "https://modelstudio.console.aliyun.com/?tab=globalset": "1",
   "https://openai.com/global-affairs/intellectual-freedom-by-design": "1",
   "https://openai.com/index/ai-effect-on-freelance-work": "1",
@@ -2044,6 +2045,13 @@
   "https://www.ithome.com/1/032/979.htm": "1",
   "https://www.ithome.com/1/033/071.htm": "1",
   "https://www.ithome.com/1/033/132.htm": "1",
+  "https://www.ithome.com/1/033/212.htm": "1",
+  "https://www.ithome.com/1/033/218.htm": "1",
+  "https://www.ithome.com/1/033/224.htm": "1",
+  "https://www.ithome.com/1/033/280.htm": "1",
+  "https://www.ithome.com/1/033/319.htm": "1",
+  "https://www.ithome.com/1/033/338.htm": "1",
+  "https://www.ithome.com/1/033/350.htm": "1",
   "https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed": "1",
   "https://www.qianwenai.com": "1",
   "https://www.siliconflow.cn": "1",
@@ -2114,6 +2122,7 @@
   "IT之家:0d22bec7a9b5": "微软为新版 Outlook 新增发送前自动拼写检查功能，经典版添加更多 Copilot 功能",
   "IT之家:0d7bedc509b1": "V社详解 Steam 新品节游戏推荐机制：活动刚开始时随机展示，算法会在两天后启用",
   "IT之家:0d7eb3fa2a1d": "vivo OriginOS 7 近期升级计划公布：悬浮控件、相机界面，本月起分批推送",
+  "IT之家:0debeaba975f": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警",
   "IT之家:0e09866c57fb": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
   "IT之家:0e651027c902": "比头发丝还细：超细神经探针 Neuropixels 已用于人类大脑研究，首次记录语言刺激下的神经元活动",
   "IT之家:0f8c9a469072": "荣耀预告：MagicOS 11 新版本今日率先向 Magic V6 等机型推送",
@@ -2187,6 +2196,7 @@
   "IT之家:2778071b05eb": "全新一汽红旗 H7 上市：限时 16.88 万-20.88 万元，2916.171 公里续航刷新吉尼斯纪录",
   "IT之家:278cfcf173e3": "广汽丰田铂智 3X 第 15 万台暨星云限量版交付，限时权益价 11.78 万元起",
   "IT之家:27e25871987c": "2026 国庆假期第三天，全国铁路预计发送旅客 1890 万人次、加开列车 910 列",
+  "IT之家:2839bfdee730": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
   "IT之家:285c39973bf2": "特斯拉上海内环高架斗车事件后续：42 岁司机涉嫌刑事犯罪被移送审查起诉，另一 71 岁司机被罚款",
   "IT之家:28fb20a7a671": "“太空观测大礼包”风云三号 H 星、四号 C 星数据产品发布，普通公众也能领取",
   "IT之家:29566b91cda6": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
@@ -2230,6 +2240,7 @@
   "IT之家:3a5d3839f2aa": "Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领",
   "IT之家:3ae99ec7780b": "苹果为第四代 Apple TV 4K 推送专属 24K154 更新，可启用 Siri AI",
   "IT之家:3b2d8c0da13a": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
+  "IT之家:3b9b0db8a9da": "零跑全新 Lafa5 上市：限时 10.28 万-12.88 万元，全域 800V 加持",
   "IT之家:3bbb0d43dc1a": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
   "IT之家:3be96295fd6c": "尴尬，保时捷向车主发送零跑汽车调查问卷",
   "IT之家:3beea0fc9527": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
@@ -2448,6 +2459,7 @@
   "IT之家:87bc3ff96845": "索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元",
   "IT之家:8834204c14f2": "小米澎湃 OS 4 Beta 版 10 月 14 日截止招募，正式版 10 月 15 日起分批推送",
   "IT之家:8869f9e91cab": "限时权益价 14.99 万元起，别克全新君越车型上市",
+  "IT之家:88b2542974d8": "2027 款凯迪拉克 XT5 上市：限时 21.59 万元起，标配蜂鸟底盘、33 英寸 9K 屏 + 2.0T 轻混",
   "IT之家:892e35466031": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
   "IT之家:895167636a8b": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞",
   "IT之家:8989178482ba": "仅面向开发者开放：华为鸿蒙 HarmonyOS 7 (API 26.0.1) Developer Beta 版本推送",
@@ -2486,6 +2498,7 @@
   "IT之家:946c24604795": "淘宝 MNN 团队开源 0.3B 手机模型，苹果 iPhone 18 Pro 离线跑出 350 token/s",
   "IT之家:948842e4c088": "福特汽车：有不法分子向部分车主发送产品召回虚假短信，请广大车主提高警惕",
   "IT之家:95aad3a897f1": "2026 国庆中秋假期临近，10 月 1 日至 7 日七座及以下小客车出行可享高速免费通行政策",
+  "IT之家:962e7f321a94": "2027 款极氪 7X 车型上市：全系 900V 高压架构，限时权益价 21.68 万元起",
   "IT之家:9732cbd344ae": "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录视频、仅推送文本提醒",
   "IT之家:9747ae547a07": "京东汽车与张雪机车达成战略合作：在京东下单送装一体，带一公升汽油上门",
   "IT之家:974dc73af640": "荣耀 MagicOS 11 第三批内测 log 版本今晚推送，覆盖 Robot Phone、Magic5 系列等 28 款机型",
@@ -2537,6 +2550,7 @@
   "IT之家:a8090fea05cc": "IT早报 1002：5999 元起华为 Mate 90 系列旗舰手机发布；2026 年 9 月车企销量交付汇总；华为与赛力斯达成新五年合作；曝苹果 HomeHub 宣传物料已送往苹果门店...",
   "IT之家:a8098a81fa84": "联力宣布限量活动：Edge V2 电源用户可免费领取短款主板、12V-2×6 供电线",
   "IT之家:a85098e8daab": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
+  "IT之家:a8911c301e63": "全新奔驰纯电 GLC SUV 上市：限时 25.49~36.22 万元，标配 800V 架构与 Momenta 智驾",
   "IT之家:a8e64036077f": "Meta 为 Quest 系列头显推送 Horizon OS 2.10 公测版：全新虚拟影院环境、小改系统启动器布局...",
   "IT之家:a9c60774ccde": "联想杨元庆预测：未来 80% Token 将在终端和边缘生成，每个人都将需要一台家用服务器或 AI 中心",
   "IT之家:a9e071d6c824": "实况平台 Twitch 联动《GTA 6》推出限定活动，将赠送超 1 万组游戏激活码",
@@ -2664,6 +2678,7 @@
   "IT之家:dbd08f386008": "消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？",
   "IT之家:dbddb2c16176": "启境 GX7 车型 11 月 8 日开启集中交付，限时权益价 22.99 万元起",
   "IT之家:dbdde28203b2": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
+  "IT之家:dc34a47533dc": "全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起",
   "IT之家:dc35485a5e98": "华为何刚：HUAWEI FreeClip 系列耳夹耳机开售至今，累计发货突破 1000 万台",
   "IT之家:dc4aeb7d33e5": "全新华为 FreeBuds Neo 无线耳机开售：智感降噪 + 星闪音频、HarmonyOS 7，首发 669 元",
   "IT之家:dcb9cd2defc0": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token",
@@ -3165,6 +3180,7 @@
   "小众软件论坛:8f510a9e50e0": "腾讯专家招募：认证送100-300元-提现秒到账",
   "小众软件论坛:8f5e9c6da8b9": "轻档PDF：免费的在线 PDF 工具，支持页面替换、合并和中文 OCR",
   "小众软件论坛:8fd7be1e0279": "【收集】你电脑里有没有一件\"每个月都要手动重复做一遍\"的操作？我挑几个场景写成免费小工具",
+  "小众软件论坛:9130331dfd76": "Epic 免费游戏 2026-11-27",
   "小众软件论坛:914d5908b230": "【经验分享】别当冤大头！我的每月 20 美元 AI 订阅搭配：一个主力打底，剩下 90% 任务全白嫖！",
   "小众软件论坛:9280f5fa6088": "【开发者自荐】纸序 PDF：不用上传文件、不用登录的免费 PDF编辑器",
   "小众软件论坛:93764b983da6": "【开发者自荐】MDNote：像记事本一样轻快的 Windows Markdown 编辑器，所见即所得，免费开源",

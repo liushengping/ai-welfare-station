@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "OTA升级",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 10,
+    "vendor": "深蓝汽车"
+   },
+   "d": "11-27 11:39",
+   "link": "https://www.ithome.com/1/033/280.htm",
+   "t": "2026-11-27 06:32:10",
+   "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级"
+  },
+  {
+   "ai": {
+    "amount": "游戏",
+    "deadline": "2026-11-27 23:59",
+    "start": "2026-11-27 00:00",
+    "urgent": false,
+    "value": 10,
+    "vendor": "Epic"
+   },
+   "d": "11-27 12:28",
+   "link": "https://meta.appinn.net/t/topic/97040",
+   "t": "2026-11-27 06:32:10",
+   "title": "Epic 免费游戏 2026-11-27"
+  },
+  {
+   "ai": {
     "amount": "null",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://linux.do/t/topic/3178208",
    "t": "2026-11-14 20:44:33",
    "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
-  },
-  {
-   "ai": {
-    "amount": "两次fable重置",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 50,
-    "vendor": "Claude"
-   },
-   "d": "11-15 04:26",
-   "link": "https://linux.do/t/topic/3178207",
-   "t": "2026-11-14 20:29:06",
-   "title": "Claude 合作超半年送两次fable重置"
-  },
-  {
-   "ai": {
-    "amount": "100M永久额度",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 90,
-    "vendor": "哔哩公益站"
-   },
-   "d": "11-14 14:40",
-   "link": "https://linux.do/t/topic/3175540",
-   "t": "2026-11-14 17:35:12",
-   "title": "【哔哩公益站】快来挖哔哩的矿，100M永久额度"
   }
  ]
 }
