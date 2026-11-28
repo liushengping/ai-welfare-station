@@ -2,6 +2,34 @@
  "items": [
   {
    "ai": {
+    "amount": "null",
+    "deadline": null,
+    "start": "2026-12-11 00:00",
+    "urgent": false,
+    "value": 100,
+    "vendor": "null"
+   },
+   "d": "11-28 08:25",
+   "link": "https://www.ithome.com/1/033/792.htm",
+   "t": "2026-11-28 06:11:40",
+   "title": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布"
+  },
+  {
+   "ai": {
+    "amount": "100美元",
+    "deadline": null,
+    "start": null,
+    "urgent": false,
+    "value": 100,
+    "vendor": "联想"
+   },
+   "d": "11-28 07:04",
+   "link": "https://www.ithome.com/1/033/777.htm",
+   "t": "2026-11-28 06:11:40",
+   "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度"
+  },
+  {
+   "ai": {
     "amount": "OTA升级",
     "deadline": null,
     "start": null,
@@ -811,34 +839,6 @@
    "link": "https://www.ithome.com/1/027/289.htm",
    "t": "2026-11-15 04:25:18",
    "title": "B站“BLG 夺冠时刻”赠送大会员活动细则公布：可领 7 天、每位用户限领一次"
-  },
-  {
-   "ai": {
-    "amount": "大会员",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 10,
-    "vendor": "B站"
-   },
-   "d": "11-15 08:34",
-   "link": "https://www.ithome.com/1/027/260.htm",
-   "t": "2026-11-15 04:25:18",
-   "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠"
-  },
-  {
-   "ai": {
-    "amount": "免费使用gemini 4 Hydrogen",
-    "deadline": null,
-    "start": null,
-    "urgent": false,
-    "value": 85,
-    "vendor": "Google"
-   },
-   "d": "11-15 04:31",
-   "link": "https://linux.do/t/topic/3178208",
-   "t": "2026-11-14 20:44:33",
-   "title": "免费使用gemini 4 Hydrogen ，适合文本对话与分析"
   }
  ]
 }
